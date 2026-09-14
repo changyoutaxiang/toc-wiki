@@ -1,0 +1,12 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-25T19:05:48+08:00",
+  "meeting_title": "Teacher event and KPI",
+  "meeting_date": "2026-08-25",
+  "transcript_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-25/media/dws-听记-TeachereventandKPI-2026-08-25.md",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-25_Teacher-event-and-KPI纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "source": "automation-1787024339728"
+}

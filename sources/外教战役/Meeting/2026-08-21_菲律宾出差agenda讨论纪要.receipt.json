@@ -1,0 +1,25 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-21T12:32:26+08:00",
+  "meeting_title": "菲律宾出差agenda讨论",
+  "meeting_date": "2026-08-21",
+  "source": {
+    "type": "dingtalk-minutes",
+    "task_uuid": "76327569643431343331323738335f363335343232333136315f39",
+    "title": "菲律宾出差agenda讨论",
+    "organization": "北京哈沃在线科技有限公司",
+    "start_time": "2026-08-21T11:03:04+08:00",
+    "end_time": "2026-08-21T12:17:48+08:00",
+    "transcript_pages_read": 3
+  },
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-21_菲律宾出差agenda讨论纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "verification": {
+    "source_read_only": true,
+    "transcript_complete": true,
+    "gbrain_written": false,
+    "external_written": false
+  }
+}

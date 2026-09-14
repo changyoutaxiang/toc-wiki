@@ -1,0 +1,29 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-18T19:35:00+08:00",
+  "meeting": {
+    "title": "师生匹配周例会",
+    "date": "2026-08-18",
+    "startTimeISO": "2026-08-18T18:04:51+08:00",
+    "endTimeISO": "2026-08-18T18:54:37+08:00",
+    "taskUuid": "76327569643431303530363335355f363335343136343931335f39",
+    "source": "shared",
+    "dual_track": "single"
+  },
+  "transcript": {
+    "path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-18/media/dws-听记-师生匹配周例会-2026-08-18.md",
+    "md5": "0ae48fd37268afdf6d1494db4f57f210",
+    "bytes": 80151,
+    "paragraphs": 780
+  },
+  "minutes": {
+    "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-18_师生匹配周例会纪要.md",
+    "domain": "TOC",
+    "packs": ["客户价值北极星", "战略聚焦与长期主义", "系统化交付与持续进化"]
+  },
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "gbrain_written": false,
+  "note": "本地进料 + 本地纪要，只读钉钉；未写 GBrain/业务正本/_主权；未触碰 inbox.md。"
+}

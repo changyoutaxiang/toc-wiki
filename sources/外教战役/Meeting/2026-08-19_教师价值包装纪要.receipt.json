@@ -1,0 +1,36 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-19T19:10:00+08:00",
+  "meeting": {
+    "title": "教师价值包装",
+    "date": "2026-08-19",
+    "startTimeISO": "2026-08-19T10:16:29+08:00",
+    "endTimeISO": "2026-08-19T11:03:46+08:00",
+    "taskUuid": "76327569643431313139383433375f363335343139353635375f39",
+    "source": "shared",
+    "track": "audio"
+  },
+  "transcript": {
+    "path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-19/media/dws-听记-教师价值包装-2026-08-19.md",
+    "md5": "ce3ada8e5c397b9b13d06c45bab538f3",
+    "bytes": 59089,
+    "paragraphs": 288,
+    "pagination_complete": true
+  },
+  "minutes": {
+    "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-19_教师价值包装纪要.md",
+    "domain": "TOC",
+    "basic_law_review_packs": [
+      "客户价值北极星",
+      "战略聚焦与长期主义",
+      "系统化交付与持续进化"
+    ]
+  },
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "gbrain_written": false,
+  "dingtalk_mutated": false,
+  "external_send": false,
+  "note": "本地只读进料：完整转写拉全、原稿落 Daily Capsule media/，统一纪要（常规纪要 + 基本法审视 3 包）落 projects/TOC/_raw/meetings-raw/，旁路收据。"
+}

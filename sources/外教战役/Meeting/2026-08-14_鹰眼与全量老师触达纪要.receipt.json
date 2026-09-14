@@ -1,0 +1,13 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-14T16:23:35+08:00",
+  "meeting_title": "鹰眼与全量老师触达",
+  "meeting_date": "2026-08-14",
+  "source_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-14/media/人工记录-鹰眼与全量老师触达-2026-08-14.md",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/外教战役/_raw/meetings-raw/2026-08-14_鹰眼与全量老师触达纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "source_kind": "user-manual-notes",
+  "meeting_attribution": "combined-two-meetings; individual-point-attribution-not-provided"
+}

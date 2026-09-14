@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>坏课 KPI 设计稿件 v0.1（Q3/Q4）— 外教战役</title>
+<style>
+  :root{
+    --ink:#1a2332; --ink-2:#44536b; --ink-3:#6b7a93;
+    --line:#dde4ee; --line-2:#eef2f8;
+    --bg:#ffffff; --card:#f7f9fc; --card-2:#fbfcfe;
+    --brand:#c8102e; --brand-soft:#fdf0f2;
+    --ok:#1a7f4e; --ok-soft:#e9f7f0;
+    --warn:#b07d1a; --warn-soft:#fdf6e7;
+    --info:#1f5fbf; --info-soft:#eaf1fc;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg);line-height:1.7;font-size:15px;}
+  .wrap{max-width:960px;margin:0 auto;padding:40px 44px 80px;}
+  /* header */
+  .doc-head{border-bottom:3px solid var(--brand);padding-bottom:22px;margin-bottom:8px;}
+  .doc-head .kicker{display:inline-block;font-size:12px;letter-spacing:2px;color:var(--brand);font-weight:700;text-transform:uppercase;background:var(--brand-soft);padding:3px 10px;border-radius:4px;margin-bottom:14px;}
+  .doc-head h1{font-size:28px;line-height:1.35;font-weight:800;letter-spacing:.5px;}
+  .doc-head .sub{font-size:14px;color:var(--ink-2);margin-top:8px;}
+  .meta{display:flex;flex-wrap:wrap;gap:8px 26px;margin-top:16px;font-size:12.5px;color:var(--ink-3);}
+  .meta b{color:var(--ink-2);font-weight:600;}
+  /* toc */
+  .toc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 22px;margin:26px 0 34px;font-size:13.5px;}
+  .toc .t{font-weight:700;font-size:13px;letter-spacing:1px;color:var(--ink-3);margin-bottom:8px;}
+  .toc ol{margin-left:18px;color:var(--ink-2);}
+  .toc li{margin:3px 0;}
+  /* sections */
+  h2{font-size:20px;font-weight:800;margin:44px 0 6px;padding-top:14px;border-top:1px solid var(--line-2);letter-spacing:.3px;}
+  h2 .no{display:inline-block;background:var(--brand);color:#fff;font-size:13px;width:24px;height:24px;line-height:24px;text-align:center;border-radius:6px;margin-right:10px;font-weight:700;vertical-align:2px;}
+  h3{font-size:15.5px;font-weight:700;margin:26px 0 8px;color:var(--ink);}
+  p{margin:8px 0;color:var(--ink-2);}
+  strong{color:var(--ink);font-weight:700;}
+  .lead{font-size:15.5px;}
+  /* boxes */
+  .box{border-radius:10px;padding:16px 20px;margin:14px 0;border:1px solid;font-size:14px;}
+  .box .bt{font-weight:800;font-size:14px;margin-bottom:6px;display:flex;align-items:center;gap:8px;}
+  .box ul,.box ol{margin-left:20px;}
+  .box li{margin:4px 0;}
+  .box.tl{background:var(--ok-soft);border-color:#bfe5d0;color:#155c3a;}
+  .box.tl .bt{color:var(--ok);}
+  .box.warn{background:var(--warn-soft);border-color:#ecd9a8;color:#7a5c12;}
+  .box.warn .bt{color:var(--warn);}
+  .box.info{background:var(--info-soft);border-color:#c2d6f4;color:#164a94;}
+  .box.info .bt{color:var(--info);}
+  .box.risk{background:var(--brand-soft);border-color:#f2c3cb;color:#8f1d33;}
+  .box.risk .bt{color:var(--brand);}
+  /* tables */
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13.5px;}
+  th{background:var(--card);text-align:left;font-weight:700;color:var(--ink);padding:9px 12px;border-bottom:2px solid var(--line);}
+  td{padding:9px 12px;border-bottom:1px solid var(--line-2);color:var(--ink-2);vertical-align:top;}
+  tr:hover td{background:var(--card-2);}
+  td .tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:10px;margin-right:4px;}
+  .tag.ok{background:var(--ok-soft);color:var(--ok);}
+  .tag.warn{background:var(--warn-soft);color:var(--warn);}
+  .tag.risk{background:var(--brand-soft);color:var(--brand);}
+  .tag.info{background:var(--info-soft);color:var(--info);}
+  /* chips / formula */
+  .formula{font-family:var(--mono);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;margin:12px 0;font-size:14px;color:var(--ink);}
+  .formula .f{font-size:17px;font-weight:700;color:var(--brand);}
+  .chip{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:2px 9px;font-size:12.5px;font-weight:600;color:var(--ink-2);margin:2px 4px 2px 0;}
+  .src{font-size:12px;color:var(--ink-3);font-style:italic;}
+  ul.clean,ol.clean{margin-left:22px;}
+  ul.clean li,ol.clean li{margin:5px 0;color:var(--ink-2);}
+  .divider{height:1px;background:var(--line-2);margin:30px 0;}
+  .foot{margin-top:40px;padding-top:18px;border-top:2px solid var(--line);font-size:12.5px;color:var(--ink-3);}
+  .kpi-banner{background:linear-gradient(135deg,#1a2332 0%,#2c3a54 100%);color:#fff;border-radius:12px;padding:22px 26px;margin:18px 0;}
+  .kpi-banner .kb-t{font-size:13px;letter-spacing:2px;color:#ffd9df;font-weight:700;margin-bottom:6px;}
+  .kpi-banner .kb-c{font-size:17.5px;font-weight:800;line-height:1.6;}
+  .kpi-banner .kb-s{font-size:13px;color:#c3cfe2;margin-top:8px;}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  @media(max-width:720px){.grid2{grid-template-columns:1fr;}.wrap{padding:24px 18px 60px;}}
+  @media print{body{font-size:12.5px;}.wrap{max-width:100%;padding:10mm 8mm;}h2{page-break-after:avoid;}table,.box,.formula,.kpi-banner{page-break-inside:avoid;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- ============ HEADER ============ -->
+  <div class="doc-head">
+    <span class="kicker">Draft · v0.1 · 待 Leon 拍板</span>
+    <h1>坏课 KPI 设计稿件<br>Q3 / Q4 教师侧战役指标（替代 B+/A 老师占比）</h1>
+    <div class="sub">外教战役 · 交付可靠性战役级指标 · 与 Jen 2026-08-25 会议共识的落地设计</div>
+    <div class="meta">
+      <span><b>日期</b> 2026-08-26</span>
+      <span><b>版本</b> v0.1（草稿）</span>
+      <span><b>性质</b> 设计稿件 · 非生效 KPI</span>
+      <span><b>起草</b> COO（Leon 侧）</span>
+      <span><b>对齐对象</b> Jennifer / Katherine / 海璇 / Lily / HR / 双主帅</span>
+    </div>
+  </div>
+
+  <!-- ============ TOC ============ -->
+  <div class="toc">
+    <div class="t">目录</div>
+    <ol>
+      <li>执行摘要（结论先行）</li>
+      <li>背景与共识：为什么换尺</li>
+      <li>设计原则：四条不变量</li>
+      <li>定义盒子：坏课装什么、不装什么</li>
+      <li>数学口径：分子 · 分母 · 率量双轨 · 分市场</li>
+      <li>数据源与验证链路</li>
+      <li>目标值与节奏：Q3 定基线，Q4 挂目标</li>
+      <li>与 H2 好老师标准 / B+/A 的关系</li>
+      <li>护栏与风险（8 条）</li>
+      <li>落地路径与分工</li>
+      <li>待 Leon 拍板清单（选项 + 推荐）</li>
+    </ol>
+  </div>
+
+  <!-- ============ 1 EXEC SUMMARY ============ -->
+  <h2><span class="no">1</span>执行摘要（结论先行）</h2>
+
+  <div class="kpi-banner">
+    <div class="kb-t">推荐 KPI 形态（一句话）</div>
+    <div class="kb-c">Q3/Q4 将「坏课率」确立为外教战役级交付可靠性指标（战役成败指标，非个人 KPI）：<br>坏课率 = 坏课课次 ÷ 应交付约课课次，定义盒子聚焦「老师可影响 + 系统可测量」的交付失败事件（缺席族 + 设备网络族），分市场呈现，Q3 冻结定义与基线、Q4 挂目标，千分位展示。</div>
+    <div class="kb-s">取代：B+/A 老师占比（已降为入门尺）｜性质：与 H2 好老师客户尺（30 天验证）同源互补、不打架</div>
+  </div>
+
+  <p class="lead"><strong>为什么是坏课率：</strong>各市场结论一致，用户投诉/不满最大来源是交付不稳定（老师缺席 + 电脑/网络设备两类，约 70–80%）；坏课率客观、可测量、客户价值直接相关（"bad lesson is customer value"）；而好老师数量客观性存疑、难影响（"good teacher is not something we can do"）。当前主要工作——坏课治理原子小队（海璇）、王韬的 initiative、TIDE 防坏老师——全部围绕坏课，KPI 必须呼应战场。</p>
+
+  <table>
+    <tr><th style="width:150px">设计要点</th><th>推荐方案</th></tr>
+    <tr><td><strong>指标形态</strong></td><td>坏课率（战役看率）+ 坏课量（小队/运营看量）双轨，率用千分位</td></tr>
+    <tr><td><strong>定义盒子（一期）</strong></td><td>缺席族（no-show / 课中缺席 / 迟到早退）+ 设备网络族（黑屏 / 无声 / 断连）；教学行为类暂不纳入</td></tr>
+    <tr><td><strong>分子</strong></td><td>定义盒子内事件，按课程/约课唯一 ID 去重后的坏课课次</td></tr>
+    <tr><td><strong>分母</strong></td><td>应交付约课课次（开课窗口内未取消、老师承担交付责任的课次）——不是完课数，避免缺席课次逃逸分母</td></tr>
+    <tr><td><strong>分市场</strong></td><td>domestic / overseas 拆分呈现（可选中东），合并口径会掩盖结构差异</td></tr>
+    <tr><td><strong>节奏</strong></td><td>9 月（Q3 尾）冻结定义 + 冻结基线 → Q4 初按「两个 lie」框架定目标值挂 KPI</td></tr>
+    <tr><td><strong>前置红线</strong></td><td>无正式基线不可挂目标；数据 owner 须给有覆盖证明的源表（当前 Hive 预检 0 行、7 月 1.5 万节为口头未核验）</td></tr>
+  </table>
+
+  <div class="box warn">
+    <div class="bt">⚠️ 本稿件为设计草稿，不是已生效 KPI</div>
+    需要 Leon 拍板定义盒子、口径与节奏（见第 11 节），并与 Jennifer（双主帅之一）、Lily（数据源）、HR（现口径）对齐后方可向公司提议。当前事实依据：2026-08-25 KPI 会议共识 + 6/29 KPI 换尺决策 + H2 好老师标准卡 + 坏课治理原子小队备案。
+  </div>
+
+  <!-- ============ 2 BACKGROUND ============ -->
+  <h2><span class="no">2</span>背景与共识：为什么换尺</h2>
+
+  <h3>2.1 昨天（8/25）与 Jen 的会议共识</h3>
+  <p>在「Teacher event and KPI」会上（参与者：王东 / Jennifer / Katherine / 曲建菲），Q3/Q4 教师侧 KPI 重构形成共识：<strong>用 bad lesson rate 替代 A/B+ 老师数量</strong>。Q3 已结束但 KPI 未定稿（HR 在催），新教师培训营 9 月（Q4）开始计入。王东澄清：<strong>这不是个人 KPI，是整个战役衡量成败的量和率</strong>。</p>
+
+  <table>
+    <tr><th>换尺理由</th><th>会议原话/依据</th></tr>
+    <tr><td>① 与当前工作一致</td><td>海璇原子小队坏课项目、王韬 initiative、TIDE 防坏老师——都在打坏课，KPI 需呼应</td></tr>
+    <tr><td>② 客户价值直接</td><td>各市场一致：用户投诉/不满最大来源是交付不稳定（缺席 + 设备网络，约 70–80%）</td></tr>
+    <tr><td>③ 客观可测量</td><td>"bad lesson is customer value"；好老师数量不客观、难影响</td></tr>
+    <tr><td>④ 两三个月可做很多</td><td>坏课可快速影响；好老师（口音/评级）难在短周期改变</td></tr>
+  </table>
+
+  <h3>2.2 历史沿革（为什么旧尺走不下去）</h3>
+  <ul class="clean">
+    <li><strong>6/29 KPI Catch-up 决策：</strong>放弃 B+/A 作为核心 KPI（Jack 曾定 35% B+A 干不出来）；确立三块可感知指标——坏课率 + 学生投票 + 合规。坏课定义初版：四害（迟到/早退/缺勤/黑屏）+ 设备 + 网络。</li>
+    <li><strong>7/13 CEO H2 总纲：</strong>最终战果 = 经 30 天真实授课与客户反馈验证、持续创造客户价值的好老师数量及占比；B+/A 降为<strong>入门尺</strong>（非废除）。权重须由业务与客户事实共同定义，不能外教团队自己给自己打分。</li>
+    <li><strong>7/28 五维设计定稿：</strong>好老师五维 = 用户反馈 / 可靠性 / 硬件质量 / 有效供给 / 成长任务。其中「可靠性」「硬件质量」两维正是坏课率覆盖的战场。</li>
+    <li><strong>8/14 坏课治理原子小队备案：</strong>DRI 曹海璇，首期只做「课中老师缺席」的实时客户保护；测量合同（课程 ID 去重、事件定义、恢复窗口）已成型，是坏课 KPI 分子口径的最佳起点。</li>
+  </ul>
+  <p class="src">来源：2026-08-25 会议纪要（projects/TOC/_raw/meetings-raw/）、2026-06-29 KPI Catch-up 纪要、FT-STD-002 好老师标准卡、坏课治理原子小队八要素备案 v0.1</p>
+
+  <!-- ============ 3 PRINCIPLES ============ -->
+  <h2><span class="no">3</span>设计原则：四条不变量</h2>
+  <table>
+    <tr><th style="width:200px">原则</th><th>含义</th><th style="width:130px">对应四化宪法/正本</th></tr>
+    <tr><td><strong>P1 客户可感知</strong></td><td>只统计学生真实经历到的「承诺未兑现」——坏课必须直接对应客户体验，不统计内部便利项</td><td>基本法第 1 条</td></tr>
+    <tr><td><strong>P2 可影响</strong></td><td>只放老师/系统动作能改变的项（缺席可治理、设备可准入），不放不可归因项（学生侧问题、超挑剔客户）</td><td>8/25 会议「定义盒子」</td></tr>
+    <tr><td><strong>P3 可测量</strong></td><td>每个事件有客观数据源/信号，可复核、可回放；无信号不硬造（当前无正式基线=先测后挂）</td><td>FT-RISK-003（不造假口径）</td></tr>
+    <tr><td><strong>P4 防 Goodhart</strong></td><td>指标服务客户结果，不是报表装饰；配量/分母护栏，防「为了降率而少开课」「为好看而缩口径」</td><td>四化宪法第 7 条</td></tr>
+  </table>
+
+  <!-- ============ 4 DEFINITION BOX ============ -->
+  <h2><span class="no">4</span>定义盒子：坏课装什么、不装什么</h2>
+  <p>定义盒子是坏课 KPI 的<strong>唯一事实源</strong>（对齐 HR/Lily/数据侧后冻结，发一张废一片）。建议一期只装「交付可靠性」两族，教学行为类以观察项暂缓。</p>
+
+  <div class="grid2">
+    <div class="box tl">
+      <div class="bt">✅ 装进盒子（一期，可影响 + 可测量）</div>
+      <table>
+        <tr><th>族</th><th>事件</th><th>信号源（候选）</th></tr>
+        <tr><td rowspan="4">缺席族</td><td>no-show（未请假缺席）</td><td>课程状态 / AC</td></tr>
+        <tr><td>课中缺席（开课后离开/不出现）</td><td>鹰眼（开发中）/ 人工核验</td></tr>
+        <tr><td>迟到（超阈值，建议 &gt;5 分钟）</td><td>课程状态 / AC</td></tr>
+        <tr><td>早退</td><td>课程状态 / AC</td></tr>
+        <tr><td rowspan="3">设备网络族</td><td>黑屏 / 无画面</td><td>设备指标 / AC</td></tr>
+        <tr><td>无声音</td><td>设备指标 / AC</td></tr>
+        <tr><td>断连中断（无法正常授课）</td><td>网络指标 / AC</td></tr>
+      </table>
+    </div>
+    <div class="box info">
+      <div class="bt">🚫 不装（一期）</div>
+      <ul class="clean">
+        <li><strong>教学行为质量</strong>（口音/TPR/互动）——属「好老师」客户尺范畴，且无统一 QA 标准（X2.3 GAP、FT-RISK-003），不进交付可靠性盒</li>
+        <li><strong>学生侧问题</strong>（学生迟到/设备/取消）——不可归因老师</li>
+        <li><strong>已兑现承诺</strong>：老师提前请假 + 代课成功、客户已获完整交付或保护 → 不算坏课</li>
+        <li><strong>新师训练营（9 月启动）单独归因</strong>，避免与存量混算</li>
+      </ul>
+      <div class="bt" style="margin-top:12px">📌 例外与改判</div>
+      <ul class="clean">
+        <li>极端情况（停电但即时恢复、平台侧故障）→ 事件改判规则，不自动计数</li>
+        <li>对齐原子小队测量合同：事件触发 → 人工确认 → 改判 → 申诉全链可复核</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="box info">
+    <div class="bt">🔗 与坏课治理原子小队（曹海璇）事件范围的关系——KPI 口径 ≠ 小队事件口径</div>
+    <ul class="clean">
+      <li><strong>小队首期定义极窄</strong>：只做「课中老师缺席（no-notice absence）」一种事件，明确排除网络/设备、迟到早退、口音、长期教师评价或所有"坏课"类型（八要素备案 v0.1 §2.2；00_HUB 范围与非目标）。</li>
+      <li><strong>KPI 一期盒子更宽</strong>：缺席族 + 设备网络族——因为战役指标需覆盖用户投诉 70–80% 的交付不稳定主因（缺席 + 设备网络）。</li>
+      <li><strong>两者共用测量合同</strong>：分子去重（课程/约课唯一 ID）、事件触发 → 人工确认 → 改判 → 申诉全链，完全复用小队已建成的测量合同与基线方法。</li>
+      <li><strong>对接方式</strong>：KPI 盒子先按「缺席族」与小队对齐（小队成果直接构成缺席族分子）；设备网络族作为 KPI 独立事件族先行测量，待小队按事件合同扩容后纳入同一执行闭环。教学行为类永不进交付可靠性盒。</li>
+      <li><strong>防误读</strong>：不得以「KPI 盒子宽」推断小队在执行范围内失职，也不得以「小队只做课中缺席」推断 KPI 不应含设备网络——两层口径各有用途，用同一套测量合同连接。</li>
+    </ul>
+  </div>
+
+  <div class="box warn">
+    <div class="bt">⚠️ 口径边界（会议遗留，必须与 HR/数据侧对齐）</div>
+    ①「坏课」只指当前治理的场景（交付可靠性盒）还是全部问题课？建议一期=盒内，后续按事件合同扩容；② 与 HR 对齐定义（HR 现从 Lily 拿数，两方必须同源）；③ 新师 vs 存量分开归因，避免训练营期新师拖高整体率。
+  </div>
+
+  <!-- ============ 5 METRICS ============ -->
+  <h2><span class="no">5</span>数学口径：分子 · 分母 · 率量双轨 · 分市场</h2>
+
+  <div class="formula">
+    <span class="f">坏课率</span> = 坏课课次（盒内事件，按课程/约课唯一 ID 去重） ÷ <span style="color:var(--info)">应交付约课课次</span><br>
+    <span style="font-size:12.5px;color:var(--ink-3)">分母 = 开课窗口内未取消、老师承担交付责任的课次；不是完课数——缺席课次必须留在分母里，否则率被稀释</span>
+  </div>
+
+  <table>
+    <tr><th style="width:170px">决策点</th><th>选项</th><th>推荐</th></tr>
+    <tr>
+      <td><strong>率 vs 量</strong></td>
+      <td>A. 只看率（千分位）；B. 只看量；C. 双轨</td>
+      <td><span class="tag ok">推荐 C</span> 战役层看率（千分位，如 1.2‰），原子小队/运营层看量（绝对课次 + rebook）。曲建菲提示：率从总量看太小、降 0.1–0.2% 不敏感——率用于对外与目标，量用于内部驱动。</td>
+    </tr>
+    <tr>
+      <td><strong>combined vs split</strong></td>
+      <td>A. 合并；B. 分市场</td>
+      <td><span class="tag ok">推荐 B</span> domestic / overseas 拆分（可选中东），合并口径掩盖结构差异（历史教训：前置指标分市场看）。对外叙事用变化量："坏课率从 X‰ 降到 Y‰"。</td>
+    </tr>
+    <tr>
+      <td><strong>分母定义</strong></td>
+      <td>总约课 / 完课数 / 应交付课次</td>
+      <td><span class="tag ok">推荐应交付课次</span> 学生取消、未进入交付窗口的课次不计入；老师侧承担交付责任的课次全数入分母。</td>
+    </tr>
+    <tr>
+      <td><strong>粒度与去重</strong></td>
+      <td>课程/约课唯一 ID 一行一课</td>
+      <td><span class="tag ok">对齐原子小队测量合同</span> 同一课次多事件（迟到且黑屏）计 1 节坏课，不重复计数。</td>
+    </tr>
+    <tr>
+      <td><strong>呈现</strong></td>
+      <td>百分比 / 千分位 / 万分位</td>
+      <td><span class="tag ok">千分位为主</span> 率太低时万分位辅助；周度滚动 + 月度冻结值，附量（绝对课次）防失真。</td>
+    </tr>
+  </table>
+
+  <div class="box info">
+    <div class="bt">📌 与好老师客户尺的时滞差异（必须明确各自用途）</div>
+    坏课率是<strong>近实时指标</strong>（次日可出数），好老师客户尺是 30 天 cohort 指标（30+ 天才出第一读数）。坏课率用于<strong>月度经营节奏与现场动作驱动</strong>，客户尺用于<strong>战果验收</strong>——两把尺不混用、不互相替代。
+  </div>
+
+  <!-- ============ 6 DATA ============ -->
+  <h2><span class="no">6</span>数据源与验证链路</h2>
+
+  <table>
+    <tr><th style="width:170px">环节</th><th>现状</th><th>目标 / 缺口</th></tr>
+    <tr>
+      <td><strong>数据源</strong></td>
+      <td>Lily 团队出数（HR 现从 Lily 拿数，口径未对齐）；本地 Hive 预检：<code>dw.dw_hm_class_list_d</code> 有缺席状态字段，但 8/1–8/13 聚合返回 0 行</td>
+      <td><span class="tag warn">前置</span> 数据 owner 提供有覆盖证明的源表、事件映射、分母、去重规则与基线快照；否则只影子运行</td>
+    </tr>
+    <tr>
+      <td><strong>投诉/事件验证</strong></td>
+      <td>人工验证（慢、漏）</td>
+      <td>AI 规则/系统主动发现："系统应该告诉我们发生了什么，而不是等学生投诉"（AC 知道一切 + 鹰眼）；争议事件人工复核</td>
+    </tr>
+    <tr>
+      <td><strong>鹰眼</strong></td>
+      <td>DEVELOPMENT、未上线（TOC KB Y-鹰眼坏课 GAP：2026-08-23 仍开发中）</td>
+      <td>鹰眼 = 未来感知底座，<strong>不阻塞一期</strong>；一期用现有信号 + 人工核验，勿承诺自动闭环</td>
+    </tr>
+    <tr>
+      <td><strong>基线</strong></td>
+      <td><strong>无正式基线</strong>；7 月课中缺席约 1.5 万节为口头数字（未核验）</td>
+      <td><span class="tag risk">红线</span> 9 月冻结基线（连续 7–14 天全量测量），基线冻结前不挂目标</td>
+    </tr>
+  </table>
+
+  <!-- ============ 7 TARGET ============ -->
+  <h2><span class="no">7</span>目标值与节奏：Q3 定基线，Q4 挂目标</h2>
+
+  <div class="grid2">
+    <div class="box tl">
+      <div class="bt">✅ 建议节奏</div>
+      <table>
+        <tr><th>阶段</th><th>动作</th></tr>
+        <tr><td><strong>9 月（Q3 尾）</strong></td><td>冻结定义盒子 + 口径；冻结基线（连续 7–14 天）；与 Lily/HR 对齐数据源</td></tr>
+        <tr><td><strong>Q4 初</strong></td><td>按「两个 lie」框架定目标值 → 向公司正式提议挂 KPI</td></tr>
+        <tr><td><strong>Q4 全程</strong></td><td>月复盘：坏课率变化量 + 量 + 护栏；新师训练营（9 月启动）单独归因观察</td></tr>
+      </table>
+    </div>
+    <div class="box info">
+      <div class="bt">📌 目标协商框架：「两个 lie」</div>
+      <ul class="clean">
+        <li>lie 1 = 上层的期望（通常偏乐观）</li>
+        <li>lie 2 = 我们影响杠杆的置信度（通常偏保守）</li>
+        <li><strong>目标定在两者之间是健康协商</strong>（会议原话："point 0.2 as a target score, that's a healthy negotiation"）</li>
+        <li>表述建议：<strong>"坏课率从基线 X‰ 降至 Y‰"</strong>——用变化量，不拍无基线的绝对数</li>
+      </ul>
+    </div>
+  </div>
+
+  <p><strong>当前已知的影响杠杆（目标设定的现实依据）：</strong></p>
+  <ul class="clean">
+    <li>坏课治理原子小队：连续缺席课量从此前日均约百节量级降到<strong>当天为零</strong>（8/25 运营口径）；老师确认响应率 24% → 45%——缺席族已有实证杠杆</li>
+    <li>新约熔断（课中缺席降一个数量级）已上线，但引发 Center owner 反弹——影响杠杆与老师信任需平衡（见第 9 节风险 3）</li>
+    <li>设备网络族仍是主要投诉桶之一，依赖准入（设备分 3500）+ 检测；新师训练营 9 月启动是设备/行为教育的入口</li>
+  </ul>
+
+  <!-- ============ 8 RELATION TO H2 ============ -->
+  <h2><span class="no">8</span>与 H2 好老师标准 / B+/A 的关系</h2>
+
+  <table>
+    <tr><th style="width:200px">尺</th><th>口径</th><th>角色</th><th>与坏课率的关系</th></tr>
+    <tr>
+      <td><strong>H2 好老师客户尺</strong>（FT-STD-002）</td>
+      <td>30 天真实授课 + 客户反馈验证、持续创造客户价值的好老师数量及占比（五维：用户反馈/可靠性/硬件质量/有效供给/成长任务）</td>
+      <td><span class="tag info">最终战果验收尺</span></td>
+      <td>坏课率 = 五维中「可靠性 + 硬件质量」两维的<strong>战役级聚合</strong>——同源互补，不是替代</td>
+    </tr>
+    <tr>
+      <td><strong>B+/A 老师占比</strong>（旧 KPI）</td>
+      <td>招聘评级 B+/A 占比（Jack 曾定 35%）</td>
+      <td><span class="tag warn">已降为入门尺</span></td>
+      <td>本次切换：从 B+/A 占比 KPI → 坏课率 KPI，旧尺退役；符合「当最终结果尺变化，旧过程指标必须降格」（GBrain playbook：KPI 向业务结果对齐）</td>
+    </tr>
+    <tr>
+      <td><strong>坏课率</strong>（本稿件）</td>
+      <td>坏课课次 ÷ 应交付约课课次（盒内事件）</td>
+      <td><span class="tag ok">战役成败指标（非个人 KPI）</span></td>
+      <td>补上 FT-RISK-003「在岗老师质量无直接指标」缺口；近实时、可影响、客户可感知</td>
+    </tr>
+  </table>
+
+  <div class="box warn">
+    <div class="bt">⚠️ 双主帅边界与共签约束</div>
+    CEO H2 总纲明确：权重须由业务与客户事实共同定义，<strong>不能由外教团队自己给自己打分</strong>；国内/中东/海外业务负责人必须共同定义客户尺子。坏课率口径虽以「客观事件」为主（相对好老师客户尺争议小），但<strong>正式发布前仍需与 Jennifer（双主帅之一）对齐，涉及范围/权重的部分按跨部门共签路径走</strong>，不由战役团队单方宣布。
+  </div>
+
+  <!-- ============ 9 RISKS ============ -->
+  <h2><span class="no">9</span>护栏与风险（8 条）</h2>
+
+  <table>
+    <tr><th style="width:34px">#</th><th style="width:190px">风险</th><th>说明</th><th style="width:170px">护栏</th></tr>
+    <tr><td>1</td><td><strong>Goodhart / 口径缩窄</strong></td><td>为好看只统计易影响项，定义盒子越缩越窄</td><td>定义盒子冻结 + 季度审计分子构成 + 变化量叙事</td></tr>
+    <tr><td>2</td><td><strong>归因争议</strong></td><td>设备 vs 老师 vs 平台 vs 学生侧责任不清，老师申诉推翻率高</td><td>事件改判规则 + 人工复核 + 申诉恢复路径（对齐原子小队测量合同）</td></tr>
+    <tr><td>3</td><td><strong>老师信任反噬</strong></td><td>新约熔断已引发 Center owner/老师反弹（"系统太严""上线前没人知道"）；KPI 若进个人考核会放大对立</td><td>本 KPI 明确为<strong>战役指标非个人 KPI</strong>；上线纪律：提前透明影响范围/对象/时间/回退；灰度 + proof 决策</td></tr>
+    <tr><td>4</td><td><strong>数据不可用</strong></td><td>当前无正式基线；Hive 预检 0 行；7 月 1.5 万节未核验</td><td>基线冻结前不挂目标；数据 owner 给覆盖证明；否则影子运行</td></tr>
+    <tr><td>5</td><td><strong>鹰眼未上线</strong></td><td>自动感知闭环是未来能力，承诺会导致口径无法兑现</td><td>一期用现有信号 + 人工核验；鹰眼上线后再自动归因，TOC KB 如实标 DEVELOPMENT</td></tr>
+    <tr><td>6</td><td><strong>降率动机扭曲</strong></td><td>把率当目标会诱导减少开课（缩分母）</td><td>量 + 率双轨；分母（应交付课次）不缩水护栏；防「分母游戏」</td></tr>
+    <tr><td>7</td><td><strong>跨部门口径不一致</strong></td><td>HR / Lily / 数据侧 / 战役各说各话</td><td>单一事实源：一张定义卡冻结后发一张废一片（四化宪法第 5 条）</td></tr>
+    <tr><td>8</td><td><strong>与客户尺时滞混淆</strong></td><td>坏课率近实时 vs 客户尺 30 天，混用会导致误判</td><td>明确用途边界：坏课率=月度节奏/现场驱动；客户尺=战果验收</td></tr>
+  </table>
+
+  <!-- ============ 10 ROADMAP ============ -->
+  <h2><span class="no">10</span>落地路径与分工</h2>
+
+  <table>
+    <tr><th style="width:150px">节点</th><th>交付</th><th>Owner</th><th>Gate</th></tr>
+    <tr>
+      <td><strong>本周</strong></td>
+      <td>定义盒子 + 数学口径 homework draft（本稿件即底稿），向公司提议</td>
+      <td>Leon + Katherine + 海璇</td>
+      <td>Leon 拍板第 11 节清单</td>
+    </tr>
+    <tr>
+      <td><strong>9 月第 1–2 周</strong></td>
+      <td>与 Lily 对齐数据源；与 HR 对齐坏课定义；冻结基线（连续 7–14 天全量测量）</td>
+      <td>Katherine / 数据侧</td>
+      <td>数据 owner 覆盖证明 + 基线快照</td>
+    </tr>
+    <tr>
+      <td><strong>9 月中</strong></td>
+      <td>定义卡定稿（单一事实源）；与 Jennifer 双主帅对齐；新师训练营归因规则</td>
+      <td>Leon / Jennifer</td>
+      <td>双主帅对齐 + 跨部门共签（按 CEO 约束）</td>
+    </tr>
+    <tr>
+      <td><strong>Q4 初</strong></td>
+      <td>「两个 lie」框架定目标值 → 正式挂 Q3/Q4 KPI（向公司提案）</td>
+      <td>Leon</td>
+      <td>公司批准；HR 口径同步</td>
+    </tr>
+    <tr>
+      <td><strong>Q4 全程</strong></td>
+      <td>月复盘：率变化量 + 量 + 护栏；与原子小队/鹰眼/AC 感知联动；投诉验证 AI 化评估</td>
+      <td>Katherine 侧 / 战役</td>
+      <td>护栏无恶化；无假增量（生成口径复核）</td>
+    </tr>
+  </table>
+
+  <!-- ============ 11 DECISIONS ============ -->
+  <h2><span class="no">11</span>待 Leon 拍板清单（选项 + 推荐）</h2>
+
+  <table>
+    <tr><th style="width:40px">#</th><th style="width:200px">决策点</th><th>选项</th><th style="width:180px">推荐</th></tr>
+    <tr>
+      <td>1</td><td><strong>定义盒子一期范围</strong></td>
+      <td>A. 缺席族 + 设备网络族（交付可靠性盒）；B. 只做缺席族；C. 含教学行为观察项</td>
+      <td><span class="tag ok">A（推荐）</span> 覆盖投诉 70–80%；教学行为作为观察项单独看，不进 KPI</td>
+    </tr>
+    <tr>
+      <td>2</td><td><strong>率 vs 量</strong></td>
+      <td>A. 只看率；B. 只看量；C. 双轨</td>
+      <td><span class="tag ok">C（推荐）</span> 战役率 + 小队量</td>
+    </tr>
+    <tr>
+      <td>3</td><td><strong>分市场口径</strong></td>
+      <td>A. combined；B. split（domestic/overseas）</td>
+      <td><span class="tag ok">B（推荐）</span> 合并掩盖结构差异</td>
+    </tr>
+    <tr>
+      <td>4</td><td><strong>分母定义</strong></td>
+      <td>总约课 / 完课数 / 应交付课次</td>
+      <td><span class="tag ok">应交付课次（推荐）</span> 缺席课次不逃逸分母</td>
+    </tr>
+    <tr>
+      <td>5</td><td><strong>节奏</strong></td>
+      <td>A. Q3 立即挂数；B. Q3 冻结定义+基线、Q4 挂目标</td>
+      <td><span class="tag ok">B（推荐）</span> 无基线不挂目标</td>
+    </tr>
+    <tr>
+      <td>6</td><td><strong>目标值协商</strong></td>
+      <td>A. 拍绝对数；B. 两个 lie 框架定变化量</td>
+      <td><span class="tag ok">B（推荐）</span> "从 X‰ 降至 Y‰"</td>
+    </tr>
+    <tr>
+      <td>7</td><td><strong>对齐路径</strong></td>
+      <td>A. Leon 单方定稿；B. 双主帅 + Lily/HR 对齐后发布</td>
+      <td><span class="tag ok">B（推荐）</span> CEO 约束跨部门共签</td>
+    </tr>
+  </table>
+
+  <div class="box risk">
+    <div class="bt">🚩 本稿件边界（非承诺）</div>
+    <ul class="clean">
+      <li>本稿件中的基线数字（7 月 1.5 万节、日均约百节、响应率 24%→45%）均为<strong>运营口径/口头证据，未经正式基线核验</strong>，只作影响杠杆方向参考，不写入正式 KPI 口径。</li>
+      <li>「鹰眼自动发现 → 派单 → 救援 → 闭环」是未来能力，当前 TOC KB 状态为 DEVELOPMENT / NOT LIVE，本设计不以此为前提。</li>
+      <li>本稿件不构成教师评价、减流、停排、薪酬或资格动作的授权依据。</li>
+    </ul>
+  </div>
+
+  <div class="foot">
+    起草：COO（Leon 侧）· 2026-08-26 · v0.1<br>
+    依据：2026-08-25 KPI 会议纪要（Teacher event and KPI）｜2026-06-29 Q3Q4 KPI Catch-up 纪要｜FT-STD-002 好老师标准（H2 客户尺）｜FT-RISK-003 在岗质量缺口｜坏课治理原子小队八要素备案 v0.1｜TOC 07 V2 KB（Y-鹰眼坏课 GAP 等 21 页）｜GBrain 历史决策（KPI 换尺 / KPI 向业务结果对齐 / 战役前置指标）<br>
+    性质：设计草稿，需 Leon 拍板 + 双主帅对齐 + 与 Lily/HR 口径共签后方可向公司提议。
+  </div>
+
+</div>
+</body>
+</html>

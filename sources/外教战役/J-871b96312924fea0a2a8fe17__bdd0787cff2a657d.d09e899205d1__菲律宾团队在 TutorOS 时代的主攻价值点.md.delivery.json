@@ -1,0 +1,76 @@
+{
+  "source_id": "J-871b96312924fea0a2a8fe17",
+  "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/tasks/菲律宾团队在 TutorOS 时代的主攻价值点.md",
+  "content_sha256": "bdd0787cff2a657de98b517bed3e1c589ed3602adfdec0bd6fb7e379ec7f8e6b",
+  "version": "bdd0787cff2a",
+  "bytes": 24570,
+  "event_date": null,
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/tasks/菲律宾团队在 TutorOS 时代的主攻价值点.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/bd/bdd0787cff2a657de98b517bed3e1c589ed3602adfdec0bd6fb7e379ec7f8e6b.md",
+  "source_kind": "unknown",
+  "batch_id": "J-d283d69fe7383645e095",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-08T10:58:06+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-871b96312924fea0a2a8fe17__bdd0787cff2a.md",
+  "journal_ingress": {
+    "source_id": "J-871b96312924fea0a2a8fe17",
+    "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/tasks/菲律宾团队在 TutorOS 时代的主攻价值点.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/tasks/菲律宾团队在 TutorOS 时代的主攻价值点.md",
+    "sha256": "bdd0787cff2a657de98b517bed3e1c589ed3602adfdec0bd6fb7e379ec7f8e6b",
+    "revision_id": "bdd0787cff2a657d.d09e899205d1",
+    "received_on": "2026-09-07",
+    "received_on_basis": "first-observed-by-ingress",
+    "observed_at": "2026-09-07T13:13:38+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": "bdd0787cff2a657d.5e5882552d6e",
+    "change_kind": "metadata_changed",
+    "declarations": {},
+    "metadata": {
+      "content_role": "unknown",
+      "actor": "unknown",
+      "purpose": "work_process",
+      "classification_basis": "task-artifact-without-verified-author",
+      "common_input_eligible": true,
+      "occurred_on": null,
+      "occurred_on_basis": "unknown",
+      "journal_date": "2026-09-04",
+      "journal_date_basis": "directory-grouping",
+      "source_declarations": {},
+      "attribution_segments": [
+        {
+          "start_line": 419,
+          "end_line": 436,
+          "actor": "unknown",
+          "basis": "heading-indicates-processing-not-speaker-attribution"
+        },
+        {
+          "start_line": 437,
+          "end_line": 450,
+          "actor": "unknown",
+          "basis": "heading-indicates-processing-not-speaker-attribution"
+        }
+      ],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。",
+        "禁止整篇归为 Leon 原话；逐段核对说话人和来源。",
+        "标题只提示可能存在 Agent 加工，不划定整段说话人；逐段核对。明确闭合标记区另有归属线索，未标记部分不自动归属 Leon。"
+      ],
+      "references": [],
+      "relation": null,
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/tasks/菲律宾团队在 TutorOS 时代的主攻价值点.md",
+    "content_sha256": "bdd0787cff2a657de98b517bed3e1c589ed3602adfdec0bd6fb7e379ec7f8e6b",
+    "metadata_sha256": "19339849d0402927a422befd87dd0b0c39ab24413621b0524ac5e4cba9abc565"
+  }
+}

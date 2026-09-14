@@ -1,0 +1,25 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-17T18:07:49+0800",
+  "meeting_title": "好外教被看见—品牌部",
+  "meeting_date": "2026-08-17",
+  "date_basis": "钉钉原文 createTime/updateTime 与用户说明为刚结束会议",
+  "source_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-17/media/dws-钉钉文档-纪要_好外教被看见-品牌部-2026-08-17.md",
+  "source_md5": "36183e543a6a9ab61d92479531529fba",
+  "source_bytes": 13961,
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/外教战役/_raw/meetings-raw/2026-08-17_好外教被看见-品牌部纪要.md",
+  "project": "外教战役 / TOC",
+  "basic_law_review_packs": [
+    "客户价值北极星",
+    "系统化交付与持续进化",
+    "蜂群组织与原子小队协作"
+  ],
+  "gbrain_read": true,
+  "gbrain_write": false,
+  "inbox_mutated": false,
+  "inbox_read_boundary_breached": true,
+  "inbox_read_boundary_note": "内容去重检索误包含 Inbox；未修改，后续未再访问。本次纪要仅以钉钉文档原稿为证据。",
+  "inbox_pointer_status": "deferred",
+  "external_send": false
+}

@@ -1,0 +1,1298 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <link rel="icon" href="data:,">
+  <title>X-Y-Z 三轴经营模型｜TOC 战略语言</title>
+  <style>
+    :root {
+      --paper: #f4f0e7;
+      --paper-deep: #e9e2d5;
+      --ink: #182126;
+      --ink-soft: #556168;
+      --line: #d5cec1;
+      --line-strong: #aaa194;
+      --x: #d25938;
+      --x-soft: #f2d8cd;
+      --y: #176b82;
+      --y-soft: #d6e9ed;
+      --z: #2a7d57;
+      --z-soft: #dcebe1;
+      --gold: #9b6d13;
+      --gold-soft: #eee1bd;
+      --serif: "Songti SC", "STSong", "Noto Serif CJK SC", serif;
+      --sans: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      background: #dcd6ca;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 12% 6%, rgba(255, 255, 255, 0.72), transparent 28%),
+        linear-gradient(135deg, rgba(255, 255, 255, 0.30), transparent 38%),
+        var(--paper);
+      font-family: var(--sans);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    .sheet {
+      position: relative;
+      width: min(100%, 1600px);
+      min-height: 100svh;
+      margin: 0 auto;
+      padding: 26px clamp(22px, 4.7vw, 76px) 24px;
+      overflow: hidden;
+      isolation: isolate;
+    }
+
+    .sheet::before {
+      position: absolute;
+      inset: 0;
+      z-index: -2;
+      content: "";
+      background-image:
+        linear-gradient(rgba(24, 33, 38, 0.025) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(24, 33, 38, 0.025) 1px, transparent 1px);
+      background-size: 40px 40px;
+      mask-image: linear-gradient(to bottom, #000 0%, transparent 76%);
+    }
+
+    .sheet::after {
+      position: absolute;
+      top: 0;
+      right: clamp(22px, 4.7vw, 76px);
+      width: 1px;
+      height: 92px;
+      content: "";
+      background: var(--line-strong);
+    }
+
+    .topbar,
+    .footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+      color: var(--ink-soft);
+      font-size: 11px;
+      font-weight: 650;
+      letter-spacing: 0.17em;
+      text-transform: uppercase;
+    }
+
+    .topbar {
+      padding-bottom: 17px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      color: var(--ink);
+    }
+
+    .brand-mark {
+      display: grid;
+      width: 29px;
+      height: 29px;
+      place-items: center;
+      border: 1px solid var(--ink);
+      border-radius: 50%;
+      font-family: var(--serif);
+      font-size: 12px;
+      letter-spacing: 0;
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(320px, 0.95fr);
+      gap: clamp(28px, 5vw, 86px);
+      align-items: end;
+      padding: clamp(26px, 3.7vw, 58px) 0 25px;
+    }
+
+    .eyebrow {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 12px;
+      color: var(--ink-soft);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+    }
+
+    .eyebrow::before {
+      width: 24px;
+      height: 2px;
+      content: "";
+      background: currentColor;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
+    }
+
+    h1 {
+      font-family: var(--serif);
+      font-size: clamp(61px, 8.2vw, 118px);
+      font-weight: 700;
+      line-height: 0.88;
+      letter-spacing: -0.075em;
+      white-space: nowrap;
+    }
+
+    h1 .dash {
+      color: var(--line-strong);
+      font-weight: 400;
+    }
+
+    .thesis {
+      max-width: 660px;
+      padding-left: clamp(18px, 2.2vw, 34px);
+      border-left: 3px solid var(--ink);
+    }
+
+    .thesis strong {
+      display: block;
+      font-family: var(--serif);
+      font-size: clamp(24px, 2.25vw, 37px);
+      font-weight: 700;
+      line-height: 1.25;
+      letter-spacing: -0.03em;
+    }
+
+    .thesis p {
+      margin-top: 10px;
+      color: var(--ink-soft);
+      font-size: clamp(13px, 1.1vw, 16px);
+      line-height: 1.7;
+    }
+
+    .thesis .x-text {
+      color: var(--x);
+    }
+
+    .thesis .y-text {
+      color: var(--y);
+    }
+
+    .thesis .z-text {
+      color: var(--z);
+    }
+
+    .diagram-section {
+      border-top: 1px solid var(--line);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .diagram {
+      display: block;
+      width: 100%;
+      height: auto;
+      min-height: 440px;
+      max-height: 560px;
+    }
+
+    .diagram text {
+      font-family: var(--sans);
+    }
+
+    .diagram .serif {
+      font-family: var(--serif);
+    }
+
+    .diagram .axis-line {
+      fill: none;
+      stroke-width: 3;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .diagram .branch-line {
+      fill: none;
+      stroke-width: 2;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .diagram .guide {
+      fill: none;
+      stroke: var(--line);
+      stroke-width: 1;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .diagram .axis-letter {
+      font-family: var(--serif);
+      font-size: 35px;
+      font-weight: 700;
+    }
+
+    .diagram .axis-name {
+      fill: var(--ink);
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .diagram .axis-question {
+      fill: var(--ink-soft);
+      font-size: 12px;
+      letter-spacing: 0.08em;
+    }
+
+    .diagram .level-code {
+      font-size: 12px;
+      font-weight: 750;
+      letter-spacing: 0.08em;
+    }
+
+    .diagram .level-name {
+      fill: var(--ink);
+      font-size: 17px;
+      font-weight: 700;
+    }
+
+    .diagram .level-note {
+      fill: var(--ink-soft);
+      font-size: 11px;
+    }
+
+    .diagram .tree-label {
+      fill: var(--ink);
+      font-size: 16px;
+      font-weight: 700;
+    }
+
+    .diagram .tree-note {
+      fill: var(--ink-soft);
+      font-size: 10px;
+      letter-spacing: 0.08em;
+    }
+
+    .diagram .x-color {
+      color: var(--x);
+    }
+
+    .diagram .y-color {
+      color: var(--y);
+    }
+
+    .diagram .z-color {
+      color: var(--z);
+    }
+
+    .diagram .x-stroke {
+      stroke: var(--x);
+    }
+
+    .diagram .y-stroke {
+      stroke: var(--y);
+    }
+
+    .diagram .z-stroke {
+      stroke: var(--z);
+    }
+
+    .diagram .x-fill {
+      fill: var(--x);
+    }
+
+    .diagram .y-fill {
+      fill: var(--y);
+    }
+
+    .diagram .z-fill {
+      fill: var(--z);
+    }
+
+    .diagram .x-soft {
+      fill: var(--x-soft);
+    }
+
+    .diagram .y-soft {
+      fill: var(--y-soft);
+    }
+
+    .diagram .z-soft {
+      fill: var(--z-soft);
+    }
+
+    .diagram .gold-soft {
+      fill: var(--gold-soft);
+    }
+
+    .diagram .gold-fill {
+      fill: var(--gold);
+    }
+
+    .diagram .nexus-outer {
+      fill: var(--paper);
+      stroke: var(--ink);
+      stroke-width: 1.5;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .diagram .nexus-inner {
+      fill: var(--ink);
+    }
+
+    .diagram .nexus-title {
+      fill: var(--paper);
+      font-family: var(--serif);
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .diagram .nexus-note {
+      fill: var(--paper-deep);
+      font-size: 10px;
+      letter-spacing: 0.1em;
+    }
+
+    .diagram .feedback {
+      fill: none;
+      stroke: var(--line-strong);
+      stroke-dasharray: 5 7;
+      stroke-width: 1.5;
+      vector-effect: non-scaling-stroke;
+    }
+
+    .diagram .feedback-label {
+      fill: var(--ink-soft);
+      font-size: 11px;
+      letter-spacing: 0.08em;
+    }
+
+    .mobile-axes {
+      display: none;
+    }
+
+    .axis-explainers {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      border-bottom: 1px solid var(--line);
+    }
+
+    .axis-explainer {
+      position: relative;
+      padding: 23px clamp(20px, 2.5vw, 38px) 25px;
+    }
+
+    .axis-explainer + .axis-explainer {
+      border-left: 1px solid var(--line);
+    }
+
+    .axis-explainer::before {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 3px;
+      content: "";
+      background: currentColor;
+    }
+
+    .axis-explainer.x {
+      color: var(--x);
+    }
+
+    .axis-explainer.y {
+      color: var(--y);
+    }
+
+    .axis-explainer.z {
+      color: var(--z);
+    }
+
+    .axis-explainer-head {
+      display: grid;
+      grid-template-columns: 44px minmax(0, 1fr);
+      gap: 12px;
+      align-items: start;
+    }
+
+    .axis-explainer-letter {
+      font-family: var(--serif);
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 0.9;
+    }
+
+    .axis-explainer h3 {
+      color: currentColor;
+      font-family: var(--serif);
+      font-size: 21px;
+      line-height: 1.1;
+    }
+
+    .axis-explainer-question {
+      margin-top: 4px;
+      color: var(--ink-soft);
+      font-size: 10px;
+      line-height: 1.4;
+    }
+
+    .axis-definition {
+      margin-top: 17px;
+      color: var(--ink);
+      font-family: var(--serif);
+      font-size: clamp(17px, 1.42vw, 21px);
+      font-weight: 700;
+      line-height: 1.5;
+      letter-spacing: -0.015em;
+    }
+
+    .axis-boundary {
+      margin-top: 12px;
+      color: var(--ink-soft);
+      font-size: 12px;
+      line-height: 1.7;
+    }
+
+    .axis-boundary strong {
+      color: currentColor;
+      font-weight: 750;
+    }
+
+    .insight {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: 18px;
+      align-items: center;
+      padding: 17px 0 15px;
+    }
+
+    .insight-mark {
+      color: var(--z);
+      font-family: var(--serif);
+      font-size: 34px;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .insight p {
+      color: var(--ink-soft);
+      font-size: clamp(13px, 1.05vw, 15px);
+      line-height: 1.65;
+    }
+
+    .insight strong {
+      color: var(--ink);
+    }
+
+    .formula {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: clamp(30px, 5vw, 86px);
+      align-items: center;
+      padding: 22px 0 19px;
+    }
+
+    .equation-wrap .eyebrow {
+      margin-bottom: 14px;
+    }
+
+    .equation {
+      display: flex;
+      align-items: stretch;
+      gap: clamp(8px, 1.2vw, 18px);
+    }
+
+    .term {
+      min-width: 0;
+      padding: 11px 12px 10px;
+      border-top: 3px solid currentColor;
+      background: rgba(255, 255, 255, 0.26);
+    }
+
+    .term.x {
+      color: var(--x);
+    }
+
+    .term.z {
+      color: var(--z);
+    }
+
+    .term.y {
+      color: var(--y);
+    }
+
+    .term-letter {
+      display: block;
+      font-family: var(--serif);
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .term strong {
+      display: block;
+      margin-top: 8px;
+      color: var(--ink);
+      font-size: 14px;
+      line-height: 1.35;
+      white-space: nowrap;
+    }
+
+    .term span:last-child {
+      display: block;
+      margin-top: 3px;
+      color: var(--ink-soft);
+      font-size: 10px;
+      line-height: 1.4;
+    }
+
+    .operator {
+      align-self: center;
+      color: var(--line-strong);
+      font-family: var(--serif);
+      font-size: 24px;
+    }
+
+    .receipts {
+      display: grid;
+      min-width: 300px;
+      gap: 9px;
+    }
+
+    .receipt {
+      display: grid;
+      grid-template-columns: 34px minmax(0, 1fr);
+      gap: 12px;
+      align-items: center;
+      padding: 9px 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .receipt:first-child {
+      border-top: 1px solid var(--line);
+    }
+
+    .receipt-number {
+      color: var(--line-strong);
+      font-family: var(--serif);
+      font-size: 20px;
+    }
+
+    .receipt strong {
+      display: block;
+      font-size: 13px;
+    }
+
+    .receipt span:last-child {
+      display: block;
+      margin-top: 2px;
+      color: var(--ink-soft);
+      font-size: 10px;
+    }
+
+    .footer {
+      padding-top: 16px;
+    }
+
+    .footer strong {
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .sr-only {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      padding: 0;
+      margin: -1px;
+      overflow: hidden;
+      clip: rect(0, 0, 0, 0);
+      white-space: nowrap;
+      border: 0;
+    }
+
+    @media (max-width: 1000px) {
+      .hero {
+        grid-template-columns: 1fr;
+        gap: 22px;
+      }
+
+      .thesis {
+        max-width: none;
+      }
+
+      .diagram {
+        min-height: 0;
+      }
+
+      .formula {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      .receipts {
+        min-width: 0;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 22px;
+      }
+
+      .receipt:first-child {
+        border-top: 0;
+      }
+    }
+
+    @media (max-width: 820px) {
+      .sheet {
+        padding: 18px 18px 24px;
+        overflow: visible;
+      }
+
+      .sheet::after {
+        right: 18px;
+        height: 66px;
+      }
+
+      .topbar {
+        padding-bottom: 13px;
+      }
+
+      .topbar > span:last-child {
+        display: none;
+      }
+
+      .hero {
+        padding: 34px 0 24px;
+      }
+
+      h1 {
+        font-size: clamp(60px, 23vw, 88px);
+      }
+
+      .thesis {
+        padding-left: 16px;
+      }
+
+      .thesis strong {
+        font-size: 24px;
+      }
+
+      .diagram {
+        display: none;
+      }
+
+      .mobile-axes {
+        display: grid;
+        gap: 0;
+        padding: 24px 0 20px;
+      }
+
+      .mobile-axis {
+        position: relative;
+        display: grid;
+        grid-template-columns: 56px minmax(0, 1fr);
+        gap: 14px;
+        padding: 18px 0 19px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .mobile-axis:first-child {
+        border-top: 1px solid var(--line);
+      }
+
+      .mobile-axis-letter {
+        font-family: var(--serif);
+        font-size: 45px;
+        font-weight: 700;
+        line-height: 0.9;
+      }
+
+      .mobile-axis.x .mobile-axis-letter,
+      .mobile-axis.x h3 {
+        color: var(--x);
+      }
+
+      .mobile-axis.y .mobile-axis-letter,
+      .mobile-axis.y h3 {
+        color: var(--y);
+      }
+
+      .mobile-axis.z .mobile-axis-letter,
+      .mobile-axis.z h3 {
+        color: var(--z);
+      }
+
+      .mobile-axis h3 {
+        font-family: var(--serif);
+        font-size: 22px;
+        line-height: 1.1;
+      }
+
+      .mobile-axis-question {
+        margin-top: 4px;
+        color: var(--ink-soft);
+        font-size: 11px;
+      }
+
+      .mobile-axis-definition {
+        margin-top: 11px;
+        color: var(--ink);
+        font-size: 13px;
+        font-weight: 650;
+        line-height: 1.6;
+      }
+
+      .mobile-axis-boundary {
+        margin-top: 6px;
+        color: var(--ink-soft);
+        font-size: 11px;
+        line-height: 1.6;
+      }
+
+      .mobile-axis-boundary strong {
+        font-weight: 750;
+      }
+
+      .mobile-axis.x .mobile-axis-boundary strong {
+        color: var(--x);
+      }
+
+      .mobile-axis.y .mobile-axis-boundary strong {
+        color: var(--y);
+      }
+
+      .mobile-axis.z .mobile-axis-boundary strong {
+        color: var(--z);
+      }
+
+      .mobile-tree {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 7px 14px;
+        margin-top: 13px;
+        color: var(--ink);
+        font-size: 12px;
+        line-height: 1.45;
+      }
+
+      .mobile-tree span {
+        position: relative;
+        padding-left: 12px;
+      }
+
+      .mobile-tree span::before {
+        position: absolute;
+        top: 0.62em;
+        left: 0;
+        width: 5px;
+        height: 5px;
+        content: "";
+        border-radius: 50%;
+        background: var(--x);
+      }
+
+      .mobile-levels {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 6px;
+        margin-top: 13px;
+      }
+
+      .mobile-level {
+        padding-top: 7px;
+        border-top: 2px solid currentColor;
+      }
+
+      .mobile-level b {
+        display: block;
+        font-size: 11px;
+      }
+
+      .mobile-level span {
+        display: block;
+        margin-top: 2px;
+        color: var(--ink-soft);
+        font-size: 10px;
+        line-height: 1.25;
+      }
+
+      .mobile-level.y-level {
+        color: var(--y);
+      }
+
+      .mobile-level.z-level {
+        color: var(--z);
+      }
+
+      .mobile-level.z4 {
+        color: var(--gold);
+      }
+
+      .mobile-axis.z .mobile-levels {
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+      }
+
+      .mobile-nexus {
+        display: grid;
+        grid-template-columns: 56px minmax(0, 1fr);
+        gap: 14px;
+        align-items: center;
+        padding: 20px 0;
+      }
+
+      .mobile-nexus-mark {
+        display: grid;
+        width: 49px;
+        height: 49px;
+        place-items: center;
+        border-radius: 50%;
+        color: var(--paper);
+        background: var(--ink);
+        font-family: var(--serif);
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .mobile-nexus strong {
+        display: block;
+        font-family: var(--serif);
+        font-size: 20px;
+      }
+
+      .mobile-nexus span {
+        display: block;
+        margin-top: 4px;
+        color: var(--ink-soft);
+        font-size: 11px;
+      }
+
+      .axis-explainers {
+        display: none;
+      }
+
+      .insight {
+        align-items: start;
+        padding: 18px 0;
+      }
+
+      .formula {
+        padding: 22px 0 15px;
+      }
+
+      .equation {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 8px;
+      }
+
+      .operator {
+        display: none;
+      }
+
+      .term {
+        padding: 10px 7px 8px;
+      }
+
+      .term strong {
+        font-size: 11px;
+        white-space: normal;
+      }
+
+      .term span:last-child {
+        font-size: 9px;
+      }
+
+      .receipts {
+        grid-template-columns: 1fr;
+        gap: 0;
+      }
+
+      .receipt:first-child {
+        border-top: 1px solid var(--line);
+      }
+
+      .footer {
+        align-items: flex-start;
+        font-size: 9px;
+        line-height: 1.5;
+      }
+
+      .footer span:last-child {
+        text-align: right;
+      }
+    }
+
+    @media print {
+      html,
+      body {
+        background: #fff;
+      }
+
+      .sheet {
+        width: 100%;
+        min-height: auto;
+        padding: 16mm;
+      }
+
+      .sheet::before,
+      .sheet::after {
+        display: none;
+      }
+
+      .diagram {
+        max-height: 155mm;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    <header class="topbar" aria-label="文档信息">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">三轴</span>
+        <span>TOC Strategic Language</span>
+      </div>
+      <span>Operating Model · V1.0 · 2026.08.17</span>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div>
+          <p class="eyebrow">X-Y-Z 三轴经营模型</p>
+          <h1 id="page-title"><span class="x-text">X</span><span class="dash">—</span><span class="y-text">Y</span><span class="dash">—</span><span class="z-text">Z</span></h1>
+        </div>
+        <div class="thesis">
+          <strong><span class="x-text">X 选战场</span>，<span class="y-text">Y 建能力</span>，<span class="z-text">Z 判价值</span>。</strong>
+          <p>在一个真实业务战场上，调用或补建组织能力，推动客户发生一次可验证的价值跃迁。</p>
+        </div>
+      </section>
+
+      <section class="diagram-section" aria-labelledby="diagram-title">
+        <h2 id="diagram-title" class="sr-only">三轴模型主图</h2>
+        <svg class="diagram" viewBox="0 0 1360 620" role="img" aria-labelledby="svg-title svg-desc">
+          <title id="svg-title">X-Y-Z 三轴经营模型</title>
+          <desc id="svg-desc">原子小队位于三轴交点。X 轴向右展开为业务战场树，Y 轴向上从无解走向蜂巢解，Z 轴向左下从看不见客户问题走向成就客户，客户反馈再反哺能力建设。</desc>
+          <defs>
+            <marker id="arrow-x" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="var(--x)"></path>
+            </marker>
+            <marker id="arrow-y" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="var(--y)"></path>
+            </marker>
+            <marker id="arrow-z" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="var(--z)"></path>
+            </marker>
+            <marker id="arrow-feedback" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+              <path d="M 0 0 L 10 5 L 0 10 z" fill="var(--line-strong)"></path>
+            </marker>
+          </defs>
+
+          <path class="guide" d="M550 66V575"></path>
+          <path class="guide" d="M160 370H1268"></path>
+
+          <g aria-label="Y 轴：能力承载层">
+            <path class="axis-line y-stroke" d="M550 370V72" marker-end="url(#arrow-y)"></path>
+            <g transform="translate(326 47)">
+              <text class="axis-letter y-fill" x="0" y="0">Y</text>
+              <text class="axis-name" x="42" y="-3">能力承载层</text>
+              <text class="axis-question" x="42" y="17">能力住在哪里？能否脱离个人稳定复用？</text>
+            </g>
+
+            <g transform="translate(550 321)">
+              <line class="y-stroke" x1="-20" y1="0" x2="0" y2="0" stroke-width="1.5"></line>
+              <circle class="y-fill" r="6"></circle>
+              <rect class="y-soft" x="-172" y="-20" width="132" height="40" rx="2"></rect>
+              <text class="level-code y-fill" x="-158" y="-2">Y0</text>
+              <text class="level-name" x="-120" y="-2">无解</text>
+              <text class="level-note" x="-158" y="13">无人承载 · 每次归零</text>
+            </g>
+
+            <g transform="translate(550 249)">
+              <line class="y-stroke" x1="-20" y1="0" x2="0" y2="0" stroke-width="1.5"></line>
+              <circle class="y-fill" r="6"></circle>
+              <rect class="y-soft" x="-172" y="-20" width="132" height="40" rx="2"></rect>
+              <text class="level-code y-fill" x="-158" y="-2">Y1</text>
+              <text class="level-name" x="-120" y="-2">英雄解</text>
+              <text class="level-note" x="-158" y="13">个人扛住 · 人走能力走</text>
+            </g>
+
+            <g transform="translate(550 177)">
+              <line class="y-stroke" x1="-20" y1="0" x2="0" y2="0" stroke-width="1.5"></line>
+              <circle class="y-fill" r="6"></circle>
+              <rect class="y-soft" x="-172" y="-20" width="132" height="40" rx="2"></rect>
+              <text class="level-code y-fill" x="-158" y="-2">Y2</text>
+              <text class="level-name" x="-120" y="-2">组织解</text>
+              <text class="level-note" x="-158" y="13">标准 · 产品 · 系统</text>
+            </g>
+
+            <g transform="translate(550 105)">
+              <line class="y-stroke" x1="-20" y1="0" x2="0" y2="0" stroke-width="1.5"></line>
+              <circle class="y-fill" r="6"></circle>
+              <rect class="y-soft" x="-172" y="-20" width="132" height="40" rx="2"></rect>
+              <text class="level-code y-fill" x="-158" y="-2">Y3</text>
+              <text class="level-name" x="-120" y="-2">蜂巢解</text>
+              <text class="level-note" x="-158" y="13">人 × Agent · 持续学习</text>
+            </g>
+          </g>
+
+          <g aria-label="X 轴：业务战场树">
+            <path class="axis-line x-stroke" d="M550 370H842" marker-end="url(#arrow-x)"></path>
+            <g transform="translate(856 47)">
+              <text class="axis-letter x-fill" x="0" y="0">X</text>
+              <text class="axis-name" x="42" y="-3">业务战场树</text>
+              <text class="axis-question" x="42" y="17">在哪里打仗？要改变哪一段真实业务？</text>
+            </g>
+
+            <circle class="x-fill" cx="842" cy="370" r="7"></circle>
+            <path class="branch-line x-stroke" d="M842 370C900 320 920 163 1008 142" marker-end="url(#arrow-x)"></path>
+            <path class="branch-line x-stroke" d="M842 370C918 337 954 282 1047 278" marker-end="url(#arrow-x)"></path>
+            <path class="branch-line x-stroke" d="M842 370C918 405 954 456 1047 458" marker-end="url(#arrow-x)"></path>
+            <path class="branch-line x-stroke" d="M842 370C900 421 920 555 1008 574" marker-end="url(#arrow-x)"></path>
+
+            <g transform="translate(1025 118)">
+              <circle class="x-soft" cx="0" cy="24" r="20"></circle>
+              <circle class="x-fill" cx="0" cy="24" r="5"></circle>
+              <text class="tree-note" x="34" y="17">战场示例</text>
+              <text class="tree-label" x="34" y="38">获得合格候选人</text>
+            </g>
+
+            <g transform="translate(1064 254)">
+              <circle class="x-soft" cx="0" cy="24" r="20"></circle>
+              <circle class="x-fill" cx="0" cy="24" r="5"></circle>
+              <text class="tree-note" x="34" y="17">战场示例</text>
+              <text class="tree-label" x="34" y="38">新师营筛出好老师</text>
+            </g>
+
+            <g transform="translate(1064 434)">
+              <circle class="x-soft" cx="0" cy="24" r="20"></circle>
+              <circle class="x-fill" cx="0" cy="24" r="5"></circle>
+              <text class="tree-note" x="34" y="17">战场示例</text>
+              <text class="tree-label" x="34" y="38">高效管理几万名老师</text>
+            </g>
+
+            <g transform="translate(1025 550)">
+              <circle class="x-soft" cx="0" cy="24" r="20"></circle>
+              <circle class="x-fill" cx="0" cy="24" r="5"></circle>
+              <text class="tree-note" x="34" y="17">战场示例</text>
+              <text class="tree-label" x="34" y="38">稳定交付与坏课治理</text>
+            </g>
+          </g>
+
+          <g aria-label="Z 轴：客户价值深度">
+            <path class="axis-line z-stroke" d="M550 370L210 555" marker-end="url(#arrow-z)"></path>
+            <g transform="translate(32 446)">
+              <text class="axis-letter z-fill" x="0" y="0">Z</text>
+              <text class="axis-name" x="42" y="-3">客户价值深度</text>
+              <text class="axis-question" x="42" y="17">客户从没有被看见，走到了多深的价值？</text>
+            </g>
+
+            <circle class="z-fill" cx="500" cy="397" r="6"></circle>
+            <circle class="z-fill" cx="430" cy="435" r="6"></circle>
+            <circle class="z-fill" cx="360" cy="473" r="6"></circle>
+            <circle class="z-fill" cx="290" cy="511" r="6"></circle>
+            <circle class="gold-fill" cx="220" cy="549" r="8"></circle>
+
+            <g transform="translate(72 586)">
+              <line class="z-stroke" x1="0" y1="0" x2="610" y2="0" stroke-width="1.5" marker-end="url(#arrow-z)"></line>
+              <g transform="translate(0 0)">
+                <circle class="z-fill" r="4"></circle>
+                <text class="level-code z-fill" x="0" y="-12" text-anchor="middle">Z0</text>
+                <text class="level-note" x="0" y="18" text-anchor="middle">看不见／接不住</text>
+              </g>
+              <g transform="translate(145 0)">
+                <circle class="z-fill" r="4"></circle>
+                <text class="level-code z-fill" x="0" y="-12" text-anchor="middle">Z1</text>
+                <text class="level-note" x="0" y="18" text-anchor="middle">接得住</text>
+              </g>
+              <g transform="translate(290 0)">
+                <circle class="z-fill" r="4"></circle>
+                <text class="level-code z-fill" x="0" y="-12" text-anchor="middle">Z2</text>
+                <text class="level-note" x="0" y="18" text-anchor="middle">解得好</text>
+              </g>
+              <g transform="translate(435 0)">
+                <circle class="z-fill" r="4"></circle>
+                <text class="level-code z-fill" x="0" y="-12" text-anchor="middle">Z3</text>
+                <text class="level-note" x="0" y="18" text-anchor="middle">守得住</text>
+              </g>
+              <g transform="translate(580 0)">
+                <circle class="gold-fill" r="6"></circle>
+                <text class="level-code gold-fill" x="0" y="-12" text-anchor="middle">Z4</text>
+                <text class="level-note" x="0" y="18" text-anchor="middle">成就客户</text>
+              </g>
+            </g>
+          </g>
+
+          <path class="feedback" d="M218 548C58 458 68 172 352 107" marker-end="url(#arrow-feedback)"></path>
+          <text class="feedback-label" transform="translate(105 363) rotate(-72)">客户结果反馈 · 反哺能力沉淀</text>
+
+          <g transform="translate(550 370)" aria-label="原子小队：推进坐标迁移的责任单元">
+            <circle class="nexus-outer" r="72"></circle>
+            <circle class="nexus-inner" r="60"></circle>
+            <text class="nexus-title" x="0" y="-2" text-anchor="middle">原子小队</text>
+            <text class="nexus-note" x="0" y="19" text-anchor="middle">推进一次坐标迁移</text>
+          </g>
+        </svg>
+
+        <div class="mobile-axes" aria-label="三轴模型移动版">
+          <article class="mobile-axis x">
+            <div class="mobile-axis-letter" aria-hidden="true">X</div>
+            <div>
+              <h3>业务战场树</h3>
+              <p class="mobile-axis-question">在哪里打仗？要改变哪一段真实业务？</p>
+              <p class="mobile-axis-definition">TOC 必须长期负责、持续创造客户结果的业务域。</p>
+              <p class="mobile-axis-boundary"><strong>不是</strong>部门、项目名或系统模块；载体会变，战场仍在。</p>
+              <div class="mobile-tree">
+                <span>获得合格候选人</span>
+                <span>新师营筛出好老师</span>
+                <span>管理大规模在岗老师</span>
+                <span>稳定交付与坏课治理</span>
+              </div>
+            </div>
+          </article>
+
+          <article class="mobile-axis y">
+            <div class="mobile-axis-letter" aria-hidden="true">Y</div>
+            <div>
+              <h3>能力承载层</h3>
+              <p class="mobile-axis-question">能力住在哪里？能否脱离个人稳定复用？</p>
+              <p class="mobile-axis-definition">看解决问题的能力最终住在哪里，能否从个人变成组织可复用的资产。</p>
+              <p class="mobile-axis-boundary">从 <strong>Y1 个人扛住</strong>，到 Y2 组织复用，再到 Y3 人与 Agent 持续学习。</p>
+              <div class="mobile-levels">
+                <div class="mobile-level y-level"><b>Y0</b><span>无解</span></div>
+                <div class="mobile-level y-level"><b>Y1</b><span>英雄解</span></div>
+                <div class="mobile-level y-level"><b>Y2</b><span>组织解</span></div>
+                <div class="mobile-level y-level"><b>Y3</b><span>蜂巢解</span></div>
+              </div>
+            </div>
+          </article>
+
+          <article class="mobile-axis z">
+            <div class="mobile-axis-letter" aria-hidden="true">Z</div>
+            <div>
+              <h3>客户价值深度</h3>
+              <p class="mobile-axis-question">客户从没有被看见，走到了多深的价值？</p>
+              <p class="mobile-axis-definition">只从客户真正获得的价值定义深度。</p>
+              <p class="mobile-axis-boundary"><strong>不是</strong>看同事多努力、系统多高级；而是看客户是否恢复、被保护并获得更好结果。</p>
+              <div class="mobile-levels">
+                <div class="mobile-level z-level"><b>Z0</b><span>看不见／<br>接不住</span></div>
+                <div class="mobile-level z-level"><b>Z1</b><span>接得住</span></div>
+                <div class="mobile-level z-level"><b>Z2</b><span>解得好</span></div>
+                <div class="mobile-level z-level"><b>Z3</b><span>守得住</span></div>
+                <div class="mobile-level z-level z4"><b>Z4</b><span>成就客户</span></div>
+              </div>
+            </div>
+          </article>
+
+          <div class="mobile-nexus">
+            <div class="mobile-nexus-mark">交点</div>
+            <div>
+              <strong>原子小队</strong>
+              <span>在一个 X 战场，调用或补建 Y 能力，推动一次 Z 价值跃迁。</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="axis-explainers" aria-label="三轴解释">
+        <article class="axis-explainer x">
+          <header class="axis-explainer-head">
+            <span class="axis-explainer-letter" aria-hidden="true">X</span>
+            <div>
+              <h3>业务战场</h3>
+              <p class="axis-explainer-question">在哪里打仗？改变哪一段真实业务？</p>
+            </div>
+          </header>
+          <p class="axis-definition">TOC 必须长期负责、持续创造客户结果的业务域。</p>
+          <p class="axis-boundary"><strong>不是</strong>部门、项目名、系统模块或一次性任务。即使 App、组织和方案更换，真实业务任务依然存在，战场就依然成立。</p>
+        </article>
+
+        <article class="axis-explainer y">
+          <header class="axis-explainer-head">
+            <span class="axis-explainer-letter" aria-hidden="true">Y</span>
+            <div>
+              <h3>能力承载</h3>
+              <p class="axis-explainer-question">能力住在哪里？能否脱离个人复用？</p>
+            </div>
+          </header>
+          <p class="axis-definition">解决问题的能力最终住在哪里，以及能否脱离特定个人稳定复用。</p>
+          <p class="axis-boundary">Y1 靠英雄扛住，Y2 把标准、产品和系统装进组织，Y3 让人与 Agent 持续感知、判断、行动、反馈和学习。</p>
+        </article>
+
+        <article class="axis-explainer z">
+          <header class="axis-explainer-head">
+            <span class="axis-explainer-letter" aria-hidden="true">Z</span>
+            <div>
+              <h3>客户价值深度</h3>
+              <p class="axis-explainer-question">客户最终得到了多深的价值？</p>
+            </div>
+          </header>
+          <p class="axis-definition">只从客户真正获得的价值定义深度。</p>
+          <p class="axis-boundary"><strong>不是</strong>看同事多努力、响应多快或系统多高级；而是看客户是否被接住、真正恢复、不必再喊，并最终获得更好的学习结果。</p>
+        </article>
+      </section>
+
+      <aside class="insight" aria-label="三轴判定原则">
+        <div class="insight-mark" aria-hidden="true">≠</div>
+        <p><strong>Y 与 Z 必须独立判定。</strong>Y 判断组织有没有形成能力；Z 判断这份能力有没有真正成就客户。系统做得再高级，也必须由客户结果判卷。</p>
+      </aside>
+
+      <section class="formula" aria-labelledby="formula-title">
+        <div class="equation-wrap">
+          <p class="eyebrow" id="formula-title">原子小队公式</p>
+          <div class="equation" aria-label="一个业务战场，加一次客户价值跃迁，加一组组织能力">
+            <div class="term x">
+              <span class="term-letter">X</span>
+              <strong>一个业务战场</strong>
+              <span>选定真实战场</span>
+            </div>
+            <div class="operator" aria-hidden="true">＋</div>
+            <div class="term z">
+              <span class="term-letter">Z</span>
+              <strong>一次价值跃迁</strong>
+              <span>定义客户变化</span>
+            </div>
+            <div class="operator" aria-hidden="true">＋</div>
+            <div class="term y">
+              <span class="term-letter">Y</span>
+              <strong>一组组织能力</strong>
+              <span>调用或补建</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="receipts" aria-label="两张验收收据">
+          <div class="receipt">
+            <span class="receipt-number">01</span>
+            <div>
+              <strong>客户结果收据</strong>
+              <span>客户实际发生了什么变化？</span>
+            </div>
+          </div>
+          <div class="receipt">
+            <span class="receipt-number">02</span>
+            <div>
+              <strong>能力沉淀收据</strong>
+              <span>组织留下了什么可复用能力？</span>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <span><strong>稳定内核：</strong>X 选战场 · Y 建能力 · Z 判价值</span>
+      <span>TOC · X-Y-Z Operating Model · V1.0</span>
+    </footer>
+  </div>
+</body>
+</html>

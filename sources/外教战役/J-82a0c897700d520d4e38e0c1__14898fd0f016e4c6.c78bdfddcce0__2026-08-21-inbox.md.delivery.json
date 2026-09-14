@@ -1,0 +1,83 @@
+{
+  "source_id": "J-82a0c897700d520d4e38e0c1",
+  "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-21/inbox.md",
+  "content_sha256": "14898fd0f016e4c61ede8b553684620857aaffeaa82430deb64ebfea783c9df6",
+  "version": "14898fd0f016",
+  "bytes": 12412,
+  "event_date": null,
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-21/inbox.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/14/14898fd0f016e4c61ede8b553684620857aaffeaa82430deb64ebfea783c9df6.md",
+  "source_kind": "mixed",
+  "batch_id": "J-041fda7d3887aa57f8fb",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-08T13:18:03+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-82a0c897700d520d4e38e0c1__14898fd0f016.md",
+  "journal_ingress": {
+    "source_id": "J-82a0c897700d520d4e38e0c1",
+    "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-21/inbox.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-21/inbox.md",
+    "sha256": "14898fd0f016e4c61ede8b553684620857aaffeaa82430deb64ebfea783c9df6",
+    "revision_id": "14898fd0f016e4c6.c78bdfddcce0",
+    "received_on": "2026-09-07",
+    "received_on_basis": "first-observed-by-ingress",
+    "observed_at": "2026-09-07T20:00:11+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": null,
+    "change_kind": "new",
+    "declarations": {},
+    "metadata": {
+      "content_role": "mixed",
+      "actor": "multiple",
+      "purpose": "work_process",
+      "classification_basis": "inbox-mixes-input-and-generated-sections",
+      "common_input_eligible": true,
+      "occurred_on": null,
+      "occurred_on_basis": "unknown",
+      "journal_date": "2026-08-21",
+      "journal_date_basis": "directory-grouping",
+      "source_declarations": {},
+      "attribution_segments": [
+        {
+          "start_line": 12,
+          "end_line": 47,
+          "actor": "agent",
+          "basis": "explicit-marker:cockpit"
+        },
+        {
+          "start_line": 96,
+          "end_line": 125,
+          "actor": "agent",
+          "basis": "explicit-marker:morning-roaming"
+        }
+      ],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。",
+        "禁止整篇归为 Leon 原话；逐段核对说话人和来源。",
+        "标题只提示可能存在 Agent 加工，不划定整段说话人；逐段核对。明确闭合标记区另有归属线索，未标记部分不自动归属 Leon。"
+      ],
+      "references": [
+        "_agent/候选|记忆候选账本",
+        "journey/2026-08-21_Journal|Journal",
+        "journey/2026-08-21_RoutingPlan|RoutingPlan 执行回执",
+        "../../../../projects/TOC/05-业务知识/_缺口|05 缺口台账",
+        "_agent/2026-08-21_CEO信号日报_候选池|CEO 信号候选池",
+        "_agent/2026-08-21_CEO-Signal-Daily_pilot|CEO 简报草稿"
+      ],
+      "relation": null,
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-21/inbox.md",
+    "content_sha256": "14898fd0f016e4c61ede8b553684620857aaffeaa82430deb64ebfea783c9df6",
+    "metadata_sha256": "97cf809cab9259b9efd1e64fcef2550797ac057715c031a31f0c98b4bd02caa4"
+  }
+}

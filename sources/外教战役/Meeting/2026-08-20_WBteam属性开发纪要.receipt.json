@@ -1,0 +1,16 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-20T19:10:00+08:00",
+  "meeting_title": "WB team 属性开发",
+  "meeting_date": "2026-08-20",
+  "task_uuid": "76327569643431323734383830345f363335343139313530325f39",
+  "transcript_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-20/media/dws-听记-WBteam属性开发-2026-08-20.md",
+  "transcript_md5": "fb1e5c0d3023c3f5a2cc7580c2c288b1",
+  "transcript_bytes": 23834,
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-20_WBteam属性开发纪要.md",
+  "domain": "TOC",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "generator": "automation-1787024339728 / meeting-minutes skill"
+}

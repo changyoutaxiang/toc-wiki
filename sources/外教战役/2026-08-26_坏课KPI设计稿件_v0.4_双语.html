@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>坏课 KPI 设计稿件 v0.4（Q3/Q4）— Bad Lesson KPI Design v0.4</title>
+<style>
+  :root{
+    --ink:#1a2332; --ink-2:#44536b; --ink-3:#6b7a93;
+    --line:#dde4ee; --line-2:#eef2f8;
+    --bg:#ffffff; --card:#f7f9fc; --card-2:#fbfcfe;
+    --brand:#c8102e; --brand-soft:#fdf0f2;
+    --ok:#1a7f4e; --ok-soft:#e9f7f0;
+    --warn:#b07d1a; --warn-soft:#fdf6e7;
+    --info:#1f5fbf; --info-soft:#eaf1fc;
+    --mono:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;color:var(--ink);background:var(--bg);line-height:1.7;font-size:15px;}
+  .wrap{max-width:960px;margin:0 auto;padding:40px 44px 80px;}
+  .doc-head{border-bottom:3px solid var(--brand);padding-bottom:22px;margin-bottom:8px;}
+  .doc-head .kicker{display:inline-block;font-size:12px;letter-spacing:2px;color:var(--brand);font-weight:700;text-transform:uppercase;background:var(--brand-soft);padding:3px 10px;border-radius:4px;margin-bottom:14px;}
+  .doc-head h1{font-size:26px;line-height:1.4;font-weight:800;letter-spacing:.5px;}
+  .doc-head .sub{font-size:14px;color:var(--ink-2);margin-top:8px;}
+  .meta{display:flex;flex-wrap:wrap;gap:8px 26px;margin-top:16px;font-size:12.5px;color:var(--ink-3);}
+  .meta b{color:var(--ink-2);font-weight:600;}
+  .toc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:18px 22px;margin:26px 0 34px;font-size:13.5px;}
+  .toc .t{font-weight:700;font-size:13px;letter-spacing:1px;color:var(--ink-3);margin-bottom:8px;}
+  .toc ol{margin-left:18px;color:var(--ink-2);}
+  .toc li{margin:3px 0;}
+  h2{font-size:20px;font-weight:800;margin:44px 0 6px;padding-top:14px;border-top:1px solid var(--line-2);letter-spacing:.3px;}
+  h2 .no{display:inline-block;background:var(--brand);color:#fff;font-size:13px;width:24px;height:24px;line-height:24px;text-align:center;border-radius:6px;margin-right:10px;font-weight:700;vertical-align:2px;}
+  h3{font-size:15.5px;font-weight:700;margin:26px 0 8px;color:var(--ink);}
+  p{margin:8px 0;color:var(--ink-2);}
+  strong{color:var(--ink);font-weight:700;}
+  .lead{font-size:15.5px;}
+  .box{border-radius:10px;padding:16px 20px;margin:14px 0;border:1px solid;font-size:14px;}
+  .box .bt{font-weight:800;font-size:14px;margin-bottom:6px;display:flex;align-items:center;gap:8px;}
+  .box ul,.box ol{margin-left:20px;}
+  .box li{margin:4px 0;}
+  .box.tl{background:var(--ok-soft);border-color:#bfe5d0;color:#155c3a;}
+  .box.tl .bt{color:var(--ok);}
+  .box.warn{background:var(--warn-soft);border-color:#ecd9a8;color:#7a5c12;}
+  .box.warn .bt{color:var(--warn);}
+  .box.info{background:var(--info-soft);border-color:#c2d6f4;color:#164a94;}
+  .box.info .bt{color:var(--info);}
+  .box.risk{background:var(--brand-soft);border-color:#f2c3cb;color:#8f1d33;}
+  .box.risk .bt{color:var(--brand);}
+  .box.open{background:#f4f0fa;border-color:#d5c9ec;color:#5b3a94;}
+  .box.open .bt{color:#6b46c1;}
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13.5px;}
+  th{background:var(--card);text-align:left;font-weight:700;color:var(--ink);padding:9px 12px;border-bottom:2px solid var(--line);}
+  td{padding:9px 12px;border-bottom:1px solid var(--line-2);color:var(--ink-2);vertical-align:top;}
+  tr:hover td{background:var(--card-2);}
+  td .tag{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:10px;margin-right:4px;white-space:nowrap;}
+  .tag.ok{background:var(--ok-soft);color:var(--ok);}
+  .tag.warn{background:var(--warn-soft);color:var(--warn);}
+  .tag.risk{background:var(--brand-soft);color:var(--brand);}
+  .tag.info{background:var(--info-soft);color:var(--info);}
+  .tag.open{background:#f4f0fa;color:#6b46c1;}
+  .tag.done{background:#e6e9f0;color:#3c4557;}
+  .formula{font-family:var(--mono);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 16px;margin:12px 0;font-size:14px;color:var(--ink);}
+  .formula .f{font-size:17px;font-weight:700;color:var(--brand);}
+  .src{font-size:12px;color:var(--ink-3);font-style:italic;}
+  ul.clean,ol.clean{margin-left:22px;}
+  ul.clean li,ol.clean li{margin:5px 0;color:var(--ink-2);}
+  .foot{margin-top:40px;padding-top:18px;border-top:2px solid var(--line);font-size:12.5px;color:var(--ink-3);}
+  .kpi-banner{background:linear-gradient(135deg,#1a2332 0%,#2c3a54 100%);color:#fff;border-radius:12px;padding:22px 26px;margin:18px 0;}
+  .kpi-banner .kb-t{font-size:13px;letter-spacing:2px;color:#ffd9df;font-weight:700;margin-bottom:6px;}
+  .kpi-banner .kb-c{font-size:17px;font-weight:800;line-height:1.6;}
+  .kpi-banner .kb-s{font-size:13px;color:#c3cfe2;margin-top:8px;}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+  /* lang toggle */
+  #langToggle{position:fixed;top:16px;right:20px;z-index:999;background:var(--brand);color:#fff;border:none;border-radius:20px;padding:8px 18px;font-size:13px;font-weight:700;cursor:pointer;box-shadow:0 2px 10px rgba(200,16,46,.35);font-family:inherit;letter-spacing:.5px;}
+  #langToggle:hover{filter:brightness(1.1);}
+  .en{display:none;}
+  html[data-lang="en"] .en{display:inline;}
+  html[data-lang="en"] .zh{display:none;}
+  html[data-lang="en"] .en-block{display:block;}
+  html[data-lang="en"] .zh-block{display:none;}
+  html[data-lang="en"] .en-flex{display:flex;}
+  html[data-lang="en"] .zh-flex{display:none;}
+  .en-block{display:none;}
+  @media(max-width:720px){.grid2{grid-template-columns:1fr;}.wrap{padding:24px 18px 60px;} #langToggle{top:10px;right:12px;padding:6px 14px;}}
+  @media print{body{font-size:12.5px;}.wrap{max-width:100%;padding:10mm 8mm;}h2{page-break-after:avoid;}table,.box,.formula,.kpi-banner{page-break-inside:avoid;} #langToggle{display:none;}}
+</style>
+</head>
+<body data-lang="zh">
+<button id="langToggle" aria-label="Switch language">EN</button>
+<div class="wrap">
+
+  <!-- ============ HEADER ============ -->
+  <div class="doc-head">
+    <span class="kicker"><span class="zh">Discussion Draft · v0.4 · 含 Leon 主张</span><span class="en">Discussion Draft · v0.4 · Leon's Positions</span></span>
+    <h1><span class="zh">坏课 KPI 设计稿件<br>Q3 / Q4 教师侧战役指标（替代 B+/A 老师占比）</span><span class="en">Bad Lesson KPI Design<br>Q3 / Q4 Teacher-side Campaign Metric (replacing B+/A share)</span></h1>
+    <div class="sub"><span class="zh">外教战役 · 交付可靠性战役级指标 · v0.4 ③类收敛为「只抓可侦测的 P0」+ 中英双语</span><span class="en">External Teacher Campaign · delivery-reliability campaign metric · v0.4: Cat.③ narrowed to "detectable P0 only" · bilingual</span></div>
+    <div class="meta">
+      <span><b>Date</b> 2026-08-26</span>
+      <span><b>Version</b> v0.4 (discussion draft)</span>
+      <span><b>Nature</b> <span class="zh">讨论稿 · 已定项 + 少量 Open · 非生效 KPI</span><span class="en">Discussion draft · decided items + few open · not an active KPI</span></span>
+      <span><b>Drafted</b> COO (Leon side)</span>
+      <span><b>Align with</b> Jennifer / Katherine / Haixuan / Lily / HR / dual commanders</span>
+    </div>
+  </div>
+
+  <!-- ============ TOC ============ -->
+  <div class="toc">
+    <div class="t"><span class="zh">目录</span><span class="en">Contents</span></div>
+    <ol>
+      <li><span class="zh">执行摘要（结论先行）</span><span class="en">Executive Summary</span></li>
+      <li><span class="zh">背景与共识：为什么换尺</span><span class="en">Background &amp; Consensus</span></li>
+      <li><span class="zh">设计原则：坏课第一准则 + 四条不变量</span><span class="en">Design Principles: P0 + 4 Invariants</span></li>
+      <li><span class="zh">定义盒子：三大类（纪律 / 稳定 / 行为）</span><span class="en">Definition Box: 3 Categories</span></li>
+      <li><span class="zh">学生反馈类：探针 + 质检触发（不纳入）</span><span class="en">Student Feedback: Probe + QC Trigger (excluded)</span></li>
+      <li><span class="zh">数学口径：分子 · 分母 · 分市场 · 千分位</span><span class="en">Metrics: Numerator · Denominator · By Market · Per Mille</span></li>
+      <li><span class="zh">数据源与验证链路</span><span class="en">Data Sources &amp; Verification</span></li>
+      <li><span class="zh">目标值与节奏：Q3 定基线，Q4 挂目标</span><span class="en">Targets &amp; Cadence</span></li>
+      <li><span class="zh">与 H2 好老师标准 / B+/A 的关系</span><span class="en">Relation to H2 Good-Teacher Standard / B+/A</span></li>
+      <li><span class="zh">护栏与风险（9 条）</span><span class="en">Guardrails &amp; Risks (9)</span></li>
+      <li><span class="zh">落地路径与分工</span><span class="en">Roadmap &amp; Ownership</span></li>
+      <li><span class="zh">已拍板 / 待拍板 / Open 问题</span><span class="en">Decided / Pending / Open Items</span></li>
+    </ol>
+  </div>
+
+  <!-- ============ 1 EXEC SUMMARY ============ -->
+  <h2><span class="no">1</span><span class="zh">执行摘要（结论先行）</span><span class="en">Executive Summary</span></h2>
+
+  <div class="kpi-banner">
+    <div class="kb-t"><span class="zh">推荐 KPI 形态（一句话）</span><span class="en">Recommended KPI (one sentence)</span></div>
+    <div class="kb-c"><span class="zh">Q3/Q4 将「坏课率」确立为外教战役级交付可靠性指标（战役成败指标，非个人 KPI）：坏课率 = 坏课课次 ÷ 应交付约课课次，定义盒子只装「客观有标准且可侦测的坏」——①老师纪律 ②课堂稳定 ③教学行为（只抓可侦测的 P0）；学生反馈类不纳入、定位为探针，分市场呈现，Q3 冻结定义与基线、Q4 挂目标，千分位展示。</span><span class="en">For Q3/Q4, establish the "Bad Lesson Rate" as the campaign-level delivery-reliability metric (campaign metric, NOT individual KPI): Bad Lesson Rate = bad lesson count ÷ lessons scheduled for delivery. The definition box contains only "objectively definable &amp; detectable bad" — ① Teacher Discipline ② Classroom Stability ③ Teaching Conduct (detectable P0 only). Student feedback is excluded and positioned as a probe. Presented by market. Q3 freezes definition + baseline; Q4 sets targets. Per-mille display.</span></div>
+    <div class="kb-s"><span class="zh">取代：B+/A 老师占比（已降为入门尺）｜性质：与 H2 好老师客户尺（30 天验证）同源互补、不打架</span><span class="en">Replaces: B+/A teacher share (demoted to entry-level ruler) | Complementary to, not conflicting with, the H2 good-teacher customer ruler (30-day validation)</span></div>
+  </div>
+
+  <p class="lead"><span class="zh"><strong>为什么是坏课率：</strong>各市场结论一致，用户投诉/不满最大来源是交付不稳定（老师缺席 + 电脑/网络设备两类，约 70–80%）；坏课率客观、可测量、客户价值直接相关（"bad lesson is customer value"）；而好老师数量客观性存疑、难影响。当前主要工作——坏课治理原子小队（海璇）、王韬的 initiative、TIDE 防坏老师——全部围绕坏课，KPI 必须呼应战场。</span><span class="en"><strong>Why bad lesson rate:</strong> Across markets, the #1 source of complaints/dissatisfaction is delivery instability (teacher absence + computer/network issues, ~70–80%). Bad lesson rate is objective, measurable, and directly tied to customer value ("bad lesson is customer value"). "Good teacher count" is subjective and hard to influence. Current work — the Bad-Lesson Governance Atomic Squad (Haixuan), Tao Wang's initiative, and TIDE preventing bad teachers — all centers on bad lessons; the KPI must mirror the battlefield.</span></p>
+
+  <table>
+    <tr><th style="width:150px"><span class="zh">设计要点</span><span class="en">Design Point</span></th><th><span class="zh">推荐方案（v0.4）</span><span class="en">Recommendation (v0.4)</span></th></tr>
+    <tr><td><strong><span class="zh">坏课第一准则</span><span class="en">P0 rule</span></strong></td><td><span class="tag ok"><span class="zh">Leon 主张 · 已定</span><span class="en">Leon's position · decided</span></span> <span class="zh">「坏」必须是<strong>客观有标准且可侦测的坏</strong>——无标准或难准确侦测的（反例：老师上课无精打采）不进入坏课范畴</span><span class="en">"Bad" must be <strong>objectively definable and detectable</strong> — anything without a clear standard or reliable detection (e.g., a teacher looking listless) stays out of the definition box.</span></td></tr>
+    <tr><td><strong><span class="zh">指标形态</span><span class="en">KPI shape</span></strong></td><td><span class="zh">坏课率（战役看率，千分位 <span class="tag ok">已确认</span>）+ 坏课量（小队/运营看量）双轨</span><span class="en">Dual-track: rate for campaign (per mille, <span class="tag ok">confirmed</span>) + volume for squad/ops</span></td></tr>
+    <tr><td><strong><span class="zh">定义盒子（三类）</span><span class="en">Definition box (3 categories)</span></strong></td><td><span class="zh">① 老师纪律类（缺席/迟到/早退，纯客观）② 课堂稳定类（电脑/网络，客观，挑战=标准与精确测量）③ 教学行为类（<strong>只抓可侦测的 P0</strong>：AI 视觉可侦测的红线行为）</span><span class="en">① Teacher Discipline (absence/late/early-leave; fully objective) ② Classroom Stability (computer/network; objective; challenge = standards &amp; precise measurement) ③ Teaching Conduct (<strong>detectable P0 only</strong>: red-line behaviors AI vision can catch)</span></td></tr>
+    <tr><td><strong><span class="zh">学生反馈类</span><span class="en">Student feedback</span></strong></td><td><span class="tag ok"><span class="zh">Leon 主张 · 已定：不纳入</span><span class="en">Leon's position · decided: excluded</span></span> <span class="zh">定位为<strong>探针（持续洞察客户对什么不满）+ 质检触发</strong>，不放入坏课</span><span class="en">Positioned as <strong>probe (ongoing insight into what customers dislike) + QC trigger</strong>; not part of the bad-lesson box.</span></td></tr>
+    <tr><td><strong><span class="zh">分子</span><span class="en">Numerator</span></strong></td><td><span class="zh">①②③类盒内事件，按课程/约课唯一 ID 去重后的坏课课次（多事件计 1 节）</span><span class="en">Box events in ①②③, deduplicated by lesson/booking unique ID (multiple events on one lesson = 1 bad lesson)</span></td></tr>
+    <tr><td><strong><span class="zh">分母</span><span class="en">Denominator</span></strong></td><td><span class="zh">应交付约课课次（开课窗口内未取消、老师承担交付责任的课次）——不是完课数，避免缺席课次逃逸分母</span><span class="en">Lessons scheduled for delivery (not canceled within window, with teacher delivery responsibility) — NOT completed-lesson count, so absences stay in the denominator</span></td></tr>
+    <tr><td><strong><span class="zh">分市场</span><span class="en">By market</span></strong></td><td><span class="tag ok"><span class="zh">已确认</span><span class="en">Confirmed</span></span> <span class="zh">domestic / overseas（可选中东）拆分——不同地区「严重程度」与「可干预程度」不同</span><span class="en">Split domestic / overseas (Middle East optional) — severity and intervention-ability differ by region</span></td></tr>
+    <tr><td><strong><span class="zh">节奏</span><span class="en">Cadence</span></strong></td><td><span class="zh">9 月（Q3 尾）冻结定义 + 冻结基线 → Q4 初按「两个 lie」框架定目标值挂 KPI</span><span class="en">Sep (Q3 end): freeze definition + baseline → Early Q4: set targets via "two-lie" framework and formally propose KPI</span></td></tr>
+    <tr><td><strong><span class="zh">前置红线</span><span class="en">Precondition</span></strong></td><td><span class="zh">无正式基线不可挂目标；数据 owner 须给有覆盖证明的源表（当前 Hive 预检 0 行、7 月 1.5 万节为口头未核验）</span><span class="en">No target without a validated baseline; data owner must provide source tables with coverage proof (Hive pre-check returned 0 rows; Jul ~15k absences is verbal, unverified)</span></td></tr>
+  </table>
+
+  <div class="box warn">
+    <div class="bt">⚠️ <span class="zh">本稿件为讨论稿，不是已生效 KPI</span><span class="en">Discussion draft — not an active KPI</span></div>
+    <span class="zh">已按 Leon 主张定稿的核心口径：坏=客观有标准且可侦测；③类只抓可侦测的 P0；学生反馈类不纳入（探针 + 质检触发）。仍待拍板：③类行为清单、②类阈值、目标值与节奏（见第 12 节）。与 Jennifer（双主帅之一）、Lily（数据源）、HR（现口径）对齐后方可向公司提议。</span><span class="en">Core definitions fixed per Leon's positions: bad = objectively definable &amp; detectable; Cat.③ = detectable P0 only; student feedback excluded (probe + QC trigger). Still pending: Cat.③ behavior list, Cat.② thresholds, targets &amp; cadence (see §12). Must align with Jennifer (co-commander), Lily (data), HR (current definition) before proposing to the company.</span>
+  </div>
+
+  <!-- ============ 2 BACKGROUND ============ -->
+  <h2><span class="no">2</span><span class="zh">背景与共识：为什么换尺</span><span class="en">Background &amp; Consensus: Why Change the Ruler</span></h2>
+
+  <h3>2.1 <span class="zh">昨天（8/25）与 Jen 的会议共识</span><span class="en">Consensus with Jen (8/25)</span></h3>
+  <p><span class="zh">在「Teacher event and KPI」会上（参与者：王东 / Jennifer / Katherine / 曲建菲），Q3/Q4 教师侧 KPI 重构形成共识：<strong>用 bad lesson rate 替代 A/B+ 老师数量</strong>。Q3 已结束但 KPI 未定稿（HR 在催），新教师培训营 9 月（Q4）开始计入。王东澄清：<strong>这不是个人 KPI，是整个战役衡量成败的量和率</strong>。</span><span class="en">At the "Teacher event and KPI" meeting (Leon / Jennifer / Katherine / Jianfei Qu), consensus was reached to <strong>replace A/B+ teacher count with the bad lesson rate</strong> for Q3/Q4. Q3 is over but the KPI was never finalized (HR is chasing it); the new teacher training camp starts counting in September (Q4). Leon clarified: <strong>this is not an individual KPI — it is the campaign-level volume and rate that measures success</strong>.</span></p>
+
+  <table>
+    <tr><th><span class="zh">换尺理由</span><span class="en">Why</span></th><th><span class="zh">依据</span><span class="en">Evidence</span></th></tr>
+    <tr><td>① <span class="zh">与当前工作一致</span><span class="en">Mirrors current work</span></td><td><span class="zh">海璇原子小队坏课项目、王韬 initiative、TIDE 防坏老师——都在打坏课，KPI 需呼应</span><span class="en">Haixuan's squad, Tao Wang's initiative, TIDE — all fight bad lessons; the KPI must mirror them</span></td></tr>
+    <tr><td>② <span class="zh">客户价值直接</span><span class="en">Direct customer value</span></td><td><span class="zh">各市场一致：用户投诉/不满最大来源是交付不稳定（缺席 + 设备网络，约 70–80%）</span><span class="en">Across markets: #1 complaint is delivery instability (absence + device/network, ~70–80%)</span></td></tr>
+    <tr><td>③ <span class="zh">客观可测量</span><span class="en">Objective &amp; measurable</span></td><td><span class="zh">"bad lesson is customer value"；好老师数量不客观、难影响</span><span class="en">"Bad lesson is customer value"; good-teacher count is not objective and hard to influence</span></td></tr>
+    <tr><td>④ <span class="zh">两三个月可做很多</span><span class="en">Movable in 2–3 months</span></td><td><span class="zh">坏课可快速影响；好老师（口音/评级）难在短周期改变</span><span class="en">Bad lessons can be moved quickly; good-teacher metrics are hard to shift in one quarter</span></td></tr>
+  </table>
+
+  <h3>2.2 <span class="zh">历史沿革</span><span class="en">How we got here</span></h3>
+  <ul class="clean">
+    <li><strong>6/29 KPI Catch-up:</strong> <span class="zh">放弃 B+/A 作为核心 KPI；确立三块可感知指标——坏课率 + 学生投票 + 合规。坏课初版定义：四害（迟到/早退/缺勤/黑屏）+ 设备 + 网络。</span><span class="en">Abandoned B+/A as core KPI; set three perceivable metrics — bad lesson rate + student voting + compliance. Initial definition: four harms (late/early-leave/absence/black screen) + device + network.</span></li>
+    <li><strong>7/13 CEO H2 Directive:</strong> <span class="zh">最终战果 = 经 30 天真实授课与客户反馈验证、持续创造客户价值的好老师数量及占比；B+/A 降为入门尺。权重须跨部门共签，不能外教团队自己给自己打分。</span><span class="en">Final outcome = count &amp; share of good teachers validated by ~30 days of real teaching + customer feedback; B+/A demoted to entry-level ruler. Weights must be co-signed across departments, not self-scored by the campaign team.</span></li>
+    <li><strong>7/28 Five-dimension design:</strong> <span class="zh">好老师五维 = 用户反馈 / 可靠性 / 硬件质量 / 有效供给 / 成长任务。</span><span class="en">Five dimensions = user feedback / reliability / hardware quality / effective supply / growth tasks.</span></li>
+    <li><strong>8/14 Bad-Lesson Atomic Squad filing:</strong> <span class="zh">DRI 曹海璇，首期只做「课中老师缺席」的实时客户保护；测量合同已成型。</span><span class="en">DRI Haixuan Cao; Phase 1 = real-time customer protection for mid-class teacher absence; measurement contract already built.</span></li>
+    <li><strong>8/26 Leon input (v0.2):</strong> <span class="zh">定义盒子四大类 + 客观性梯度；分市场、千分位确认。</span><span class="en">Four-category box with objectivity gradient; by-market and per-mille confirmed.</span></li>
+    <li><strong>8/26 Leon positions (v0.3/v0.4):</strong> <span class="zh">① 坏=客观有标准且可侦测；② 学生主观反馈不纳入坏课（探针 + 质检触发）；③ 教学行为类只抓可侦测的 P0（AI 有视觉能力）。</span><span class="en">① Bad = objectively definable &amp; detectable; ② student subjective feedback excluded (probe + QC trigger); ③ Teaching Conduct = detectable P0 only (AI vision available).</span></li>
+  </ul>
+  <p class="src"><span class="zh">来源：8/25 会议纪要、6/29 KPI Catch-up 纪要、FT-STD-002 好老师标准卡、坏课治理原子小队备案 v0.1、Leon 8/26 输入与主张</span><span class="en">Sources: 8/25 meeting notes, 6/29 KPI Catch-up notes, FT-STD-002, atomic squad filing v0.1, Leon's 8/26 inputs &amp; positions</span></p>
+
+  <!-- ============ 3 PRINCIPLES ============ -->
+  <h2><span class="no">3</span><span class="zh">设计原则：坏课第一准则 + 四条不变量</span><span class="en">Design Principles: P0 Rule + 4 Invariants</span></h2>
+
+  <div class="kpi-banner" style="background:linear-gradient(135deg,#8f1d33 0%,#c8102e 100%);">
+    <div class="kb-t">P0 · <span class="zh">坏课第一准则（Leon 主张 · 已定）</span><span class="en">Bad-Lesson First Rule (Leon's position · decided)</span></div>
+    <div class="kb-c"><span class="zh">「坏」必须是<strong>客观有标准且可侦测的坏</strong>。</span><span class="en">"Bad" must be <strong>objectively definable and detectable</strong>.</span></div>
+    <div class="kb-s"><span class="zh">反例：老师上课无精打采——很难纳入坏课范畴，因为很难有标准，也不容易准确侦测。不符合「客观有标准 + 可准确侦测」的，一律不进入坏课盒子；先过 P0 这一关，再谈其他。</span><span class="en">Counter-example: a teacher looking listless — hard to include because there's no clear standard and it's not reliably detectable. Anything failing "objectively definable + reliably detectable" stays out of the box; pass P0 first, then everything else.</span></div>
+  </div>
+
+  <table>
+    <tr><th style="width:200px"><span class="zh">原则</span><span class="en">Principle</span></th><th><span class="zh">含义</span><span class="en">Meaning</span></th><th style="width:130px"><span class="zh">对应正本</span><span class="en">Source</span></th></tr>
+    <tr><td><strong>P0 <span class="zh">客观有标准且可侦测</span><span class="en">Objectively definable &amp; detectable</span></strong></td><td><span class="zh">坏课准入门槛（Leon 主张）：每个事件必须有明确判定标准 + 可靠侦测手段；无标准或难侦测的（无精打采、态度冷场等）不进入盒子</span><span class="en">Entry bar for bad lessons (Leon): every event needs a clear standard + reliable detection; vague or undetectable ones stay out</span></td><td><span class="zh">Leon 8/26 主张</span><span class="en">Leon 8/26 position</span></td></tr>
+    <tr><td><strong>P1 <span class="zh">客户可感知</span><span class="en">Customer-perceivable</span></strong></td><td><span class="zh">只统计学生真实经历到的「承诺未兑现」</span><span class="en">Count only broken promises the student actually experiences</span></td><td><span class="zh">基本法第 1 条</span><span class="en">Basic Law #1</span></td></tr>
+    <tr><td><strong>P2 <span class="zh">可影响</span><span class="en">Actionable</span></strong></td><td><span class="zh">只放老师/系统动作能改变的项</span><span class="en">Only items teacher/system actions can change</span></td><td><span class="zh">8/25 会议</span><span class="en">8/25 meeting</span></td></tr>
+    <tr><td><strong>P3 <span class="zh">可测量</span><span class="en">Measurable</span></strong></td><td><span class="zh">每个事件有客观数据源/信号，可复核、可回放；无信号不硬造</span><span class="en">Each event has an objective data source, reviewable &amp; replayable; no signal = don't fabricate</span></td><td>FT-RISK-003</td></tr>
+    <tr><td><strong>P4 <span class="zh">防 Goodhart</span><span class="en">Anti-Goodhart</span></strong></td><td><span class="zh">指标服务客户结果，不是报表装饰；配量/分母护栏</span><span class="en">Metric serves customer outcomes, not dashboard decoration; volume/denominator guardrails</span></td><td><span class="zh">四化宪法第 7 条</span><span class="en">Sihua Constitution #7</span></td></tr>
+  </table>
+
+  <!-- ============ 4 DEFINITION BOX ============ -->
+  <h2><span class="no">4</span><span class="zh">定义盒子：三大类（P0 过滤后）</span><span class="en">Definition Box: 3 Categories (after P0 filter)</span></h2>
+  <p><span class="zh">定义盒子是坏课 KPI 的<strong>唯一事实源</strong>（对齐 HR/Lily/数据侧后冻结）。按 P0 准则过滤后，一期盒子为<strong>三大类</strong>；学生反馈类按 Leon 主张不纳入（第 5 节）。</span><span class="en">The definition box is the <strong>single source of truth</strong> for the KPI (frozen after aligning HR/Lily/data). After the P0 filter, the Phase-1 box has <strong>three categories</strong>; student feedback is excluded per Leon's position (§5).</span></p>
+
+  <table>
+    <tr>
+      <th style="width:120px"><span class="zh">类别</span><span class="en">Category</span></th>
+      <th style="width:200px"><span class="zh">事件（候选）</span><span class="en">Events (candidate)</span></th>
+      <th style="width:130px"><span class="zh">客观性 / P0 符合度</span><span class="en">Objectivity / P0 fit</span></th>
+      <th><span class="zh">挑战点</span><span class="en">Challenges</span></th>
+      <th style="width:110px"><span class="zh">一期状态</span><span class="en">Phase-1 status</span></th>
+    </tr>
+    <tr>
+      <td><strong>① <span class="zh">老师纪律类</span><span class="en">Teacher Discipline</span></strong><br><span style="font-size:12px;color:var(--ink-3)">Attendance / Discipline</span></td>
+      <td><span class="zh">缺席（no-show）、课中缺席、迟到、早退</span><span class="en">No-show, mid-class absence, late, early leave</span></td>
+      <td><span class="tag ok"><span class="zh">纯客观</span><span class="en">Fully objective</span></span> <span class="zh">完全符合 P0</span><span class="en">fully P0-compliant</span></td>
+      <td><span class="zh">阈值定义（迟到 &gt;5 分钟？）；事件确认（人工/自动）；改判（平台故障 vs 老师责任）；课中缺席复用原子小队测量合同</span><span class="en">Thresholds (late &gt;5 min?); event confirmation (manual/auto); adjudication (platform vs teacher fault); reuse squad measurement contract for mid-class absence</span></td>
+      <td><span class="tag ok"><span class="zh">一期纳入</span><span class="en">Included</span></span></td>
+    </tr>
+    <tr>
+      <td><strong>② <span class="zh">课堂稳定类</span><span class="en">Classroom Stability</span></strong><br><span style="font-size:12px;color:var(--ink-3)">Computer / Network</span></td>
+      <td><span class="zh">黑屏/无画面、无声、断连中断、严重卡顿</span><span class="en">Black screen, no audio, disconnection, severe lag</span></td>
+      <td><span class="tag ok"><span class="zh">客观</span><span class="en">Objective</span></span> <span class="zh">符合 P0，<strong>标准阈值待冻结</strong></span><span class="en">P0-compliant, <strong>thresholds to freeze</strong></span></td>
+      <td><span class="zh"><strong>如何设计标准 + 如何精确测量</strong>：多严重算坏课（断连 &gt;X 秒？黑屏 &gt;X 分钟？）；设备分 3500 是准入线、课中动态问题是另一套口径；信号归属（设备 vs 网络 vs 平台 vs 学生侧）</span><span class="en"><strong>Standards + precise measurement</strong>: how severe = bad (disconnect &gt;X s? black screen &gt;X min?); device score 3500 is the entry line, in-class dynamics need a separate definition; attribution (device vs network vs platform vs student side)</span></td>
+      <td><span class="tag ok"><span class="zh">一期纳入</span><span class="en">Included</span></span><br><span style="font-size:12px;color:var(--ink-3)"><span class="zh">标准待冻结</span><span class="en">thresholds TBD</span></span></td>
+    </tr>
+    <tr>
+      <td><strong>③ <span class="zh">教学行为类</span><span class="en">Teaching Conduct</span></strong><br><span style="font-size:12px;color:var(--ink-3)">Red-line Behavior</span></td>
+      <td><span class="zh"><strong>只抓可侦测的 P0</strong>：AI 视觉/音频可侦测的红线行为（裸露、吃东西等）<br><strong>不纳入</strong>：打哈欠、无精打采等标准模糊/难侦测的行为</span><span class="en"><strong>Detectable P0 only</strong>: red-line behaviors AI vision/audio can catch (exposure, eating, etc.)<br><strong>Excluded</strong>: yawning, listlessness — vague standards / hard to detect</span></td>
+      <td><span class="tag ok"><span class="zh">偏客观</span><span class="en">Mostly objective</span></span> <span class="zh"><strong>以 AI 侦测能力为边界</strong>（Leon：现在 AI 有视觉能力，不少问题能侦测）</span><span class="en"><strong>Bounded by AI detectability</strong> (Leon: AI now has vision; many issues can be caught)</span></td>
+      <td><span class="zh"><strong>准确侦测</strong>：AI 侦测的误报漏报；隐私与合规边界；人工复核比例；行为清单以「可侦测」为准逐项过筛，不是"想抓什么抓什么"</span><span class="en"><strong>Accurate detection</strong>: false pos/neg; privacy &amp; compliance; human-review ratio; behavior list screened by detectability — not "whatever we want to catch"</span></td>
+      <td><span class="tag ok"><span class="zh">一期纳入（可侦测 P0 子集）</span><span class="en">Included (detectable P0 subset)</span></span><br><span style="font-size:12px;color:var(--ink-3)"><span class="zh">清单待 AI 侧评估</span><span class="en">list pending AI-side eval</span></span></td>
+    </tr>
+    <tr>
+      <td><strong>④ <span class="zh">学生反馈类</span><span class="en">Student Feedback</span></strong><br><span style="font-size:12px;color:var(--ink-3)">Complaints / Block / Bad review</span></td>
+      <td><span class="zh">投诉、拉黑、差评</span><span class="en">Complaints, blocking, bad reviews</span></td>
+      <td><span class="tag done"><span class="zh">主观</span><span class="en">Subjective</span></span> <span class="zh"><strong>不符合 P0</strong>：主观、不均匀、可被干预</span><span class="en"><strong>Fails P0</strong>: subjective, uneven, manipulable</span></td>
+      <td><span class="zh">不纳入坏课；定位为探针 + 质检触发（第 5 节）</span><span class="en">Excluded; positioned as probe + QC trigger (§5)</span></td>
+      <td><span class="tag done"><span class="zh">不纳入（已定）</span><span class="en">Excluded (decided)</span></span></td>
+    </tr>
+  </table>
+
+  <div class="box info">
+    <div class="bt">🔗 <span class="zh">与坏课治理原子小队（曹海璇）事件范围的关系——KPI 口径 ≠ 小队事件口径</span><span class="en">Relation to Bad-Lesson Atomic Squad (Haixuan Cao) — KPI scope ≠ squad event scope</span></div>
+    <ul class="clean">
+      <li><span class="zh"><strong>小队首期定义极窄</strong>：只做「课中老师缺席」一种事件（备案 §2.2 明确排除网络/设备、迟到早退等）。</span><span class="en"><strong>Squad Phase-1 is narrow</strong>: only mid-class teacher absence (filing §2.2 explicitly excludes network/device, late/early, etc.).</span></li>
+      <li><span class="zh"><strong>KPI 盒子更宽</strong>：①②③三类——战役指标覆盖投诉 70–80% 主因。</span><span class="en"><strong>KPI box is wider</strong>: ①②③ — campaign metric covers 70–80% of complaints.</span></li>
+      <li><span class="zh"><strong>共用测量合同</strong>：分子去重、事件确认 → 改判 → 申诉全链复用小队成果。</span><span class="en"><strong>Shared measurement contract</strong>: dedup, confirm → adjudicate → appeal chain reuses squad's work.</span></li>
+      <li><span class="zh"><strong>防误读</strong>：不得以「KPI 盒子宽」推断小队失职，也不得以「小队只做课中缺席」推断 KPI 不应含其他类别。</span><span class="en"><strong>Avoid misreading</strong>: wide KPI box ≠ squad negligence; narrow squad scope ≠ KPI should exclude other categories.</span></li>
+    </ul>
+  </div>
+
+  <div class="box warn">
+    <div class="bt">⚠️ <span class="zh">口径边界（与 HR/数据侧对齐）</span><span class="en">Definition boundaries (align HR/data)</span></div>
+    <span class="zh">①「坏课」= ①②③类盒内；后续按事件合同扩容；② 与 HR 对齐定义（HR 现从 Lily 拿数，两方同源）；③ 新师 vs 存量分开归因。</span><span class="en">① Bad lesson = box ①②③; expand later via event contracts; ② align definition with HR (HR currently gets data from Lily — must be same source); ③ attribute new-teacher vs existing-teacher separately.</span>
+  </div>
+
+  <!-- ============ 5 STUDENT FEEDBACK ============ -->
+  <h2><span class="no">5</span><span class="zh">学生反馈类：Leon 主张不纳入，定位为「探针 + 质检触发」</span><span class="en">Student Feedback: Leon's Position — Excluded, Positioned as "Probe + QC Trigger"</span></h2>
+
+  <div class="kpi-banner" style="background:linear-gradient(135deg,#164a94 0%,#1f5fbf 100%);">
+    <div class="kb-t"><span class="zh">Leon 主张 · 已定：客户主观反馈不纳入坏课</span><span class="en">Leon's position · decided: customer subjective feedback is not a bad lesson</span></div>
+    <div class="kb-c"><span class="zh">投诉、拉黑、差评——<strong>不进坏课</strong>。它是很好的<strong>探针</strong>：让我们对「客户对什么不满」保持持续洞察；它可以<strong>触发质检</strong>；但它不应该放入坏课。</span><span class="en">Complaints, blocking, bad reviews — <strong>not bad lessons</strong>. They are a great <strong>probe</strong>: ongoing insight into "what customers are dissatisfied with"; they can <strong>trigger QC</strong>; but they should not be inside the bad-lesson box.</span></div>
+    <div class="kb-s"><span class="zh">三条理由：① 客户主观；② 不均匀（评价率仅 30–40%、样本偏）；③ 可被干预（恶意差评 / 刷分 / 曝光分配污染）</span><span class="en">Three reasons: ① subjective; ② uneven (only 30–40% evaluation rate, biased sample); ③ manipulable (malicious reviews / gaming / exposure-allocation pollution)</span></div>
+  </div>
+
+  <h3>5.1 <span class="zh">为什么主观反馈不能进坏课（P0 的必然推论）</span><span class="en">Why subjective feedback fails P0</span></h3>
+  <ul class="clean">
+    <li><span class="zh"><strong>主观</strong>：口味、期望、心情差异大；同一行为不同客户结论不同——无法形成统一标准</span><span class="en"><strong>Subjective</strong>: tastes/expectations/moods differ; no uniform standard possible</span></li>
+    <li><span class="zh"><strong>不均匀</strong>：评价率仅 30–40%；拉黑/差评受曝光分配影响（好老师前置会抬高其客户指标——H2 已标测量悖论）</span><span class="en"><strong>Uneven</strong>: only 30–40% rate; block/bad-review skewed by exposure allocation (better placement inflates customer metrics — H2 flags this measurement paradox)</span></li>
+    <li><span class="zh"><strong>可被干预</strong>：恶意差评、老师刷分——一旦进 KPI 就有操纵动机</span><span class="en"><strong>Manipulable</strong>: malicious reviews, gaming — entering a KPI creates manipulation incentives</span></li>
+  </ul>
+
+  <h3>5.2 <span class="zh">探针与质检触发的落地机制</span><span class="en">How the probe &amp; QC trigger work</span></h3>
+  <table>
+    <tr><th style="width:190px"><span class="zh">位子</span><span class="en">Role</span></th><th><span class="zh">做法</span><span class="en">How</span></th></tr>
+    <tr>
+      <td><strong>① <span class="zh">探针：持续洞察</span><span class="en">Probe: ongoing insight</span></strong></td>
+      <td><span class="zh">投诉/拉黑/差评的<strong>主题聚类与趋势</strong>作为经营洞察看板——回答"客户最近对什么不满"，驱动治理方向与产品改进。坏课率复盘必须对照探针看（率降了但客户仍不满 → 说明口径没打到真问题）。</span><span class="en"><strong>Thematic clustering &amp; trends</strong> of complaints/blocks/bad reviews as an insight dashboard — answers "what are customers unhappy about lately" and drives governance and product. Bad-lesson review MUST be read against the probe (rate down but customers still unhappy → the definition missed the real problem).</span></td>
+    </tr>
+    <tr>
+      <td><strong>② <span class="zh">质检触发</span><span class="en">QC trigger</span></strong></td>
+      <td><span class="zh">投诉/差评 → <strong>触发质检/人工复核</strong> → 核验成立且对应①②③类客观事件 → 该课次按对应类别<strong>正常计入分子</strong>（按课程 ID 去重）。即主观反馈是<strong>发现机制</strong>，不是分子本体。</span><span class="en">Complaint/bad review → <strong>trigger QC/human review</strong> → if confirmed and matches an ①②③ event → count the lesson in that category's numerator (dedup by lesson ID). Subjective feedback is a <strong>discovery mechanism</strong>, not the numerator itself.</span></td>
+    </tr>
+    <tr>
+      <td><strong>③ <span class="zh">归 H2 客户尺</span><span class="en">To H2 customer ruler</span></strong></td>
+      <td><span class="zh">与纪律/稳定/行为无关的体验反馈（口音、风格、级别错配）→ 归 H2 好老师客户尺（用户反馈维）与师生匹配。</span><span class="en">Non-discipline/stability/conduct feedback (accent, style, level mismatch) → goes to the H2 good-teacher customer ruler (user-feedback dimension) and matching.</span></td>
+    </tr>
+  </table>
+
+  <div class="box info">
+    <div class="bt">📌 <span class="zh">一句话总结</span><span class="en">In one sentence</span></div>
+    <strong><span class="zh">坏课率管「客观的坏」；学生反馈管「客户的不满」——前者是 KPI，后者是探针。两者对照使用：坏课率下降而探针仍亮，说明有口径外的问题；探针触发质检后，把客观证据回填进坏课率。</span><span class="en">The bad-lesson rate governs "objective bad"; student feedback governs "customer dissatisfaction" — the former is the KPI, the latter the probe. Read them together: rate down but probe still lit = problems outside the definition; after QC is triggered, verified objective evidence flows back into the rate.</span></strong>
+  </div>
+
+  <!-- ============ 6 METRICS ============ -->
+  <h2><span class="no">6</span><span class="zh">数学口径：分子 · 分母 · 分市场 · 千分位</span><span class="en">Metrics: Numerator · Denominator · By Market · Per Mille</span></h2>
+
+  <div class="formula">
+    <span class="f"><span class="zh">坏课率</span><span class="en">Bad Lesson Rate</span></span> = <span class="zh">坏课课次（①②③类，按课程/约课唯一 ID 去重）</span><span class="en">bad lessons (①②③, dedup by lesson/booking ID)</span> ÷ <span style="color:var(--info)"><span class="zh">应交付约课课次</span><span class="en">lessons scheduled for delivery</span></span><br>
+    <span style="font-size:12.5px;color:var(--ink-3)"><span class="zh">分母 = 开课窗口内未取消、老师承担交付责任的课次；不是完课数——缺席课次必须留在分母里，否则率被稀释</span><span class="en">Denominator = lessons not canceled within window, with teacher delivery responsibility; NOT completed count — absences must stay in the denominator</span></span>
+  </div>
+
+  <table>
+    <tr><th style="width:170px"><span class="zh">决策点</span><span class="en">Decision</span></th><th><span class="zh">选项</span><span class="en">Options</span></th><th><span class="zh">推荐</span><span class="en">Recommendation</span></th></tr>
+    <tr><td><strong><span class="zh">率 vs 量</span><span class="en">Rate vs volume</span></strong></td><td><span class="zh">A. 只看率；B. 只看量；C. 双轨</span><span class="en">A. rate only; B. volume only; C. both</span></td><td><span class="tag ok"><span class="zh">推荐 C</span><span class="en">C recommended</span></span> <span class="zh">战役率 + 小队量（绝对课次 + rebook）</span><span class="en">campaign rate + squad volume (absolute count + rebook)</span></td></tr>
+    <tr><td><strong><span class="zh">分市场</span><span class="en">By market</span></strong></td><td><span class="zh">A. 合并；B. 拆分</span><span class="en">A. combined; B. split</span></td><td><span class="tag ok"><span class="zh">已确认 B</span><span class="en">B confirmed</span></span> <span class="zh">domestic / overseas（可选中东）——严重程度与可干预程度因地区而异</span><span class="en">domestic / overseas (ME optional) — severity &amp; intervention-ability differ by region</span></td></tr>
+    <tr><td><strong><span class="zh">千分位</span><span class="en">Per mille</span></strong></td><td><span class="zh">百分比 / 千分位 / 万分位</span><span class="en">% / per mille / per 10k</span></td><td><span class="tag ok"><span class="zh">已确认千分位</span><span class="en">Per mille confirmed</span></span> <span class="zh">万分位辅助；周滚动 + 月度冻结值，附量防失真</span><span class="en">per-10k as support; weekly rolling + monthly frozen, with volume to prevent distortion</span></td></tr>
+    <tr><td><strong><span class="zh">分母定义</span><span class="en">Denominator</span></strong></td><td><span class="zh">总约课 / 完课数 / 应交付课次</span><span class="en">total bookings / completed / scheduled-for-delivery</span></td><td><span class="tag ok"><span class="zh">应交付课次（推荐）</span><span class="en">scheduled-for-delivery (rec.)</span></span> <span class="zh">缺席课次不逃逸分母</span><span class="en">absences stay in denominator</span></td></tr>
+    <tr><td><strong><span class="zh">粒度与去重</span><span class="en">Granularity &amp; dedup</span></strong></td><td><span class="zh">课程/约课唯一 ID 一行一课</span><span class="en">one row per lesson/booking ID</span></td><td><span class="tag ok"><span class="zh">对齐小队测量合同</span><span class="en">align squad contract</span></span> <span class="zh">多事件计 1 节；事件类型分别留痕</span><span class="en">multi-event = 1 bad lesson; event types logged separately</span></td></tr>
+    <tr><td><strong><span class="zh">类别分率</span><span class="en">Category rates</span></strong></td><td><span class="zh">只出总率 / 按类别出分率</span><span class="en">total only / by category</span></td><td><span class="tag ok"><span class="zh">总率 + 分类率双出</span><span class="en">total + category</span></span> <span class="zh">定位杠杆与责任</span><span class="en">to locate leverage &amp; accountability</span></td></tr>
+  </table>
+
+  <div class="box info">
+    <div class="bt">📌 <span class="zh">与好老师客户尺的时滞差异</span><span class="en">Timing difference vs the H2 customer ruler</span></div>
+    <span class="zh">坏课率<strong>近实时</strong>（次日出数）→ 月度节奏与现场驱动；客户尺 <strong>30 天 cohort</strong>（30+ 天才出第一读数）→ 战果验收。两把尺不混用。</span><span class="en">Bad-lesson rate is <strong>near-real-time</strong> (next-day) → monthly cadence &amp; field action; customer ruler is a <strong>30-day cohort</strong> (first reading after 30+ days) → outcome acceptance. Don't mix them.</span>
+  </div>
+
+  <!-- ============ 7 DATA ============ -->
+  <h2><span class="no">7</span><span class="zh">数据源与验证链路</span><span class="en">Data Sources &amp; Verification Chain</span></h2>
+
+  <table>
+    <tr><th style="width:130px"><span class="zh">类别</span><span class="en">Category</span></th><th><span class="zh">信号源（候选）</span><span class="en">Signal source (candidate)</span></th><th><span class="zh">当前成熟度</span><span class="en">Maturity</span></th></tr>
+    <tr><td><strong>① <span class="zh">纪律</span><span class="en">Discipline</span></strong></td><td><span class="zh">课程状态 / AC 时间戳／鹰眼（开发中）／人工核验；课中缺席复用小队合同</span><span class="en">Lesson status / AC timestamps / Hawk-Eye (dev) / human review; reuse squad contract</span></td><td><span class="tag ok"><span class="zh">相对成熟</span><span class="en">Relatively mature</span></span></td></tr>
+    <tr><td><strong>② <span class="zh">稳定</span><span class="en">Stability</span></strong></td><td><span class="zh">设备指标 / AC（CPU、网络、音视频质量）／设备分 3500 为准入静态线、课中动态需新口径</span><span class="en">Device metrics / AC (CPU, network, AV quality) / device score 3500 = static entry line, in-class dynamics need new definition</span></td><td><span class="tag warn"><span class="zh">标准待冻结</span><span class="en">thresholds TBD</span></span></td></tr>
+    <tr><td><strong>③ <span class="zh">行为</span><span class="en">Conduct</span></strong></td><td><span class="zh">AI 视觉/音频侦测（鹰眼 / ASR / AI QA）／人工复核；先过「可侦测」清单再建侦测</span><span class="en">AI vision/audio (Hawk-Eye / ASR / AI QA) / human review; screen by "detectable" list first</span></td><td><span class="tag warn"><span class="zh">侦测待验证</span><span class="en">detection TBD</span></span></td></tr>
+    <tr><td><strong>④ <span class="zh">反馈探针</span><span class="en">Feedback probe</span></strong></td><td><span class="zh">学生端评价 / 投诉工单 / 拉黑事件 / 客服记录——洞察与质检触发，<strong>不进分子</strong></span><span class="en">Student ratings / complaint tickets / block events / CS records — insight &amp; QC trigger, <strong>not in numerator</strong></span></td><td><span class="tag done"><span class="zh">已定：探针</span><span class="en">Decided: probe</span></span></td></tr>
+  </table>
+
+  <table>
+    <tr><th style="width:170px"><span class="zh">环节</span><span class="en">Stage</span></th><th><span class="zh">现状</span><span class="en">Current</span></th><th><span class="zh">目标 / 缺口</span><span class="en">Target / gap</span></th></tr>
+    <tr><td><strong><span class="zh">数据源</span><span class="en">Data source</span></strong></td><td><span class="zh">Lily 团队出数（HR 现从 Lily 拿数，口径未对齐）；Hive 预检 8/1–8/13 返回 0 行</span><span class="en">Lily's team supplies data (HR currently pulls from Lily; definitions not aligned); Hive pre-check for 8/1–8/13 returned 0 rows</span></td><td><span class="tag warn"><span class="zh">前置</span><span class="en">Precondition</span></span> <span class="zh">数据 owner 提供覆盖证明的源表、事件映射、分母、去重规则与基线快照</span><span class="en">data owner provides source tables w/ coverage proof, event mapping, denominator, dedup rules, baseline snapshot</span></td></tr>
+    <tr><td><strong><span class="zh">事件验证</span><span class="en">Event verification</span></strong></td><td><span class="zh">人工验证（慢、漏）</span><span class="en">manual (slow, leaky)</span></td><td><span class="zh">AI 规则/系统主动发现（"系统应告诉我们发生了什么，而不是等学生投诉"）；主观反馈触发质检</span><span class="en">AI rules / system proactively detects ("system should tell us what happened, not wait for complaints"); subjective feedback triggers QC</span></td></tr>
+    <tr><td><strong><span class="zh">鹰眼</span><span class="en">Hawk-Eye</span></strong></td><td><span class="zh">DEVELOPMENT、未上线（KB 状态 2026-08-23 仍开发中）</span><span class="en">DEVELOPMENT, not live (KB status 2026-08-23)</span></td><td><span class="zh">未来感知底座，<strong>不阻塞一期</strong>；勿承诺自动闭环</span><span class="en">future sensing layer, <strong>does not block Phase 1</strong>; don't promise auto-closed loop</span></td></tr>
+    <tr><td><strong><span class="zh">基线</span><span class="en">Baseline</span></strong></td><td><span class="zh"><strong>无正式基线</strong>；7 月 1.5 万节为口头数字（未核验）</span><span class="en"><strong>No formal baseline</strong>; Jul ~15k verbal, unverified</span></td><td><span class="tag risk"><span class="zh">红线</span><span class="en">Red line</span></span> <span class="zh">9 月冻结基线（连续 7–14 天），基线冻结前不挂目标</span><span class="en">freeze baseline in Sep (7–14 consecutive days); no target before baseline</span></td></tr>
+  </table>
+
+  <!-- ============ 8 TARGET ============ -->
+  <h2><span class="no">8</span><span class="zh">目标值与节奏：Q3 定基线，Q4 挂目标</span><span class="en">Targets &amp; Cadence: Q3 Baseline, Q4 Targets</span></h2>
+
+  <div class="grid2">
+    <div class="box tl">
+      <div class="bt">✅ <span class="zh">建议节奏</span><span class="en">Suggested cadence</span></div>
+      <table>
+        <tr><th><span class="zh">阶段</span><span class="en">Phase</span></th><th><span class="zh">动作</span><span class="en">Action</span></th></tr>
+        <tr><td><strong>9 <span class="zh">月（Q3 尾）</span><span class="en">Sep (Q3 end)</span></strong></td><td><span class="zh">冻结三类定义与阈值 + 口径；冻结基线；与 Lily/HR 对齐；③类侦测验证</span><span class="en">freeze definitions &amp; thresholds + metrics; freeze baseline; align Lily/HR; validate Cat.③ detection</span></td></tr>
+        <tr><td><strong>Q4 <span class="zh">初</span><span class="en">early</span></strong></td><td><span class="zh">「两个 lie」框架定目标 → 向公司提议挂 KPI；探针看板上线</span><span class="en">set targets via "two-lie" framework → propose KPI; launch probe dashboard</span></td></tr>
+        <tr><td><strong>Q4 <span class="zh">全程</span><span class="en">full</span></strong></td><td><span class="zh">月复盘：总率 + 分类率 + 量 + 护栏 + 探针对照；新师训练营单独归因</span><span class="en">monthly review: total + category rates + volume + guardrails + probe comparison; new-teacher camp separate</span></td></tr>
+      </table>
+    </div>
+    <div class="box info">
+      <div class="bt">📌 <span class="zh">目标协商框架：「两个 lie」</span><span class="en">Target negotiation: the "two lies"</span></div>
+      <ul class="clean">
+        <li><span class="zh">lie 1 = 上层期望（乐观）；lie 2 = 我们影响杠杆的置信度（保守）</span><span class="en">lie 1 = leadership expectation (optimistic); lie 2 = our confidence in leverage (conservative)</span></li>
+        <li><span class="zh"><strong>目标定在两者之间是健康协商</strong>（会议原话："point 0.2 as a target score, that's a healthy negotiation"）</span><span class="en"><strong>Target between the two = healthy negotiation</strong> ("point 0.2 as a target score, that's a healthy negotiation")</span></li>
+        <li><span class="zh">表述：<strong>"坏课率从基线 X‰ 降至 Y‰"</strong>——变化量，不拍无基线绝对数</span><span class="en">Frame as <strong>"bad lesson rate from X‰ baseline down to Y‰"</strong> — delta, not an absolute without baseline</span></li>
+      </ul>
+    </div>
+  </div>
+
+  <p><strong><span class="zh">当前已知的影响杠杆：</span><span class="en">Known levers (reality basis for targets):</span></strong></p>
+  <ul class="clean">
+    <li>① <span class="zh">纪律类：连续缺席日均约百节 → 当天 0（8/25 运营口径）；确认响应率 24% → 45%；新约熔断已上线但引发 Center owner 反弹（风险 3）</span><span class="en">Discipline: consecutive absences from ~100/day → 0 same-day (8/25 ops); confirmation response 24% → 45%; new-booking circuit breaker live but triggered Center-owner backlash (Risk 3)</span></li>
+    <li>② <span class="zh">稳定类：设备准入 3500 + 课中检测；新师训练营 9 月启动是设备教育入口</span><span class="en">Stability: device gate 3500 + in-class detection; Sep training camp is the device-education entry</span></li>
+    <li>③ <span class="zh">行为类：依赖 AI 侦测成熟度，早期人工复核抽检，杠杆在红线教育与培训</span><span class="en">Conduct: depends on AI detection maturity; early phase human-review sampling; lever = red-line education &amp; training</span></li>
+    <li>④ <span class="zh">反馈探针：先冻结基线作洞察，不挂目标</span><span class="en">Feedback probe: freeze baseline for insight, no target</span></li>
+  </ul>
+
+  <!-- ============ 9 RELATION TO H2 ============ -->
+  <h2><span class="no">9</span><span class="zh">与 H2 好老师标准 / B+/A 的关系</span><span class="en">Relation to H2 Good-Teacher Standard / B+/A</span></h2>
+
+  <table>
+    <tr><th style="width:200px"><span class="zh">尺</span><span class="en">Ruler</span></th><th><span class="zh">口径</span><span class="en">Definition</span></th><th><span class="zh">角色</span><span class="en">Role</span></th><th><span class="zh">与坏课率的关系</span><span class="en">Relation to bad-lesson rate</span></th></tr>
+    <tr><td><strong>H2 <span class="zh">好老师客户尺</span><span class="en">Good-teacher customer ruler</span></strong></td><td><span class="zh">30 天真实授课 + 客户反馈验证、持续创造客户价值的好老师数量及占比（五维）</span><span class="en">count &amp; share of good teachers validated by 30 days of real teaching + customer feedback (5 dims)</span></td><td><span class="tag info"><span class="zh">最终战果验收尺</span><span class="en">Outcome-acceptance ruler</span></span></td><td><span class="zh">坏课率①②③类 = 五维中「可靠性 + 硬件质量 + 行为红线」的战役级聚合；学生反馈归 H2「用户反馈」维——职责分明</span><span class="en">① ② ③ = campaign-level aggregation of "reliability + hardware + conduct" dims; student feedback naturally belongs to H2 "user feedback" dim — clean separation</span></td></tr>
+    <tr><td><strong>B+/A <span class="zh">老师占比（旧 KPI）</span><span class="en">teacher share (old KPI)</span></strong></td><td><span class="zh">招聘评级 B+/A 占比</span><span class="en">recruiting-grade B+/A share</span></td><td><span class="tag warn"><span class="zh">已降为入门尺</span><span class="en">demoted to entry ruler</span></span></td><td><span class="zh">旧尺退役；符合「最终结果尺变化，旧过程指标必须降格」</span><span class="en">old ruler retired; consistent with "when the outcome ruler changes, old process metrics must be demoted"</span></td></tr>
+    <tr><td><strong><span class="zh">坏课率（本稿件）</span><span class="en">Bad-lesson rate (this doc)</span></strong></td><td><span class="zh">坏课课次 ÷ 应交付约课课次（①②③类）</span><span class="en">bad lessons ÷ lessons scheduled for delivery (①②③)</span></td><td><span class="tag ok"><span class="zh">战役成败指标（非个人 KPI）</span><span class="en">campaign metric (not individual KPI)</span></span></td><td><span class="zh">补上在岗质量无直接指标缺口；近实时、可影响、客户可感知；探针提供并行视角</span><span class="en">fills the "no in-service quality metric" gap; near-real-time, actionable, customer-perceivable; probe provides parallel view</span></td></tr>
+  </table>
+
+  <div class="box warn">
+    <div class="bt">⚠️ <span class="zh">双主帅边界与共签约束</span><span class="en">Dual-commander boundary &amp; co-signature</span></div>
+    <span class="zh">CEO H2 总纲：权重须由业务与客户事实共同定义，<strong>不能外教团队自己给自己打分</strong>；正式发布前需与 Jennifer 对齐，涉及范围/权重的部分按跨部门共签路径走。</span><span class="en">CEO H2: weights must be defined by business &amp; customer facts, <strong>not self-scored by the campaign team</strong>; align with Jennifer before formal release; scope/weight items follow the cross-department co-signature path.</span>
+  </div>
+
+  <!-- ============ 10 RISKS ============ -->
+  <h2><span class="no">10</span><span class="zh">护栏与风险（9 条）</span><span class="en">Guardrails &amp; Risks (9)</span></h2>
+
+  <table>
+    <tr><th style="width:34px">#</th><th style="width:190px"><span class="zh">风险</span><span class="en">Risk</span></th><th><span class="zh">说明</span><span class="en">Detail</span></th><th style="width:170px"><span class="zh">护栏</span><span class="en">Guardrail</span></th></tr>
+    <tr><td>1</td><td><strong><span class="zh">Goodhart / 口径缩窄</span><span class="en">Goodhart / narrowing</span></strong></td><td><span class="zh">为好看只统计易影响项</span><span class="en">cherry-picking easy items</span></td><td><span class="zh">盒子冻结 + 季度审计 + 探针对照</span><span class="en">freeze + quarterly audit + probe cross-check</span></td></tr>
+    <tr><td>2</td><td><strong><span class="zh">归因争议</span><span class="en">Attribution disputes</span></strong></td><td><span class="zh">设备/老师/平台/学生侧责任不清（稳定类突出）</span><span class="en">device/teacher/platform/student fault unclear (esp. stability)</span></td><td><span class="zh">改判规则 + 人工复核 + 申诉路径</span><span class="en">adjudication + human review + appeal</span></td></tr>
+    <tr><td>3</td><td><strong><span class="zh">老师信任反噬</span><span class="en">Teacher-trust backlash</span></strong></td><td><span class="zh">新约熔断已引发 Center owner 反弹；KPI 进个人考核会放大对立</span><span class="en">circuit breaker already triggered backlash; KPI as individual metric would worsen it</span></td><td><span class="zh">战役指标非个人 KPI；上线纪律（透明/灰度/proof）</span><span class="en">campaign not individual KPI; launch discipline (transparency/gray/proof)</span></td></tr>
+    <tr><td>4</td><td><strong><span class="zh">数据不可用</span><span class="en">Data unavailable</span></strong></td><td><span class="zh">无正式基线；Hive 0 行；7 月数字未核验</span><span class="en">no baseline; Hive 0 rows; Jul verbal</span></td><td><span class="zh">基线冻结前不挂目标；覆盖证明</span><span class="en">no target pre-baseline; coverage proof</span></td></tr>
+    <tr><td>5</td><td><strong><span class="zh">鹰眼未上线</span><span class="en">Hawk-Eye not live</span></strong></td><td><span class="zh">③类侦测依赖鹰眼/AI 视觉</span><span class="en">Cat.③ detection depends on Hawk-Eye/AI vision</span></td><td><span class="zh">一期人工核验；勿承诺自动闭环</span><span class="en">Phase-1 human review; no auto-loop promise</span></td></tr>
+    <tr><td>6</td><td><strong><span class="zh">降率动机扭曲</span><span class="en">Gaming the rate</span></strong></td><td><span class="zh">为降率少开课（缩分母）</span><span class="en">fewer lessons to lower the rate</span></td><td><span class="zh">量 + 率双轨；分母不缩水护栏</span><span class="en">volume + rate; denominator guardrail</span></td></tr>
+    <tr><td>7</td><td><strong><span class="zh">跨部门口径不一致</span><span class="en">Cross-dept misalignment</span></strong></td><td><span class="zh">HR / Lily / 数据侧 / 战役各说各话</span><span class="en">HR / Lily / data / campaign differ</span></td><td><span class="zh">单一事实源：一张定义卡冻结</span><span class="en">single source of truth: one frozen definition card</span></td></tr>
+    <tr><td>8</td><td><strong><span class="zh">与客户尺时滞混淆</span><span class="en">Timing confusion</span></strong></td><td><span class="zh">近实时 vs 30 天 cohort 混用</span><span class="en">near-real-time vs 30-day cohort</span></td><td><span class="zh">明确用途边界</span><span class="en">clear role separation</span></td></tr>
+    <tr><td>9</td><td><strong><span class="zh">探针被误当 KPI</span><span class="en">Probe mistaken for KPI</span></strong></td><td><span class="zh">主观反馈虽不进坏课，若被当考核仍诱发操纵</span><span class="en">even excluded, if used for appraisal it invites gaming</span></td><td><span class="zh">探针仅洞察与质检触发，不进任何考核口径</span><span class="en">probe = insight &amp; QC only, never appraisal</span></td></tr>
+  </table>
+
+  <!-- ============ 11 ROADMAP ============ -->
+  <h2><span class="no">11</span><span class="zh">落地路径与分工</span><span class="en">Roadmap &amp; Ownership</span></h2>
+
+  <table>
+    <tr><th style="width:150px"><span class="zh">节点</span><span class="en">Milestone</span></th><th><span class="zh">交付</span><span class="en">Deliverable</span></th><th>Owner</th><th><span class="zh">Gate</span><span class="en">Gate</span></th></tr>
+    <tr><td><strong><span class="zh">本周</span><span class="en">This week</span></strong></td><td><span class="zh">三类定义盒子 + 口径 homework draft（本稿件即底稿）</span><span class="en">3-category definition box + metrics draft (this doc)</span></td><td>Leon + Katherine + Haixuan</td><td><span class="zh">Leon 拍板第 12 节</span><span class="en">Leon decides §12</span></td></tr>
+    <tr><td><strong>9 <span class="zh">月第 1–2 周</span><span class="en">Sep W1–2</span></strong></td><td><span class="zh">与 Lily/HR 对齐；冻结基线；②阈值、③侦测验证</span><span class="en">align Lily/HR; freeze baseline; Cat.② thresholds, Cat.③ detection validation</span></td><td>Katherine / data</td><td><span class="zh">覆盖证明 + 基线快照</span><span class="en">coverage proof + baseline snapshot</span></td></tr>
+    <tr><td><strong>9 <span class="zh">月中</span><span class="en">Sep mid</span></strong></td><td><span class="zh">定义卡定稿；双主帅对齐；新师归因规则；探针看板原型</span><span class="en">definition card final; dual-commander alignment; new-teacher attribution; probe dashboard prototype</span></td><td>Leon / Jennifer</td><td><span class="zh">双主帅 + 跨部门共签</span><span class="en">dual-commander + co-signature</span></td></tr>
+    <tr><td><strong>Q4 <span class="zh">初</span><span class="en">early</span></strong></td><td><span class="zh">「两个 lie」定目标 → 正式挂 Q3/Q4 KPI；探针看板上线</span><span class="en">set targets → formally propose Q3/Q4 KPI; probe dashboard live</span></td><td>Leon</td><td><span class="zh">公司批准；HR 口径同步</span><span class="en">company approval; HR sync</span></td></tr>
+    <tr><td><strong>Q4 <span class="zh">全程</span><span class="en">full</span></strong></td><td><span class="zh">月复盘 + 探针对照；与小队/鹰眼/AC 联动；投诉验证 AI 化</span><span class="en">monthly review + probe cross-check; squad/Hawk-Eye/AC linkage; AI-ized complaint verification</span></td><td>Katherine side / campaign</td><td><span class="zh">护栏无恶化；无假增量</span><span class="en">guardrails intact; no fake deltas</span></td></tr>
+  </table>
+
+  <!-- ============ 12 DECISIONS ============ -->
+  <h2><span class="no">12</span><span class="zh">已拍板 / 待拍板 / Open 问题</span><span class="en">Decided / Pending / Open Items</span></h2>
+
+  <h3>12.1 <span class="zh">已拍板（Leon 主张 / 确认，v0.4 落定）</span><span class="en">Decided (Leon's positions, locked in v0.4)</span></h3>
+  <table>
+    <tr><th style="width:40px">#</th><th style="width:220px"><span class="zh">决策点</span><span class="en">Decision</span></th><th><span class="zh">结论</span><span class="en">Conclusion</span></th></tr>
+    <tr><td>1</td><td><strong><span class="zh">坏课第一准则</span><span class="en">P0 rule</span></strong></td><td><span class="tag ok"><span class="zh">已定</span><span class="en">Decided</span></span> <span class="zh">「坏」= 客观有标准且可侦测的坏</span><span class="en">bad = objectively definable &amp; detectable</span></td></tr>
+    <tr><td>2</td><td><strong><span class="zh">③类范围</span><span class="en">Cat.③ scope</span></strong></td><td><span class="tag ok"><span class="zh">已定</span><span class="en">Decided</span></span> <span class="zh">只抓「可侦测的 P0」（AI 视觉能力可侦测的红线行为）；抓不了的（打哈欠/无精打采）不纳入</span><span class="en">detectable P0 only (red-line behaviors AI vision can catch); undetectable ones (yawning/listlessness) excluded</span></td></tr>
+    <tr><td>3</td><td><strong><span class="zh">学生反馈类</span><span class="en">Student feedback</span></strong></td><td><span class="tag ok"><span class="zh">已定：不纳入</span><span class="en">Decided: excluded</span></span> <span class="zh">探针 + 质检触发；核验成立的客观事件回填①②③类分子</span><span class="en">probe + QC trigger; confirmed objective events flow back into ①②③ numerators</span></td></tr>
+    <tr><td>4</td><td><strong><span class="zh">分市场</span><span class="en">By market</span></strong></td><td><span class="tag ok"><span class="zh">已确认</span><span class="en">Confirmed</span></span> <span class="zh">split（domestic / overseas，可选中东）</span><span class="en">split (domestic / overseas, ME optional)</span></td></tr>
+    <tr><td>5</td><td><strong><span class="zh">千分位</span><span class="en">Per mille</span></strong></td><td><span class="tag ok"><span class="zh">已确认</span><span class="en">Confirmed</span></span> <span class="zh">千分位为主，万分位辅助</span><span class="en">per mille primary, per-10k support</span></td></tr>
+  </table>
+
+  <h3>12.2 <span class="zh">待 Leon 拍板（v0.4 剩余）</span><span class="en">Pending Leon's decision (v0.4 remaining)</span></h3>
+  <table>
+    <tr><th style="width:40px">#</th><th style="width:200px"><span class="zh">决策点</span><span class="en">Decision</span></th><th><span class="zh">选项</span><span class="en">Options</span></th><th style="width:180px"><span class="zh">推荐</span><span class="en">Rec.</span></th></tr>
+    <tr><td>1</td><td><strong><span class="zh">三类盒子确认</span><span class="en">3-category box</span></strong></td><td><span class="zh">①②③ 是否全部一期纳入</span><span class="en">include all ①②③ in Phase 1?</span></td><td><span class="tag ok"><span class="zh">①②③ 纳入（推荐）</span><span class="en">①②③ included (rec.)</span></span></td></tr>
+    <tr><td>2</td><td><strong><span class="zh">③类可侦测 P0 清单</span><span class="en">Cat.③ detectable-P0 list</span></strong></td><td><span class="zh">具体红线行为清单（裸露/吃东西等）逐项过 AI 可侦测性</span><span class="en">concrete red-line list screened by AI detectability</span></td><td><span class="tag open"><span class="zh">Open #1</span><span class="en">Open #1</span></span> <span class="zh">待 AI 侧准确率评估</span><span class="en">pending AI-side accuracy eval</span></td></tr>
+    <tr><td>3</td><td><strong><span class="zh">率 vs 量</span><span class="en">Rate vs volume</span></strong></td><td>A/B/C</td><td><span class="tag ok">C (<span class="zh">推荐</span><span class="en">rec.</span>)</span></td></tr>
+    <tr><td>4</td><td><strong><span class="zh">分母定义</span><span class="en">Denominator</span></strong></td><td><span class="zh">总约课 / 完课数 / 应交付课次</span><span class="en">bookings / completed / scheduled-for-delivery</span></td><td><span class="tag ok"><span class="zh">应交付课次（推荐）</span><span class="en">scheduled-for-delivery (rec.)</span></span></td></tr>
+    <tr><td>5</td><td><strong><span class="zh">节奏</span><span class="en">Cadence</span></strong></td><td><span class="zh">Q3 挂数 vs Q3 定基线/Q4 挂目标</span><span class="en">Q3 numbers vs Q3 baseline/Q4 targets</span></td><td><span class="tag ok"><span class="zh">B（推荐）</span><span class="en">B (rec.)</span></span></td></tr>
+    <tr><td>6</td><td><strong><span class="zh">目标值协商</span><span class="en">Target setting</span></strong></td><td><span class="zh">拍绝对数 vs 两个 lie 定变化量</span><span class="en">absolute vs two-lie delta</span></td><td><span class="tag ok"><span class="zh">两个 lie（推荐）</span><span class="en">two-lie (rec.)</span></span></td></tr>
+    <tr><td>7</td><td><strong><span class="zh">对齐路径</span><span class="en">Alignment path</span></strong></td><td><span class="zh">Leon 单方 vs 双主帅 + Lily/HR</span><span class="en">Leon alone vs dual-commander + Lily/HR</span></td><td><span class="tag ok"><span class="zh">双主帅 + 共签（推荐）</span><span class="en">dual-commander + co-sign (rec.)</span></span></td></tr>
+  </table>
+
+  <h3>12.3 <span class="zh">Open 问题（讨论稿显式保留）</span><span class="en">Open items (kept open on purpose)</span></h3>
+  <div class="box open">
+    <div class="bt">🔮 <span class="zh">保持 Open 的问题</span><span class="en">Open items</span></div>
+    <table>
+      <tr><th style="width:40px">#</th><th style="width:240px"><span class="zh">问题</span><span class="en">Item</span></th><th><span class="zh">当前状态</span><span class="en">Status</span></th><th><span class="zh">闭合时点</span><span class="en">Close by</span></th></tr>
+      <tr><td>O1</td><td><strong><span class="zh">③类可侦测 P0 清单</span><span class="en">Cat.③ detectable-P0 list</span></strong></td><td><span class="zh">方向已定（AI 可侦测的红线行为）；具体清单待 AI 侧准确率评估</span><span class="en">direction set; concrete list pending AI accuracy eval</span></td><td>9 <span class="zh">月第 1–2 周</span><span class="en">Sep W1–2</span></td></tr>
+      <tr><td>O2</td><td><strong>② <span class="zh">稳定类阈值</span><span class="en">Stability thresholds</span></strong></td><td><span class="zh">待数据侧信号分布后冻结</span><span class="en">pending data-side signal distribution</span></td><td>9 <span class="zh">月第 1–2 周</span><span class="en">Sep W1–2</span></td></tr>
+      <tr><td>O3</td><td><strong><span class="zh">分市场目标分级</span><span class="en">Per-market targets</span></strong></td><td><span class="zh">拆分已确认；目标是否分级待定</span><span class="en">split confirmed; target tiers TBD</span></td><td>Q4 <span class="zh">初</span><span class="en">early Q4</span></td></tr>
+      <tr><td>O4</td><td><strong><span class="zh">新师 vs 存量归因</span><span class="en">New vs existing teacher attribution</span></strong></td><td><span class="zh">分开归因已建议；是否分目标待定</span><span class="en">separate attribution suggested; targets TBD</span></td><td>9 <span class="zh">月训练营规则定稿</span><span class="en">Sep camp rules</span></td></tr>
+    </table>
+  </div>
+
+  <div class="box risk">
+    <div class="bt">🚩 <span class="zh">本稿件边界（非承诺）</span><span class="en">Boundaries (not commitments)</span></div>
+    <ul class="clean">
+      <li><span class="zh">基线数字（7 月 1.5 万节、日均约百节、响应率 24%→45%）均为<strong>运营口径/口头证据，未经正式基线核验</strong>，只作杠杆方向参考。</span><span class="en">Baseline numbers (Jul ~15k, ~100/day, 24%→45%) are <strong>operational/verbal, unverified</strong> — directional reference only.</span></li>
+      <li><span class="zh">鹰眼自动发现→救援→闭环是未来能力（KB 状态 DEVELOPMENT / NOT LIVE），本设计不以此为前提。</span><span class="en">Hawk-Eye auto-detect→rescue→closed loop is future capability (KB: DEVELOPMENT/NOT LIVE); this design does not assume it.</span></li>
+      <li><span class="zh">本稿件不构成教师评价、减流、停排、薪酬或资格动作的授权依据。</span><span class="en">This document does not authorize teacher evaluation, traffic cuts, scheduling, pay, or qualification actions.</span></li>
+    </ul>
+  </div>
+
+  <div class="foot">
+    <span class="zh">起草：COO（Leon 侧）· 2026-08-26 · v0.4（中英双语 · 右上角切换）｜依据：8/25 KPI 会议纪要、6/29 KPI Catch-up、FT-STD-002、FT-RISK-003、坏课治理原子小队备案 v0.1、TOC 07 V2 KB、GBrain 历史决策、Leon 8/26 输入与主张</span><span class="en">Drafted: COO (Leon side) · 2026-08-26 · v0.4 (bilingual · toggle top-right) | Based on: 8/25 KPI meeting notes, 6/29 KPI Catch-up, FT-STD-002, FT-RISK-003, atomic squad filing v0.1, TOC 07 V2 KB, GBrain history, Leon's 8/26 inputs &amp; positions</span>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var root = document.documentElement;
+  var btn = document.getElementById('langToggle');
+  var lang = localStorage.getItem('kpi-doc-lang') || 'zh';
+  function apply(l){
+    root.setAttribute('data-lang', l);
+    btn.textContent = l === 'zh' ? 'EN' : '中文';
+    localStorage.setItem('kpi-doc-lang', l);
+  }
+  btn.addEventListener('click', function(){
+    apply(root.getAttribute('data-lang') === 'zh' ? 'en' : 'zh');
+  });
+  apply(lang);
+})();
+</script>
+</body>
+</html>

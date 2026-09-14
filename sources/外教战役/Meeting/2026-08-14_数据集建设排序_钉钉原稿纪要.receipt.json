@@ -1,0 +1,24 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-14T16:33:00+08:00",
+  "meeting_title": "数据集建设排序（钉钉原稿）",
+  "meeting_date": "2026-08-14",
+  "source_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-14/media/钉钉文档原稿-数据集建设排序-2026-08-14.md",
+  "source_url": "https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPXDRKXBJ63zgkYA?utm_scene=person_space",
+  "source_md5": "7427dcfce533dd0bccd0ed47b2891170",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/外教战役/_raw/meetings-raw/2026-08-14_数据集建设排序_钉钉原稿纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "linked_source_fingerprint": {
+    "transcript_md5": "26dbb80c8c8f3231848d50d23029f35a",
+    "transcript_bytes": 36671,
+    "transcript_lines": 914
+  },
+  "existing_candidate": {
+    "path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-14/media/dws-听记-数据集建设排序-2026-08-14.md",
+    "md5": "c3d02786c17fe4161da0c33595a3e246",
+    "bytes": 48322,
+    "same_content": false
+  }
+}

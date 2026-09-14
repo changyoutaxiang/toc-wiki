@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>51Talk 成熟老师升降级积分方案 · 最终确认版（中英双语）</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+
+  :root{
+    --brand-yellow:#FFEB3C;
+    --brand-yellow-light:#FFF35E;
+    --brand-yellow-deep:#FFD400;
+    --brand-yellow-soft:#FFF8C4;
+    --brand-blue:#0063F2;
+    --brand-blue-hover:#2A7DF7;
+    --brand-blue-deep:#004FC4;
+    --brand-blue-soft:#E3EDFF;
+    --accent-cyan:#28B6FE;
+    --accent-coral:#FF455C;
+    --n-0:#FFFFFF;
+    --n-100:#FAFAFA;
+    --n-200:#F0F0F0;
+    --n-300:#E4E4E2;
+    --n-650:#75736D;
+    --n-800:#534440;
+    --n-900:#332926;
+    --n-950:#1C1815;
+    --success:#2D9F6F; --success-text:#26865D; --success-surface:#ECFDF5;
+    --warning:#E8932A; --warning-text:#A5681E; --warning-surface:#FFFBEB;
+    --danger:#E05545; --danger-text:#CA4D3E; --danger-surface:#FEF2F2;
+    --info:#28B6FE; --info-text:#1C7EAF; --info-surface:#E3EDFF;
+    --radius-card:24px;
+    --radius-lg:16px;
+    --shadow-sticker:0 4px 0 rgba(28,24,21,.08);
+    --shadow-sticker-blue:0 4px 0 #004FC4;
+    --font-display:'Fredoka','Noto Sans SC',system-ui,sans-serif;
+    --font-sans:'Nunito','Noto Sans SC',system-ui,sans-serif;
+    --font-mono:'JetBrains Mono',ui-monospace,monospace;
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    font-family:var(--font-sans);
+    font-size:15px; line-height:1.7;
+    color:var(--n-800);
+    background:
+      radial-gradient(120% 90% at 18% 30%, var(--brand-yellow-light) 0%, rgba(255,243,94,0) 55%),
+      radial-gradient(90% 80% at 82% 65%, var(--brand-yellow-deep) 0%, rgba(255,212,0,0) 60%),
+      var(--brand-yellow);
+    background-attachment:fixed;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  .wrap{max-width:1120px; margin:0 auto; padding:0 20px 80px;}
+
+  /* ── 顶部导航 ── */
+  .nav{
+    position:sticky; top:0; z-index:100;
+    background:rgba(255,235,60,.92); backdrop-filter:blur(6px);
+    border-bottom:1px solid rgba(28,24,21,.08);
+  }
+  .nav-inner{max-width:1120px; margin:0 auto; padding:10px 20px; display:flex; gap:6px; flex-wrap:wrap; align-items:center;}
+  .nav .brand{font-family:var(--font-display); font-weight:700; color:var(--brand-blue); margin-right:10px; white-space:nowrap;}
+  .nav a{font-size:13px; color:var(--n-900); text-decoration:none; padding:5px 10px; border-radius:999px; white-space:nowrap;}
+  .nav a:hover{background:var(--n-0); color:var(--brand-blue);}
+
+  /* ── 封面 ── */
+  .hero{padding:56px 8px 40px;}
+  .hero .kicker{
+    display:inline-block; background:var(--n-0); color:var(--brand-blue);
+    font-weight:700; font-size:13px; letter-spacing:.05em;
+    padding:6px 16px; border-radius:999px; box-shadow:var(--shadow-sticker); margin-bottom:22px;
+  }
+  .hero h1{
+    font-family:var(--font-display); font-weight:700; line-height:1.25;
+    font-size:48px; margin:0 0 14px; letter-spacing:-.01em;
+    color:var(--n-0);
+    text-shadow:
+      3px 0 0 var(--brand-blue), -3px 0 0 var(--brand-blue),
+      0 3px 0 var(--brand-blue), 0 -3px 0 var(--brand-blue),
+      3px 3px 0 var(--brand-blue), -3px 3px 0 var(--brand-blue),
+      3px -3px 0 var(--brand-blue), -3px -3px 0 var(--brand-blue),
+      0 10px 0 rgba(0,79,196,.25);
+  }
+  .hero .h1-en{font-family:var(--font-display); font-weight:600; font-size:22px; color:var(--n-950); margin:0 0 12px; letter-spacing:-.01em;}
+  .hero .sub{font-size:19px; font-weight:700; color:var(--n-950); margin:0 0 6px;}
+  .hero .meta{font-size:14px; color:var(--n-900); max-width:820px;}
+  .hero .meta .en{display:block; color:var(--n-800); opacity:.85; margin-top:2px;}
+
+  .hero .tag-row{display:flex; gap:8px; flex-wrap:wrap; margin-top:22px;}
+  .chip{display:inline-flex; align-items:center; gap:6px; font-size:13px; font-weight:700;
+    padding:6px 14px; border-radius:999px; background:var(--n-0); color:var(--n-900); box-shadow:var(--shadow-sticker);}
+
+  /* ── 目录 ── */
+  .toc{background:var(--n-0); border-radius:var(--radius-card); box-shadow:var(--shadow-sticker); padding:26px 30px; margin-bottom:28px;}
+  .toc h2{font-family:var(--font-display); font-size:16px; color:var(--brand-blue); margin:0 0 4px;}
+  .toc .toc-en{font-size:13px; color:var(--n-650); margin:0 0 14px;}
+  .toc ol{margin:0; padding:0; list-style:none; display:grid; grid-template-columns:repeat(2,1fr); gap:8px 20px;}
+  .toc a{color:var(--n-900); text-decoration:none; font-size:14.5px; display:flex; gap:10px; align-items:baseline;}
+  .toc a:hover{color:var(--brand-blue);}
+  .toc .no{font-family:var(--font-display); font-weight:700; color:var(--brand-blue); min-width:22px;}
+
+  /* ── 卡片 ── */
+  .card{background:var(--n-0); border-radius:var(--radius-card); box-shadow:var(--shadow-sticker); padding:34px 38px; margin-bottom:28px;}
+  .sec-head{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; margin-bottom:6px;}
+  .sec-head .idx{
+    font-family:var(--font-display); font-weight:700; font-size:15px; color:var(--n-950);
+    background:var(--brand-yellow); border-radius:10px; padding:2px 12px; flex:none;
+    box-shadow:0 3px 0 rgba(28,24,21,.10);
+  }
+  .sec-head h2{font-family:var(--font-display); font-size:26px; margin:0; color:var(--n-950); letter-spacing:-.01em; line-height:1.3;}
+  .sec-en{font-family:var(--font-display); font-weight:500; font-size:16px; color:var(--brand-blue); margin:2px 0 6px; letter-spacing:-.01em;}
+  .sec-sub{font-size:14px; color:var(--n-650); margin:6px 0 20px;}
+
+  /* 状态徽章 */
+  .pill{display:inline-flex; align-items:center; font-size:12px; font-weight:700; padding:3px 11px; border-radius:999px; flex:none; white-space:nowrap;}
+  .pill-ok{background:var(--success-surface); color:var(--success-text);}
+  .pill-warn{background:var(--warning-surface); color:var(--warning-text);}
+  .pill-todo{background:var(--n-200); color:var(--n-650);}
+  .pill-mix{background:var(--info-surface); color:var(--info-text);}
+
+  /* ── 正文 ── */
+  .card h3{font-family:var(--font-display); font-size:18px; color:var(--n-950); margin:26px 0 4px;}
+  .card h3 .bar{color:var(--brand-blue); margin-right:8px;}
+  .card h3 .en{display:block; font-family:var(--font-sans); font-weight:600; font-size:13px; color:var(--n-650); margin-top:1px;}
+  .card p{margin:10px 0;}
+  .card p .en{color:var(--n-650);}
+  .lead{font-size:16px; color:var(--n-900); font-weight:600;}
+  .lead .en{font-weight:600; color:var(--n-650); font-size:14px;}
+
+  /* 英文正文强调块 */
+  .en{color:var(--n-650);}
+  .en strong{color:var(--n-800);}
+
+  /* 三条铁律 */
+  .rules{display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin:16px 0;}
+  .rule{background:var(--brand-yellow-soft); border-radius:var(--radius-lg); padding:16px 18px;}
+  .rule .rno{font-family:var(--font-display); font-weight:700; color:var(--brand-blue); font-size:14px; display:block; margin-bottom:4px;}
+  .rule p{margin:0; font-size:14px; color:var(--n-900); line-height:1.55;}
+  .rule p .en{display:block; margin-top:4px; font-size:12.5px; line-height:1.5; color:var(--n-650);}
+
+  /* 表格 */
+  .tbl-wrap{overflow-x:auto; margin:14px 0 6px;}
+  table{width:100%; border-collapse:collapse; font-size:14px; min-width:560px;}
+  thead th{
+    background:var(--brand-blue-soft); color:var(--n-950); text-align:left;
+    font-weight:700; padding:11px 14px; border-bottom:2px solid var(--brand-blue);
+    white-space:nowrap;
+  }
+  thead th .en{display:block; font-weight:600; font-size:11.5px; color:var(--brand-blue); margin-top:1px; white-space:nowrap;}
+  tbody td{padding:10px 14px; border-bottom:1px solid var(--n-200); vertical-align:top; color:var(--n-800);}
+  tbody tr:nth-child(even){background:var(--n-100);}
+  tbody tr:hover{background:var(--brand-yellow-soft);}
+  td .en{display:block; font-size:12.5px; line-height:1.5; color:var(--n-650); margin-top:1px;}
+  td b .en{color:var(--n-650);}
+  .num{font-family:var(--font-display); font-weight:700; color:var(--n-950); white-space:nowrap;}
+  .pos{color:var(--success-text); font-weight:700;}
+  .neg{color:var(--danger-text); font-weight:700;}
+  .mono{font-family:var(--font-mono); font-size:13px;}
+
+  /* 代码块 */
+  .codeblock{
+    background:var(--n-950); color:#E9E7E4; border-radius:var(--radius-lg);
+    padding:18px 22px; font-family:var(--font-mono); font-size:13px; line-height:1.7;
+    overflow-x:auto; margin:14px 0;
+  }
+  .codeblock .c{color:#9AA7B8;}
+  .codeblock .k{color:#5AC8FF;}
+  .codeblock .s{color:#FFD400;}
+
+  /* 提示框 */
+  .note{border-radius:var(--radius-lg); padding:16px 20px; margin:16px 0; font-size:14px;}
+  .note-blue{background:var(--brand-blue-soft); color:var(--n-900); border-left:4px solid var(--brand-blue);}
+  .note-amber{background:var(--warning-surface); color:var(--n-900); border-left:4px solid var(--warning);}
+  .note-red{background:var(--danger-surface); color:var(--n-900); border-left:4px solid var(--danger);}
+  .note b{color:var(--n-950);}
+  .note .en{display:block; color:var(--n-650); margin-top:2px;}
+
+  /* KPI 卡片 */
+  .kpis{display:grid; grid-template-columns:repeat(3,1fr); gap:14px; margin:16px 0;}
+  .kpi{background:var(--brand-blue); color:#fff; border-radius:var(--radius-lg); padding:18px 20px; box-shadow:var(--shadow-sticker-blue);}
+  .kpi .v{font-family:var(--font-display); font-weight:700; font-size:30px; line-height:1.1;}
+  .kpi .l{font-size:13px; opacity:.92; margin-top:4px;}
+  .kpi .le{font-size:11.5px; opacity:.78; margin-top:2px;}
+
+  .foot{text-align:center; color:var(--n-900); font-size:13px; margin-top:40px; line-height:1.8;}
+  .foot .sep{opacity:.5; margin:0 8px;}
+  .foot .en{color:var(--n-800); opacity:.8;}
+
+  @media (max-width:720px){
+    .hero h1{font-size:34px;}
+    .hero .h1-en{font-size:18px;}
+    .rules{grid-template-columns:1fr;}
+    .kpis{grid-template-columns:1fr;}
+    .toc ol{grid-template-columns:1fr;}
+    .card{padding:26px 20px;}
+  }
+
+  @media print{
+    body{background:#fff !important;}
+    .nav{display:none !important;}
+    .card{box-shadow:none; border:1px solid var(--n-300); break-inside:avoid;}
+    .hero h1{text-shadow:none; color:var(--brand-blue);}
+    .chip{box-shadow:none; border:1px solid var(--n-300);}
+    .wrap{padding-bottom:0;}
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <span class="brand">51Talk · Promotion/Demotion</span>
+    <a href="#s1">定位</a>
+    <a href="#s2">五维积分</a>
+    <a href="#s3">升降级</a>
+    <a href="#s4">必修</a>
+    <a href="#s5">推荐</a>
+    <a href="#s6">治理</a>
+    <a href="#s7">回测</a>
+    <a href="#s8">待冻结</a>
+    <a href="#s9">薪酬</a>
+    <a href="#s10">对齐</a>
+  </div>
+</nav>
+
+<div class="wrap">
+
+  <!-- 封面 -->
+  <header class="hero">
+    <span class="kicker">51Talk 外教全生命周期 · 成熟阶段 | Teacher Lifecycle · Maturity Stage</span>
+    <h1>成熟老师升降级积分方案</h1>
+    <p class="h1-en">Senior Teacher Promotion/Demotion Points Scheme</p>
+    <p class="sub">最终确认版 · 会上讨论稿 | Final Confirmed Version · Discussion Draft</p>
+    <p class="meta">
+      一个主分数（周期总积分）决定升/保/降级，推荐状态负责近期引导，A0-A4 治理即时保护学员。
+      <span class="en">A single primary score (cycle total points) decides promote/hold/demote; recommendation status guides near-term behavior; A0–A4 governance protects students immediately.</span>
+    </p>
+    <div class="tag-row">
+      <span class="chip">版本日期 2026-09-03 · Version Date</span>
+      <span class="chip">依据 V4.1 / V1.6 / V2.0 / V3.12</span>
+      <span class="chip">回测复算 2026-08-27 一致 · Re-verified</span>
+    </div>
+  </header>
+
+  <!-- 目录 -->
+  <div class="toc">
+    <h2>目录</h2>
+    <p class="toc-en">Table of Contents</p>
+    <ol>
+      <li><a href="#s1"><span class="no">01</span>方案定位与三条铁律 · Positioning & Three Rules</a></li>
+      <li><a href="#s2"><span class="no">02</span>五维积分体系 · Five-Dimension Points</a></li>
+      <li><a href="#s3"><span class="no">03</span>升降级主体机制 · Core Mechanism</a></li>
+      <li><a href="#s4"><span class="no">04</span>必修任务前置 · Mandatory-Task Prerequisite</a></li>
+      <li><a href="#s5"><span class="no">05</span>推荐引导 · Recommendation Guidance</a></li>
+      <li><a href="#s6"><span class="no">06</span>A0-A4 即时治理 · Immediate Governance</a></li>
+      <li><a href="#s7"><span class="no">07</span>回测证据 · Backtest Evidence</a></li>
+      <li><a href="#s8"><span class="no">08</span>待冻结项 · Pending Items</a></li>
+      <li><a href="#s9"><span class="no">09</span>薪酬联动影响 · Compensation Linkage</a></li>
+      <li><a href="#s10"><span class="no">10</span>等级体系对齐 · Level-System Alignment</a></li>
+    </ol>
+  </div>
+
+  <!-- 01 定位 -->
+  <section class="card" id="s1">
+    <div class="sec-head"><span class="idx">01</span><h2>方案定位</h2><span class="pill pill-ok">机制已确认 Confirmed</span></div>
+    <p class="sec-en">Scheme Positioning</p>
+    <p class="sec-sub">成熟老师只围绕一个主分数成长，推荐与治理不越权成为第二套考核。<span class="en">Senior teachers grow around one primary score; recommendation and governance do not become a second assessment system.</span></p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>模块 <span class="en">Module</span></th><th>回答的问题 <span class="en">Question answered</span></th><th>作用 <span class="en">Function</span></th><th>是否改变等级 <span class="en">Changes level?</span></th></tr></thead>
+        <tbody>
+          <tr><td><b>主体 · 五维积分升降级 <span class="en">Core · Five-dimension points</span></b></td><td>老师长期成长到哪里 <span class="en">Where does the teacher grow long-term</span></td><td>周期总积分唯一主分数，判定升/保/降 <span class="en">Cycle total points is the sole primary score for promote/hold/demote</span></td><td class="pos">是 Yes</td></tr>
+          <tr><td><b>引导 · 推荐状态 <span class="en">Guidance · Recommendation status</span></b></td><td>近期怎样做得更好 <span class="en">How to do better recently</span></td><td>近 30 天同五维信号 → 优先/正常/降权/待积累 + 行动建议 <span class="en">Same five-dimension signals over 30 days → priority/normal/downgraded/accumulating + tips</span></td><td class="neg">否 No</td></tr>
+          <tr><td><b>保护 · A0-A4 治理 <span class="en">Protection · A0–A4 governance</span></b></td><td>当前能否继续接课 <span class="en">Whether classes can continue now</span></td><td>严重履约事件即时降权/暂停/冻结 <span class="en">Immediate downgrade/suspend/freeze on serious fulfillment events</span></td><td class="neg">不直接改 Indirect</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h3><span class="bar">▍</span>三条铁律 <span class="en">Three iron rules</span></h3>
+    <div class="rules">
+      <div class="rule"><span class="rno">铁律 1 · Rule 1</span><p>老师端唯一醒目的数字是「本周期总积分」，不展示第二个 0-100 分。<span class="en">The only prominent number shown to teachers is the "current cycle total points"; no second 0–100 score.</span></p></div>
+      <div class="rule"><span class="rno">铁律 2 · Rule 2</span><p>升降级只依据完整周期五维总积分 + 必修前置，短期推荐状态不参与。<span class="en">Promotion/demotion depends only on full-cycle five-dimension total points + mandatory prerequisite; short-term recommendation status does not participate.</span></p></div>
+      <div class="rule"><span class="rno">铁律 3 · Rule 3</span><p>高积分不能绕过治理：A2-A4 未解除时不得恢复正常推荐或接课。<span class="en">High points cannot bypass governance: while A2–A4 is unresolved, normal recommendation or class-taking cannot resume.</span></p></div>
+    </div>
+  </section>
+
+  <!-- 02 五维积分 -->
+  <section class="card" id="s2">
+    <div class="sec-head"><span class="idx">02</span><h2>五维积分体系</h2><span class="pill pill-mix">负向矩阵已确认 · 分值待冻结</span></div>
+    <p class="sec-en">Five-Dimension Points System (Full Add/Subtract Detail)</p>
+    <p class="sec-sub">五维：产能 / 履约 / 用户反馈 / 课堂质量 / 基础任务。长期与短期共享同一套维度与事实口径，仅时间窗口、标准化与输出不同。<span class="en">Five dimensions: Capacity / Fulfillment / User Feedback / Class Quality / Basic Tasks. Long-term and short-term share the same dimensions and facts; only the time window, standardization, and output differ.</span></p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>维度 <span class="en">Dimension</span></th><th>行为 <span class="en">Behavior</span></th><th>周期积分 <span class="en">Cycle points</span></th><th>关键口径与约束 <span class="en">Key rules & constraints</span></th></tr></thead>
+        <tbody>
+          <tr><td rowspan="4"><b>产能 <span class="en">Capacity</span></b></td><td>体验课完美完课 <span class="en">Perfect trial-class completion</span></td><td class="num pos">+6 / 节</td><td>体验课权重高于付费课；代课老师获相应积分 <span class="en">Trial weights higher than paid; substitutes earn corresponding points</span></td></tr>
+          <tr><td>付费课完美完课 <span class="en">Perfect paid-class completion</span></td><td class="num pos">+4 / 节</td><td>完课且无缺席/迟到/早退；同课同项只记一次 <span class="en">No absence/lateness/early-leave; same class & item once</span></td></tr>
+          <tr><td>Peak 完课 <span class="en">Peak completion</span></td><td class="num pos">+2 / 节</td><td>可与完美完课叠加 <span class="en">Can stack with perfect completion</span></td></tr>
+          <tr><td>等级 Peak 开课底线 <span class="en">Level Peak floor</span></td><td class="num">达标给固定分</td><td>按晋升目标等级设底线，固定分待回测冻结 <span class="en">Floor by target level; fixed points pending backtest</span></td></tr>
+
+          <tr><td rowspan="4"><b>履约 <span class="en">Fulfillment</span></b></td><td>No Notification（真实课中缺席）<span class="en">No Notification (real mid-class absence)</span></td><td class="num neg">−100 / 次</td><td>严重履约事件，同时触发治理；同一事件只记一次 <span class="en">Serious event, also triggers governance; same event once</span></td></tr>
+          <tr><td>开课前 24h 内自行缺席 <span class="en">Self-absence within 24h</span></td><td class="num neg">−10 / 次</td><td>24h 外合规请假 = 0 分 <span class="en">Compliant leave >24h = 0</span></td></tr>
+          <tr><td>迟到 <span class="en">Lateness</span></td><td class="num neg">−2 / 节</td><td>与早退分别扣分；同课同项只记一次 <span class="en">Separate from early-leave; same class & item once</span></td></tr>
+          <tr><td>早退 <span class="en">Early departure</span></td><td class="num neg">−2 / 节</td><td>与迟到可累计；不因治理动作重复扣分 <span class="en">Can stack with lateness; not double-deducted</span></td></tr>
+
+          <tr><td rowspan="3"><b>用户反馈 <span class="en">User Feedback</span></b></td><td>4/5 分好评 <span class="en">4/5-star positive review</span></td><td class="num pos">+5 / 次</td><td>真实评价有效，按老师-课程最新记录计一次 <span class="en">Genuine reviews count, latest record once</span></td></tr>
+          <tr><td>1/2 分差评 <span class="en">1/2-star negative review</span></td><td class="num neg">−5 / 次</td><td>不依赖 appeal 字段；没评价 ≠ 差评 <span class="en">Independent of appeal field; no review ≠ negative</span></td></tr>
+          <tr><td>收藏 / 拉黑 / 投诉 <span class="en">Favorite / block / complaint</span></td><td class="num">0 / Pending</td><td>收藏暂不加分；拉黑待观察；投诉口径未冻结不自动扣分 <span class="en">Favorites not scored; blocks under observation; complaint rule unfrozen</span></td></tr>
+
+          <tr><td rowspan="5"><b>课堂质量 <span class="en">Class Quality</span></b></td><td>无质量异常完课 <span class="en">Completed with no quality issue</span></td><td class="num pos">+4 / 节</td><td>已完成且当前接入的质量异常均为 0 <span class="en">Completed with all monitored issues = 0</span></td></tr>
+          <tr><td>QA 假早退 <span class="en">QA fake early-leave</span></td><td class="num neg">−8 / 次</td><td>同课多项异常分别累计；同课同一项只扣一次 <span class="en">Multiple issues accumulate; same item once</span></td></tr>
+          <tr><td>QA 未开摄像头 <span class="en">QA camera off</span></td><td class="num neg">−6 / 次</td><td>同上 <span class="en">Same as above</span></td></tr>
+          <tr><td>QA 网络异常 <span class="en">QA network issue</span></td><td class="num neg">−4 / 次</td><td>同上 <span class="en">Same as above</span></td></tr>
+          <tr><td>QA CPU 异常 <span class="en">QA CPU issue</span></td><td class="num neg">−2 / 次</td><td>同上 <span class="en">Same as above</span></td></tr>
+
+          <tr><td><b>基础任务 <span class="en">Basic Tasks</span></b></td><td>月度必修任务 <span class="en">Monthly mandatory task</span></td><td class="num">+10 / 月</td><td>暂按满分回测；未完成必修阻断晋升 <span class="en">Backtested at full marks; incomplete mandatory blocks promotion</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="note note-blue"><b>负向扣分矩阵（V4.1 确认版）Negative deduction matrix (V4.1 confirmed)</b>：No Notification −100、24h 内自行缺席 −10、迟到 −2、早退 −2、差评 −5、QA 假早退/未开摄像头/网络/CPU = −8/−6/−4/−2。2026-09-03 已确认维持 V4.1 矩阵有效。<span class="en">V4.1 matrix confirmed valid on 2026-09-03.</span></div>
+  </section>
+
+  <!-- 03 升降级 -->
+  <section class="card" id="s3">
+    <div class="sec-head"><span class="idx">03</span><h2>升降级主体机制</h2><span class="pill pill-warn">参数为回测校准推荐值</span></div>
+    <p class="sec-en">Core Promotion/Demotion Mechanism</p>
+    <p class="sec-sub">完整等级周期累计五维总积分，次月 1 日 0 点判定生效。<span class="en">Full-cycle five-dimension total points; effective at 00:00 on the 1st of next month.</span></p>
+
+    <h3><span class="bar">▍</span>完整等级周期 <span class="en">Full level cycle</span></h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>当前等级 <span class="en">Current level</span></th><th>评定周期 <span class="en">Review cycle</span></th><th>说明 <span class="en">Note</span></th></tr></thead>
+        <tbody>
+          <tr><td class="num">L1-L3</td><td class="num">1 个月 <span class="en">1 month</span></td><td></td></tr>
+          <tr><td class="num">L4-L8</td><td class="num">2 个月 <span class="en">2 months</span></td><td></td></tr>
+          <tr><td class="num">L9-L13</td><td class="num">3 个月 <span class="en">3 months</span></td><td></td></tr>
+          <tr><td class="num">L14</td><td>按保级/降级周期观察 <span class="en">By hold/demotion cycle</span></td><td><b>最高等级，不再升级 <span class="en">Highest level, no further promotion</span></b></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3><span class="bar">▍</span>升级线（V2.0 回测推荐校准值）<span class="en">Upgrade lines (V2.0 backtest-calibrated)</span></h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>目标等级 <span class="en">Target</span></th><th>L2</th><th>L3</th><th>L4</th><th>L5</th><th>L6</th><th>L7</th><th>L8</th><th>L9</th><th>L10</th><th>L11</th><th>L12</th><th>L13</th><th>L14</th></tr></thead>
+        <tbody><tr><td><b>升级线 <span class="en">Upgrade line</span></b></td>
+          <td class="num">1,300</td><td class="num">1,700</td><td class="num">2,100</td><td class="num">2,700</td>
+          <td class="num">3,000</td><td class="num">3,300</td><td class="num">3,600</td><td class="num">3,900</td>
+          <td class="num">5,400</td><td class="num">6,000</td><td class="num">6,600</td><td class="num">7,200</td><td class="num">7,800</td>
+        </tr></tbody>
+      </table>
+    </div>
+
+    <h3><span class="bar">▍</span>降级线与确认规则 <span class="en">Downgrade lines & confirmation</span></h3>
+    <p>降级线 = 当前等级 −2 对应的升级线；确认规则 = <b>连续 2 期低于线</b> 或 <b>深度缺口因子 0.2</b>。<span class="en">Downgrade line = upgrade line of (current level − 2); confirmation = 2 consecutive cycles below line OR depth-gap factor 0.2.</span></p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>当前等级 <span class="en">Current</span></th><th>降级线 <span class="en">Downgrade line</span></th><th>备注 <span class="en">Note</span></th></tr></thead>
+        <tbody>
+          <tr><td class="num">L1</td><td class="num">—</td><td>最低等级（Star Teacher A），不降级 <span class="en">Lowest level, no demotion</span></td></tr>
+          <tr><td class="num">L2 / L3</td><td class="num">待冻结</td><td>依赖 L0/L1 升级线，参数未明确 <span class="en">Depends on L0/L1 lines, undefined</span></td></tr>
+          <tr><td class="num">L4</td><td class="num">1,300</td><td rowspan="2"></td></tr>
+          <tr><td class="num">L5</td><td class="num">1,700</td></tr>
+          <tr><td class="num">L6</td><td class="num">2,100</td><td rowspan="2"></td></tr>
+          <tr><td class="num">L7</td><td class="num">2,700</td></tr>
+          <tr><td class="num">L8</td><td class="num">3,000</td><td rowspan="2"></td></tr>
+          <tr><td class="num">L9</td><td class="num">3,300</td></tr>
+          <tr><td class="num">L10</td><td class="num">3,600</td><td rowspan="2"></td></tr>
+          <tr><td class="num">L11</td><td class="num">3,900</td></tr>
+          <tr><td class="num">L12</td><td class="num">5,400</td><td rowspan="2"></td></tr>
+          <tr><td class="num">L13</td><td class="num">6,000</td></tr>
+          <tr><td class="num">L14</td><td class="num">6,600</td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3><span class="bar">▍</span>Peak 开课底线（产能维度）<span class="en">Peak class floors (capacity)</span></h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>等级 <span class="en">Level</span></th><th>L1</th><th>L2</th><th>L3</th><th>L4</th><th>L5</th><th>L6-L13</th><th>L14</th></tr></thead>
+        <tbody><tr><td><b>Peak 底线（节）<span class="en">Floor (classes)</span></b></td>
+          <td class="num">90</td><td class="num">160</td><td class="num">170</td><td class="num">170</td><td class="num">170</td><td class="num">180</td><td class="num">240</td>
+        </tr></tbody>
+      </table>
+    </div>
+
+    <h3><span class="bar">▍</span>结算公式与判定 <span class="en">Settlement formula & decision</span></h3>
+    <div class="codeblock">
+<span class="c">CycleTotalPoints</span> = Σ(周期内五维正向积分 − 五维负向扣分) <span class="c">// five-dimension positive − negative in cycle</span><br>
+<span class="c">UpgradeEligible</span>  = 必修任务全部完成 <span class="c">// all mandatory tasks completed</span><br>
+<span class="c">DowngradeLine(L)</span> = UpgradeLine(L − 2)<br><br>
+<span class="k">IF</span> CycleTotalPoints ≥ UpgradeLine(L) <span class="k">AND</span> UpgradeEligible<br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 次月 1 日升级 1 级 <span class="c">// promote 1 level on the 1st of next month</span><br>
+<span class="k">ELSE IF</span> CycleTotalPoints &lt; DowngradeLine(L) <span class="k">AND</span> 满足降级确认 <span class="c">// AND confirmation met</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 次月 1 日降级 1 级 <span class="c">// demote 1 level on the 1st of next month</span><br>
+<span class="k">ELSE</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;→ 保级，滚动刷新积分周期 <span class="c">// hold level, refresh rolling cycle</span>
+    </div>
+
+    <h3><span class="bar">▍</span>结算与清账规则 <span class="en">Settlement & clearance rules</span></h3>
+    <div class="rules">
+      <div class="rule"><span class="rno">次月 1 日生效 · Effective next month</span><p>升级/降级即时生效，旧等级积分清零，从新等级重新累计。<span class="en">Immediate effect; old points reset, restart from new level.</span></p></div>
+      <div class="rule"><span class="rno">跨等级不串分 · No points across levels</span><p>窗口内出现等级变化则该窗口不参与判定，变级前积分不带入新等级。<span class="en">A window with a level change does not participate; pre-change points do not carry over.</span></p></div>
+      <div class="rule"><span class="rno">同一事件只记一次 · Same event once</span><p>可追溯至课程/任务记录，治理动作不重复扣分。<span class="en">Traceable to class/task records; no double-deduction.</span></p></div>
+    </div>
+  </section>
+
+  <!-- 04 必修 -->
+  <section class="card" id="s4">
+    <div class="sec-head"><span class="idx">04</span><h2>必修任务前置</h2><span class="pill pill-ok">机制已确认 Confirmed</span></div>
+    <p class="sec-en">Mandatory-Task Prerequisite</p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>规则 <span class="en">Rule</span></th><th>口径 <span class="en">Convention</span></th></tr></thead>
+        <tbody>
+          <tr><td><b>晋升硬性前置 <span class="en">Hard prerequisite</span></b></td><td>必修任务是晋升的必要条件，与积分并列 <span class="en">Mandatory tasks are necessary for promotion, parallel to points</span></td></tr>
+          <tr><td><b>任务分值 <span class="en">Task points</span></b></td><td>候选 +10/月（待业务冻结最终分值）<span class="en">Candidate +10/month (final value pending freeze)</span></td></tr>
+          <tr><td><b>阻断规则 <span class="en">Block rule</span></b></td><td>未完成必修 → 阻断晋升；整改任务不额外加分 <span class="en">Incomplete mandatory → blocks promotion; remediation earns no extra points</span></td></tr>
+          <tr><td><b>短期展示 <span class="en">Short-term display</span></b></td><td>基础任务无课程分母，只按「完成/未完成/即将到期」展示状态，不折算每百节课 <span class="en">No class denominator; only complete/incomplete/expiring status, no per-100 conversion</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- 05 推荐 -->
+  <section class="card" id="s5">
+    <div class="sec-head"><span class="idx">05</span><h2>推荐引导（仅引导、不升降级）</h2><span class="pill pill-warn">A/B 线待冻结</span></div>
+    <p class="sec-en">Recommendation Guidance (guidance only, no level change)</p>
+    <p class="sec-sub">内部计算、老师只看状态；不向老师展示 0-100 第二分数。<span class="en">Internal calculation; teachers only see status, not a second 0–100 score.</span></p>
+    <div class="codeblock">
+<span class="c">每百节净表现 Net per 100 classes</span> = 100 × (30天正向分 − 30天负向分) ÷ 30天未取消已约课程<br>
+<span class="c">健康分 Health score</span> = clamp(0, 100, 每百节净表现 ÷ 10)
+    </div>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>状态 <span class="en">Status</span></th><th>触发 <span class="en">Trigger</span></th><th>老师看到 <span class="en">What the teacher sees</span></th></tr></thead>
+        <tbody>
+          <tr><td><b>优先推荐 Priority</b></td><td class="num">健康分 ≥ A 线（90）<span class="en">Health ≥ A-line (90)</span></td><td>更多匹配机会 + 1-3 条建议 <span class="en">More matches + 1–3 tips</span></td></tr>
+          <tr><td><b>正常推荐 Normal</b></td><td class="num">A/B 线之间（60-89）<span class="en">Between A/B (60–89)</span></td><td>正常流量 + 改善建议 <span class="en">Normal traffic + improvement tips</span></td></tr>
+          <tr><td><b>降权推荐 Downgraded</b></td><td class="num">健康分 &lt; B 线（60）<span class="en">Health &lt; B-line (60)</span></td><td>降低曝光，进入运营观察 <span class="en">Reduced exposure, ops watchlist</span></td></tr>
+          <tr><td><b>待积累 Accumulating</b></td><td class="num">近 30 天课量 &lt; 5 节 <span class="en">&lt;5 classes in 30 days</span></td><td>保留探索流量，不因低课量降权 <span class="en">Keep exploration traffic, no downgrade for low volume</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="note note-blue"><b>边界 Boundary</b>：推荐状态按日滚动（每日 11:00），用于近期流量分配与运营名单；不参与 Level 判定、不清零周期积分。<span class="en">Rolls daily (11:00), for near-term traffic & ops lists; no Level decision, no cycle-point reset.</span></div>
+  </section>
+
+  <!-- 06 治理 -->
+  <section class="card" id="s6">
+    <div class="sec-head"><span class="idx">06</span><h2>A0-A4 即时治理</h2><span class="pill pill-ok">机制已确认 Confirmed</span></div>
+    <p class="sec-en">A0–A4 Immediate Governance</p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>状态 <span class="en">Status</span></th><th>业务含义 <span class="en">Business meaning</span></th><th>系统即时动作 <span class="en">Immediate action</span></th><th>恢复要求 <span class="en">Recovery</span></th></tr></thead>
+        <tbody>
+          <tr><td class="num">A0</td><td>正常 <span class="en">Normal</span></td><td>按周期积分与推荐状态运行 <span class="en">Run by cycle points & recommendation status</span></td><td>无需治理恢复 <span class="en">None</span></td></tr>
+          <tr><td class="num">A1</td><td>提醒/召回 <span class="en">Reminder/Recall</span></td><td>AC 触达、强制确认；不扣分、不改推荐状态 <span class="en">AC touchpoint, forced confirmation; no deduction</span></td><td>完成确认并正常履约 <span class="en">Confirm & resume normal fulfillment</span></td></tr>
+          <tr><td class="num">A2</td><td>风险限制 <span class="en">Risk limit</span></td><td>降权、减少新增推荐，进异常队列 <span class="en">Downgrade, reduce new recommendations</span></td><td>复核/整改 + 观察期 <span class="en">Review/remediation + observation</span></td></tr>
+          <tr><td class="num">A3</td><td>严重风险 <span class="en">Severe risk</span></td><td>暂停新预约 7 天，启动候补/代课 <span class="en">Suspend new bookings 7 days, start substitutes</span></td><td>问题闭环、资格复核后逐步恢复 <span class="en">Close issue, requalify, gradual restore</span></td></tr>
+          <tr><td class="num">A4</td><td>强制止损 <span class="en">Forced stop-loss</span></td><td>停止推荐、冻结授课资格 <span class="en">Stop recommendations, freeze eligibility</span></td><td>按独立治理规则，未满足不恢复 <span class="en">Per separate rules, no restore until met</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p><b>熔断流程 Circuit-breaker flow</b>：T 事实发生（分钟级进队列）→ T+1 召回确认 → T+4 执行动作 → 整改观察 → 恢复回写。<span class="en">T event (minute-level queue) → T+1 recall → T+4 action → remediation → restore write-back.</span></p>
+    <div class="note note-red"><b>执行优先级 Execution priority</b>：A4 ＞ A3 ＞ A2 ＞ 短期推荐状态。A2-A4 立即改变推荐/预约/授课资格，但不直接改 Level、不重复扣分、不清零周期总积分。<span class="en">A2–A4 immediately change recommendation/booking/teaching eligibility, but do not change Level, do not double-deduct, do not reset cycle points.</span></div>
+  </section>
+
+  <!-- 07 回测 -->
+  <section class="card" id="s7">
+    <div class="sec-head"><span class="idx">07</span><h2>回测证据</h2><span class="pill pill-ok">复算验证一致 Re-verified</span></div>
+    <p class="sec-en">Backtest Evidence</p>
+    <p class="sec-sub">2026 年 5-7 月，28,550 条老师月记录；2026-08-27 复算结果与交接包存档一致。<span class="en">May–July 2026, 28,550 teacher-month records; 2026-08-27 re-verification matches the archive.</span></p>
+    <div class="kpis">
+      <div class="kpi"><div class="v">7.94%</div><div class="l">升级率 Upgrade rate</div><div class="le">预测 Predicted 7.63%</div></div>
+      <div class="kpi"><div class="v">3.72%</div><div class="l">降级率 Demotion rate</div><div class="le">预测 Predicted 3.64%</div></div>
+      <div class="kpi"><div class="v">80.41%</div><div class="l">动作匹配率 Action match</div><div class="le">—</div></div>
+    </div>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>指标 <span class="en">Metric</span></th><th>观测值 <span class="en">Observed</span></th><th>预测值 <span class="en">Predicted</span></th></tr></thead>
+        <tbody>
+          <tr><td>升级率 <span class="en">Upgrade rate</span></td><td class="num">7.94%</td><td class="num">7.63%</td></tr>
+          <tr><td>降级率 <span class="en">Demotion rate</span></td><td class="num">3.72%</td><td class="num">3.64%</td></tr>
+          <tr><td>动作匹配率 <span class="en">Action match rate</span></td><td class="num">80.41%</td><td class="num">—</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="note note-blue"><b>推荐引导预测能力 Recommendation predictive power</b>：NN AUC 0.693（时间外 0.692）、NN 发生风险比 7.59×（降权层 23.0% ÷ 优先层 3.0%）。30 天等权方案优于旧三维综合分（0.648），近期加权无增益且周均波动上升，故恢复 30 天等权。<span class="en">NN AUC 0.693 (out-of-time 0.692), NN risk ratio 7.59× (downgraded 23.0% ÷ priority 3.0%). 30-day equal-weight beats old composite (0.648); recent weighting adds no gain, so 30-day equal-weight is restored.</span></div>
+  </section>
+
+  <!-- 08 待冻结 -->
+  <section class="card" id="s8">
+    <div class="sec-head"><span class="idx">08</span><h2>待冻结项与数据边界</h2><span class="pill pill-todo">Pending</span></div>
+    <p class="sec-en">Pending Items & Data Boundaries</p>
+    <p class="lead">机制方向已确认，以下数值仍须真实回测后由业务冻结：<span class="en">Mechanism direction confirmed; the following values still need real backtests before business freeze:</span></p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>#</th><th>待冻结项 <span class="en">Pending item</span></th></tr></thead>
+        <tbody>
+          <tr><td class="num">1</td><td>各等级升级线、降级线、Peak 底线与固定分 <span class="en">Upgrade/downgrade lines, Peak floors, fixed points per level</span></td></tr>
+          <tr><td class="num">2</td><td>基础任务真实完成数据、任务分值与晋升阻断规则 <span class="en">Real basic-task completion data, task points, block rules</span></td></tr>
+          <tr><td class="num">3</td><td>L2/L3 降级线回算口径 <span class="en">Back-calculation rule for L2/L3 downgrade lines</span></td></tr>
+          <tr><td class="num">4</td><td>首次上线历史积分回算范围与等级生效批次 <span class="en">First-launch historical points backfill & effective batch</span></td></tr>
+          <tr><td class="num">5</td><td>推荐 A/B 线、最小样本、优先/降权倍率 <span class="en">Recommendation A/B lines, min sample, multipliers</span></td></tr>
+          <tr><td class="num">6</td><td>投诉与 AI 核实口径（先接工单事实，AI 仅辅助，不自动扣分）<span class="en">Complaint & AI-verification rule (ticket facts first, AI assists, no auto deduction)</span></td></tr>
+          <tr><td class="num">7</td><td>QA 分类日级明细接入（当前日级源为聚合字段，无法验证 −8/−6/−4/−2 影响）<span class="en">QA category daily detail (current source aggregated, cannot verify −8/−6/−4/−2)</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="note note-amber"><b>薪酬挂钩 Compensation linkage</b>：本期不做，独立立项（详见下一节与 CONTEXT/SALARY_REFERENCE.md）。<span class="en">Not in this phase; separate project (see next section & CONTEXT/SALARY_REFERENCE.md).</span></div>
+  </section>
+
+  <!-- 09 薪酬 -->
+  <section class="card" id="s9">
+    <div class="sec-head"><span class="idx">09</span><h2>薪酬联动影响</h2><span class="pill pill-todo">本期不执行 Not this phase</span></div>
+    <p class="sec-en">Compensation Linkage Impact</p>
+    <p class="lead">结论：本方案<b>不含薪酬变化规则</b>；升降级结果会<b>间接</b>影响老师课时费，但薪酬挂钩本期不做、独立立项。<span class="en">Conclusion: this scheme contains no compensation-change rules; promotion/demotion indirectly affects per-class pay, but compensation linkage is a separate project, not this phase.</span></p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>层面 <span class="en">Layer</span></th><th>是否在本方案内 <span class="en">In this scheme?</span></th><th>说明 <span class="en">Note</span></th></tr></thead>
+        <tbody>
+          <tr><td>薪酬变化规则（升/降一级对应多少钱）<span class="en">Compensation-change rule (how much per level)</span></td><td class="neg">不在 Not in</td><td>方案只定义等级怎么升降，不定义等级对应的钱怎么变 <span class="en">The scheme defines level changes only, not the money attached</span></td></tr>
+          <tr><td>间接薪酬影响 <span class="en">Indirect compensation impact</span></td><td class="num">隐含 Implicit</td><td>薪酬知识库明确「常规课酬看老师等级」，升降级会间接改变课时费档位 <span class="en">KB states "regular pay depends on level", so level changes shift the pay band</span></td></tr>
+          <tr><td>成本变化测算 <span class="en">Cost-change estimate</span></td><td class="pos">单独有（V0.1）Separate</td><td>口径是平台成本，非老师薪酬 <span class="en">Platform cost, not teacher pay</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <h3><span class="bar">▍</span>传导链 <span class="en">Transmission chain</span></h3>
+    <div class="note note-blue">升降级（本方案）→ 等级 L1-L14 → 课时费档位（见 SALARY_REFERENCE.md，15 档映射待业务确认）→ 老师收入变化（<b>本期不执行</b>）。<span class="en">Promotion/demotion (this scheme) → level L1–L14 → per-class pay band (SALARY_REFERENCE.md, 15-band mapping pending confirmation) → teacher income change (not executed this phase).</span></div>
+    <h3><span class="bar">▍</span>成本侧参考（成本回测 V0.1）<span class="en">Cost-side reference (cost backtest V0.1)</span></h3>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>项目 <span class="en">Item</span></th><th>基线 <span class="en">Baseline</span></th><th>模拟后 <span class="en">Simulated</span></th><th>变化 <span class="en">Change</span></th></tr></thead>
+        <tbody>
+          <tr><td>综合 CPL（每节课成本）<span class="en">Composite CPL (cost per class)</span></td><td class="num">57.12 PHP/节</td><td class="num">57.48 PHP/节</td><td class="num neg">+0.36 PHP/节（+0.63%）</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p style="font-size:13px;color:var(--n-650);">口径：直接薪酬结构效应，不包含推荐调流、退出或留存变化；月均成本影响约 +53.4 万 PHP。<span class="en">Scope: direct pay-structure effect only; excludes recommendation traffic, churn, or retention; monthly impact ~+534k PHP.</span></p>
+    <div class="note note-amber"><b>状态 Status</b>：薪酬挂钩 = 独立立项、本期不做（V1.6 实施路线明确），待机制稳定与宣导准备完成后另立项目。<span class="en">Compensation linkage = separate project, not this phase (V1.6 roadmap), to launch after mechanism stability and communication readiness.</span></div>
+  </section>
+
+  <!-- 10 对齐 -->
+  <section class="card" id="s10">
+    <div class="sec-head"><span class="idx">10</span><h2>等级体系对齐说明</h2><span class="pill pill-ok">机制已确认 Confirmed</span></div>
+    <p class="sec-en">Level-System Alignment Notes</p>
+    <div class="tbl-wrap">
+      <table>
+        <thead><tr><th>项 <span class="en">Item</span></th><th>口径 <span class="en">Convention</span></th></tr></thead>
+        <tbody>
+          <tr><td><b>等级体系 <span class="en">Level system</span></b></td><td>L1-L14，L14 封顶不升级（V1.6 明确）；与薪酬侧「15 档」映射见 SALARY_REFERENCE.md（假设 A：15 档 = L0-L14，待业务确认）<span class="en">L1–L14, L14 capped (V1.6); salary "15 bands" mapping assumption A (15 bands = L0–L14) pending confirmation</span></td></tr>
+          <tr><td><b>入场等级承接 <span class="en">Entry level handover</span></b></td><td>新师营 → 成熟阶段：普通出营 +1、金牌出营 +2（上限 L14）、观察营出营保持入职等级不额外加级 <span class="en">New-camp → maturity: standard graduate +1, gold graduate +2 (cap L14), observation-camp graduate keeps entry level, no extra increment</span></td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="foot">
+    51Talk 成熟老师升降级积分方案 · 最终确认版<span class="sep">·</span>编制 2026-09-03<br>
+    机制方向已确认，数值状态如实标注；未上线生产，不作为线上规则引用依据。
+    <div class="en">Senior Teacher Promotion/Demotion Points Scheme · Final Confirmed Version · 2026-09-03<br>Mechanism direction confirmed, value statuses marked as-is; not in production, not to be cited as live rules.</div>
+  </div>
+
+</div>
+</body>
+</html>

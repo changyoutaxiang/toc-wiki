@@ -1,0 +1,62 @@
+{
+  "source_id": "J-1b0f0aaf0cce24916e65424e",
+  "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/media/dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md",
+  "content_sha256": "62b353ac9ab9a5e60eda681c58ed841cdb728586df2597d7688da31a6d87a1b1",
+  "version": "62b353ac9ab9",
+  "bytes": 75232,
+  "event_date": null,
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/media/dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/62/62b353ac9ab9a5e60eda681c58ed841cdb728586df2597d7688da31a6d87a1b1.md",
+  "source_kind": "original",
+  "batch_id": "J-d283d69fe7383645e095",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-08T10:58:06+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-1b0f0aaf0cce24916e65424e__62b353ac9ab9.md",
+  "journal_ingress": {
+    "source_id": "J-1b0f0aaf0cce24916e65424e",
+    "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/media/dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/media/dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md",
+    "sha256": "62b353ac9ab9a5e60eda681c58ed841cdb728586df2597d7688da31a6d87a1b1",
+    "revision_id": "62b353ac9ab9a5e6.885b710c2b05",
+    "received_on": "2026-09-07",
+    "received_on_basis": "first-observed-by-ingress",
+    "observed_at": "2026-09-07T13:02:40+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": null,
+    "change_kind": "new",
+    "declarations": {},
+    "metadata": {
+      "content_role": "original",
+      "actor": "unknown",
+      "purpose": "work_material",
+      "classification_basis": "media-location-original-candidate",
+      "common_input_eligible": true,
+      "occurred_on": null,
+      "occurred_on_basis": "unknown",
+      "journal_date": "2026-09-04",
+      "journal_date_basis": "directory-grouping",
+      "source_declarations": {},
+      "attribution_segments": [],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。",
+        "禁止整篇归为 Leon 原话；逐段核对说话人和来源。"
+      ],
+      "references": [],
+      "relation": null,
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-04/media/dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md",
+    "content_sha256": "62b353ac9ab9a5e60eda681c58ed841cdb728586df2597d7688da31a6d87a1b1",
+    "metadata_sha256": "78b773ed531ab2e3e26326c818640943341d83d7c93734dfdc753e96053bafa0"
+  }
+}

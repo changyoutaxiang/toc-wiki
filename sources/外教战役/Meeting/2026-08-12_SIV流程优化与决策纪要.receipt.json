@@ -1,0 +1,25 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-12T20:03:46+08:00",
+  "meeting": {
+    "title": "SIV 流程优化与决策会",
+    "date": "2026-08-12",
+    "source_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-12/media/dws-听记-SIV-2026-08-12.md",
+    "source_bytes": 84613,
+    "source_md5": "cb669f70bbf8a90491b9e398e58bd363"
+  },
+  "output_path": "/Users/wangdong/Desktop/Leon-work/projects/外教战役/_raw/meetings-raw/2026-08-12_SIV流程优化与决策纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "basic_law_packages": [
+    "客户价值北极星",
+    "系统化交付与持续进化",
+    "人与 AI 共生及最终责任"
+  ],
+  "recall": {
+    "current_canonical": "covered",
+    "gbrain": "covered: teacher-battle source-bound read-only query",
+    "basic_law": "covered: 51Talk 15周年发布版 Markdown 正本"
+  }
+}

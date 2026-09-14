@@ -1,0 +1,24 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-18T14:40:00+0800",
+  "meeting_title": "好外教被看见—国内市场部",
+  "meeting_date": "2026-08-18",
+  "date_basis": "钉钉听记 startTimeISO 2026-08-18T14:03:14+08:00（会议发生日）",
+  "source_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-18/media/dws-听记-好外教被看见-国内市场部-2026-08-18.md",
+  "source_md5": "308c8b1903da9d0e615637974508a6b8",
+  "source_bytes": 20424,
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-18_好外教被看见-国内市场部纪要.md",
+  "project": "TOC / 外教战役（好外教被看见 感知战）",
+  "basic_law_review_packs": [
+    "客户价值北极星",
+    "战略聚焦与长期主义",
+    "系统化交付与持续进化"
+  ],
+  "gbrain_read": false,
+  "gbrain_write": false,
+  "inbox_mutated": false,
+  "inbox_read_boundary_breached": false,
+  "inbox_pointer_status": "deferred",
+  "external_send": false
+}

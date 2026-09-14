@@ -1,0 +1,50 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-18T20:25:45+08:00",
+  "meeting": {
+    "title": "蜂巢周会（今天聊鹰眼涉及邵老师和Sara）",
+    "date": "2026-08-18",
+    "startTimeISO": "2026-08-18T19:01:20+08:00",
+    "endTimeISO": "2026-08-18T20:05:15+08:00",
+    "taskUuid": "76327569643431303635343033375f363335343136343836395f39",
+    "source": "shared"
+  },
+  "transcript": {
+    "path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-18/media/dws-听记-蜂巢周会-2026-08-18.md",
+    "md5": "9b3bf122cf223b3a4cb17bb3aaef9a94",
+    "bytes": 96884,
+    "paragraphs": 577,
+    "pages": 12,
+    "pagination_complete": true
+  },
+  "duplicate_recording_candidate": {
+    "title": "会议录制：蜂巢周会（今天聊鹰眼涉及邵老师和Sara）",
+    "taskUuid": "76327569643431303630343632385f363335343136343836395f30",
+    "startTimeISO": "2026-08-18T19:13:01+08:00",
+    "endTimeISO": "2026-08-18T20:05:15+08:00",
+    "paragraphs": 610,
+    "pages": 13,
+    "candidate_shingle_containment": 0.6502,
+    "jaccard": 0.4641,
+    "disposition": "same-meeting duplicate candidate; compared only; no transcript file or second minutes generated"
+  },
+  "minutes": {
+    "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-18_蜂巢周会纪要.md",
+    "md5": "e78bafdcfee837d9fbb761a42876a594",
+    "bytes": 13942,
+    "domain": "TOC",
+    "basic_law_review_packs": [
+      "客户价值北极星",
+      "战略聚焦与长期主义",
+      "系统化交付与持续进化"
+    ]
+  },
+  "gbrain_read": true,
+  "gbrain_written": false,
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "dingtalk_mutated": false,
+  "external_send": false,
+  "note": "主听记只读拉取并完整分页；重复录制候选仅作同会对照；统一纪要和 receipt 均为本地文件。"
+}

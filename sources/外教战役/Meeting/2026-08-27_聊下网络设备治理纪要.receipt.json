@@ -1,0 +1,17 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-28T19:00:00+08:00",
+  "meeting_title": "聊下网络设备治理",
+  "meeting_date": "2026-08-27",
+  "source": "dingtalk-minutes-feed-automation-1787024339728",
+  "source_uuid": "76327569643432333039373836375f363335343230353230365f39",
+  "transcript_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-27/media/dws-听记-聊下网络设备治理-2026-08-27.md",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-27_聊下网络设备治理纪要.md",
+  "transcript_md5": "04784202b55814d5c014d35b5d63b6d8",
+  "transcript_bytes": 6992,
+  "asr_note": "paragraphList 为空（录音无逐字稿），证据源为钉钉 AI 摘要 fullSummary + 待办",
+  "project": "TOC",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred"
+}

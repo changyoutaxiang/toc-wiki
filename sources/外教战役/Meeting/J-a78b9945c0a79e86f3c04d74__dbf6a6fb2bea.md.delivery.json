@@ -1,0 +1,67 @@
+{
+  "source_id": "J-a78b9945c0a79e86f3c04d74",
+  "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/dws-听记-TOC周会-2026-09-07.md",
+  "content_sha256": "dbf6a6fb2bea0fd3ebc3ab87edaac285fc46c16b058fb159e78422656e956fc6",
+  "version": "dbf6a6fb2bea",
+  "bytes": 44234,
+  "event_date": "2026-09-07",
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/dws-听记-TOC周会-2026-09-07.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/db/dbf6a6fb2bea0fd3ebc3ab87edaac285fc46c16b058fb159e78422656e956fc6.md",
+  "source_kind": "original",
+  "batch_id": "J-3fc8d522c662ec218944",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-07T20:00:13+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-a78b9945c0a79e86f3c04d74__dbf6a6fb2bea.md",
+  "journal_ingress": {
+    "source_id": "J-a78b9945c0a79e86f3c04d74",
+    "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/dws-听记-TOC周会-2026-09-07.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/dws-听记-TOC周会-2026-09-07.md",
+    "sha256": "dbf6a6fb2bea0fd3ebc3ab87edaac285fc46c16b058fb159e78422656e956fc6",
+    "revision_id": "dbf6a6fb2bea0fd3.938618f77ea9",
+    "received_on": "2026-09-07",
+    "received_on_basis": "explicit-registration",
+    "observed_at": "2026-09-07T19:05:28+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": null,
+    "change_kind": "new",
+    "declarations": {
+      "occurred_on": "2026-09-07",
+      "kind": "original",
+      "actor": "multiple",
+      "storage_mode": "reference-and-snapshot"
+    },
+    "metadata": {
+      "content_role": "original",
+      "actor": "multiple",
+      "purpose": "work_material",
+      "classification_basis": "explicit-registration",
+      "common_input_eligible": true,
+      "occurred_on": "2026-09-07",
+      "occurred_on_basis": "explicit-registration",
+      "journal_date": "2026-09-07",
+      "journal_date_basis": "directory-grouping",
+      "source_declarations": {},
+      "attribution_segments": [],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。",
+        "禁止整篇归为 Leon 原话；逐段核对说话人和来源。"
+      ],
+      "references": [],
+      "relation": null,
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/dws-听记-TOC周会-2026-09-07.md",
+    "content_sha256": "dbf6a6fb2bea0fd3ebc3ab87edaac285fc46c16b058fb159e78422656e956fc6",
+    "metadata_sha256": "7e70c66e9b6b0f0785f446d76187708afd74ee480ee751a1dcf7b1ddf795cff7"
+  }
+}

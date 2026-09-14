@@ -1,0 +1,14 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-18T12:41:30+08:00",
+  "meeting_title": "TIDE 对齐和攻关",
+  "meeting_date": "2026-08-18",
+  "task_uuid": "76327569643430393536333139305f363335343139313530325f39",
+  "source_transcript": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-18/media/dws-听记-TIDE 对齐和攻关-2026-08-18.md",
+  "source_transcript_md5": "4d57c7d05fdc859240e16e031a6b8b15",
+  "source_transcript_bytes": 18421,
+  "minutes_file": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-18_TIDE对齐和攻关纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred"
+}

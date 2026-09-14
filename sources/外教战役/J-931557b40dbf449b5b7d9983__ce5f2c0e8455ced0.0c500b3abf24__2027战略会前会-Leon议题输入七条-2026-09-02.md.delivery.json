@@ -1,0 +1,85 @@
+{
+  "source_id": "J-931557b40dbf449b5b7d9983",
+  "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-02/tasks/2027战略会前会-Leon议题输入七条-2026-09-02.md",
+  "content_sha256": "ce5f2c0e8455ced05daedaf4ec75b15124da7bc526d355723fe4657e63e01500",
+  "version": "ce5f2c0e8455",
+  "bytes": 6267,
+  "event_date": null,
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-02/tasks/2027战略会前会-Leon议题输入七条-2026-09-02.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/ce/ce5f2c0e8455ced05daedaf4ec75b15124da7bc526d355723fe4657e63e01500.md",
+  "source_kind": "mixed",
+  "batch_id": "J-33d338e57d20505cc2d1",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-08T11:58:33+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-931557b40dbf449b5b7d9983__ce5f2c0e8455.md",
+  "journal_ingress": {
+    "source_id": "J-931557b40dbf449b5b7d9983",
+    "original_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-02/tasks/2027战略会前会-Leon议题输入七条-2026-09-02.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-02/tasks/2027战略会前会-Leon议题输入七条-2026-09-02.md",
+    "sha256": "ce5f2c0e8455ced05daedaf4ec75b15124da7bc526d355723fe4657e63e01500",
+    "revision_id": "ce5f2c0e8455ced0.0c500b3abf24",
+    "received_on": "2026-09-07",
+    "received_on_basis": "first-observed-by-ingress",
+    "observed_at": "2026-09-07T13:13:38+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": "ce5f2c0e8455ced0.3c7010ec37ef",
+    "change_kind": "metadata_changed",
+    "declarations": {},
+    "metadata": {
+      "content_role": "mixed",
+      "actor": "multiple",
+      "purpose": "work_process",
+      "classification_basis": "leon-input-also-contains-agent-analysis",
+      "common_input_eligible": true,
+      "occurred_on": null,
+      "occurred_on_basis": "unknown",
+      "journal_date": "2026-09-02",
+      "journal_date_basis": "directory-grouping",
+      "source_declarations": {
+        "date": "2026-09-02",
+        "type": "leon-input-raw",
+        "source": "Leon 口头输入，2026-09-02 09:45 会话",
+        "status": "raw-recorded",
+        "canonical_for": "Leon 2026-09-02 对 2027 战略会前会议题的原始输入",
+        "not_canonical_for": "主题框架已整合、议题顺序已定、任何战略已批准"
+      },
+      "attribution_segments": [
+        {
+          "start_line": 24,
+          "end_line": 52,
+          "actor": "unknown",
+          "basis": "heading-indicates-processing-not-speaker-attribution"
+        },
+        {
+          "start_line": 61,
+          "end_line": 66,
+          "actor": "unknown",
+          "basis": "heading-indicates-processing-not-speaker-attribution"
+        }
+      ],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。",
+        "禁止整篇归为 Leon 原话；逐段核对说话人和来源。",
+        "标题只提示可能存在 Agent 加工，不划定整段说话人；逐段核对。明确闭合标记区另有归属线索，未标记部分不自动归属 Leon。"
+      ],
+      "references": [
+        "2027战略会前会-主题框架v2草案-2026-09-02"
+      ],
+      "relation": null,
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-02/tasks/2027战略会前会-Leon议题输入七条-2026-09-02.md",
+    "content_sha256": "ce5f2c0e8455ced05daedaf4ec75b15124da7bc526d355723fe4657e63e01500",
+    "metadata_sha256": "d1a98b5d5036b9ad85ca21d62bb94dc0c6bba9331c362b24699e1bcbeaa6eeb5"
+  }
+}

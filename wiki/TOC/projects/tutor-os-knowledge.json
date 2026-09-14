@@ -1,0 +1,312 @@
+{
+  "schema": "tutor-os-topic-sources/v1",
+  "checked_at": "2026-09-10T16:59:39.072804+08:00",
+  "authority": "navigation snapshot only; not a permission grant or independent business truth",
+  "sources": [
+    {
+      "id": "T01",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/sources/2026-09-09战略会正式产出与TutorOS建设规划.md",
+      "sha256": "fe70ba75e48de1f1b5cec6abb26657f26c4d2e9dcad4d51ff9093c1fa8f1378f",
+      "bytes": 16425,
+      "status_note": "正式产出来源入口；逐主张保留批准/待定边界",
+      "design_read_coverage": "full",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "T02",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html",
+      "sha256": "37a045e8a9f5aec83b7c17bc4186136651dc8c602ca61a17a365b032e91126ec",
+      "bytes": 119624,
+      "status_note": "Leon于2026-09-10明确认领为Tutor OS设计宪法；内部待定项和实施状态按原文保留",
+      "design_read_coverage": "extracted chapters 3-6,12-14,16-21",
+      "sharing": "retain source access controls; do not auto-upload",
+      "constitution_manifest": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/projects/tutor-os-knowledge.json",
+      "projection_coverage": "21 chapters and appendix; every section verified against canonical HTML",
+      "runtime_read_coverage": "TOC-14: 21 chapters plus appendix; full native tool returns verified against four projections",
+      "projection_path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/sources/TutorOS设计宪法全文.md"
+    },
+    {
+      "id": "T03",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/queries/TutorOS首期运行契约与2＋2验收缺口.md",
+      "sha256": "ed883298e64f5d755397d430c5773ca235a5e9ab2d3d1ab56a908a72a427f189",
+      "bytes": 23566,
+      "status_note": "正式规划接续；09-10跨域消费、纠错传播、接管撤权、窄适配退出设计补充仍待验证",
+      "design_read_coverage": "current section and historical sections",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "T04",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/业务系统/TutorOS/00_HUB.md",
+      "sha256": "c33e7d2cf8348fc87db5b1491dc97f8704f17f0915dd92bd79d84bb45ee2040e",
+      "bytes": 12682,
+      "status_note": "旧本地工作入口；历史状态需重核",
+      "design_read_coverage": "selected sections",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "W01",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/AI变革部/concepts/51Talk OS.md",
+      "sha256": "b021d8fc2fe6ce4488300bf33294d0e09439ed1f9d2ecbf0d0cf32dfae6744f6",
+      "bytes": 14680,
+      "status_note": "白皮书讨论稿；含9月4日四大OS局部确认",
+      "design_read_coverage": "full",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "W02",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/51Talk OS.html",
+      "sha256": "a6bc5e6385572f27c457f2e2b21ed9ff7c43b31dcc877fcf9b5c891985f6c169",
+      "bytes": 97556,
+      "status_note": "上层白皮书原件；引用时回章节",
+      "design_read_coverage": "locator only",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "H01",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/AIOS建设/entities/蜂巢.md",
+      "sha256": "5ece3d64ddd6e44b82f6068d33a1a6b6a958419934d66a87cef357e6fad20f12",
+      "bytes": 11272,
+      "status_note": "建设模型及会议汇报；与H02更正合读",
+      "design_read_coverage": "full",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "H02",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/AIOS建设/queries/蜂巢0904增量验证与边界对照.md",
+      "sha256": "4abdeec137631fc9810b0bc3008c6f689a6243127ceb269ec4a92739e67bc01c",
+      "bytes": 15438,
+      "status_note": "后继原稿校准及未决项；非生产验收",
+      "design_read_coverage": "selected correction sections",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "R01",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md",
+      "sha256": "e1300c0ffa94f8c662e92571174dbf2caaa6018c1c4fe7cbb23a0021e34fc080",
+      "bytes": 9084,
+      "status_note": "Leon已选择的战略判断；资产晋升状态候选，非公司制度或生产授权",
+      "design_read_coverage": "full",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "R02",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/运营支撑/系统资产卡/FT-DEC-013_外教战役客户价值全景与原子小队任务级授权.md",
+      "sha256": "c5a9046ba29b7f73c55ba7baab1047ae929ce8170a8e52a005b7c0ab00ba8ac9",
+      "bytes": 5772,
+      "status_note": "Leon已选择的任务级边界；不构成组织任命或具体小队立项",
+      "design_read_coverage": "full",
+      "sharing": "retain source access controls; do not auto-upload"
+    },
+    {
+      "id": "G01",
+      "kind": "gbrain",
+      "semantic_domain": "toc",
+      "observed_source_id": "teacher-battle",
+      "slug": "cases/coo-feed/tutor-os-cross-teacher-continuity-and-capability-framework",
+      "title": "Tutor OS：跨师教学连续性与条件化能力框架",
+      "content_hash": "aec80235d15badd51601d3f4e11dc373aa2b7f6bb46fb3feb53cb9c963f5f593",
+      "status_note": "business-fact-and-formal-design-continuation；09-10新增attributed architecture candidate，非政策或生产验收",
+      "design_read_coverage": "full compiled_truth and provenance",
+      "routing": "parse current active contract; observed source is evidence only",
+      "checked_at": "2026-09-10T18:24:21.670637+08:00"
+    },
+    {
+      "id": "G02",
+      "kind": "gbrain",
+      "semantic_domain": "ai-reform",
+      "observed_source_id": "aios",
+      "slug": "concepts/51talk-hive-customer-task-operating-system",
+      "title": "51Talk 蜂巢系统：以客户任务为中心的运营系统",
+      "content_hash": "f3b27854ca153301bfbeae30d1b7d0190d3d6d1336477d6ed3707df27622db3c",
+      "status_note": "active",
+      "design_read_coverage": "full compiled_truth and provenance",
+      "routing": "parse current active contract; observed source is evidence only"
+    },
+    {
+      "id": "G03",
+      "kind": "gbrain",
+      "semantic_domain": "toc",
+      "observed_source_id": "teacher-battle",
+      "slug": "reference/coo-feed/tutor-os-strategy-formal-outputs-2026-09",
+      "title": "Tutor OS战略会正式产出：Every Lesson Counts与V1.0建设规划",
+      "content_hash": "c187510b3f843aecca6dfd0b985d588d81cb2799eb8c284ac953a8bac4dca4af",
+      "status_note": "formal-strategic-outputs-with-unverified-implementation",
+      "design_read_coverage": "full compiled_truth and provenance",
+      "routing": "parse current active contract; observed source is evidence only"
+    },
+    {
+      "id": "R03",
+      "kind": "local",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/外教战役/TutorOS知识库候选_跨域交付与蜂巢接入约定_2026-09-10.md",
+      "sha256": "b5f5c8f1b2d81d10c0c513fa2a2f32f33a77d75926b58b59d076f4d529d912fa",
+      "bytes": 12372,
+      "status_note": "51TALK-27架构师讨论设计补充候选，Leon授权去重归库；非政策批准或生产验收",
+      "design_read_coverage": "full source and independent read-only review",
+      "sharing": "retain source access controls; do not auto-upload"
+    }
+  ],
+  "gaps": [
+    {
+      "slug": "reference/coo-feed/tutor-os-strategy-formal-outputs-2026-09",
+      "semantic_domain": "toc",
+      "observation": "exact get_page returned page_not_found",
+      "fallback": [
+        "T01",
+        "T02"
+      ],
+      "resolved_at": "2026-09-10T16:39:08.889590+08:00",
+      "resolution": "fresh exact get_page succeeded; G03 now available; prior page_not_found retained as historical observation"
+    }
+  ],
+  "canonical_tutor_plan": {
+    "source": "T02",
+    "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html",
+    "full_text": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/sources/TutorOS设计宪法全文.md",
+    "authority": "Leon-designated Tutor OS design constitution, 2026-09-10",
+    "authority_record": "/Users/wangdong/Desktop/极简 LLMwiki/sources/外教战役/2026-09-10-TutorOS宪法认领与精选素材归库授权.md"
+  },
+  "curated_context": [
+    {
+      "id": "C01",
+      "title": "10-worker-bee-ai-native-rd-production-system.md",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/10-worker-bee-ai-native-rd-production-system.md",
+      "sha256": "45ce38850c8cf570d34c76a8356dbad8702cbeb69f6e3093a10b8bc6cc00a88e",
+      "bytes": 19991,
+      "role": "工蜂/工峰研发生产系统；原文目标架构v1.0，命名及具体治理项仍待确认",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C02",
+      "title": "51Talk OS 上下文 落地建议.html",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/51Talk OS 上下文 落地建议.html",
+      "sha256": "0bbe62a88a49ecab5cd91b9fcadab9d355d35281ab8afe76eae87ef1e6f73cd8",
+      "bytes": 88513,
+      "role": "Context建设与验证；2026-08-31实施建议稿，非已批准路线图",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C03",
+      "title": "51Talk OS.html",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/51Talk OS.html",
+      "sha256": "a6bc5e6385572f27c457f2e2b21ed9ff7c43b31dcc877fcf9b5c891985f6c169",
+      "bytes": 97556,
+      "role": "公司上层OS与跨域责任；复用既有白皮书原件",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C04",
+      "title": "Tutor OS整体方案V1.0修订版.html",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html",
+      "sha256": "37a045e8a9f5aec83b7c17bc4186136651dc8c602ca61a17a365b032e91126ec",
+      "bytes": 119624,
+      "role": "首要设计宪法；2026-09-10 Leon明确认领",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C05",
+      "title": "以终为始看未来：蜂巢系统的真正价值.html",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/以终为始看未来：蜂巢系统的真正价值.html",
+      "sha256": "e2807a78a3909ce3fde895a0be90b13e0169e43d9d0c7cb1acffec7fb4bea942",
+      "bytes": 35446,
+      "role": "蜂巢长期价值与三层系统的设计论述；不作当前能力验收",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C06",
+      "title": "外教战略会纪要最终版.html",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/外教战役/Meeting/外教战略会纪要最终版.html",
+      "sha256": "48ceb106c488ada26e87ae95f8687a708c1ef57bd5bcf6645764d20cfd131271",
+      "bytes": 73863,
+      "role": "本批精选副本，正文标v2；不因文件名含最终版而覆盖此前确认的最终纪要v5",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C07",
+      "title": "蜂巢系统关键问题答疑-事实版.md",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/蜂巢系统关键问题答疑-事实版.md",
+      "sha256": "1a42ddac16b9c2eada8e473517e550fd21059dddce264aec5265c88083f0472b",
+      "bytes": 21603,
+      "role": "蜂巢问答与来源锚点；事实与能力以文中日期及证据范围为限",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    },
+    {
+      "id": "C08",
+      "title": "蜂巢系统到底是什么-全员通俗版.md",
+      "path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/AI 变革/蜂巢系统到底是什么-全员通俗版.md",
+      "sha256": "f8462580a5bdfbaca12b1ae3dc021b2c7af1276d7351e1db87824366a0545750",
+      "bytes": 6545,
+      "role": "2026-08-31面向同事的通俗说明；非产品功能或组织调整承诺",
+      "status": "archived and navigable; no new business synthesis in this migration"
+    }
+  ],
+  "constitution": {
+    "canonical_path": "/Users/wangdong/Desktop/极简 LLMwiki/sources/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html",
+    "canonical_sha256": "37a045e8a9f5aec83b7c17bc4186136651dc8c602ca61a17a365b032e91126ec",
+    "full_text_path": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/sources/TutorOS设计宪法全文.md",
+    "full_text_sha256": "e2e1e3bb8c4037fe58f7940611e35d22bd5175612e604888aef743101c6561e6",
+    "chapters": 21,
+    "appendix": true,
+    "sections": 22,
+    "reading_ranges": [
+      {
+        "part": 1,
+        "sections": [
+          1,
+          6
+        ],
+        "offset": 21,
+        "limit": 357,
+        "text_sha256": "de9b0b97fae73f9bae1202f91e1152a313cd47e4e28b688a33e68e907f156bcb"
+      },
+      {
+        "part": 2,
+        "sections": [
+          7,
+          11
+        ],
+        "offset": 378,
+        "limit": 222,
+        "text_sha256": "914475c052ffdc3708abfa1021d95c56b36f977e4d42305b6be8bb2e861018fa"
+      },
+      {
+        "part": 3,
+        "sections": [
+          12,
+          16
+        ],
+        "offset": 600,
+        "limit": 280,
+        "text_sha256": "afed95507a394b770a53db110a1b63e70d91e36e4c629da26a93e9941395addf"
+      },
+      {
+        "part": 4,
+        "sections": [
+          17,
+          22
+        ],
+        "offset": 880,
+        "limit": 264,
+        "text_sha256": "1d1b9392f2c828942e84d791577e70feb3c464ad1886aa3b1ea0e199f5e1e0a5"
+      }
+    ],
+    "authority_record": "/Users/wangdong/Desktop/极简 LLMwiki/sources/外教战役/2026-09-10-TutorOS宪法认领与精选素材归库授权.md"
+  },
+  "knowledge_entry": "/Users/wangdong/Desktop/极简 LLMwiki/wiki/TOC/projects/TutorOS建设.md",
+  "last_supplement": {
+    "date": "2026-09-10",
+    "source": "R03",
+    "knowledge_page": "T03",
+    "gbrain_page": "G01",
+    "scope": "only these entries refreshed; other checked_at values remain historical"
+  }
+}

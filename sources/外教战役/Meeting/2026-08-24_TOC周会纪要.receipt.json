@@ -1,0 +1,12 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-24T19:03:41+0800",
+  "meeting_title": "TOC周会",
+  "meeting_date": "2026-08-24",
+  "transcript_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-24/media/dws-听记-TOC周会-2026-08-24.md",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-24_TOC周会纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "source_chain": "automation-1787024339728 minutes-feed"
+}

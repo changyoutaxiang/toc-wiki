@@ -1,0 +1,66 @@
+{
+  "source_id": "J-bc423c91c64a58e42bbcab88",
+  "source_key": "/Users/wangdong/Downloads/TutorOS-v0.6-架构评审与落地建议.md",
+  "content_sha256": "9dc5a8e3cd54e1e2448dc03a9f88ecdf2508c09a24c4c6e0f8a2eb40b4b3b679",
+  "version": "9dc5a8e3cd54",
+  "bytes": 13016,
+  "event_date": "2026-09-07",
+  "record_date": "2026-09-07",
+  "source_dates": null,
+  "message_time_range": null,
+  "original_path": "/Users/wangdong/Downloads/TutorOS-v0.6-架构评审与落地建议.md",
+  "snapshot_path": "/Users/wangdong/Desktop/Leon-work/_system/state/journal-ingress/snapshots/9d/9dc5a8e3cd54e1e2448dc03a9f88ecdf2508c09a24c4c6e0f8a2eb40b4b3b679.md",
+  "source_kind": "agent_processing",
+  "batch_id": "B-2026-09-07-session-day-01",
+  "facility": "llmwiki",
+  "delivered_at": "2026-09-07T23:04:08+08:00",
+  "content_transformation": "none-byte-identical",
+  "supersedes": null,
+  "delivered_file": "J-bc423c91c64a58e42bbcab88__9dc5a8e3cd54.md",
+  "journal_ingress": {
+    "source_id": "J-bc423c91c64a58e42bbcab88",
+    "original_path": "/Users/wangdong/Downloads/TutorOS-v0.6-架构评审与落地建议.md",
+    "current_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/09/2026-09-07/media/收件/J-bc423c91c64a58e42bbcab88-9dc5a8e3cd54e1e2448d-TutorOS-v0.6-架构评审与落地建议.md",
+    "sha256": "9dc5a8e3cd54e1e2448dc03a9f88ecdf2508c09a24c4c6e0f8a2eb40b4b3b679",
+    "revision_id": "9dc5a8e3cd54e1e2.9ba4ef4f0b17",
+    "received_on": "2026-09-07",
+    "received_on_basis": "explicit-registration",
+    "observed_at": "2026-09-07T23:02:26+08:00",
+    "version_predecessor": null,
+    "revision_predecessor": null,
+    "change_kind": "new",
+    "declarations": {
+      "occurred_on": "2026-09-07",
+      "kind": "agent_processing",
+      "actor": "agent",
+      "relation": "Multica / 51Talk 系统架构师 / Tutor OS 兑现每一节答应给学生的课；UI可见本轮22:09请求、22:15答复；附件静态对象 95e58d5d-1451-4d55-b058-3df215996a17/01a07c38-6d4d-7562-87aa-31330f3d0770.md；架构建议，未获业务批准；本次23时前经原生界面下载全文。"
+    },
+    "metadata": {
+      "content_role": "agent_processing",
+      "actor": "agent",
+      "purpose": "work_result",
+      "classification_basis": "explicit-registration",
+      "common_input_eligible": true,
+      "occurred_on": "2026-09-07",
+      "occurred_on_basis": "explicit-registration",
+      "journal_date": null,
+      "journal_date_basis": null,
+      "source_declarations": {},
+      "attribution_segments": [],
+      "attribution_limits": [
+        "目录日期不是已核验发生日；文件时间不是业务时间。",
+        "原料、归属标签与链接都不构成业务批准或独立证据。"
+      ],
+      "references": [],
+      "relation": "Multica / 51Talk 系统架构师 / Tutor OS 兑现每一节答应给学生的课；UI可见本轮22:09请求、22:15答复；附件静态对象 95e58d5d-1451-4d55-b058-3df215996a17/01a07c38-6d4d-7562-87aa-31330f3d0770.md；架构建议，未获业务批准；本次23时前经原生界面下载全文。",
+      "declared_supersedes": null,
+      "correction_status": "not-inferred"
+    }
+  },
+  "delivery_identity": {
+    "schema": "journal-delivery-identity/v1",
+    "source_key": "/Users/wangdong/Downloads/TutorOS-v0.6-架构评审与落地建议.md",
+    "content_sha256": "9dc5a8e3cd54e1e2448dc03a9f88ecdf2508c09a24c4c6e0f8a2eb40b4b3b679",
+    "metadata_sha256": "1f72abb054fcebc70bc358508e6515dab9082bb44a3c4e82686021123feda39a"
+  }
+}

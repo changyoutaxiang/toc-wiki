@@ -1,0 +1,12 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-26T19:06:00+08:00",
+  "meeting_title": "外教包装初稿+实现自动化的探讨",
+  "meeting_date": "2026-08-26",
+  "transcript_path": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-26/media/dws-听记-外教包装初稿+实现自动化的探讨-2026-08-26.md",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-08-26_外教包装初稿+实现自动化的探讨纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "source": "automation-1787024339728"
+}

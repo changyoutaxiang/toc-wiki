@@ -1,0 +1,14 @@
+{
+  "schema": "meeting-minutes-receipt/v1",
+  "status": "generated",
+  "generated_at": "2026-08-17T13:52:00+08:00",
+  "meeting_title": "TOC周会",
+  "meeting_date": "2026-08-17",
+  "source_date_basis": "原稿内会议时间锚：2026-08-17 10:59",
+  "source_transcript": "/Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-17/media/dws-听记-TOC周会-2026-08-17.md",
+  "source_md5": "04dd663de3b762054af46015506cd2b3",
+  "minutes_path": "/Users/wangdong/Desktop/Leon-work/projects/外教战役/_raw/meetings-raw/2026-08-17_TOC周会纪要.md",
+  "inbox_mutated": false,
+  "inbox_pointer_status": "deferred",
+  "remote_side_effects": false
+}
