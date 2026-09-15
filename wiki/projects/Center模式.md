@@ -5,7 +5,7 @@ processing_review: corrections-applied-batch-incomplete
 type: project
 title: Center 模式
 tags: [battle, center, supply, 电脑租赁, 培训]
-related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, 直通车项目, 电脑租赁模式, 外教质量提升战役, Q2关键决策与判断]
+related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, 直通车项目, 北美订阅制外教供给, 电脑租赁模式, 外教质量提升战役, Q2关键决策与判断]
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/Center模式.md", "外教战役/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-a7845710f12b1e4407adcd3e__587c30cbf58b0f84.bfb5b3e5e4e3.md", "common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md", "common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json", "common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json", "common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md", "common-feed/J-c367716bb978ddf2846fd86e__e7e62345afd4ef7d.900396edc370.json", "common-feed/J-0a34eb15cf600409b69b1d5f__86b1b3db9f17187a.ec04c86adec0.json"]
