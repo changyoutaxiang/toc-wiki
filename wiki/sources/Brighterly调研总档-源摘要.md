@@ -1,0 +1,80 @@
+---
+projection: public
+type: source
+title: Brighterly调研总档—证据分层与待验证经营假设
+tags: [toc, 竞品, Brighterly, 获客, 教师供给, source]
+related: [招聘战役, 2026-04-25-cost-per-launch下调至1500并转向Referral, Referral重启, 2026-08-14-高质量获客与转介绍-战略提醒]
+created: 2026-09-11
+updated: 2026-09-11
+sources: ["common-feed/J-d4d43de67bfbd0c85f90aebf__15f9c099f750d6d0.5f264c74704b"]
+review: 记录
+facility: "llmwiki"
+processing_review: complete
+source_id: "J-d4d43de67bfbd0c85f90aebf"
+revision_id: "15f9c099f750d6d0.5f264c74704b"
+ingress_revisions: ["J-d4d43de67bfbd0c85f90aebf@15f9c099f750d6d0.5f264c74704b"]
+---
+
+# Brighterly调研总档—证据分层与待验证经营假设
+
+> 原稿明确标为 `ARCHIVE_ONLY`，用于竞品假设生成，不是慧茹运营口径、51Talk 当前事实或决策依据。发生日与收到日均为 2026-09-10；旁路人物为 `multiple`，不得整篇归为 Leon 原话。
+
+## 最重要的纠正
+
+“Brighterly 是纯 inbound”这一说法不成立。原稿修正为：销售动作主要承接主动留资/预约，但获客同时包含 Meta 付费广告和 SEO；因此 inbound 描述的是销售动作，不是无付费获客。
+
+## 可保留的模式线索
+
+- 用户先进入免费约 45 分钟 Demo/诊断，再进入销售承接和订阅转化。
+- Demo 教师与正式课教师可分工；教师供给时段会影响预约、出席和后续转化。
+- 原稿把销售转化、教师留存与取消/退款体验放进同一经营链，提示“前端强转化”可能把成本推向售后和口碑。
+- 教师侧候选机制包括匹配、稳定排课、材料支持、评价反馈与收入安排；这些是竞品机制线索，不证明其对教师或学生结果有效。
+
+## 证据分层
+
+| 层级 | 本页处置 |
+|---|---|
+| 公开材料 | 可作竞品公开自述，但仍需保留页面时点和营销叙事边界。 |
+| 内部访谈 | 归因于受访同事，不当作独立财务或经营正本。 |
+| 推算 | ARR、CAC、LTV、毛利等均保留模型假设，不写成已验证数字。 |
+| 冲突 | 多来源不一致时并列，不择一覆盖。 |
+| 待确认 | 进入验证清单，不升级为方案或决定。 |
+
+原稿出现的 Demo→成交 `20%–22%`、ARR `$13–18M`、LTV/CAC `2.2–5.5` 等均受访谈或推算限制；没有原始财务、cohort、成本或退款数据支撑。
+
+## 对 51Talk 的可用问题，不是批准方案
+
+- 是否应先验证 ESA 等渠道，再决定更大规模 B2C 投放？
+- Demo 与正式课教师分工是否改善匹配、转化和学习结果，还是转移了成本？
+- 销售锁单、取消和退款摩擦是否造成口碑/留存反作用？
+- 教师供给时段和稳定性对预约、出席、转化的实际影响多大？
+
+这些都是待验证问题。原稿“ESA 先于 B2C”等建议未获 Leon 批准，也未见试验执行、预算或结果。
+
+## 缺口
+
+- 真实 ARR、CAC/LTV、教师课时成本、续费与退款口径未核。
+- ESA 资质、渠道规模和合规边界未核。
+- 原稿列明的 3 个钉钉文档访问被拒、2 个本地 Mapping 文件缺失；未读内容不能由标题或转述补齐。
+- 同源原稿、纪要或聊天转述不构成独立证据。
+
+验证入口见 [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md) TOC-90。
+
+## 来源
+
+- source_id：`J-d4d43de67bfbd0c85f90aebf`
+- revision_id：`15f9c099f750d6d0.5f264c74704b`
+- 原件：`sources/common-feed/J-d4d43de67bfbd0c85f90aebf__15f9c099f750d6d0.5f264c74704b`
+- 发生日：2026-09-10；收到日：2026-09-10；actor：multiple。
+
+<!-- meaning-cloud-navigation:start -->
+## 钉钉阅读入口
+
+钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+
+| 页面 | A 知识库 | Leon 知识库 |
+|---|---|---|
+| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
+| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
+
+<!-- meaning-cloud-navigation:end -->

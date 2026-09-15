@@ -1,0 +1,47 @@
+{
+  "status": "rebuild_reading_manifest",
+  "legacy_manifest": "../../_ops/legacy-tutor-os-knowledge.json",
+  "legacy_sha256": "7660172b7a93de7e8861324631875733028dc38eab247876634c3fc568a21ec4",
+  "note": "原历史读取块保留，但其旧路径不作新库入口；下列当前源指向同版保全文件，HTML与转换MD分别有指纹。",
+  "sources": [
+    {
+      "source_id": "SRC-09d59316cf79",
+      "path": "../../sources/raw/2026-09-10-TutorOS宪法认领与精选素材归库授权.md",
+      "sha256": "571d12de785f4681f24ad0bbf6618fb90273802b71a7a19f79a37f9b33109914",
+      "lines": 21,
+      "read_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "coverage": "B005 main and independent full text; no media inference"
+    },
+    {
+      "source_id": "SRC-b0ff39d8ec44",
+      "path": "../../sources/raw/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md",
+      "sha256": "d2bb8cb30063fdb437d162695b555a5cb0e988c561bc42c5f5bf5b2f4e5f5ccb",
+      "lines": 945,
+      "read_ranges": [
+        [
+          1,
+          945
+        ]
+      ],
+      "coverage": "B005 main and independent full text; no media inference"
+    },
+    {
+      "source_id": "SRC-c71b91ad1296",
+      "path": "../../sources/raw/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.md",
+      "sha256": "c784cbdd1725537194182d44e7445bd8fa973079f63b925e0cd3c203816fc292",
+      "lines": 971,
+      "read_ranges": [
+        [
+          1,
+          971
+        ]
+      ],
+      "coverage": "B005 main and independent full text; no media inference"
+    }
+  ]
+}

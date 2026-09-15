@@ -1,0 +1,58 @@
+---
+type: entity
+title: TOC
+tags: [entity, toc, 外教组织]
+related: [外教质量提升战役, 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲]
+created: 2026-08-30
+updated: 2026-08-30
+sources: ["外教战役/00_工作台.md", "外教战役/战役总览.md"]
+review: 记录
+---
+
+# TOC
+
+> 本页基于《00_工作台.md》（导航型源，`as_of 2026-08-19`）与《战役总览.md》（截至 2026-07-13）编译。源中未展开 TOC 全称，本页不臆测。
+
+## 定位
+
+TOC 是外教战役的责任组织/责任世界：在 Leon-work 侧，`00_工作台` 是**TOC 责任世界的唯一入口**（`canonical_for: TOC 在 Leon-work 的责任世界入口、当前资产导航与工作分流`）。业务域覆盖外教战役、教师供给与质量、Center、招聘——即 wiki 的 TOC 域范围（对应 `sources/外教战役/`）。
+
+## 责任世界四个当前入口（截至 2026-08-19）
+
+| 分区 | 存什么 |
+|---|---|
+| 战役 | 当前决策与战线；背景和冻结历史 |
+| 业务系统 | TOC 业务系统入口、TiDe 本地实现退役记录与旧系统地图 |
+| 运营支撑 | 系统资产卡、外教数据治理、参考资料与协作上下文 |
+| 会议 | 会议正文与其原料（正文是会议证据，不自动成为当前业务口径） |
+
+## 边界与口径（重要）
+
+- **当前事实**：公司业务系统、受控知识库、验证数据，以及工作台指向的当前项目正本；本工作台**只导航 Leon-work 中的材料，不把历史、候选或讨论稿冒充已批准正本**。
+- **长期背景**：GBrain 语义域 `TOC`（物理 source `teacher-battle`）；冲突时当前正本胜。
+- **战役总览降级**：2026-08-18 起战役总览降级为历史参考（截至 2026-07-13），不再承担当前事实源（见 [外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md)）。
+
+## 战役脉络（截至 2026-07-13）
+
+- 2026 年战役从「招聘救火」（Q1）→「量、质、匹配并进」（Q2）→「国内反攻弹药库」（05-11）→「四化纲领」（05-15）→「H2 客户定义系统 + 双主帅」（07-13）。
+- 双主帅分工：Jennifer 牵运营/供给/试用激励，王东（Leon）牵系统化/AI/数据闭环/教师产品化；最终客户结果共担（[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md)）。
+
+## 相关页面
+
+- 战役：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) · [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md)
+- 域总览：[TOC/overview](../overview.md)
+
+<!-- meaning-cloud-navigation:start -->
+## 钉钉阅读入口
+
+钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+
+| 页面 | A 知识库 | Leon 知识库 |
+|---|---|---|
+| 外教质量提升战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq?utm_scene=team_space) |
+| 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno?utm_scene=team_space) |
+| overview | [A 库](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgxDPxJ3kdP0wQ?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILzBNPavWn4qY5Pr?utm_scene=team_space) |
+| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
+| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
+
+<!-- meaning-cloud-navigation:end -->
