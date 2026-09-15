@@ -155,6 +155,7 @@ template_version: "1.1"
 保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
 - [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC成立后-教师运营系统地图与责任清单.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)）
+- [2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀](../decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md) （[A](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxdrkgAjJ3kdP0wQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLqgmpNa8xLq0Ee4)）
 - [2026-04-15-Q2战役总纲与三标收敛](../decisions/2026-04-15-Q2战役总纲与三标收敛.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr0XpK8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqAp2w4lJ9dEq3XD)）
 - [2026-05-09-直通车TrialOnly-合肥MVP拍定](../decisions/2026-05-09-直通车TrialOnly-合肥MVP拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjla6zJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sj5NNX7m8GlDd3mE)）
 - [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO反攻Polly指示与外教战役国内倾斜.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)）
@@ -162,6 +163,7 @@ template_version: "1.1"
 - [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC预约体验课预占与供给数字漏斗化.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3)）
 - [2026-08-14-数据集建设优先级重排](../decisions/2026-08-14-数据集建设优先级重排.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLg32E9j8xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrXoE2JGXn6lpz)）
 - [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-坏课治理双方案灰度拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）
+- [北美订阅制外教供给](../projects/北美订阅制外教供给.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvlm55vO8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9DZNKLYWyMoPYe1)）
 - [Center模式](../projects/Center模式.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）
 - [新师训战营](../projects/新师训战营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)）
 - [直通车项目](../projects/直通车项目.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）
