@@ -58,7 +58,7 @@ X 轴回答：**TOC 在哪些业务战场上持续负责？** 战场由长期存
 | 管理坏课 | 让每节课稳定发生，异常能被预防、保护和恢复 |
 | 做匹配系统 | 让好老师被看见、选中、约到并形成稳定关系 |
 
-完整 X 战场树应在本模型之后单独展开、验证和版本化（候选稿见 [X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md)），不在 v1.0 中提前锁死。
+完整 X 战场树应在本模型之后单独展开、验证和版本化（候选稿见 [X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）），不在 v1.0 中提前锁死。
 
 ## 四、Y 轴：能力承载层
 
@@ -71,11 +71,11 @@ Y 轴回答：**解决问题的能力住在哪里，能否脱离特定个人稳�
 | **Y2** | **组织解** | 共同标准、规则、流程、产品和系统 | 普通人也能稳定执行，一次做对可以转化为多次做对 |
 | **Y3** | **蜂巢解** | 人与 Agent 共生、可持续学习的经营系统 | AI 持续感知、判断、行动、反馈和学习；人负责目标、边界、复杂取舍与最终责任 |
 
-**组织解与四化**：只写制度、流程或 SOP 不等于组织已形成稳定能力——「流程解」只是组织解的早期形态。Y2 内部沿四化的前三步演进：**标准化 → 产品化 → 系统化**（标准化=正确动作有共同语言；产品化=优秀经验可被普通人使用；系统化=数据、流程、责任和反馈稳定运转）。Y3 蜂巢解对应 AI 化，但不是给旧流程加一个模型或自动化按钮：**蜂巢解 = 组织解地基 + 持续感知 + Agent 判断与编排 + 授权行动 + 结果反馈 + 持续学习**。没有标准、数据、责任、权限和反馈，AI 只会放大混乱——**蜂巢解不能跳过组织解**。（四化方法论本体见 AI变革部域 [AI变革部/decisions/2026-06-07-四化建设决策史](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/decisions/2026-06-07-%E5%9B%9B%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%86%B3%E7%AD%96%E5%8F%B2.md)，待建。）
+**组织解与四化**：只写制度、流程或 SOP 不等于组织已形成稳定能力——「流程解」只是组织解的早期形态。Y2 内部沿四化的前三步演进：**标准化 → 产品化 → 系统化**（标准化=正确动作有共同语言；产品化=优秀经验可被普通人使用；系统化=数据、流程、责任和反馈稳定运转）。Y3 蜂巢解对应 AI 化，但不是给旧流程加一个模型或自动化按钮：**蜂巢解 = 组织解地基 + 持续感知 + Agent 判断与编排 + 授权行动 + 结果反馈 + 持续学习**。没有标准、数据、责任、权限和反馈，AI 只会放大混乱——**蜂巢解不能跳过组织解**。（四化方法论本体见 AI变革部域 [AI变革部/decisions/2026-06-07-四化建设决策史](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/decisions/2026-06-07-%E5%9B%9B%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%86%B3%E7%AD%96%E5%8F%B2.md)（本地资料，钉钉／GitHub未提供），待建。）
 
 **外教侧当前重点能力**（可跨战场复用）：**鹰眼**（对老师、课堂和关键要素持续看见、理解和判断）、**触达**（把正确的信息、任务或方案送达正确对象，并确认响应、行动和结果）、**匹配与推荐**（连接学生需求和合适供给，并让交付与客户结果持续回流）。身份、数据、事件、规则、权限、记忆和反馈学习是这些能力共同依赖的内核——不能三个大项目各建一套割裂底座，也不能把推荐算法、监控页面或消息通道直接称为蜂巢解。
 
-**2026-09-15 回读限定：** Y2 可以先在一个 X 战场形成稳定组织能力；第二个 X 的真实复用是“共享能力”的证据，不是所有 Y2 的统一门槛。另见[需求地图的两张收据与双关闭](外教侧需求X-Y-Z需求地图.md)，不要把工单关闭当成根因已经消除。
+**2026-09-15 回读限定：** Y2 可以先在一个 X 战场形成稳定组织能力；第二个 X 的真实复用是“共享能力”的证据，不是所有 Y2 的统一门槛。另见[需求地图的两张收据与双关闭](外教侧需求X-Y-Z需求地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)），不要把工单关闭当成根因已经消除。
 
 ## 五、Z 轴：客户价值深度
 
@@ -116,7 +116,7 @@ Z 轴只从客户所得定义，不从组织投入、同事辛苦程度或所用
 
 > 在「____」这个 X 战场，把客户从 Z__「____」推进到 Z__「____」；调用已有的「____」Y 能力，补建缺失的「____」能力，并分别用客户结果收据和能力沉淀收据验收。
 
-进入真实作战前，小队仍须补齐：唯一 DRI、2—4 名核心成员与保护带宽、授权边界、数据与专业守门、阶段期限、升级机制和关闭／转制条件。三轴给出共同战略语言，不自动完成这些治理动作（原子负责制方法见 [TOC原子负责制-最小实验闭环](../queries/TOC%E5%8E%9F%E5%AD%90%E8%B4%9F%E8%B4%A3%E5%88%B6-%E6%9C%80%E5%B0%8F%E5%AE%9E%E9%AA%8C%E9%97%AD%E7%8E%AF.md)）。
+进入真实作战前，小队仍须补齐：唯一 DRI、2—4 名核心成员与保护带宽、授权边界、数据与专业守门、阶段期限、升级机制和关闭／转制条件。三轴给出共同战略语言，不自动完成这些治理动作（原子负责制方法见 [TOC原子负责制-最小实验闭环](../queries/TOC%E5%8E%9F%E5%AD%90%E8%B4%9F%E8%B4%A3%E5%88%B6-%E6%9C%80%E5%B0%8F%E5%AE%9E%E9%AA%8C%E9%97%AD%E7%8E%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE24Pem8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6eYKzxJ63zgkYA)））。
 
 **坏课治理示例**（仅展示用法，不是正式基线或目标承诺）：X 战场 = 让每节课稳定发生，异常能被预防、保护和恢复；当前示意坐标 = 主要依靠 Y1 英雄解，在客户投诉后做到 Z1，部分案例达到 Z2；阶段方向 = 通过 Y2 组织解让客户从 Z1／Z2 推进到可稳定复现的 Z2 并开始达到 Z3；长期方向 = Y3 蜂巢解（鹰眼主动感知、触达与匹配完成授权行动、结果持续回流），让 Z3 成为常态并向 Z4 学习；两张收据 = 真实坏课、复发、客户损失和学习连续性的变化，以及事件、规则、数据、触达、匹配和反馈能力是否被其他战场复用。
 
@@ -156,28 +156,12 @@ Z 轴只从客户所得定义，不从组织投入、同事辛苦程度或所用
 ## 来源
 
 - 源文件：`sources/外教战役/X-Y-Z三轴经营模型.md`（v1.0，status: active，canonical_for: TOC 共同战略语言）；`sources/外教战役/X-Y-Z三轴经营模型_通俗解读版.md`（v0.1，draft，canonical_for: 无）。
-- 相关页面：需求归并与三轴落地见 [外教侧需求X-Y-Z需求地图](%E5%A4%96%E6%95%99%E4%BE%A7%E9%9C%80%E6%B1%82X-Y-Z%E9%9C%80%E6%B1%82%E5%9C%B0%E5%9B%BE.md)；候选战场树见 [X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md)；原子负责制见 [TOC原子负责制-最小实验闭环](../queries/TOC%E5%8E%9F%E5%AD%90%E8%B4%9F%E8%B4%A3%E5%88%B6-%E6%9C%80%E5%B0%8F%E5%AE%9E%E9%AA%8C%E9%97%AD%E7%8E%AF.md)。
+- 相关页面：需求归并与三轴落地见 [外教侧需求X-Y-Z需求地图](%E5%A4%96%E6%95%99%E4%BE%A7%E9%9C%80%E6%B1%82X-Y-Z%E9%9C%80%E6%B1%82%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)）；候选战场树见 [X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）；原子负责制见 [TOC原子负责制-最小实验闭环](../queries/TOC%E5%8E%9F%E5%AD%90%E8%B4%9F%E8%B4%A3%E5%88%B6-%E6%9C%80%E5%B0%8F%E5%AE%9E%E9%AA%8C%E9%97%AD%E7%8E%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE24Pem8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6eYKzxJ63zgkYA)）。
 
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D01 学习需要与交付承诺](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md)
+[D01 学习需要与交付承诺](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| X战场树-营盘地图-候选v0.1 | [A 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO?utm_scene=team_space) |
-| 外教侧需求X-Y-Z需求地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY?utm_scene=team_space) |
-| TOC原子负责制-最小实验闭环 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE24Pem8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6eYKzxJ63zgkYA?utm_scene=team_space) |
-| TutorOS经营域-D01-学习需要与交付承诺 | [A 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

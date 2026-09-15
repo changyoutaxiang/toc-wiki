@@ -64,17 +64,17 @@ AI native 提供拆解、记录、观测、比较与复用的低成本能力；�
 
 职能统一也不能取消市场结果接口：FT、TS、training 等可以共用负责人或能力，但仍须保留各市场、时区的明确承接人。纪要出现的 Anna、May、Ella、Aika、Jovic、Lucy、李东基等具体安排没有随附组织图、生效日或交接回执，本页不登记为已生效任命。共享 AI 架构师、工具/token 与知识文档是设计方向，不证明账户、权限、采购或协作机制已经落地。
 
-来源原件：[完整合并纪要](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)与[完整旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)。发生日 2026-09-10，接收日 2026-09-11，actor=`multiple`；来源为两份钉钉听记合并稿，未做录音复核，组织图及其他附件未交付。本节保持 `review: 待审`、`projection: public`。
+来源原件：[完整合并纪要](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)（本地资料，钉钉／GitHub未提供）。发生日 2026-09-10，接收日 2026-09-11，actor=`multiple`；来源为两份钉钉听记合并稿，未做录音复核，组织图及其他附件未交付。本节保持 `review: 待审`、`projection: public`。
 
 ## 8月29日分享回读：局部运行与公司推广分开
 
-分享以两支小队14天为样本，提出四象限与红线作为公司模板候选，明确不建议直接推广。参与权、投入和其他备案字段仍未补齐，并非“只缺投入一格”。TOC小王仍为未上岗、未获对外发送授权的设计草稿；纯小队部门、总部能力承接真实场景、AI读公司数据等保留为组织假设或项目建议。材料存在与设计认领不使这些安排自动生效；仍缺第二批复制、投入成本和持续客户结果。（[分享原稿](../../sources/raw/2026-08-29_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F_%E9%AB%98%E7%AE%A1%E5%88%86%E4%BA%AB%E5%86%B7%E8%AF%BB%E7%89%88.md) L48–84、855–888、891–944；本轮只核MD及其中既有图文转写，未核发布回执。）
+分享以两支小队14天为样本，提出四象限与红线作为公司模板候选，明确不建议直接推广。参与权、投入和其他备案字段仍未补齐，并非“只缺投入一格”。TOC小王仍为未上岗、未获对外发送授权的设计草稿；纯小队部门、总部能力承接真实场景、AI读公司数据等保留为组织假设或项目建议。材料存在与设计认领不使这些安排自动生效；仍缺第二批复制、投入成本和持续客户结果。（[分享原稿](../../sources/raw/2026-08-29_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F_%E9%AB%98%E7%AE%A1%E5%88%86%E4%BA%AB%E5%86%B7%E8%AF%BB%E7%89%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLqzvOP28xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlPw5G5LJkb4Mw9r)） L48–84、855–888、891–944；本轮只核MD及其中既有图文转写，未核发布回执。）
 
 ## 会前准备与会后已选边界分开
 
-8月10日为次日黑板会准备的背景底稿与决策包提出结果链、机会池和组队建议，没有由此形成任命、投入、KPI或教师规则。“10项闸门”、负责人100%、成员70%、6–12周及7天影子运行，部分是公司文件转述、部分是COO设计；本批未核所引公司原件，不能把整包当现行硬规则。日常责任、候选负责人和唯一结果责任承诺也不同。（[会前包](../../sources/raw/2026-08-11_%E5%A4%96%E6%95%99%E5%85%A8%E9%9C%80%E6%B1%82%E6%8B%8D%E9%BB%91%E6%9D%BF_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%86%B3%E7%AD%96%E5%8C%85_v0.md) L1–33、L132–193、L263–320、L436–440；[背景稿](../../sources/raw/2026-08-11_%E5%A4%96%E6%95%99%E5%85%A8%E9%9C%80%E6%B1%82%E6%8B%8D%E9%BB%91%E6%9D%BF_%E6%89%8E%E5%AE%9E%E8%83%8C%E6%99%AF%E5%BA%95%E7%A8%BF.md) L45–72、L129–141、L237–279、L310–325。）
+8月10日为次日黑板会准备的背景底稿与决策包提出结果链、机会池和组队建议，没有由此形成任命、投入、KPI或教师规则。“10项闸门”、负责人100%、成员70%、6–12周及7天影子运行，部分是公司文件转述、部分是COO设计；本批未核所引公司原件，不能把整包当现行硬规则。日常责任、候选负责人和唯一结果责任承诺也不同。（[会前包](../../sources/raw/2026-08-11_%E5%A4%96%E6%95%99%E5%85%A8%E9%9C%80%E6%B1%82%E6%8B%8D%E9%BB%91%E6%9D%BF_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%86%B3%E7%AD%96%E5%8C%85_v0.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9DBxoQlWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt16KG7mvJzlwrZgb)） L1–33、L132–193、L263–320、L436–440；[背景稿](../../sources/raw/2026-08-11_%E5%A4%96%E6%95%99%E5%85%A8%E9%9C%80%E6%B1%82%E6%8B%8D%E9%BB%91%E6%9D%BF_%E6%89%8E%E5%AE%9E%E8%83%8C%E6%99%AF%E5%BA%95%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpub0BL3yaJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcedG5qBj86zbX04v)） L45–72、L129–141、L237–279、L310–325。）
 
-这不否定8月11日会后已选定的三条价值焦点及任务级授权；后者只适用于已立项具名小队，并保留职能权责，见[事实标准与协同执行](../骨架/TutorOS经营域-D14-事实标准与协同执行.md)。FSD影子预检、GC诊断准备、口音AI待补算法责任是不同成熟度，不能因并列进入能力池就宣布训练有效。
+这不否定8月11日会后已选定的三条价值焦点及任务级授权；后者只适用于已立项具名小队，并保留职能权责，见[事实标准与协同执行](../骨架/TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)）。FSD影子预检、GC诊断准备、口音AI待补算法责任是不同成熟度，不能因并列进入能力池就宣布训练有效。
 
 ## 待验证项（query 本质）
 
@@ -85,19 +85,4 @@ AI native 提供拆解、记录、观测、比较与复用的低成本能力；�
 ## 来源与关联
 
 - 源文件：`sources/外教战役/TOC原子负责制_最小实验闭环_候选.md`（2026-08-14 增量来源：鹰眼与全量老师触达纪要、外教原子小队动员会纪要）。
-- 关联：原子小队的三轴表达与两张收据见 [X-Y-Z三轴经营模型](../concepts/X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md)；卡体系与生产线见 [外教战役四化蓝图](../concepts/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md)。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS经营域-D14-事实标准与协同执行 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1?utm_scene=team_space) |
-| X-Y-Z三轴经营模型 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y?utm_scene=team_space) |
-| 外教战役四化蓝图 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 关联：原子小队的三轴表达与两张收据见 [X-Y-Z三轴经营模型](../concepts/X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）；卡体系与生产线见 [外教战役四化蓝图](../concepts/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz)）。

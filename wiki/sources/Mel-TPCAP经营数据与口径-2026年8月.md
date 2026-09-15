@@ -19,7 +19,7 @@ coverage: 正文全读；2026-09-12累计补读用户截图01至07；原文342�
 
 Leon 于2026-09-12提供 Mel 的战略会分享链接，明确要求印刻至两个知识库。在线标题为 **TPCAP Updates 2026**，正文包含4月至8月滚动更新，最新大标题为 AUGUST 2026 EOM，部分 BD 表已经含9月记录。以下是**源内报告的历史快照**，不是实时经营数据库，也不因入库成为已批准制度或独立验证的因果结论。
 
-正文原始响应和逐字 Markdown 保存在 Leon-work `projects/TOC/战役/战略/9 月战略会/_raw/Mel-TPCAP-2026-09-12/`。本库 [正文快照](../../sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_%E6%AD%A3%E6%96%87%E5%BF%AB%E7%85%A7.md)去除HTML格式与临时图片URL，以图片编号保留位置；数值引用的行号均指该快照。首轮正文读取时未作OCR或视觉核读；后续已补读截图01–07，仍不能把342个图片引用说成342张图已入库。DWS正文读取成功，文件导出返回 `permission_denied`。
+正文原始响应和逐字 Markdown 保存在 Leon-work `projects/TOC/战役/战略/9 月战略会/_raw/Mel-TPCAP-2026-09-12/`。本库 [正文快照](../../sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_%E6%AD%A3%E6%96%87%E5%BF%AB%E7%85%A7.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpEabDdbWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpbPK3W1DK0g6l)）去除HTML格式与临时图片URL，以图片编号保留位置；数值引用的行号均指该快照。首轮正文读取时未作OCR或视觉核读；后续已补读截图01–07，仍不能把342个图片引用说成342张图已入库。DWS正文读取成功，文件导出返回 `permission_denied`。
 
 ## 1. 课量与利用率：8月末报告
 
@@ -148,7 +148,7 @@ Leon 于2026-09-12提供 Mel 的战略会分享链接，明确要求印刻至两
 - 强化：Center课量贡献相对人数较大，但现在可以按YTD与单月明确引用，不再只说“约40%”。
 - 收紧：“稳定性好”不能直接升级为“无坏课”；GE、教学质量、出勤、客户结果必须分别看。
 - 新增：新增中心结构向BO倾斜；中心数增长与座位、老师填充、可用课位、实际好课是不同层次。
-- 保留：毕业激励、招生转化、扩张预测不作为已批准政策或已实现经营结果。参见[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md)、[Center非零和规则与本地MVP-待验证问题卡](../queries/Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)。
+- 保留：毕业激励、招生转化、扩张预测不作为已批准政策或已实现经营结果。参见[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）、[Center非零和规则与本地MVP-待验证问题卡](../queries/Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D)）。
 
 
 ## 9. 截图01补读：8月末全网存量（2026-09-12）
@@ -304,22 +304,7 @@ A与B+合45，占627约7.18%（派生）；没有全部应试人数，不能计�
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+[D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| Center模式 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1?utm_scene=team_space) |
-| Center非零和规则与本地MVP-待验证问题卡 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D?utm_scene=team_space) |
-| TutorOS经营域-D13-全成本与可持续经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

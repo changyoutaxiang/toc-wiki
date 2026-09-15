@@ -20,7 +20,7 @@ superseded_by: []
 
 ## 背景
 
-接续外教战役 Cocos 路线：2026-05-29 确定设备锚定 Cocos、唯一标准分 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md)）。本会将既有系统选择进一步落到新教师前 30 天的操作就绪与验收：新教师前 30 天约 3/4 时间用于设备、网络、排课等外显问题，教学训练主要集中在最后一周；尚无 Cocos 熟练度量化评估机制，部分教师真实授课仍有操作慌乱、功能误用。
+接续外教战役 Cocos 路线：2026-05-29 确定设备锚定 Cocos、唯一标准分 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4763KJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vdAKzNJzlwrZgb)））。本会将既有系统选择进一步落到新教师前 30 天的操作就绪与验收：新教师前 30 天约 3/4 时间用于设备、网络、排课等外显问题，教学训练主要集中在最后一周；尚无 Cocos 熟练度量化评估机制，部分教师真实授课仍有操作慌乱、功能误用。
 
 ## 决策内容
 
@@ -34,18 +34,18 @@ superseded_by: []
 ## 依据
 
 - 事实进度：新师前 30 天约 3/4 时间用于设备/网络/排课等外显问题；Cocos 课程模板学习曲线陡、存量模板多且分类不足；培训与教研、产品之间存在责任模糊地带。
-- 上次相关决策：2026-05-29 设备锚定 Cocos、唯一标准分 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md)）。
+- 上次相关决策：2026-05-29 设备锚定 Cocos、唯一标准分 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4763KJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vdAKzNJzlwrZgb)））。
 
 ## 影响范围
 
-- 新教师培训体系（30 天就绪目标与 H2 战役 1 新师训战营 30 天试用训练衔接，[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md)）。
+- 新教师培训体系（30 天就绪目标与 H2 战役 1 新师训战营 30 天试用训练衔接，[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)））。
 - Cocos 培训物料、模板聚类、教师课后操作难点/使用障碍/情绪反馈作为后续问题证据来源（本会未形成具体问卷制度）。
 - 协作趋势「中国为策略中心、菲律宾为执行中心」：中国团队可主动发起调研、会议与协同收集一线反馈；王东可参与与学术团队的沟通协调。
 
 ## 演化记录
 
-- 2026-05-13：Cocos 战略押注路径 B（[2026-05-13-Cocos战略押注路径B](2026-05-13-Cocos%E6%88%98%E7%95%A5%E6%8A%BC%E6%B3%A8%E8%B7%AF%E5%BE%84B.md)）。
-- 2026-05-29：设备标准锚定 Cocos 黄金 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md)）。
+- 2026-05-13：Cocos 战略押注路径 B（[2026-05-13-Cocos战略押注路径B](2026-05-13-Cocos%E6%88%98%E7%95%A5%E6%8A%BC%E6%B3%A8%E8%B7%AF%E5%BE%84B.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqrPgvpZWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpqrKO6GWAgozOKL)））。
+- 2026-05-29：设备标准锚定 Cocos 黄金 + AC 自适应（[2026-05-29-设备标准锚定Cocos黄金](2026-05-29-%E8%AE%BE%E5%A4%87%E6%A0%87%E5%87%86%E9%94%9A%E5%AE%9ACocos%E9%BB%84%E9%87%91.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4763KJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vdAKzNJzlwrZgb)））。
 - 2026-08-04：本场 Cocos Ready 专项定调（本页）。
 
 ## 待确认（如实列）
@@ -54,18 +54,3 @@ superseded_by: []
 2. 标准「先丑但可用」的批量执行门槛与迭代节奏未定义；验收结果未出现。
 3. 模板聚类的进展与排期未明确；产品/教研侧降低认知负荷的责任与时间线未对齐。
 4. 教师课后操作难点、使用障碍与情绪反馈的收集机制（问卷制度）未形成。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-05-29-设备标准锚定Cocos黄金 | [A 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4763KJgk9rpMq?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vdAKzNJzlwrZgb?utm_scene=team_space) |
-| 新师训战营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N?utm_scene=team_space) |
-| 2026-05-13-Cocos战略押注路径B | [A 库](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqrPgvpZWxEKBD6p?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpqrKO6GWAgozOKL?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

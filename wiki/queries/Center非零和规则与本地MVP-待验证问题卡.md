@@ -27,7 +27,7 @@ Jack 报告一名 businessman-owned TBT Center owner 同时经营三家 51Talk C
 
 聊天内 Agent 提出的谈判步骤、48 小时说明、一周复核和暂停未承诺支持只是建议，不是 Leon 决定或已执行制度。最小验证应保全书面事实、协议/资源清单、老师与课堂影响、替代供给以及对方回应；在此之前不得把老师当作 Center 或平台资产，也不得把听闻直接变成处罚、断课或停结算依据。
 
-来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json)与[完整旁路](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json.delivery.json)。本节保持 `review: 待审`、`projection: public`。
+来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json.delivery.json)（本地资料，钉钉／GitHub未提供）。本节保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a:end -->
 
 > [!warning] 待审 · 待验证问题卡
@@ -71,38 +71,23 @@ Jack 报告一名 businessman-owned TBT Center owner 同时经营三家 51Talk C
 
 ## 历史提案补证：毕业路径中的各方回报
 
-Mel 报告4月29日段落记载 CO 对老师转居家的顾虑，涉及培养、再招和相关投入；同段提出 ₱5,000、分两月各 ₱2,500、至少一年及 A/B+ 等条件。原文标明 proposal，只能作为当时尝试缓解发展路径与中心回报张力的方案，不能当成已批准、已支付或现行规则。（[正文快照](../../sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_正文快照.md)，L2774–2842。）
+Mel 报告4月29日段落记载 CO 对老师转居家的顾虑，涉及培养、再招和相关投入；同段提出 ₱5,000、分两月各 ₱2,500、至少一年及 A/B+ 等条件。原文标明 proposal，只能作为当时尝试缓解发展路径与中心回报张力的方案，不能当成已批准、已支付或现行规则。（[正文快照](../../sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_正文快照.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpEabDdbWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpbPK3W1DK0g6l)），L2774–2842。）
 
 下一次讨论毕业机制，应同时看老师是否有真实选择、转出后的净所得与总投入、CO 后续培养再招成本，以及客户交付是否延续。毕业人数或中心补偿金额单独变好，都不足以证明多方受益；报告未提供这些转换后的实际结果。该历史方案与8月方向属于不同时间的材料，不由相似措辞推断已延续执行。
 
 ### 更早方案并不等于同一政策已延续
 
-4月27日Center稿曾讨论毕业去HBT使CO损失收入，提出2000–5000补偿、活跃且perfect lesson条件下5%持续分成、按质量分级保底、30天填人及先测1–2中心；4月30日又有只招A/B+、存量培训升级和1500/500奖励建议。它们与4月29日Mel的5000提案同处一条问题链，但并非同一规则或支付回执。达25%B+/A不自动换来投资，培训与席位扩张也不证明质量因果；CO利益必须与老师选择、净收益及学生交付分别检验。（[4月27日Center稿](../../sources/raw/2026-04-27-TP-Cap-Workshop-Center模式深潜.md) L88–145；[4月30日双周会稿](../../sources/raw/2026-04-30-外教质量提升双周会.md) L60–81。）
+4月27日Center稿曾讨论毕业去HBT使CO损失收入，提出2000–5000补偿、活跃且perfect lesson条件下5%持续分成、按质量分级保底、30天填人及先测1–2中心；4月30日又有只招A/B+、存量培训升级和1500/500奖励建议。它们与4月29日Mel的5000提案同处一条问题链，但并非同一规则或支付回执。达25%B+/A不自动换来投资，培训与席位扩张也不证明质量因果；CO利益必须与老师选择、净收益及学生交付分别检验。（[4月27日Center稿](../../sources/raw/2026-04-27-TP-Cap-Workshop-Center模式深潜.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPmNmz54J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxdwAxrbJ3kdP0wQ)） L88–145；[4月30日双周会稿](../../sources/raw/2026-04-30-外教质量提升双周会.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIz9KodQO8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGvlBXgLVkyEqBQm)） L60–81。）
 
 ## 相关页面
 
-- Query：[Center客户交付确定性节点-关键战略假设](Center%E5%AE%A2%E6%88%B7%E4%BA%A4%E4%BB%98%E7%A1%AE%E5%AE%9A%E6%80%A7%E8%8A%82%E7%82%B9-%E5%85%B3%E9%94%AE%E6%88%98%E7%95%A5%E5%81%87%E8%AE%BE.md)（上位假设）
-- 项目：[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md)（本问题卡对应的项目域）
+- Query：[Center客户交付确定性节点-关键战略假设](Center%E5%AE%A2%E6%88%B7%E4%BA%A4%E4%BB%98%E7%A1%AE%E5%AE%9A%E6%80%A7%E8%8A%82%E7%82%B9-%E5%85%B3%E9%94%AE%E6%88%98%E7%95%A5%E5%81%87%E8%AE%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6xDkDbmWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILNemZrlWn4qY5Pr)）（上位假设）
+- 项目：[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）（本问题卡对应的项目域）
 
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+[D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| Center客户交付确定性节点-关键战略假设 | [A 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6xDkDbmWxkXOEP2?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILNemZrlWn4qY5Pr?utm_scene=team_space) |
-| Center模式 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D13-全成本与可持续经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

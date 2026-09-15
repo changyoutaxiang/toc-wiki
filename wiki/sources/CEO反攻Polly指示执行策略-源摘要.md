@@ -13,7 +13,7 @@ review: 待审
 > **清道夫标注 2026-09-11**：维持 source 摘要/索引位，不升格为独立 concept/project。
 
 
-> **首行状态标注**：源文件 `status: active`、`decision_state: aligned`、`confidence: medium`、`updated_at: 2026-05-11`。内容为 CEO 反攻指示（[2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md)）的执行策略拆解，其中「好老师国内/海外分配比例」等多项为**待 Leon 拍板**的候选建议，本页 `review: 待审`——不得当作已生效结论引用。
+> **首行状态标注**：源文件 `status: active`、`decision_state: aligned`、`confidence: medium`、`updated_at: 2026-05-11`。内容为 CEO 反攻指示（[2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)））的执行策略拆解，其中「好老师国内/海外分配比例」等多项为**待 Leon 拍板**的候选建议，本页 `review: 待审`——不得当作已生效结论引用。
 
 ## 源定位
 
@@ -56,25 +56,6 @@ review: 待审
 
 ## 与既有 wiki 的关系
 
-- 决策正本见 [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md)（本页是其执行策略层，2026-08-30 增量补充进该决策页影响范围/演化记录）。
-- Q2 渠道/质量判断见 [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)；战场承接见 [外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md)。
-- 相关战场：[直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) · [新老师蜜月期课程优化](../projects/%E6%96%B0%E8%80%81%E5%B8%88%E8%9C%9C%E6%9C%88%E6%9C%9F%E8%AF%BE%E7%A8%8B%E4%BC%98%E5%8C%96.md) · [好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) · [老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md)。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-05-11-CEO反攻Polly指示与外教战役国内倾斜 | [A 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6?utm_scene=team_space) |
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| 外教质量提升战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq?utm_scene=team_space) |
-| 直通车项目 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9?utm_scene=team_space) |
-| 新老师蜜月期课程优化 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoA6RejVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrP00LJGXn6lpz?utm_scene=team_space) |
-| 好老师生命周期 | [A 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv?utm_scene=team_space) |
-| 老师质量提升飞轮 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 决策正本见 [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)）（本页是其执行策略层，2026-08-30 增量补充进该决策页影响范围/演化记录）。
+- Q2 渠道/质量判断见 [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）；战场承接见 [外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）。
+- 相关战场：[直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)） · [新老师蜜月期课程优化](../projects/%E6%96%B0%E8%80%81%E5%B8%88%E8%9C%9C%E6%9C%88%E6%9C%9F%E8%AF%BE%E7%A8%8B%E4%BC%98%E5%8C%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoA6RejVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrP00LJGXn6lpz)） · [好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)） · [老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）。

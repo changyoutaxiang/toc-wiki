@@ -20,7 +20,7 @@ knowledge_revision: "D11-2026-09-15.3"
 
 # 教师体验与公平治理
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）
 
 **我们在讨论什么：** 公司怎样让老师安心、顺畅地工作，又怎样在规则、评价和分配中公平对待每一位老师？
 
@@ -90,13 +90,13 @@ knowledge_revision: "D11-2026-09-15.3"
 2. **及时行动与正确归责可以分别推进。** 当下先保护教学和相关人员，责任判断则按事实、影响与复核来处理。
 3. **要看纠正是否真正抵达后续经历。** 解释清楚、修改一条记录是进展，还要确认错误没有继续影响机会与结算。开发很快的流量调整同样可能影响收入，不能因为未改课酬就省去这一步。[E5]
 
-2026-09-14，回读 FT-DEC-014 后，地图把“老师帮助学生创造价值”与“公司公平对待老师”并列保留，纠正了把全部教师体验只看作学生结果工具的读法。[2026-08-24-老师为准客户经营哲学](../decisions/2026-08-24-%E8%80%81%E5%B8%88%E4%B8%BA%E5%87%86%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.md)和[老师也是客户但要用结果验证](../synthesis/%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E5%AE%A2%E6%88%B7%E4%BD%86%E8%A6%81%E7%94%A8%E7%BB%93%E6%9E%9C%E9%AA%8C%E8%AF%81.md)保留了旧讨论及这一补充。
+2026-09-14，回读 FT-DEC-014 后，地图把“老师帮助学生创造价值”与“公司公平对待老师”并列保留，纠正了把全部教师体验只看作学生结果工具的读法。[2026-08-24-老师为准客户经营哲学](../decisions/2026-08-24-%E8%80%81%E5%B8%88%E4%B8%BA%E5%87%86%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvl1xjaWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge1ov3WMwvDqPk)）和[老师也是客户但要用结果验证](../synthesis/%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E5%AE%A2%E6%88%B7%E4%BD%86%E8%A6%81%E7%94%A8%E7%BB%93%E6%9E%9C%E9%AA%8C%E8%AF%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1lowGVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LO4Lz7WyMoPYe1)）保留了旧讨论及这一补充。
 
 2026-09-15，先按七项内容提出年度、季度建议与好奇，再通过原料复核补清流量调整的收入影响、正常结算与后续更正的区别。本轮没有核验申诉系统运行或新的体验改善，不把设计写成公司新制度。
 
 ### 反例：总量接近不足以证明零误伤
 
-8月29日分享用143节接近历史日均159节解释“接近0误杀”。总量接近不能判断是否同一批课，因而这条推理本身不成立；159−143=16，也不是稿中接出的42；若把42放回185节无人课的分母，其占比约22.7%，同样不是10%。系统标记请假包含未回应者，不能一律叫老师主动请假。77%代课覆盖是材料报告，仍缺学生是否实际拿到课、成功改约或补课的回执。治理有效、零误伤和完整交付是不同命题；保留旧TOC-70裁决的来源与范围，不用其消除本次源内冲突。（[分享原稿](../../sources/raw/2026-08-29_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F_%E9%AB%98%E7%AE%A1%E5%88%86%E4%BA%AB%E5%86%B7%E8%AF%BB%E7%89%88.md) L537–550、607–628、760–796；这一校验不冒称Leon亲口纠正。）
+8月29日分享用143节接近历史日均159节解释“接近0误杀”。总量接近不能判断是否同一批课，因而这条推理本身不成立；159−143=16，也不是稿中接出的42；若把42放回185节无人课的分母，其占比约22.7%，同样不是10%。系统标记请假包含未回应者，不能一律叫老师主动请假。77%代课覆盖是材料报告，仍缺学生是否实际拿到课、成功改约或补课的回执。治理有效、零误伤和完整交付是不同命题；保留旧TOC-70裁决的来源与范围，不用其消除本次源内冲突。（[分享原稿](../../sources/raw/2026-08-29_%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F_%E9%AB%98%E7%AE%A1%E5%88%86%E4%BA%AB%E5%86%B7%E8%AF%BB%E7%89%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLqzvOP28xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlPw5G5LJkb4Mw9r)） L537–550、607–628、760–796；这一校验不冒称Leon亲口纠正。）
 
 同源还有两处不能沿用的数字和规则冲突：8月15–19连续课量表内相加为904，主卡写954；开课前确认/未来课程干预，与开课后1分钟召回、4分钟判缺席是不同的时钟，稿中部分文字将它们混接。引用具体数或规则前须回查询与版本核口径，不能擅自用其中一个覆盖另一个。
 
@@ -132,46 +132,61 @@ knowledge_revision: "D11-2026-09-15.3"
 
 **目前想到哪了：** 8 月 25 日已明确零容忍缺席不等于一刀切，FT-DEC-014 要求先守住不可交换的责任。[E1][E4] 但本页没有足够的成对案例说明哪里应保持一致、哪里应区别处理。值得留意同类事件因公共条件不同而出现的争议，以及老师能否理解最终解释；任何新处理规则仍需按正式权限确定。
 
-暂时答案可进入“核心假设”，有充分依据时更新“最新认知”；问题可以跨季度保留。日常线索沿[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)维护，重要冲突继续关联原问题账，不另抄一套清单。
+暂时答案可进入“核心假设”，有充分依据时更新“最新认知”；问题可以跨季度保留。日常线索沿[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）维护，重要冲突继续关联原问题账，不另抄一套清单。
 
 ## 已有判断与还没弄清的事
 
 - **老师三重身份与双层责任：** 8 月 19 日 Leon 已选择的战略判断。FT-DEC-014 的资产卡仍为“候选”，表示该卡的晋升状态；既不否定这次选择，也不证明公司劳动、合作、薪酬或流量制度已经生效。[E1]
 - **8 月 24 日部门经营方向：** 产品与运营应纳入教师视角。“增强真人老师相对 AI 的竞争力”是当时的竞争逻辑，尚不是效果已经证明。[E2]
-- **实际工作体验：** 当前缺少覆盖支持、争议、复核、纠正及后续结果的完整教师经历；两种模式的体验都不能因方案写好就宣布改善。相关问题仍沿[老师也是客户但要用结果验证](../synthesis/%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E5%AE%A2%E6%88%B7%E4%BD%86%E8%A6%81%E7%94%A8%E7%BB%93%E6%9E%9C%E9%AA%8C%E8%AF%81.md)与[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)继续。
+- **实际工作体验：** 当前缺少覆盖支持、争议、复核、纠正及后续结果的完整教师经历；两种模式的体验都不能因方案写好就宣布改善。相关问题仍沿[老师也是客户但要用结果验证](../synthesis/%E8%80%81%E5%B8%88%E4%B9%9F%E6%98%AF%E5%AE%A2%E6%88%B7%E4%BD%86%E8%A6%81%E7%94%A8%E7%BB%93%E6%9E%9C%E9%AA%8C%E8%AF%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1lowGVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LO4Lz7WyMoPYe1)）与[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供）继续。
 
 ## 资料与以前的讨论
 
 以下初版五个来源组分别使用，同场材料与其整理页不重复计算：
 
-- **[E1] 8 月 19 日已选定的判断：** [FT-DEC-014 正本](</Users/wangdong/Desktop/Leon-work/projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md>)，第一至四节及页尾状态说明；当前阅读入口见[2026-08-24-老师为准客户经营哲学](../decisions/2026-08-24-%E8%80%81%E5%B8%88%E4%B8%BA%E5%87%86%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.md)的 9 月 14 日补充。
-- **[E2] 8 月 24 日 TOC 周会：** [会议材料](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/2026-08-24_TOC%E5%91%A8%E4%BC%9A%E7%BA%AA%E8%A6%81.md)，核心结论 5、关键议题 3。部门经营方向，不扩成公司正式制度。
-- **[E3] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md)第 4、11、15 章及页首原件。保留教师解释、复核与处理结果，机制效果仍待验证。
-- **[E4] 8 月 25 日上线复盘：** [2026-08-25-上线决策矩阵与原子小队工作方式](../decisions/2026-08-25-%E4%B8%8A%E7%BA%BF%E5%86%B3%E7%AD%96%E7%9F%A9%E9%98%B5%E4%B8%8E%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F.md)及[会议材料](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/2026-08-25_WeeklyMeeting%E7%BA%AA%E8%A6%81.md)，核心结论 1、5、6。历史反馈不当作今天的投诉数量或功能效果。
+- **[E1] 8 月 19 日已选定的判断：** [FT-DEC-014 正本](</Users/wangdong/Desktop/Leon-work/projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md>)（本地资料，钉钉／GitHub未提供），第一至四节及页尾状态说明；当前阅读入口见[2026-08-24-老师为准客户经营哲学](../decisions/2026-08-24-%E8%80%81%E5%B8%88%E4%B8%BA%E5%87%86%E5%AE%A2%E6%88%B7%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvl1xjaWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge1ov3WMwvDqPk)）的 9 月 14 日补充。
+- **[E2] 8 月 24 日 TOC 周会：** [会议材料](../../sources/raw/2026-08-24_TOC周会纪要.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9KOB94bV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzZlj3jPVgN7R35y)），核心结论 5、关键议题 3。部门经营方向，不扩成公司正式制度。
+- **[E3] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 4、11、15 章及页首原件。保留教师解释、复核与处理结果，机制效果仍待验证。
+- **[E4] 8 月 25 日上线复盘：** [2026-08-25-上线决策矩阵与原子小队工作方式](../decisions/2026-08-25-%E4%B8%8A%E7%BA%BF%E5%86%B3%E7%AD%96%E7%9F%A9%E9%98%B5%E4%B8%8E%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F%E5%B7%A5%E4%BD%9C%E6%96%B9%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4pyGPJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50qDYRVkyEqBQm)）及[会议材料](../../sources/raw/2026-08-25_WeeklyMeeting纪要.md) （[A](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxdwK5YEJ3kdP0wQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpEaMEZQWAgozOKL)），核心结论 1、5、6。历史反馈不当作今天的投诉数量或功能效果。
 
-- **[E5] 8 月 13 日快要素的前提：** [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-%E9%B9%B0%E7%9C%BC%E5%85%A8%E9%87%8F%E7%9B%91%E6%8E%A7%E4%B8%8E%E4%B8%89%E5%BF%AB%E8%A6%81%E7%B4%A0.md)及[原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md:388>)，18:46—18:52 说明流量影响收入；10:42—11:50 说明软件不能变重、治理要透明。原话支持影响范围，不证明具体损失或新制度已生效。
+- **[E5] 8 月 13 日快要素的前提：** [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-%E9%B9%B0%E7%9C%BC%E5%85%A8%E9%87%8F%E7%9B%91%E6%8E%A7%E4%B8%8E%E4%B8%89%E5%BF%AB%E8%A6%81%E7%B4%A0.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL)）及[原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md:388>)（来源指针缺口，需补证），18:46—18:52 说明流量影响收入；10:42—11:50 说明软件不能变重、治理要透明。原话支持影响范围，不证明具体损失或新制度已生效。
 
 ## 本轮原料怎样修正判断（2026-09-15）
 
-- [成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md)：即时保护仍须解释与具体行为对应；既有一次缺席触发动作不自动批准全部参数。
+- [成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）：即时保护仍须解释与具体行为对应；既有一次缺席触发动作不自动批准全部参数。
 
 以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| 2026-08-24-老师为准客户经营哲学 | [A 库](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvl1xjaWDOnGvpb?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge1ov3WMwvDqPk?utm_scene=team_space) |
-| 老师也是客户但要用结果验证 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1lowGVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LO4Lz7WyMoPYe1?utm_scene=team_space) |
-| TutorOS设计宪法全文 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG?utm_scene=team_space) |
-| 2026-08-25-上线决策矩阵与原子小队工作方式 | [A 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4pyGPJgk9rpMq?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50qDYRVkyEqBQm?utm_scene=team_space) |
-| 2026-08-13-鹰眼全量监控与三快要素 | [A 库](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL?utm_scene=team_space) |
-| 成熟老师升降级积分方案 | [A 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz?utm_scene=team_space) |
+- [2026-05-26-返聘老师纳入ABPlus标准](../decisions/2026-05-26-返聘老师纳入ABPlus标准.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6az5NQW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeyllLZRW1DK0g6l)）
+- [2026-07-15-老师端成长工具与后台四Agent架构](../decisions/2026-07-15-老师端成长工具与后台四Agent架构.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjz9jbJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS0qj4wE58dqbropQ)）
+- [2026-07-29-新师营接入主流程与四档评级](../decisions/2026-07-29-新师营接入主流程与四档评级.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARv2ypXW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4prjMB8xLq0Ee4)）
+- [2026-08-07-天眼鹰眼全量感知与最小闭环](../decisions/2026-08-07-天眼鹰眼全量感知与最小闭环.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoAoBe986EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgAlzkJ3pmz5aA)）
+- [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-鹰眼全量监控与三快要素.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL)）
+- [2026-08-14-全量触达与鹰眼原子小队成立](../decisions/2026-08-14-全量触达与鹰眼原子小队成立.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74342bJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Ieyl3DRxW1DK0g6l)）
+- [2026-08-18-精选老师推荐六项准入定稿](../decisions/2026-08-18-精选老师推荐六项准入定稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjXxmNJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4prP9j8xLq0Ee4)）
+- [2026-08-24-老师为准客户经营哲学](../decisions/2026-08-24-老师为准客户经营哲学.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvl1xjaWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge1ov3WMwvDqPk)）
+- [2026-08-25-上线决策矩阵与原子小队工作方式](../decisions/2026-08-25-上线决策矩阵与原子小队工作方式.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4pyGPJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50qDYRVkyEqBQm)）
+- [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-坏课治理双方案灰度拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）
+- [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-课堂问题数据口径与课后治理优先.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）
+- [Center模式](../projects/Center模式.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）
+- [Referral重启](../projects/Referral重启.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl47Xl8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr9eLbz8akx1Z5N)）
+- [成熟老师升降级积分方案](../projects/成熟老师升降级积分方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）
+- [薪酬改革](../projects/薪酬改革.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）
+- [2026-08-14-高质量获客与转介绍-战略提醒](../queries/2026-08-14-高质量获客与转介绍-战略提醒.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4aeYOxJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkdbmve8BQEx5rG)）
+- [2026-09-04-老师成长两箱与积分方案分叉](../queries/2026-09-04-老师成长两箱与积分方案分叉.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpGBk5q8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQzz6JlemrZQ3)）
+- [AI增强教师体验与效率-首个窄实验假设](../queries/AI增强教师体验与效率-首个窄实验假设.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6Mlrpr2JyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxr5RmOxJ3kdP0wQ)）
+- [Center客户交付确定性节点-关键战略假设](../queries/Center客户交付确定性节点-关键战略假设.md) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6xDkDbmWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILNemZrlWn4qY5Pr)）
+- [Center非零和规则与本地MVP-待验证问题卡](../queries/Center非零和规则与本地MVP-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D)）
+- [坏课KPI-坏课治理语义岛-2026-09-11](../queries/坏课KPI-坏课治理语义岛-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）
+- [坏课KPI设计稿](../queries/坏课KPI设计稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）
+- [好老师统一定义的取舍、临时使用与激励边界-待验证问题卡](../queries/好老师统一定义的取舍、临时使用与激励边界-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IervKqNOW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9RZk44JGXn6lpz)）
+- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
+- [海外外教运营周报-202608-0902-源摘要](../sources/海外外教运营周报-202608-0902-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZojlZRN86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYNl3lJ3kdP0wQ)）
+- [老师也是客户但要用结果验证](../synthesis/老师也是客户但要用结果验证.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1lowGVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LO4Lz7WyMoPYe1)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

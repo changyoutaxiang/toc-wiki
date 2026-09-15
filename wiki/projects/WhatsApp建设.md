@@ -19,7 +19,7 @@ review: 待审
 
 ## 当前判断（截至 2026-05-07）
 
-「WhatsApp 建设」是「沟通阵地」基建下挂的两条子项目之一（与 [老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md) 并列），承担候选人 / 老师沟通的高触达辅助阵地角色。
+「WhatsApp 建设」是「沟通阵地」基建下挂的两条子项目之一（与 [老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kd6aeJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3P2EzJzlwrZgb)） 并列），承担候选人 / 老师沟通的高触达辅助阵地角色。
 
 - **2026-05-07 定位明确**：WhatsApp **不是唯一主阵地，而是高触达辅助阵地**，主要服务蜜月期提醒、异常升级和课后纠偏。
 - 项目档案待拆解：Leon 在未来 1-2 天内会从业务角度补齐主阵地 rollout 范围、协同 owner、第一批接入节点、与「老师 APP 重启」的分工边界。
@@ -46,7 +46,7 @@ review: 待审
 
 - 明确虚拟手机和账号风控边界。
 - 把蜜月期课前提醒、课后反馈、异常升级三类场景列成第一版需求。
-- 和老师 APP 的主阵地职责拆清楚，避免双主阵地混用（见 [老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md)）。
+- 和老师 APP 的主阵地职责拆清楚，避免双主阵地混用（见 [老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kd6aeJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3P2EzJzlwrZgb)））。
 
 ## Timeline
 
@@ -54,21 +54,6 @@ review: 待审
 
 ## 相关页面
 
-- 项目：[老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md)（沟通阵地另一子项目，体制内主阵地）
-- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（沟通矩阵建设优先级高于零散修漏斗等时点判断）
-- 项目：[沟通矩阵建设](%E6%B2%9F%E9%80%9A%E7%9F%A9%E9%98%B5%E5%BB%BA%E8%AE%BE.md)（本项目与老师 APP 重启的上级基建）
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 老师APP重启 | [A 库](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kd6aeJkb4Mw9r?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3P2EzJzlwrZgb?utm_scene=team_space) |
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| 沟通矩阵建设 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlej3eJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2RBEGkWxEKBD6p?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 项目：[老师APP重启](%E8%80%81%E5%B8%88APP%E9%87%8D%E5%90%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kd6aeJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3P2EzJzlwrZgb)）（沟通阵地另一子项目，体制内主阵地）
+- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（沟通矩阵建设优先级高于零散修漏斗等时点判断）
+- 项目：[沟通矩阵建设](%E6%B2%9F%E9%80%9A%E7%9F%A9%E9%98%B5%E5%BB%BA%E8%AE%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlej3eJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2RBEGkWxEKBD6p)）（本项目与老师 APP 重启的上级基建）

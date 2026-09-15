@@ -24,7 +24,7 @@ ingress_revisions: ["J-add461664525fe0e8a2bd203@4ade0c50797529e0.bdd2d2c12d1b", 
 
 至少需要补齐：收入和完整成本项、样本/对象、时间窗、Center 与对照组口径、利用率与履约结果、客户结果，以及谁提出、谁复核、谁有批准权。缺这些输入前，只能做情景模拟，不能宣称 P&L 成立或据此扩点。
 
-来源原件：[人工流水](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__d604b95da6473657.27ffa9e9579b.md)与[完整旁路](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__d604b95da6473657.27ffa9e9579b.md.delivery.json)。页面保持 `projection: public`。
+来源原件：[人工流水](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__d604b95da6473657.27ffa9e9579b.md)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__d604b95da6473657.27ffa9e9579b.md.delivery.json)（本地资料，钉钉／GitHub未提供）。页面保持 `projection: public`。
 <!-- common-feed:J-0679a9279798682abc0ef8fe@d604b95da6473657.27ffa9e9579b:end -->
 
 > [!warning] 待审 · 战略假设
@@ -64,7 +64,7 @@ Q4 在约 **200–300 位老师、4–5 个 Center** 的范围内探索，且可
 
 供应链模式 v8 的完整读回进一步明确：Center / 供给组合的验证不能只看利用率、缺勤、留存或单位经济。客户价值这道门必须至少包含**课堂满意度（SSAT）、Favor / Rebook、固定老师率与学习效果**，并保留分市场、课程、教师资历、时间窗口和分母；在这些度量未建立前，不应作供给主轴切换决定。
 
-这是一条验证约束，不是「客户成长已被测量」或任何 Center / TBT / HBT 的结果结论。竞争、CO 与毕业老师的非零和问题另见 [Center非零和规则与本地MVP-待验证问题卡](Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)。
+这是一条验证约束，不是「客户成长已被测量」或任何 Center / TBT / HBT 的结果结论。竞争、CO 与毕业老师的非零和问题另见 [Center非零和规则与本地MVP-待验证问题卡](Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D)）。
 
 ### 口径桥与反证边界
 
@@ -83,19 +83,5 @@ Q4 在约 **200–300 位老师、4–5 个 Center** 的范围内探索，且可
 
 ## 相关页面
 
-- 项目：[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md)（本假设对应的项目域）
-- Query：[Center非零和规则与本地MVP-待验证问题卡](Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)（竞争/CO/毕业老师非零和问题的验证卡）
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| Center非零和规则与本地MVP-待验证问题卡 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D?utm_scene=team_space) |
-| Center模式 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 项目：[Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）（本假设对应的项目域）
+- Query：[Center非零和规则与本地MVP-待验证问题卡](Center%E9%9D%9E%E9%9B%B6%E5%92%8C%E8%A7%84%E5%88%99%E4%B8%8E%E6%9C%AC%E5%9C%B0MVP-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazG09DaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqnaLRq85daZ90D)）（竞争/CO/毕业老师非零和问题的验证卡）

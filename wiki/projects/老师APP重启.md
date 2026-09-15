@@ -19,7 +19,7 @@ review: 待审
 
 ## 当前判断（截至 2026-05-14）
 
-「老师 APP 重启」是「沟通阵地」基建下挂的两条子项目之一（与 [WhatsApp建设](WhatsApp%E5%BB%BA%E8%AE%BE.md) 并列）。
+「老师 APP 重启」是「沟通阵地」基建下挂的两条子项目之一（与 [WhatsApp建设](WhatsApp%E5%BB%BA%E8%AE%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerMzPZpW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqApdY3RJ9dEq3XD)） 并列）。
 
 - **2026-05-07 定位明确**：老师 APP 应该是**体制内主阵地**，负责高频提醒、标准传达、异常跟进和蜜月期课程的主触达。
 - **2026-05-14 工程边界补充**（APIs/Cocos 技术需求会）：APP 可考虑外包或 AI 工程师临时承接，但因涉及教师敏感数据和 API 权限，必须经过权限隔离、代码 review、上线审计和长期维护 owner 设计。
@@ -56,21 +56,6 @@ review: 待审
 
 ## 相关页面
 
-- 项目：[WhatsApp建设](WhatsApp%E5%BB%BA%E8%AE%BE.md)（沟通阵地另一子项目，高触达辅助阵地）
-- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（Teacher APP 开发资源路径、安全审批、接口权限和维护 owner 为待决策项等时点判断）
-- 项目：[沟通矩阵建设](%E6%B2%9F%E9%80%9A%E7%9F%A9%E9%98%B5%E5%BB%BA%E8%AE%BE.md)（本项目与 WhatsApp 建设的上级基建）
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| WhatsApp建设 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerMzPZpW1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqApdY3RJ9dEq3XD?utm_scene=team_space) |
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| 沟通矩阵建设 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlej3eJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2RBEGkWxEKBD6p?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 项目：[WhatsApp建设](WhatsApp%E5%BB%BA%E8%AE%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerMzPZpW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqApdY3RJ9dEq3XD)）（沟通阵地另一子项目，高触达辅助阵地）
+- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（Teacher APP 开发资源路径、安全审批、接口权限和维护 owner 为待决策项等时点判断）
+- 项目：[沟通矩阵建设](%E6%B2%9F%E9%80%9A%E7%9F%A9%E9%98%B5%E5%BB%BA%E8%AE%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlej3eJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2RBEGkWxEKBD6p)）（本项目与 WhatsApp 建设的上级基建）

@@ -43,5 +43,6 @@
       ],
       "coverage": "B005 main and independent full text; no media inference"
     }
-  ]
+  ],
+  "legacy_manifest_availability": "仅本地保全；不是钉钉或GitHub的活动读取入口"
 }

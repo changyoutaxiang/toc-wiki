@@ -21,11 +21,11 @@ superseded_by: []
 
 ## 现行接续：提交率结案不等于审核通过率满分
 
-这里的70–80%恢复预期、45/50/77分母冲突及Plan B组合属于8月13日历史状态。SIV迁移上线、提交率100%和TOC-22/23结案沿[8月12日页面后继确认](2026-08-12-SIV流程优化拍板.md)使用，不把旧待确认项重新当当前任务，也不扩大为审核通过率100%。469/60.58%、超过100/34/37.2%与国内1200/海外800在本稿未统一范围，不能拼成同一达成率。Jane设计快执行的授权与“奖励5节课”示例分开；保留授权，不因整理建议重新要求逐层审批。（[同场加工纪要](../../sources/raw/2026-08-13_Battle1_Weekly_meeting%E7%BA%AA%E8%A6%81.md) L21–44、L53–63、L83–95；后继认领仅按既有范围。）
+这里的70–80%恢复预期、45/50/77分母冲突及Plan B组合属于8月13日历史状态。SIV迁移上线、提交率100%和TOC-22/23结案沿[8月12日页面后继确认](2026-08-12-SIV流程优化拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY)）使用，不把旧待确认项重新当当前任务，也不扩大为审核通过率100%。469/60.58%、超过100/34/37.2%与国内1200/海外800在本稿未统一范围，不能拼成同一达成率。Jane设计快执行的授权与“奖励5节课”示例分开；保留授权，不因整理建议重新要求逐层审批。（[同场加工纪要](../../sources/raw/2026-08-13_Battle1_Weekly_meeting%E7%BA%AA%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLqz1rkb8xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpub034v63J3pmz5aA)） L21–44、L53–63、L83–95；后继认领仅按既有范围。）
 
 ## 背景
 
-截至 8 月 12 日累计上线 469 人、完成月目标 60.58%；技术侧进入末段流程者超 100 人但实际仅上线 34 人，上线率由约 80% 降至 37.2%。招募核心瓶颈已从前端供给锁定到 SIV 提交与审核环节（08-12 SIV 流程优化拍板后，见 [2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md)），本场确定如何判断修复是否有效、何时触发 Plan B，以及配套激励与组织调整。
+截至 8 月 12 日累计上线 469 人、完成月目标 60.58%；技术侧进入末段流程者超 100 人但实际仅上线 34 人，上线率由约 80% 降至 37.2%。招募核心瓶颈已从前端供给锁定到 SIV 提交与审核环节（08-12 SIV 流程优化拍板后，见 [2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY)）），本场确定如何判断修复是否有效、何时触发 Plan B，以及配套激励与组织调整。
 
 ## 决策内容
 
@@ -45,14 +45,14 @@ superseded_by: []
 
 ## 影响范围
 
-- SIV 招募侧指标（提交率/通过率）与 08-12 流程优化决策的周五（8/14）阶段性决策点衔接（[2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md)）；经济激励影响候选人提交行为。
-- CE 组织归属变化：Lucy CE 团队并入 TOC（KK 管理），与 [CE组织治理](../concepts/CE%E7%BB%84%E7%BB%87%E6%B2%BB%E7%90%86.md)、[招聘战役](../projects/%E6%8B%9B%E8%81%98%E6%88%98%E5%BD%B9.md) 相关。
-- 区域资源倾斜规则：国内落后期间可倾斜、拉平后须请示（与 H2 总纲区域自治边界衔接，[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md)）。
+- SIV 招募侧指标（提交率/通过率）与 08-12 流程优化决策的周五（8/14）阶段性决策点衔接（[2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY)））；经济激励影响候选人提交行为。
+- CE 组织归属变化：Lucy CE 团队并入 TOC（KK 管理），与 [CE组织治理](../concepts/CE%E7%BB%84%E7%BB%87%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLplqXAB8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDvdb38A7depqY)）、[招聘战役](../projects/%E6%8B%9B%E8%81%98%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbRmkeWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZqoeljl8qjMp697)） 相关。
+- 区域资源倾斜规则：国内落后期间可倾斜、拉平后须请示（与 H2 总纲区域自治边界衔接，[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)））。
 
 ## 演化记录
 
-- 2026-08-04：SIV 恢复专项 + 代码交接中国 AI 工程师（[2026-08-04-SIV恢复专项与算法owner补位](2026-08-04-SIV%E6%81%A2%E5%A4%8D%E4%B8%93%E9%A1%B9%E4%B8%8E%E7%AE%97%E6%B3%95owner%E8%A1%A5%E4%BD%8D.md)）。
-- 2026-08-12：SIV 流程优化拍板（视频底线/30 秒/Teacher Camp/责任切 RD，[2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md)）。
+- 2026-08-04：SIV 恢复专项 + 代码交接中国 AI 工程师（[2026-08-04-SIV恢复专项与算法owner补位](2026-08-04-SIV%E6%81%A2%E5%A4%8D%E4%B8%93%E9%A1%B9%E4%B8%8E%E7%AE%97%E6%B3%95owner%E8%A1%A5%E4%BD%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbLYrGWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgwErAJ3pmz5aA)））。
+- 2026-08-12：SIV 流程优化拍板（视频底线/30 秒/Teacher Camp/责任切 RD，[2026-08-12-SIV流程优化拍板](2026-08-12-SIV%E6%B5%81%E7%A8%8B%E4%BC%98%E5%8C%96%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY)））。
 - 2026-08-13：本场双前置指标 + Plan B 触发线 + 经济激励授权 + CE 移交（本页）。
 
 ## 待确认（如实列）
@@ -63,20 +63,3 @@ superseded_by: []
 4. 双指标分母与时间窗口未完全统一（45/50/77 口径），需 Tammy 离线核数。
 5. SIV 分级清单、样例库和校准后稳定性数据未形成，标准是否真正统一仍需验证。
 6. 教师节活动（复用现场教师/专业素材/直播窗口展示真实优秀教师）平台、节目、传播范围及海外品牌预算未拍板——流水成分，未单独立页。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-08-12-SIV流程优化拍板 | [A 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY?utm_scene=team_space) |
-| CE组织治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLplqXAB8Ke0xjE3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDvdb38A7depqY?utm_scene=team_space) |
-| 招聘战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbRmkeWyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZqoeljl8qjMp697?utm_scene=team_space) |
-| 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno?utm_scene=team_space) |
-| 2026-08-04-SIV恢复专项与算法owner补位 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbLYrGWyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgwErAJ3pmz5aA?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

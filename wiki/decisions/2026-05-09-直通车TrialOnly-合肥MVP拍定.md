@@ -16,7 +16,7 @@ superseded_by: []
 
 # 直通车转向在库好老师运营出清 · Trial Only 合肥 MVP 拍定
 
-> 编译自 2026-05-08 直通车讨论要点摘要 + 2026-05-09 Trial Only 方案讨论。直通车立项拍板见 04-15 总纲（[2026-04-15-Q2战役总纲与三标收敛](2026-04-15-Q2%E6%88%98%E5%BD%B9%E6%80%BB%E7%BA%B2%E4%B8%8E%E4%B8%89%E6%A0%87%E6%94%B6%E6%95%9B.md)）与 [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)；本页记录其「从供给侧入库转向在库出清」的方向拍板与 Trial Only MVP 机制。
+> 编译自 2026-05-08 直通车讨论要点摘要 + 2026-05-09 Trial Only 方案讨论。直通车立项拍板见 04-15 总纲（[2026-04-15-Q2战役总纲与三标收敛](2026-04-15-Q2%E6%88%98%E5%BD%B9%E6%80%BB%E7%BA%B2%E4%B8%8E%E4%B8%89%E6%A0%87%E6%94%B6%E6%95%9B.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr0XpK8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqAp2w4lJ9dEq3XD)））与 [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）；本页记录其「从供给侧入库转向在库出清」的方向拍板与 Trial Only MVP 机制。
 
 ## 背景
 
@@ -41,27 +41,11 @@ superseded_by: []
 ## 影响范围
 
 - 直通车从「快速通道建设」转为「在库好老师运营出清器」——与 B+/A 标准、App 端产品包装、业务端需求、蜜月期体验串联。
-- FDR/销售代约/当场锁定机制是师生匹配线的业务端对应物（[2026-04-28-教师评价战役第一发子弹与AI匹配v1.3](2026-04-28-%E6%95%99%E5%B8%88%E8%AF%84%E4%BB%B7%E6%88%98%E5%BD%B9%E7%AC%AC%E4%B8%80%E5%8F%91%E5%AD%90%E5%BC%B9%E4%B8%8EAI%E5%8C%B9%E9%85%8Dv1.3.md)、[2026-05-26-师生匹配双供应商竞赛与统一入口](2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md)）。
-- 承接 04-15 直通车立项（[直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)）。
+- FDR/销售代约/当场锁定机制是师生匹配线的业务端对应物（[2026-04-28-教师评价战役第一发子弹与AI匹配v1.3](2026-04-28-%E6%95%99%E5%B8%88%E8%AF%84%E4%BB%B7%E6%88%98%E5%BD%B9%E7%AC%AC%E4%B8%80%E5%8F%91%E5%AD%90%E5%BC%B9%E4%B8%8EAI%E5%8C%B9%E9%85%8Dv1.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKK2b7WzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrQXaPJGXn6lpz)）、[2026-05-26-师生匹配双供应商竞赛与统一入口](2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)））。
+- 承接 04-15 直通车立项（[直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)））。
 
 ## 演化记录
 
 - 2026-05-08：Leon 与黄荣讨论——直通车转向在库出清、三段式框架（本页起点）。
 - 2026-05-09：Trial Only 方案拍定——合肥 MVP、FDR 标签、8% 转化目标（本页核心）。
 - 待验证（截至 2026-08-31）：Trial Only 合肥 MVP 的 M0 转化是否达到 8% 并拉平 Polly；FDR 机制是否扩区/升级——无源内闭环证据（直通车项目页承接后续）。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-04-15-Q2战役总纲与三标收敛 | [A 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr0XpK8A7depqY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqAp2w4lJ9dEq3XD?utm_scene=team_space) |
-| 直通车项目 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9?utm_scene=team_space) |
-| 2026-04-28-教师评价战役第一发子弹与AI匹配v1.3 | [A 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKK2b7WzN67Mw4?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrQXaPJGXn6lpz?utm_scene=team_space) |
-| 2026-05-26-师生匹配双供应商竞赛与统一入口 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

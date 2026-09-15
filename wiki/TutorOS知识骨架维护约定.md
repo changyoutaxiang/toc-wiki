@@ -14,7 +14,7 @@ review: 记录
 
 云端返回总图：[【A】Tutor OS](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) · [Teacher battle · Leon wiki](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space)
 
-本约定把 Leon 已认领的共建分工落实到本库维护。依据：[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md)；业务骨架正本为[TutorOS知识总图](%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。沿用根目录 `schema.md` 和既有进料流程，不另设收件箱、定时器或另一套业务正本。
+本约定把 Leon 已认领的共建分工落实到本库维护。依据：[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）；业务骨架正本为[TutorOS知识总图](%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。沿用根目录 `schema.md` 和既有进料流程，不另设收件箱、定时器或另一套业务正本。
 
 ## 人与 Agent 各自主要参与什么
 
@@ -28,13 +28,13 @@ review: 记录
 
 ## 经营域页面的共同写法（2026-09-15）
 
-按[经营域共建模板](%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)写七件事：客户价值、主要矛盾、做好这件事靠什么、核心假设、最新认知、怎么取舍、当下的好奇。
+按[经营域共建模板](%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）写七件事：客户价值、主要矛盾、做好这件事靠什么、核心假设、最新认知、怎么取舍、当下的好奇。
 
 主要矛盾明确分成**本年度**和**当季度**，分别标明年份、季度，并说明这个季度怎样帮助全年往前走。年度、季度的具体重点没有依据时标“待判断”；AI 可以先提建议和理由，不能把建议写成已确定的公司重点。换季度或换年度，要先回看旧问题解决了多少，再更新判断，不能只换日期。
 
 **第一、第二层给 Leon 看的正文全部使用非技术语言。** 先说现在怎么看，再用具体人、事和结果解释。专用名称确实需要时，当场说明；重要条件、代价和相反事实保留。开头便于迅速接上思考，详细资料放在后面。
 
-Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其他经营域，原话见[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md)。D03 先作实例，其余十四域现已结合各自材料采用同一写法，十五域都保留两三个“当下的好奇”。年度、季度重点中的建议仍留作讨论，不能因栏目齐全就当作公司决定；以后也不为凑数制造问题。
+Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其他经营域，原话见[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）。D03 先作实例，其余十四域现已结合各自材料采用同一写法，十五域都保留两三个“当下的好奇”。年度、季度重点中的建议仍留作讨论，不能因栏目齐全就当作公司决定；以后也不为凑数制造问题。
 
 ## “当下的好奇”怎样参与蒸馏
 
@@ -52,7 +52,7 @@ Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其
 
 ## 一次维护的最小回路
 
-1. **定位。** 先读 `purpose.md`、总图、[TutorOS第二层经营地图](%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md)与对应经营域，包括“当下的好奇”，按新材料的实际主张选择旧页、源与决策链。输入身份、双读及预算沿原进料工艺执行；维护总图不替代这些步骤。
+1. **定位。** 先读 `purpose.md`、总图、[TutorOS第二层经营地图](%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)）与对应经营域，包括“当下的好奇”，按新材料的实际主张选择旧页、源与决策链。输入身份、双读及预算沿原进料工艺执行；维护总图不替代这些步骤。
 2. **判断增量。** 区分补充证据、强化、限定、反驳、新问题、无增量；按上节判断是否推进了已有好奇，或带来意外的新问题。对照 M1 / M2；没有模式证据时保留“模式未限定”，不因主流是 HBT 就把旧页全部归成 HBT。
 3. **维护下层。** 优先合并已有页，保留原话、来源、时点和状态，必要时更新开放问题。新页面仍须满足原类型准入，不为填满节点创建薄页。
 4. **检查影响。** 将改动关联到 S0 / F1 / M1 / M2 / N1–N7 与 D01—D15；识别受影响的定义、关系、聚合页与旧结论。明确的人类纠正直接传播；真正的认识冲突保留两侧依据。没有合适域时保留原页和问题，不强塞进最近的标题。
@@ -86,12 +86,12 @@ Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其
 - 每页可关联多个节点；`scope` 为 `M1`、`M2`、`parallel`、`unspecified` 或 `not-applicable`，分别表示明确居家、明确中心、明确两模式并列、原页未限定、治理导航不适用。
 - 这是检索分类，不代表业务普遍适用性。旧页的初次导航依据是标题、结构与已有主题入口；只有实际核读的证据才能支持主张。
 - `content_sha256` 只用于发现页面变化，不证明内容真实。页面变化后，Agent 重新判断落点，再刷新指纹；不为了通过检查盲目更新指纹。
-- 总图的语义以 Markdown 为准；JSON 只保存定位关系。派生的[TutorOS知识骨架落点索引](TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%90%BD%E7%82%B9%E7%B4%A2%E5%BC%95.md)不另造第二套解释。
+- 总图的语义以 Markdown 为准；JSON 只保存定位关系。派生的[TutorOS知识骨架落点索引](TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%90%BD%E7%82%B9%E7%B4%A2%E5%BC%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)）不另造第二套解释。
 - 建立维护路径、完成一次双库投影与验证业务效果分别记录；同步完成须有对应版本的两库逐页回读。
 
 ## 双库投影是骨架维护的一部分
 
-2026-09-14 Leon 明确要求知识骨架同步到两个钉钉知识库，授权原话见[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md#%E5%8F%8C%E5%BA%93%E6%8A%95%E5%BD%B1%E6%8E%88%E6%9D%83%E5%8E%9F%E8%AF%9D)。独立库本地 `wiki/` 保持内容正本；原库 `wiki/TOC/` 留作历史；骨架、节点与证据导航、认领记录、维护约定、落点索引及相关入口持续纳入既有投影流程。
+2026-09-14 Leon 明确要求知识骨架同步到两个钉钉知识库，授权原话见[2026-09-14-TutorOS知识骨架认领与共建分工](decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md#%E5%8F%8C%E5%BA%93%E6%8A%95%E5%BD%B1%E6%8E%88%E6%9D%83%E5%8E%9F%E8%AF%9D) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）。独立库本地 `wiki/` 保持内容正本；原库 `wiki/TOC/` 留作历史；骨架、节点与证据导航、认领记录、维护约定、落点索引及相关入口持续纳入既有投影流程。
 
 | 阅读面 | 对应位置 |
 |---|---|
@@ -114,7 +114,7 @@ Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其
 
 执行时再留两项实际证据：一是所用 purpose、总图、第二层与相关域的版本／指纹，以及**地图具体改变了哪项阅读或判断**；二是按本次材料提出的真实经营问题，能否从更新后的页找回来源、成立条件、反例和现行裁决。没有改图就写明保留原架构的理由。文件加载和结构检查只能证明相应步骤，不能冒充回答质量或业务效果。
 
-2026-09-14 的 D03 首轮例子：从“新师怎样形成稳定好课供给”出发，回读原始听记，补强准备—机会—逐课改进—阶段判断—后续贡献的连接；同时发现旧稿把档位人数分布举例误写成评分权重，沿7/13决策、项目、语义岛和问题账传播纠正。L1/L2仍为1.1，因证据没有要求改变模式关系或经营域边界。正文与剩余缺口见[TutorOS经营域-D03-新师成材与早期经营](%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md)、[新师训战营-TIDE语义岛-2026-09-11](queries/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5-TIDE%E8%AF%AD%E4%B9%89%E5%B2%9B-2026-09-11.md)；实际验收结果随本批log记录。
+2026-09-14 的 D03 首轮例子：从“新师怎样形成稳定好课供给”出发，回读原始听记，补强准备—机会—逐课改进—阶段判断—后续贡献的连接；同时发现旧稿把档位人数分布举例误写成评分权重，沿7/13决策、项目、语义岛和问题账传播纠正。L1/L2仍为1.1，因证据没有要求改变模式关系或经营域边界。正文与剩余缺口见[TutorOS经营域-D03-新师成材与早期经营](%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）、[新师训战营-TIDE语义岛-2026-09-11](queries/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5-TIDE%E8%AF%AD%E4%B9%89%E5%B2%9B-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZvd1e048qjMp697) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbeE5yWyMoPYe1)）；实际验收结果随本批log记录。
 
 三种修改分别处理：普通补证只更新具体页和证据连接；域内理解改变时更新该域及受影响页面；足以改变目标、模式关系或重要取舍时带具体提案回前两层。地图自身与方法都可修订、合并或退役，旧版本与理由保留，不以新措辞静默覆盖已审判断。
 
@@ -127,20 +127,3 @@ Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其
 真实讨论可引用节点名或编号；Agent 应返回采用了哪些已有认识、什么新输入改变了判断。检验标准是下一次能接着思考、少误读一次旧认识，而不只是增加页数、引用数或图上节点。
 
 主权影响：因「规则简单、信息流动与反馈迭代」，本次把维护方式从逐页向人收口，改为 Agent 维护证据与影响链、重要认识变化在骨架层共建。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-09-14-TutorOS知识骨架认领与共建分工 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识骨架落点索引 | [A 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno?utm_scene=team_space) |
-| TutorOS经营域-D03-新师成材与早期经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4?utm_scene=team_space) |
-| 新师训战营-TIDE语义岛-2026-09-11 | [A 库](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZvd1e048qjMp697?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbeE5yWyMoPYe1?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

@@ -12,13 +12,13 @@ review: 待审
 
 > ⚠️ 设计稿件，未定稿，不得作为正式结论引用。
 
-> **8 月 31 日提案进展（历史时点）**：本稿已于 08-31 双周会向 Jack 正式提案汇报并获得方向认可（**方向认可 ≠ 已挂入正式 KPI / 过渡组合未拍死 · TOC-67**）——坏课率可作为 Q3/Q4 指标，口径必须「可发现、可衡量、可治理」（纪律类纳入、网络设备标准待建、AI 可识别行为试点、投诉/黑名单做审计指标）；Q4 过渡组合倾向「launch 保留垫一季度 + B+/A ID 换毕业量/100 分+/坏课率，明年转毕业量/金牌量/坏课率」。会议结论与待拍项见 [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md)；本稿的正式收口路径（冻结定义盒子 + 基线 + 与 Lily/HR 对齐）不变。
+> **8 月 31 日提案进展（历史时点）**：本稿已于 08-31 双周会向 Jack 正式提案汇报并获得方向认可（**方向认可 ≠ 已挂入正式 KPI / 过渡组合未拍死 · TOC-67**）——坏课率可作为 Q3/Q4 指标，口径必须「可发现、可衡量、可治理」（纪律类纳入、网络设备标准待建、AI 可识别行为试点、投诉/黑名单做审计指标）；Q4 过渡组合倾向「launch 保留垫一季度 + B+/A ID 换毕业量/100 分+/坏课率，明年转毕业量/金牌量/坏课率」。会议结论与待拍项见 [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）；本稿的正式收口路径（冻结定义盒子 + 基线 + 与 Lily/HR 对齐）不变。
 
 > **权威阅读顺序（2026-09-11 · 语意层导读）**
-> 1. **概念** → [抓共性负向项](../concepts/%E6%8A%93%E5%85%B1%E6%80%A7%E8%B4%9F%E5%90%91%E9%A1%B9.md)（卖不动就抓共性负向）
-> 2. **治理动作** → [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md)（已审；小队事件口径正本）
-> 3. **稳定类** → [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md)（五类 + 课后优先）
-> 4. **Q3/Q4 方向（候选）** → [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md)（方向认可 ≠ 已挂 KPI）
+> 1. **概念** → [抓共性负向项](../concepts/%E6%8A%93%E5%85%B1%E6%80%A7%E8%B4%9F%E5%90%91%E9%A1%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）（卖不动就抓共性负向）
+> 2. **治理动作** → [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）（已审；小队事件口径正本）
+> 3. **稳定类** → [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）（五类 + 课后优先）
+> 4. **Q3/Q4 方向（候选）** → [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）（方向认可 ≠ 已挂 KPI）
 > 5. **本页** = KPI 口径**讨论稿 / 非生效 KPI**（待审；勿当已冻结正式口径）
 >
 > **当前接续（2026-09-15）**：TOC-15 的迟到 **1 分钟起算**、TOC-16 的假早退判定，已写入下方 Wiki 工作事件表，完成 TOC-92 的本地回写部分。四版 HTML 原件保留历史；这不代表公司正式事件表、数据实现或 KPI 已采纳。TOC-17 数据源仍未定，未定前只影子运行。
@@ -50,12 +50,12 @@ Q3/Q4 将「坏课率」确立为**外教战役级交付可靠性指标**（战�
 **历史沿革**（为什么旧尺走不下去）：
 
 - **6/29 KPI Catch-up 决策**：放弃 B+/A 作为核心 KPI（Jack 曾定 35% B+A 干不出来）；确立三块可感知指标——坏课率 + 学生投票 + 合规。坏课定义初版：**四害（迟到/早退/缺勤/黑屏）+ 设备 + 网络**。
-- **7/13 CEO H2 总纲**（[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md)）：最终战果 = 经 30 天真实授课与客户反馈验证、持续创造客户价值的好老师数量及占比；B+/A 降为入门尺。权重须由业务与客户事实共同定义，不能外教团队自己给自己打分。
-- **7/28 五维设计定稿**（[好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)）：好老师五维 = 用户反馈 / 可靠性 / 硬件质量 / 有效供给 / 成长任务。「可靠性」「硬件质量」两维正是坏课率覆盖的战场。
+- **7/13 CEO H2 总纲**（[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)））：最终战果 = 经 30 天真实授课与客户反馈验证、持续创造客户价值的好老师数量及占比；B+/A 降为入门尺。权重须由业务与客户事实共同定义，不能外教团队自己给自己打分。
+- **7/28 五维设计定稿**（[好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)））：好老师五维 = 用户反馈 / 可靠性 / 硬件质量 / 有效供给 / 成长任务。「可靠性」「硬件质量」两维正是坏课率覆盖的战场。
 - **8/14 坏课治理原子小队备案**（DRI 曹海璇，待建）：首期只做「课中老师缺席（no-notice absence）」的实时客户保护；测量合同（课程 ID 去重、事件定义、恢复窗口）已成型，是坏课 KPI 分子口径的最佳起点。
 - **8/26 Leon 输入与主张**：定义盒子重构为四大类（v0.2）→ P0 准则 + 学生反馈不纳入（v0.3）→ ③类只抓可侦测的 P0（v0.4）。
 
-KPI 决策脉络另见 [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026-05-20-%E6%8C%87%E6%8C%A5%E5%AE%98%E5%88%86%E6%AD%A7-KPI3vsKPI4.md)（KPI 优先级与边界）与 [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（Q2 聚合决策史）。
+KPI 决策脉络另见 [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026-05-20-%E6%8C%87%E6%8C%A5%E5%AE%98%E5%88%86%E6%AD%A7-KPI3vsKPI4.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARvq5doW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5nReEzVbkz3BRL)）（KPI 优先级与边界）与 [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（Q2 聚合决策史）。
 
 ## 工作口径（v0.4 底稿＋后继裁决，整体仍待定）
 
@@ -160,22 +160,22 @@ KPI 决策脉络另见 [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026
 
 本轮对四版设计、8 月 7/13/26/27/31 日材料与既有裁决作独立比较；只更新工作稿，不新增正式 KPI。学生当前受损由 D09 先接住；D08 核对课堂事实与判断范围；涉及老师机会、收入与资格，由 D11 接上解释、复核和更正。
 
-新增定位：[8 月 13 日原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md:212>) 13:43—14:38 谈投诉占比；[8 月 31 日原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-31/media/dws-听记-外教质量提升双周会-2026-08-31.md:1286>) 59:35—59:58 谈团队结果与审计视角。同场纪要不另算独立来源。
+新增定位：[8 月 13 日原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md:212>)（来源指针缺口，需补证） 13:43—14:38 谈投诉占比；[8 月 31 日原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-31/media/dws-听记-外教质量提升双周会-2026-08-31.md:1286>)（来源指针缺口，需补证） 59:35—59:58 谈团队结果与审计视角。同场纪要不另算独立来源。
 
 ## 相关链接
 
-- [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026-05-20-%E6%8C%87%E6%8C%A5%E5%AE%98%E5%88%86%E6%AD%A7-KPI3vsKPI4.md) — KPI 优先级与战役边界决策（已审）
-- [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) — 08-31 双周会提案结果：口径原则 + 过渡组合（待审）
-- [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) — Q2 聚合决策史（60+ 判断 + 21 项未决）
-- [老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md) — 质量提升五环飞轮（已审）
-- [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) — CEO H2 总纲：胜利标准/五项硬任务/双主帅（已审）
-- [外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) — 战役总览编译（历史参考）
-- [好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) — 好老师三段定义与质量五杠杆（已审）
+- [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026-05-20-%E6%8C%87%E6%8C%A5%E5%AE%98%E5%88%86%E6%AD%A7-KPI3vsKPI4.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARvq5doW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5nReEzVbkz3BRL)） — KPI 优先级与战役边界决策（已审）
+- [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)） — 08-31 双周会提案结果：口径原则 + 过渡组合（待审）
+- [Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)） — Q2 聚合决策史（60+ 判断 + 21 项未决）
+- [老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)） — 质量提升五环飞轮（已审）
+- [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)） — CEO H2 总纲：胜利标准/五项硬任务/双主帅（已审）
+- [外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)） — 战役总览编译（历史参考）
+- [好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)） — 好老师三段定义与质量五杠杆（已审）
 
 
-## 收敛叙事附录（合并自 [坏课KPI设计收敛轨迹](../synthesis/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E6%94%B6%E6%95%9B%E8%BD%A8%E8%BF%B9.md) · 2026-09-11）
+## 收敛叙事附录（合并自 [坏课KPI设计收敛轨迹](../synthesis/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E6%94%B6%E6%95%9B%E8%BD%A8%E8%BF%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MwMPKyJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3lEXR8B5r9YAn)） · 2026-09-11）
 
-> 溯源：外援综合页 [坏课KPI设计收敛轨迹](../synthesis/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E6%94%B6%E6%95%9B%E8%BD%A8%E8%BF%B9.md)。设计稿正文已覆盖 v0.1–v0.4 收敛；此处保留外援层「一句话收敛」与问题账交叉索引，避免丢目录价值。
+> 溯源：外援综合页 [坏课KPI设计收敛轨迹](../synthesis/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E6%94%B6%E6%95%9B%E8%BD%A8%E8%BF%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MwMPKyJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3lEXR8B5r9YAn)）。设计稿正文已覆盖 v0.1–v0.4 收敛；此处保留外援层「一句话收敛」与问题账交叉索引，避免丢目录价值。
 
 - **一句话收敛**：教师侧战役指标从「看好老师数量」收敛到「看坏课率」；坏课率=外教战役级交付可靠性指标；坏课须「客观有标准且可侦测」；学生主观反馈不进分子，作探针与质检触发。（与上文设计目标同向，非新主张。）
 - **外援推断（标注保留，不当正式结论）**：收敛核心是把「坏」压成可测/可复核/可被业务动作改变的盒子，而非扩张范围；坏课 KPI 更像交付可靠性指标而非满意度总表。
@@ -186,39 +186,13 @@ KPI 决策脉络另见 [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D08 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) · [D09 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) · [D11 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md)
+[D08 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） · [D09 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） · [D11 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
 
 
 
 ## 2026-09-15 版本内未决补充
 
-v0.4同时写“Q3已结束、9月Q4”与“9月Q3尾”，季度归属存在冲突，不据此改变业务周期。三类范围、分母、更新节奏及0.2目标示例仍有待决部分；当前可侦测的P0范围不代表范围外没有客户损失。以上不撤销本页已列具体人类裁决，也不把它们扩为整套KPI已生效。（[v0.4稿](../../sources/raw/2026-08-26_%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF%E4%BB%B6_v0.4_%E5%8F%8C%E8%AF%AD.md) L63、L75、L87–119、L187、L242–279。）
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y?utm_scene=team_space) |
-| 抓共性负向项 | [A 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq?utm_scene=team_space) |
-| 2026-08-26-坏课治理双方案灰度拍板 | [A 库](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG?utm_scene=team_space) |
-| 2026-08-27-课堂问题数据口径与课后治理优先 | [A 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N?utm_scene=team_space) |
-| 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno?utm_scene=team_space) |
-| 好老师生命周期 | [A 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv?utm_scene=team_space) |
-| 2026-05-20-指挥官分歧-KPI3vsKPI4 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARvq5doW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5nReEzVbkz3BRL?utm_scene=team_space) |
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| 老师质量提升飞轮 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk?utm_scene=team_space) |
-| 外教质量提升战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq?utm_scene=team_space) |
-| 坏课KPI设计收敛轨迹 | [A 库](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MwMPKyJyeZqMmz?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3lEXR8B5r9YAn?utm_scene=team_space) |
-| TutorOS经营域-D08-好课判断与逐课证据 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D09-履约恢复与问题治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D?utm_scene=team_space) |
-| TutorOS经营域-D11-教师体验与公平治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+v0.4同时写“Q3已结束、9月Q4”与“9月Q3尾”，季度归属存在冲突，不据此改变业务周期。三类范围、分母、更新节奏及0.2目标示例仍有待决部分；当前可侦测的P0范围不代表范围外没有客户损失。以上不撤销本页已列具体人类裁决，也不把它们扩为整套KPI已生效。（[v0.4稿](../../sources/raw/2026-08-26_%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF%E4%BB%B6_v0.4_%E5%8F%8C%E8%AF%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjYgxo6g8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAybgAA2W2LD0oRE)） L63、L75、L87–119、L187、L242–279。）

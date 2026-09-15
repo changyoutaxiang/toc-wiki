@@ -58,7 +58,7 @@ ingress_revisions: ["J-d4d43de67bfbd0c85f90aebf@15f9c099f750d6d0.5f264c74704b"]
 - 原稿列明的 3 个钉钉文档访问被拒、2 个本地 Mapping 文件缺失；未读内容不能由标题或转述补齐。
 - 同源原稿、纪要或聊天转述不构成独立证据。
 
-验证入口见 [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md) TOC-90。
+验证入口见 [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） TOC-90。
 
 ## 来源
 
@@ -66,15 +66,3 @@ ingress_revisions: ["J-d4d43de67bfbd0c85f90aebf@15f9c099f750d6d0.5f264c74704b"]
 - revision_id：`15f9c099f750d6d0.5f264c74704b`
 - 原件：`sources/common-feed/J-d4d43de67bfbd0c85f90aebf__15f9c099f750d6d0.5f264c74704b`
 - 发生日：2026-09-10；收到日：2026-09-10；actor：multiple。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

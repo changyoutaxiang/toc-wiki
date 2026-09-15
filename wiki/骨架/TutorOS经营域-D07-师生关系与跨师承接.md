@@ -18,7 +18,7 @@ template_version: "1.1"
 
 # 师生关系与跨师承接
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 **我们在讨论什么：** 不论学生继续跟同一位老师，还是换了一位老师，怎样让信任和学习接着往前走？
 
@@ -72,7 +72,7 @@ template_version: "1.1"
 
 Every Lesson Counts——每一节课都要有价值——也意味着下一课要能接上有用的信息。它不要求学生永远跟同一位老师，也不允许借换师便利忽视客户原来的选择。
 
-选老师、约老师在[教师价值呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md)讨论；一节课教得怎样在[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md)讨论；老师自身怎样成长见[教师成长与教学支持](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md)。失约后的即时恢复回到[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md)。本域不把学生成长或续费全部算给某一位老师。
+选老师、约老师在[教师价值呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)）讨论；一节课教得怎样在[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）讨论；老师自身怎样成长见[教师成长与教学支持](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)）。失约后的即时恢复回到[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)）。本域不把学生成长或续费全部算给某一位老师。
 
 ## 4. 核心假设：我们相信什么，凭什么相信
 
@@ -122,43 +122,38 @@ Every Lesson Counts——每一节课都要有价值——也意味着下一课�
 
 **目前想到哪了：** 中心现场支持提供了一种可能，但目前没有材料证明团队接力与同师连续等同。居家老师之间也可能形成有效接力，不应先按模式下结论。[E1] 值得观察客户知情接受的真实接力：孩子是否感到被理解，老师是否接着上次的困难往前教，以及这种体验能否持续。
 
-这些问题可以跨季度保留。新材料有推进时留下出处、改变的认识和未解部分；新发现也可以改变问题本身。普通好奇不自动成为待办，维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)。
+这些问题可以跨季度保留。新材料有推进时留下出处、改变的认识和未解部分；新发现也可以改变问题本身。普通好奇不自动成为待办，维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
 
 ## 资料与以前的讨论
 
-**本人业务输入定位（2026-09-08）：** [连续教学讨论原稿](../../sources/raw/J-8789ac28fc661868b69f7ced__82219f3a5c1d2670.49fa73570692.md)L12–18记录Leon提出一名学生常由多位老师共同教学、固定关系呈分布，并将跨师连续性提出为潜在重要客户价值；没有固定率数值或实现效果。后段三类连续性、首期顺序和跨域机制来自架构师建议，不能整体归为Leon决定。这里补原始输入定位，不新增效果结论。
+**本人业务输入定位（2026-09-08）：** [连续教学讨论原稿](../../sources/raw/J-8789ac28fc661868b69f7ced__82219f3a5c1d2670.49fa73570692.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjoxreNQVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpub03Nb03J3pmz5aA)）L12–18记录Leon提出一名学生常由多位老师共同教学、固定关系呈分布，并将跨师连续性提出为潜在重要客户价值；没有固定率数值或实现效果。后段三类连续性、首期顺序和跨域机制来自架构师建议，不能整体归为Leon决定。这里补原始输入定位，不新增效果结论。
 
 
-- **[E1] 关系与学习承接的设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md)第 2、4、6、10 章。设计已经区分学习判断、真人教学、客户选择与恢复，具体机制效果仍待验证。
-- **[E2] 固定老师与固定时间的会议讨论：** [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md)第 4 节及待确认。页面待审；固定率 90% 为方向目标，固定与续费的关系仍须排查“本来更容易留下的人也更容易固定”的影响。
-- **[E3] 匹配历史：** [2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md)。保留统一入口、推荐及客户行为返回的思路；旧上线日期、负责人和比较结果不能由本页补写为当前完成状态。
-- **[E4] 直通车项目：** [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)，先读截至 9 月 5 日的确认及证据边界；体验课选中、付费后继续用到和学习接上，分别判断。
+- **[E1] 关系与学习承接的设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 2、4、6、10 章。设计已经区分学习判断、真人教学、客户选择与恢复，具体机制效果仍待验证。
+- **[E2] 固定老师与固定时间的会议讨论：** [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）第 4 节及待确认。页面待审；固定率 90% 为方向目标，固定与续费的关系仍须排查“本来更容易留下的人也更容易固定”的影响。
+- **[E3] 匹配历史：** [2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)）。保留统一入口、推荐及客户行为返回的思路；旧上线日期、负责人和比较结果不能由本页补写为当前完成状态。
+- **[E4] 直通车项目：** [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)），先读截至 9 月 5 日的确认及证据边界；体验课选中、付费后继续用到和学习接上，分别判断。
 
 初版四组来源分别提供设计、会议方向、匹配历史与整体项目进展；它们尚不能组成对“固定关系必然有效”的直接证明。
 
 ## 本轮原料怎样修正判断（2026-09-15）
 
-- [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)：方案采用不等买断课预约或固定功能上线；50%预占课费不是浪费比例，合肥关老模式仍有系统分配。
+- [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）：方案采用不等买断课预约或固定功能上线；50%预占课费不是浪费比例，合肥关老模式仍有系统分配。
 
 以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS经营域-D06-教师价值呈现与匹配 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3?utm_scene=team_space) |
-| TutorOS经营域-D08-好课判断与逐课证据 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D10-教师成长与教学支持 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4?utm_scene=team_space) |
-| TutorOS经营域-D09-履约恢复与问题治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D?utm_scene=team_space) |
-| TutorOS设计宪法全文 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG?utm_scene=team_space) |
-| 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y?utm_scene=team_space) |
-| 2026-05-26-师生匹配双供应商竞赛与统一入口 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4?utm_scene=team_space) |
-| 直通车项目 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9?utm_scene=team_space) |
+- [2026-05-09-直通车TrialOnly-合肥MVP拍定](../decisions/2026-05-09-直通车TrialOnly-合肥MVP拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjla6zJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sj5NNX7m8GlDd3mE)）
+- [2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-师生匹配双供应商竞赛与统一入口.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)）
+- [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC预约体验课预占与供给数字漏斗化.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3)）
+- [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）
+- [2026-08-10-好外教在51Talk-价值传播首战参谋方案](../projects/2026-08-10-好外教在51Talk-价值传播首战参谋方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaY7NlgWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnq3kMq86EDybno)）
+- [直通车项目](../projects/直通车项目.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）
+- [Brighterly调研总档-源摘要](../sources/Brighterly调研总档-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05deGeb8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl12M58Ke0xjE3)）
+- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

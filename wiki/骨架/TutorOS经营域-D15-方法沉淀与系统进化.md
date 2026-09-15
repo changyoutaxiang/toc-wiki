@@ -20,7 +20,7 @@ knowledge_revision: "D15-2026-09-15.2"
 
 # 方法沉淀与系统进化
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 **我们在讨论什么：** 一位老师或一个团队发现的好办法，怎样帮助更多人的下一次工作，并在不再适用时及时改掉？
 
@@ -74,7 +74,7 @@ knowledge_revision: "D15-2026-09-15.2"
 
 居家授课是当前存量主流，与中心授课平行。居家经验要能通过远程方式传递；若需要导师实时陪伴，就把这项支持和成本讲清。中心的现场示范和同伴训练可能帮助传播，但一位优秀带教老师的成绩不能自动代表其他中心也能做到。两种模式可以互相学习，也允许一个方法只适合其中一种。[A]
 
-具体老师的成长与帮助由[教师成长与教学支持](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md)承接；教学目标和教法是否合适，由学习专业团队共同判断。本域关心方法怎样跨人、跨场景积累；[事实标准与协同执行](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md)帮助大家使用正确版本，避免已经改掉的旧说法继续指挥行动。
+具体老师的成长与帮助由[教师成长与教学支持](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)）承接；教学目标和教法是否合适，由学习专业团队共同判断。本域关心方法怎样跨人、跨场景积累；[事实标准与协同执行](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)）帮助大家使用正确版本，避免已经改掉的旧说法继续指挥行动。
 
 ## 4. 核心假设：我们相信什么，凭什么相信
 
@@ -92,13 +92,13 @@ knowledge_revision: "D15-2026-09-15.2"
 
 2026-09-15 按模板把假设、取舍和好奇分开，方便继续讨论。本次没有新增方法推广效果的证据，也没有把历史候选教法转为正式规则。
 
-**2026-09-15全文复核补清采用门槛：** 帮助过一位老师的方法，先保留适用条件与失败样本，再用独立样本验证，随后由负责人发布版本并观察第二个场景实际采用后的结果与成本。提出方法的Agent不能独自证明它有效，两个模型同意也不是事实；个体受助、群体可复用与系统可持续运行分开验。以上是获认领设计中的建设要求，尚没有本轮真实方法推广效果。（[设计全文](../../sources/raw/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.md)，§16 L713–798、§20 L877–898；操作验收条件见[首期运行契约](../queries/TutorOS首期运行契约与2＋2验收缺口.md)。）
+**2026-09-15全文复核补清采用门槛：** 帮助过一位老师的方法，先保留适用条件与失败样本，再用独立样本验证，随后由负责人发布版本并观察第二个场景实际采用后的结果与成本。提出方法的Agent不能独自证明它有效，两个模型同意也不是事实；个体受助、群体可复用与系统可持续运行分开验。以上是获认领设计中的建设要求，尚没有本轮真实方法推广效果。（[设计全文](../../sources/raw/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDEBM69xW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpEQ0w9DJgk9rpMq)），§16 L713–798、§20 L877–898；操作验收条件见[首期运行契约](../queries/TutorOS首期运行契约与2＋2验收缺口.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)）。）
 
 ### 教学识别提案：先验证看准了什么，再看帮助是否有效
 
-8月3日为次日准备的提案拟用100个历史体验课样本验证“目标语言有效操练”：30个探索、40个开发、30个固定评测，其中20个另请第二人盲评；先5–10个试跑再锁定100。它只提出识别、证据、训练卡和复测设计，不触达老师、不改变权益，数据使用权限仍需确认；没有提供运行或培养结果，20个也不是额外增加的样本。（[会前提案](../../sources/raw/2026-08-04_FSD%E6%95%99%E5%AD%A6%E8%B4%A8%E9%87%8FSkill_Phase0_%E9%9D%A2%E8%B0%88%E5%86%B7%E8%AF%BB%E6%9D%90%E6%96%99.md) L18–59、L80–106、L120–158。）
+8月3日为次日准备的提案拟用100个历史体验课样本验证“目标语言有效操练”：30个探索、40个开发、30个固定评测，其中20个另请第二人盲评；先5–10个试跑再锁定100。它只提出识别、证据、训练卡和复测设计，不触达老师、不改变权益，数据使用权限仍需确认；没有提供运行或培养结果，20个也不是额外增加的样本。（[会前提案](../../sources/raw/2026-08-04_FSD%E6%95%99%E5%AD%A6%E8%B4%A8%E9%87%8FSkill_Phase0_%E9%9D%A2%E8%B0%88%E5%86%B7%E8%AF%BB%E6%9D%90%E6%96%99.md) （[A](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGvlBEG6VkyEqBQm) · [Leon](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE9Zy3ELJ9ekBD76)） L18–59、L80–106、L120–158。）
 
-8月4日另一场Cocos Ready讨论把近期问题聚焦为新师30天内操作就绪，量化标准和具名负责人仍缺。这两份材料不能拼成已运行的育师闭环；培训先支持操作与产品降低复杂度各有责任。（[Cocos Ready记录](../decisions/2026-08-04-CocosReady外教培训专项.md)。）
+8月4日另一场Cocos Ready讨论把近期问题聚焦为新师30天内操作就绪，量化标准和具名负责人仍缺。这两份材料不能拼成已运行的育师闭环；培训先支持操作与产品降低复杂度各有责任。（[Cocos Ready记录](../decisions/2026-08-04-CocosReady外教培训专项.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1eRgdVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2oY4KlWxEKBD6p)）。）
 
 ## 6. 怎么取舍
 
@@ -134,39 +134,52 @@ knowledge_revision: "D15-2026-09-15.2"
 
 ## 资料与以前的讨论
 
-下一份有用证据是同一方法被另一批教师实际采用的经历，包含未改善者、时间成本和后续课堂；再看一条旧方法因反例而停止使用的实例。已有运行缺口沿[TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS%E9%A6%96%E6%9C%9F%E8%BF%90%E8%A1%8C%E5%A5%91%E7%BA%A6%E4%B8%8E2%EF%BC%8B2%E9%AA%8C%E6%94%B6%E7%BC%BA%E5%8F%A3.md)和[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)查看。
+下一份有用证据是同一方法被另一批教师实际采用的经历，包含未改善者、时间成本和后续课堂；再看一条旧方法因反例而停止使用的实例。已有运行缺口沿[TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS%E9%A6%96%E6%9C%9F%E8%BF%90%E8%A1%8C%E5%A5%91%E7%BA%A6%E4%B8%8E2%EF%BC%8B2%E9%AA%8C%E6%94%B6%E7%BC%BA%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)）和[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供）查看。
 
-- **[A] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md)第 4、16 章及 HTML 原件。方法、使用和结果分别记录；设计认可不等于这些机制已运行。
-- **[B] 5 月 15 日四化方向：** [2026-05-15-用四化的方式打赢战役](../decisions/2026-05-15-%E7%94%A8%E5%9B%9B%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E8%B5%A2%E6%88%98%E5%BD%B9.md)及[会议补充原件](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/2026-05-15-%E7%94%A8%E5%9B%9B%E5%8C%96%E6%96%B9%E5%BC%8F%E6%89%93%E8%B5%A2%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%88%98%E5%BD%B9.md)第 1—5 节。历史数字和候选动作不直接变成当前指标。
-- **[C] 7 月 24 日双周会：** [2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](../decisions/2026-07-24-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E8%9C%82%E5%B7%A2%E9%A6%96%E9%97%AD%E7%8E%AF%E4%B8%8EJack%E5%85%AD%E9%A1%B9%E8%A6%81%E6%B1%82.md)及[完整纪要](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/20260724%20%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)。保留真实数据验证与样本限制，结合该页 9 月 5 日的阅读边界使用；不据历史问题重开已有裁决。
+- **[A] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 4、16 章及 HTML 原件。方法、使用和结果分别记录；设计认可不等于这些机制已运行。
+- **[B] 5 月 15 日四化方向：** [2026-05-15-用四化的方式打赢战役](../decisions/2026-05-15-%E7%94%A8%E5%9B%9B%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E8%B5%A2%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXRz2mOVkyEqBQm) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAy1oKWyMoPYe1)）及[会议补充原件](../../sources/raw/2026-05-15-用四化方式打赢外教质量战役.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqd6KZoQWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAybOOD9W2LD0oRE)）第 1—5 节。历史数字和候选动作不直接变成当前指标。
+- **[C] 7 月 24 日双周会：** [2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](../decisions/2026-07-24-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E8%9C%82%E5%B7%A2%E9%A6%96%E9%97%AD%E7%8E%AF%E4%B8%8EJack%E5%85%AD%E9%A1%B9%E8%A6%81%E6%B1%82.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE)）及[完整纪要](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/20260724%20%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81.md)（本地资料，钉钉／GitHub未提供）。保留真实数据验证与样本限制，结合该页 9 月 5 日的阅读边界使用；不据历史问题重开已有裁决。
 
 同一场会议的轻纪要、完整稿、决策页和演示只算一组依据。旧知识版本保留在本地修订记录中。
 
 ## 本轮原料怎样修正判断（2026-09-15）
 
-- [2026-09-07-TOC个人Wiki镜像共享与坑位检查](../decisions/2026-09-07-TOC%E4%B8%AA%E4%BA%BAWiki%E9%95%9C%E5%83%8F%E5%85%B1%E4%BA%AB%E4%B8%8E%E5%9D%91%E4%BD%8D%E6%A3%80%E6%9F%A5.md)：写下、有人使用、使用后更好分三步；一次有界访问只证第二步局部。
-- [责任域-叙事逻辑-宣传机器](../concepts/%E8%B4%A3%E4%BB%BB%E5%9F%9F-%E5%8F%99%E4%BA%8B%E9%80%BB%E8%BE%91-%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8.md)：长期方法入选不等逐段人审、外发主张或效果；完整复述验理解。
+- [2026-09-07-TOC个人Wiki镜像共享与坑位检查](../decisions/2026-09-07-TOC%E4%B8%AA%E4%BA%BAWiki%E9%95%9C%E5%83%8F%E5%85%B1%E4%BA%AB%E4%B8%8E%E5%9D%91%E4%BD%8D%E6%A3%80%E6%9F%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L5QbYNVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvdpQo1WDOnGvpb)）：写下、有人使用、使用后更好分三步；一次有界访问只证第二步局部。
+- [责任域-叙事逻辑-宣传机器](../concepts/%E8%B4%A3%E4%BB%BB%E5%9F%9F-%E5%8F%99%E4%BA%8B%E9%80%BB%E8%BE%91-%E5%AE%A3%E4%BC%A0%E6%9C%BA%E5%99%A8.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbjME7WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrM53MJGXn6lpz)）：长期方法入选不等逐段人审、外发主张或效果；完整复述验理解。
 
 以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS经营域-D10-教师成长与教学支持 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4?utm_scene=team_space) |
-| TutorOS经营域-D14-事实标准与协同执行 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1?utm_scene=team_space) |
-| TutorOS首期运行契约与2＋2验收缺口 | [A 库](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ?utm_scene=team_space) |
-| 2026-08-04-CocosReady外教培训专项 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1eRgdVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq2oY4KlWxEKBD6p?utm_scene=team_space) |
-| TutorOS设计宪法全文 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG?utm_scene=team_space) |
-| 2026-05-15-用四化的方式打赢战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXRz2mOVkyEqBQm?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAy1oKWyMoPYe1?utm_scene=team_space) |
-| 2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE?utm_scene=team_space) |
-| 2026-09-07-TOC个人Wiki镜像共享与坑位检查 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L5QbYNVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvdpQo1WDOnGvpb?utm_scene=team_space) |
-| 责任域-叙事逻辑-宣传机器 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbjME7WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrM53MJGXn6lpz?utm_scene=team_space) |
+- [X-Y-Z三轴经营模型](../concepts/X-Y-Z三轴经营模型.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）
+- [人工流程产品化AI化](../concepts/人工流程产品化AI化.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKR07XWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjmRk0RnVZd1wyK0)）
+- [外教战役四化蓝图](../concepts/外教战役四化蓝图.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz)）
+- [责任域-叙事逻辑-宣传机器](../concepts/责任域-叙事逻辑-宣传机器.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbjME7WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrM53MJGXn6lpz)）
+- [2026-05-15-用四化的方式打赢战役](../decisions/2026-05-15-用四化的方式打赢战役.md) （[A](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXRz2mOVkyEqBQm) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAy1oKWyMoPYe1)）
+- [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026-05-20-指挥官分歧-KPI3vsKPI4.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARvq5doW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5nReEzVbkz3BRL)）
+- [2026-06-03-外教战役系统化改革与数据治理一号位](../decisions/2026-06-03-外教战役系统化改革与数据治理一号位.md) （[A](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjMm6j385daZ90D) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5bLNRQ8Ke0xjE3)）
+- [2026-07-14-Cocos模板族培训与实操准入](../decisions/2026-07-14-Cocos模板族培训与实操准入.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazljpn9JlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g5pLOjWMwvDqPk)）
+- [2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](../decisions/2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE)）
+- [2026-07-28-菲律宾教师大会三项决定](../decisions/2026-07-28-菲律宾教师大会三项决定.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvlXNKlWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlgqP8Ke0xjE3)）
+- [2026-08-07-战役转任务型组织](../decisions/2026-08-07-战役转任务型组织.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjqxE1J3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiEz2aaKZJ9ekBD76)）
+- [2026-08-24-AI-Native转型定调与任务制](../decisions/2026-08-24-AI-Native转型定调与任务制.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb45M0GJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nYKAg8Ke0xjE3)）
+- [2026-08-25-Center模式试验授权原则](../decisions/2026-08-25-Center模式试验授权原则.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa1m1xPVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3PP51JzlwrZgb)）
+- [2026-08-25-上线决策矩阵与原子小队工作方式](../decisions/2026-08-25-上线决策矩阵与原子小队工作方式.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4pyGPJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50qDYRVkyEqBQm)）
+- [2026-09-07-TOC个人Wiki镜像共享与坑位检查](../decisions/2026-09-07-TOC个人Wiki镜像共享与坑位检查.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L5QbYNVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvdpQo1WDOnGvpb)）
+- [TutorOS建设](../projects/TutorOS建设.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dmKEA8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINL4dnqqVMGjLRb3)）
+- [外教质量提升战役](../projects/外教质量提升战役.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）
+- [新师训练营](../projects/新师训练营.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2957RVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMeB1bW3bzYmDO)）
+- [AI增强教师体验与效率-首个窄实验假设](../queries/AI增强教师体验与效率-首个窄实验假设.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6Mlrpr2JyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxr5RmOxJ3kdP0wQ)）
+- [TOC原子负责制-最小实验闭环](../queries/TOC原子负责制-最小实验闭环.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE24Pem8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6eYKzxJ63zgkYA)）
+- [TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS首期运行契约与2＋2验收缺口.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)）
+- [菲律宾团队供给经营转型与人员迁移假设](../queries/菲律宾团队供给经营转型与人员迁移假设.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr4Pjx8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerMd4Q2W1DK0g6l)）
+- [2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09战略会正式产出与TutorOS建设规划.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）
+- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
+- [外教战役2026H1复盘骨架-源摘要](../sources/外教战役2026H1复盘骨架-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZqXGz81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqRj4QbW3bzYmDO)）
+- [外教战役下半年打法转向](../synthesis/外教战役下半年打法转向.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4zjwkxWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqzR1Qz85daZ90D)）
+- [外教质量管理转向实战验证](../synthesis/外教质量管理转向实战验证.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Zb9OKpWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgBp9qyJkb4Mw9r)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

@@ -19,7 +19,7 @@ knowledge_revision: "D12-2026-09-15.2"
 
 # 教师所得与激励
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）
 
 **我们在讨论什么：** 怎样让持续教好课的老师得到有竞争力、能够长期维持的收入和发展机会，激励又怎样真正帮助教学？
 
@@ -92,13 +92,13 @@ knowledge_revision: "D12-2026-09-15.2"
 
 4 月的历史改革材料已从普涨转向好老师和好苗子，并暂缓部分结果指标激励。[E2] 6 月的竞争讨论进一步强调整体收入、上升机会与下降时的缓冲；6 月 10 日调整了前一天的快速晋级设计，后来相关旧验证追踪已被弃置。[E3]
 
-2026-09-14，经营地图把这些历史教训与 9 月规划连接为“实际所得”的长期问题，分开基本待遇和按课奖励。2026-09-15，本次首次提出年度、季度建议与好奇问题，没有增加已支付、已批准或收入已经改善的事实。[薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md)里带日期的新讨论仍按候审状态使用，不在本页变成工资制度。
+2026-09-14，经营地图把这些历史教训与 9 月规划连接为“实际所得”的长期问题，分开基本待遇和按课奖励。2026-09-15，本次首次提出年度、季度建议与好奇问题，没有增加已支付、已批准或收入已经改善的事实。[薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）里带日期的新讨论仍按候审状态使用，不在本页变成工资制度。
 
 ## 6. 怎么取舍
 
 **目前倾向：先把稳定课量、清楚账单、合理基础回报和必要支持做好，再逐步验证新奖励带来的增量。** 这需要跨分课、支持和结算一起工作，但能避免把所有收入问题都交给奖金解决。[E1]
 
-给表现较好的老师更多课，与让合格新师获得受支持的验证机会之间有张力。应保留学生适配这个前提，避免更多展示带来更多课、再用更多课证明“更加优秀”。新师培养和匹配分别接[新师成材与早期经营](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md)、[教师呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md)。
+给表现较好的老师更多课，与让合格新师获得受支持的验证机会之间有张力。应保留学生适配这个前提，避免更多展示带来更多课、再用更多课证明“更加优秀”。新师培养和匹配分别接[新师成材与早期经营](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）、[教师呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)）。
 
 收入稳定与及时反映表现之间也有张力。一次公共故障不应被机械放大成持续降薪；具体处理依正式规则，公平边界沿 D11。短期试验可以有明确预算支持，但若补贴结束后快速回落、收入更高却明显更不稳定，或只让少数人受益而整体客户价值没有增加，就应重新判断适用范围。
 
@@ -124,44 +124,44 @@ knowledge_revision: "D12-2026-09-15.2"
 
 **目前想到哪了：** 已有设计列出留在中心、符合条件转居家、成为导师等可比较路径，尚未给出已验证的分配方案。[E1] 值得留意不同路径上的实际所得、中心仍提供什么帮助、学生交付是否连续，以及老师能否自由说明真实意愿。完整投入继续连到 D13；不能把培养投入解释为中心对老师的占有。
 
-有了暂时答案进入“核心假设”，有了充分依据更新“最新认知”。问题可跨季度，线索与出处沿[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)维护。
+有了暂时答案进入“核心假设”，有了充分依据更新“最新认知”。问题可跨季度，线索与出处沿[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）维护。
 
 ## 历史决定与还没弄清的事
 
-- [薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md)中的 4 月状态及 5 月方案按其历史日期阅读，不能用旧的生效日期拼出今天的工资表；新讨论也不能覆盖已明确的历史事实。[E2]
-- [2026-06-09-Polly7-1薪酬反击三策](../decisions/2026-06-09-Polly7-1%E8%96%AA%E9%85%AC%E5%8F%8D%E5%87%BB%E4%B8%89%E7%AD%96.md)已接续 6 月 10 日机制调整。9 月 4 日问题账 TOC-45 弃置了旧测算、收入计算器和机制测试的追踪，9 月 5 日再次确认；本页不重启这些待办。弃置追踪不表示政策撤销，也不表示测试已经完成。[E3]
+- [薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）中的 4 月状态及 5 月方案按其历史日期阅读，不能用旧的生效日期拼出今天的工资表；新讨论也不能覆盖已明确的历史事实。[E2]
+- [2026-06-09-Polly7-1薪酬反击三策](../decisions/2026-06-09-Polly7-1%E8%96%AA%E9%85%AC%E5%8F%8D%E5%87%BB%E4%B8%89%E7%AD%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt19Yy2MNJzlwrZgb) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaY2XGnJ3kdP0wQ)）已接续 6 月 10 日机制调整。9 月 4 日问题账 TOC-45 弃置了旧测算、收入计算器和机制测试的追踪，9 月 5 日再次确认；本页不重启这些待办。弃置追踪不表示政策撤销，也不表示测试已经完成。[E3]
 - 当节奖励、阶段课酬、中心分成、毕业补贴和带教报酬，均需看各自正式方案与适用日期。当前没有同一批教师在可比周期的完整到账、总时间、课量、支持成本和课堂结果，不能给出现行总体增收结论。
 
 ## 资料与以前的讨论
 
 原有初版三个来源组保留，同一来源的不同整理页不重复计算：
 
-- **[E1] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md)第 11、18—21 章及页首原件；提供增收路径、统计范围与验证顺序，不证明收入已经改善。
-- **[E2] 4 月改革材料及后续阅读边界：** [薪酬改革历史原件](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md)“当前判断、战略逻辑”；现有项目页为[薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md)。历史材料的多个输入保守合为一组，按日期使用。
-- **[E3] 6 月 9 日竞争讨论与后继决定：** [会议原件](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/Meeting/2026-06-09_%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%91%A8%E4%BC%9A%E7%BA%AA%E8%A6%81.md)第三节；[2026-06-09-Polly7-1薪酬反击三策](../decisions/2026-06-09-Polly7-1%E8%96%AA%E9%85%AC%E5%8F%8D%E5%87%BB%E4%B8%89%E7%AD%96.md)及[2026-06-10-外教质量提升双周会-半仗判断与跳级电梯](../decisions/2026-06-10-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%8D%8A%E4%BB%97%E5%88%A4%E6%96%AD%E4%B8%8E%E8%B7%B3%E7%BA%A7%E7%94%B5%E6%A2%AF.md)。竞品数字属于当时材料，旧追踪弃置见[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md) TOC-45。
+- **[E1] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 11、18—21 章及页首原件；提供增收路径、统计范围与验证顺序，不证明收入已经改善。
+- **[E2] 4 月改革材料及后续阅读边界：** [薪酬改革历史原件](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md)（本地资料，钉钉／GitHub未提供）“当前判断、战略逻辑”；现有项目页为[薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）。历史材料的多个输入保守合为一组，按日期使用。
+- **[E3] 6 月 9 日竞争讨论与后继决定：** [会议原件](../../sources/raw/2026-06-09_外教战役周会纪要.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjYgxZ498GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZ7mlRzr86EDybno)）第三节；[2026-06-09-Polly7-1薪酬反击三策](../decisions/2026-06-09-Polly7-1%E8%96%AA%E9%85%AC%E5%8F%8D%E5%87%BB%E4%B8%89%E7%AD%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt19Yy2MNJzlwrZgb) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaY2XGnJ3kdP0wQ)）及[2026-06-10-外教质量提升双周会-半仗判断与跳级电梯](../decisions/2026-06-10-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%8D%8A%E4%BB%97%E5%88%A4%E6%96%AD%E4%B8%8E%E8%B7%B3%E7%BA%A7%E7%94%B5%E6%A2%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkp2Nj8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7geOqQNWMwvDqPk)）。竞品数字属于当时材料，旧追踪弃置见[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） TOC-45。
 
 ## 本轮原料怎样修正判断（2026-09-15）
 
-- [成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md)：成长等级、推荐与薪酬分别处理；9月3日方案当期不执行薪酬映射，不把成本模拟当实际收入。
+- [成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）：成长等级、推荐与薪酬分别处理；9月3日方案当期不执行薪酬映射，不把成本模拟当实际收入。
 
 以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| 薪酬改革 | [A 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk?utm_scene=team_space) |
-| TutorOS经营域-D03-新师成材与早期经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4?utm_scene=team_space) |
-| TutorOS经营域-D06-教师价值呈现与匹配 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3?utm_scene=team_space) |
-| 2026-06-09-Polly7-1薪酬反击三策 | [A 库](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt19Yy2MNJzlwrZgb?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaY2XGnJ3kdP0wQ?utm_scene=team_space) |
-| TutorOS设计宪法全文 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG?utm_scene=team_space) |
-| 2026-06-10-外教质量提升双周会-半仗判断与跳级电梯 | [A 库](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkp2Nj8B5r9YAn?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7geOqQNWMwvDqPk?utm_scene=team_space) |
-| 成熟老师升降级积分方案 | [A 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz?utm_scene=team_space) |
+- [2026-06-04-Cocos体验课报告系统判定与解耦](../decisions/2026-06-04-Cocos体验课报告系统判定与解耦.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoAr7aA86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnZREr1VxAZB1Gv)）
+- [2026-06-09-Polly7-1薪酬反击三策](../decisions/2026-06-09-Polly7-1薪酬反击三策.md) （[A](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt19Yy2MNJzlwrZgb) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaY2XGnJ3kdP0wQ)）
+- [2026-06-10-外教质量提升双周会-半仗判断与跳级电梯](../decisions/2026-06-10-外教质量提升双周会-半仗判断与跳级电梯.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkp2Nj8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7geOqQNWMwvDqPk)）
+- [2026-06-25-Cocos上线时间表锁定与培训激励拍板](../decisions/2026-06-25-Cocos上线时间表锁定与培训激励拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6Mwb57eJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5QvErmW2LD0oRE)）
+- [2026-07-17-新师30天出营积分决策](../decisions/2026-07-17-新师30天出营积分决策.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkBKjy8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6Zr7AgJ63zgkYA)）
+- [2026-08-04-TIDE八月P0预启动规则](../decisions/2026-08-04-TIDE八月P0预启动规则.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4aeG1nJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjmRMZeyVZd1wyK0)）
+- [入门期薪酬倾斜](../projects/入门期薪酬倾斜.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLplrbQl8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3E7P9JzlwrZgb)）
+- [成熟老师升降级积分方案](../projects/成熟老师升降级积分方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）
+- [薪酬改革](../projects/薪酬改革.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）
+- [2026-09-04-老师成长两箱与积分方案分叉](../queries/2026-09-04-老师成长两箱与积分方案分叉.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpGBk5q8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQzz6JlemrZQ3)）
+- [好老师统一定义的取舍、临时使用与激励边界-待验证问题卡](../queries/好老师统一定义的取舍、临时使用与激励边界-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IervKqNOW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9RZk44JGXn6lpz)）
+- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

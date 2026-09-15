@@ -18,7 +18,7 @@ superseded_by: []
 # 2026-04-25 cost per launch 下调至 1500 并转向 Referral
 
 > 本页编译自《2026-04-25-cost-per-launch下调至1500并转向Referral.md》（源 frontmatter：status active、priority p0、confidence high）。
-> 该决策亦被编入 [Q2关键决策与判断](Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（2026-04-25 条目）；其取代的 2000 比索口径无独立页面，记录于 Q2 决策史（「预算倾向先锁定 1M，再看平均招聘成本是否降到 2000 以下」注：04-25 起被 1500 比索取代）。
+> 该决策亦被编入 [Q2关键决策与判断](Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（2026-04-25 条目）；其取代的 2000 比索口径无独立页面，记录于 Q2 决策史（「预算倾向先锁定 1M，再看平均招聘成本是否降到 2000 以下」注：04-25 起被 1500 比索取代）。
 
 ## 背景
 
@@ -43,11 +43,11 @@ superseded_by: []
 
 ## 影响范围
 
-- **Referral**：从「Q2 最确定增长机会之一」进一步升级为财务约束下的优先资源池（见 [Referral重启](../projects/Referral%E9%87%8D%E5%90%AF.md)）。
+- **Referral**：从「Q2 最确定增长机会之一」进一步升级为财务约束下的优先资源池（见 [Referral重启](../projects/Referral%E9%87%8D%E5%90%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl47Xl8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr9eLbz8akx1Z5N)））。
 - **KOL**：从「重点增投」调整为「更克制、验证式保留，甚至阶段性收缩」。
-- **漏斗策略**：主漏斗与试验田的渠道切分规则需在 1500 比索约束下重写（见 [漏斗分流策略](../projects/%E6%BC%8F%E6%96%97%E5%88%86%E6%B5%81%E7%AD%96%E7%95%A5.md)）。
+- **漏斗策略**：主漏斗与试验田的渠道切分规则需在 1500 比索约束下重写（见 [漏斗分流策略](../projects/%E6%BC%8F%E6%96%97%E5%88%86%E6%B5%81%E7%AD%96%E7%95%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZ0qMO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6zOB9W1DK0g6l)））。
 - 招聘战役后续的资源配置、周会复盘和渠道评估，必须显式纳入 1500 比索这一新门槛；KPI 向 Launch 对齐原则被压实为「用 launch 成本和 launch 结果共同约束资源流向」。
-- 直通车等项目的 M0 转化与渠道投入评估也受此成本门槛约束（见 [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)）。
+- 直通车等项目的 M0 转化与渠道投入评估也受此成本门槛约束（见 [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)））。
 
 ## 风险与边界
 
@@ -57,7 +57,7 @@ superseded_by: []
 
 ## 2026-09-15 回读：目标已定，不等于计划算表已达标
 
-本页1500目标的原认领与生效状态保留。4月27日计划稿却有具体冲突：渠道目标合计2242而总目标2200；Referral分项850K+277K=1127K，总额写1126K，1126K/680约1655.88，不能同时称在1500预算内。100K→66K降幅34%，不是稿写40%。这些是给定数字的核算，不自行选定正式预算，也不证明当前成本。organic归属尚未统一时，CN/PH渠道成本不可直接对比。（[5月排兵布阵稿](../../sources/raw/2026-04-27-5月排兵布阵-Jen团队.md) L24–45、70、84–98。）
+本页1500目标的原认领与生效状态保留。4月27日计划稿却有具体冲突：渠道目标合计2242而总目标2200；Referral分项850K+277K=1127K，总额写1126K，1126K/680约1655.88，不能同时称在1500预算内。100K→66K降幅34%，不是稿写40%。这些是给定数字的核算，不自行选定正式预算，也不证明当前成本。organic归属尚未统一时，CN/PH渠道成本不可直接对比。（[5月排兵布阵稿](../../sources/raw/2026-04-27-5月排兵布阵-Jen团队.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqYxGnqnJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9DBmmDmWyMoPYe1)） L24–45、70、84–98。）
 
 稳定Launch与降低成本是双约束：Referral承接、流程和负责人须跟资源收缩同步。少投后自然改善转化是待测解释，不能据同期变化归因；信任传播也不是高质量结果已证。
 
@@ -65,20 +65,4 @@ superseded_by: []
 
 - 2026-04-25：公司指令把外教招聘 cost per launch 从 2000 比索下调到 1500 比索；Leon 与 Jen 形成执行判断（更坚决收缩 MKT 与 KOL、集中 Referral）。
 - 2026-04-26：Leon 确认周一（4/27）与 Jen 会议，正式定稿五月各渠道 launch 目标与预算——本决策的关键执行里程碑。
-- 后续：该决策被编入 [Q2关键决策与判断](Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（2026-05-15 最后信号时点），Q2 渠道判断优先级切换为「先看能否穿透 1500 比索 launch 成本，再讨论质量获客、品牌背书或 awareness 外延」。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| Referral重启 | [A 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl47Xl8Ke0xjE3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr9eLbz8akx1Z5N?utm_scene=team_space) |
-| 漏斗分流策略 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZ0qMO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6zOB9W1DK0g6l?utm_scene=team_space) |
-| 直通车项目 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- 后续：该决策被编入 [Q2关键决策与判断](Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（2026-05-15 最后信号时点），Q2 渠道判断优先级切换为「先看能否穿透 1500 比索 launch 成本，再讨论质量获客、品牌背书或 awareness 外延」。

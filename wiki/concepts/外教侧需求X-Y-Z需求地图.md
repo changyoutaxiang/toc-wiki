@@ -110,9 +110,9 @@ review: 待审
 
 ### 2026-09-15重读：两张收据与两本关闭账各自回答什么
 
-客户结果收据回答客户是否真正得到结果，能力收据回答换个人能否稳定重复办理；这是Z与Y的区别。Y2可以只稳定服务一个战场，第二个X复用才能另证共享性，不能把跨域复用硬加为所有Y2的必需门槛。（[v0.2原稿](../../sources/raw/外教侧需求_X-Y-Z需求地图_v0.2.md)，L233–239。）
+客户结果收据回答客户是否真正得到结果，能力收据回答换个人能否稳定重复办理；这是Z与Y的区别。Y2可以只稳定服务一个战场，第二个X复用才能另证共享性，不能把跨域复用硬加为所有Y2的必需门槛。（[v0.2原稿](../../sources/raw/外教侧需求_X-Y-Z需求地图_v0.2.md) （[A](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZd7367q85daZ90D) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpE6z4nDJgk9rpMq)），L233–239。）
 
-当次补救与根因整改则是一次异常的两个关闭状态。后继对齐版把根因从教师扩展到产品、系统、流程或供给容量，只有涉及教师时才进入相应权益处理；补偿不证明根因消除，系统修好也不掩盖客户尚未恢复。是否需要未来关系重建另交关系经营，不给同一动作重复记成果。（[v0.3原稿](../../sources/raw/外教侧需求_X-Y-Z需求地图_对齐版_v0.3.md)，L115–122、L263。）观察无复发时还要有真实暴露与后续机会，这是当前分析要求，不冒充原稿新增规则。
+当次补救与根因整改则是一次异常的两个关闭状态。后继对齐版把根因从教师扩展到产品、系统、流程或供给容量，只有涉及教师时才进入相应权益处理；补偿不证明根因消除，系统修好也不掩盖客户尚未恢复。是否需要未来关系重建另交关系经营，不给同一动作重复记成果。（[v0.3原稿](../../sources/raw/外教侧需求_X-Y-Z需求地图_对齐版_v0.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGvEOOM6VkyEqBQm) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAybmM2kW2LD0oRE)），L115–122、L263。）观察无复发时还要有真实暴露与后续机会，这是当前分析要求，不冒充原稿新增规则。
 
 本次保存v0.3实际16项冲突；其“未增加第16”是旧计数残句，不删除C16老师身份纠正。头部截至8月17而正文含8月19补记，属于带后继补记的版本，不能把全部内容当8月17时已知；82项、21场等只是原作者覆盖记录，不等于本次重读那些底层材料。
 
@@ -144,19 +144,5 @@ review: 待审
 ## 来源
 
 - 源文件：`sources/外教战役/外教侧需求_X-Y-Z需求地图_v0.2.md`、`sources/外教战役/外教侧需求_X-Y-Z需求地图_对齐版_v0.3.md`（均 discussion-draft；v0.3 为两周深搜对齐版，本页以它为准）。
-- 模型正本：[X-Y-Z三轴经营模型](X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md)；战场树候选：[X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md)。
+- 模型正本：[X-Y-Z三轴经营模型](X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）；战场树候选：[X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）。
 - 源内提到的旧体系路径（`projects/TOC/...`、`journal/...`、GBrain `concepts/...`）均不在本 wiki，编译时不迁移为 wikilink；原 82 编号字典（05D）与逐条事实账本未复制，仅保留归并结论与关键冲突。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| X-Y-Z三轴经营模型 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y?utm_scene=team_space) |
-| X战场树-营盘地图-候选v0.1 | [A 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

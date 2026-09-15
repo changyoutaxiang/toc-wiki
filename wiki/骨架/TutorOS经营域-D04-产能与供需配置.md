@@ -18,7 +18,7 @@ template_version: "1.1"
 
 # 产能与供需配置
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 **我们在讨论什么：** 学生需要上课时，真正有多少合适老师可以教；发现缺口以后，该补人、补时段、改安排，还是及时调整承诺？
 
@@ -71,7 +71,7 @@ template_version: "1.1"
 
 居家授课是当前存量主流，与中心授课平行。居家供给分散在老师和时段里，要看持续开放、远程响应及实际履约。中心可以把固定排班、席位和现场支持组合起来，但座位有人不等于课被约到，固定排班也不自动证明关系或学习更好；公共故障可能同时影响许多课。
 
-本域负责供给组合和缺口：[教师获取](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md)回答人从哪里来，[新师成材](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md)回答怎样逐步教好，[授课条件](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md)说明环境是否可靠，[教师呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md)回答谁该被看见和选中。
+本域负责供给组合和缺口：[教师获取](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)）回答人从哪里来，[新师成材](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）回答怎样逐步教好，[授课条件](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）说明环境是否可靠，[教师呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)）回答谁该被看见和选中。
 
 人工预测也可以使用，但要说明是谁在什么时间、根据什么范围作出的，多久更新一次；下一天或下一周回来核对实际结果。把各方放到同一张供给表上，是已有设计方向，尚不能据此声称它已经稳定运行。[E3]
 
@@ -97,13 +97,13 @@ template_version: "1.1"
 
 ### 8月21日原转写补回：供需判断先落到活跃与课时
 
-固定师生比和持续招聘不能替代对活跃老师、平均课量及可兑现产能的判断；会中“没人看”指细供需的职责缺口，不作个人指责。地图使被纪要压缩的这一段成为明确查询入口：先查哪一段供给不可用，再判断是否改招聘。原转写的11.5、1200等口径不清，不能用作现行指标。（[8月21日转写](../../sources/raw/J-61aab3d204d9f1cc5a4b131b__c2b7319e86cb4172.2345b65eae5d__dws-%E5%90%AC%E8%AE%B0-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%87%BA%E5%B7%AEagenda%E8%AE%A8%E8%AE%BA-2026-08-21.md) L414–454。）
+固定师生比和持续招聘不能替代对活跃老师、平均课量及可兑现产能的判断；会中“没人看”指细供需的职责缺口，不作个人指责。地图使被纪要压缩的这一段成为明确查询入口：先查哪一段供给不可用，再判断是否改招聘。原转写的11.5、1200等口径不清，不能用作现行指标。（[8月21日转写](../../sources/raw/J-61aab3d204d9f1cc5a4b131b__c2b7319e86cb4172.2345b65eae5d__dws-%E5%90%AC%E8%AE%B0-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%87%BA%E5%B7%AEagenda%E8%AE%A8%E8%AE%BA-2026-08-21.md) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt67l5ApOWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYd6waBBVbkz3BRL)） L414–454。）
 
 同场提出先让新师营产出得到认可，再讨论上游画像与流程重构；“减少日常盯办”的愿景后有半自动运行、保留人工投诉和本地整改的限定。规则简化以看得见事实、能测试并落实为前提。这改变验证次序，不签发取消岗位、招聘权限或提前删除规则。（同源 L264–279、479–484、574–604。）
 
 ### 招聘预测与管理加量要分开
 
-4月23日海外下标稿从Booking、分时段课量/AOS、活跃天数、MAU、流失和Pool推到Needed Teachers，再另加人工frontload。因此Recruitment不等于模型缺口；Returning从预测中移出，是缺负责人和稳定供量，不表示真实返聘为零。统一国内海外口径需要说明需求起点、折损和人工调整，不强拼一条无解释公式。5.5、20.5、80–85%、14%是当时参数，现行值和预测误差未核。（[海外下标加工稿](../../sources/raw/2026-04-23-海外招聘下标逻辑澄清.md) L23–43。）
+4月23日海外下标稿从Booking、分时段课量/AOS、活跃天数、MAU、流失和Pool推到Needed Teachers，再另加人工frontload。因此Recruitment不等于模型缺口；Returning从预测中移出，是缺负责人和稳定供量，不表示真实返聘为零。统一国内海外口径需要说明需求起点、折损和人工调整，不强拼一条无解释公式。5.5、20.5、80–85%、14%是当时参数，现行值和预测误差未核。（[海外下标加工稿](../../sources/raw/2026-04-23-海外招聘下标逻辑澄清.md) （[A](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILl45E09Wn4qY5Pr) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAybv5OoW2LD0oRE)） L23–43。）
 
 ## 6. 怎么取舍
 
@@ -127,7 +127,7 @@ template_version: "1.1"
 
 **为什么值得想：** 产能的稳定最终离不开老师的真实选择。理解这个问题，可能比不断催老师开课更接近长期解法。
 
-**目前想到哪了：** 现有材料要求把开放、预约、授课与收入连起来，尚未回答不同老师为什么持续开放或临时关闭。[E1][E3] 值得听老师如何安排一天，同时看实际课量、等待、收入波动、居家与中心条件；不要直接把不开课解释成意愿不足。所得问题连同[教师所得与激励](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D12-%E6%95%99%E5%B8%88%E6%89%80%E5%BE%97%E4%B8%8E%E6%BF%80%E5%8A%B1.md)一起想。
+**目前想到哪了：** 现有材料要求把开放、预约、授课与收入连起来，尚未回答不同老师为什么持续开放或临时关闭。[E1][E3] 值得听老师如何安排一天，同时看实际课量、等待、收入波动、居家与中心条件；不要直接把不开课解释成意愿不足。所得问题连同[教师所得与激励](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D12-%E6%95%99%E5%B8%88%E6%89%80%E5%BE%97%E4%B8%8E%E6%BF%80%E5%8A%B1.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQOdyRVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0m0OOVgN7R35y)）一起想。
 
 新材料可以推进这些问题，也可以提出原先没想到的问题。有了暂时答案，再进入“核心假设”；跨季度不自动清空，不把普通好奇变成待办。
 
@@ -136,36 +136,41 @@ template_version: "1.1"
 - 7 月 28 日材料提出预约保留、释放、避免重复占用和失败后恢复的方向，但纪要未逐字记录，具体数字、负责人、费用和生效状态待核；不能当作今天已经运行的规则。[E2]
 - 700、730、1200、1500、2000 等是不同层次、不同用途的历史说法，不能合成一个当前目标。其他聊天数字也未获完整核对。[E1][E2][E4]
 - 放宽新老师接课或代课限制的讨论，不等于已批准豁免；不能只因老师主动开了时段，就跳过资格和客户保护。
-- 本页不另建一套预测数字。完整缺口继续回[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)，具体限制按现行业务记录处理。
+- 本页不另建一套预测数字。完整缺口继续回[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)），具体限制按现行业务记录处理。
 
 ## 资料与以前的讨论
 
-- **[E1] 新师上线后的供给问题：** [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)。来源包括标为 2026-09-02 的周会材料；文件日期和实际发生日按源页说明区分，旧数字不作今天基线。
-- **[E2] 预约保留与供给分层：** [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC%E9%A2%84%E7%BA%A6%E4%BD%93%E9%AA%8C%E8%AF%BE%E9%A2%84%E5%8D%A0%E4%B8%8E%E4%BE%9B%E7%BB%99%E6%95%B0%E5%AD%97%E6%BC%8F%E6%96%97%E5%8C%96.md)；待审的会议方向记录，材料限制见页首。
-- **[E3] 供给的共同理解与责任草稿：** [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md)中全球供需及需求—产能部分；草稿中的具体负责人和权限不作正式任命。
-- **[E4] 余量与代课不一致的线索：** 2026-09-08[聊天原件](../../sources/provenance-local/common-feed/J-ffe0292293c20cd84369f608__58475e9928597051.c5141293f4a4.json)。缺少相关截图和实际运行核对，数字与根因保留待核；重叠聊天转述不另算独立证据。
+- **[E1] 新师上线后的供给问题：** [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）。来源包括标为 2026-09-02 的周会材料；文件日期和实际发生日按源页说明区分，旧数字不作今天基线。
+- **[E2] 预约保留与供给分层：** [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC%E9%A2%84%E7%BA%A6%E4%BD%93%E9%AA%8C%E8%AF%BE%E9%A2%84%E5%8D%A0%E4%B8%8E%E4%BE%9B%E7%BB%99%E6%95%B0%E5%AD%97%E6%BC%8F%E6%96%97%E5%8C%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3)）；待审的会议方向记录，材料限制见页首。
+- **[E3] 供给的共同理解与责任草稿：** [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)）中全球供需及需求—产能部分；草稿中的具体负责人和权限不作正式任命。
+- **[E4] 余量与代课不一致的线索：** 2026-09-08[聊天原件](../../sources/provenance-local/common-feed/J-ffe0292293c20cd84369f608__58475e9928597051.c5141293f4a4.json)（本地资料，钉钉／GitHub未提供）。缺少相关截图和实际运行核对，数字与根因保留待核；重叠聊天转述不另算独立证据。
 
 ## 2026-09-15 原料补充：先看已安排的任务，再解释高峰不足
 
-9月4日文件记录的讨论举出：特殊项目老师可能在非高峰已经排满；只按统一高峰要求看，会遗漏他实际承担的工作。核供给时应连同课型资格、平台安排、可授时段和实际占用解释，不能把低高峰开放直接等同低贡献。这是当时讨论提出的反例，尚无总体比例，不改变现行排课或考核规则。[原文L51–68](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md)。
+9月4日文件记录的讨论举出：特殊项目老师可能在非高峰已经排满；只按统一高峰要求看，会遗漏他实际承担的工作。核供给时应连同课型资格、平台安排、可授时段和实际占用解释，不能把低高峰开放直接等同低贡献。这是当时讨论提出的反例，尚无总体比例，不改变现行排课或考核规则。[原文L51–68](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKdayjAw8akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpkYEqW1DK0g6l)）。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS经营域-D02-教师获取与准入 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D?utm_scene=team_space) |
-| TutorOS经营域-D03-新师成材与早期经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4?utm_scene=team_space) |
-| TutorOS经营域-D05-授课条件与模式治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm?utm_scene=team_space) |
-| TutorOS经营域-D06-教师价值呈现与匹配 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3?utm_scene=team_space) |
-| TutorOS经营域-D12-教师所得与激励 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQOdyRVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0m0OOVgN7R35y?utm_scene=team_space) |
-| 新老师上岗后供给流水线与预测口径-待验证问题卡 | [A 库](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D?utm_scene=team_space) |
-| 2026-07-28-CC预约体验课预占与供给数字漏斗化 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3?utm_scene=team_space) |
-| TOC成立后-教师运营系统地图与责任清单 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y?utm_scene=team_space) |
+- [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC成立后-教师运营系统地图与责任清单.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)）
+- [2026-04-15-Q2战役总纲与三标收敛](../decisions/2026-04-15-Q2战役总纲与三标收敛.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr0XpK8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqAp2w4lJ9dEq3XD)）
+- [2026-05-09-直通车TrialOnly-合肥MVP拍定](../decisions/2026-05-09-直通车TrialOnly-合肥MVP拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjla6zJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sj5NNX7m8GlDd3mE)）
+- [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO反攻Polly指示与外教战役国内倾斜.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)）
+- [2026-07-13-战役一二重构与3500唯一基准](../decisions/2026-07-13-战役一二重构与3500唯一基准.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Zb6649WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILqpY0yNWn4qY5Pr)）
+- [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC预约体验课预占与供给数字漏斗化.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3)）
+- [2026-08-14-数据集建设优先级重排](../decisions/2026-08-14-数据集建设优先级重排.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLg32E9j8xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrXoE2JGXn6lpz)）
+- [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-坏课治理双方案灰度拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）
+- [Center模式](../projects/Center模式.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)）
+- [新师训战营](../projects/新师训战营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)）
+- [直通车项目](../projects/直通车项目.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）
+- [2026-07-31-CC预约体验课动态标签供给](../queries/2026-07-31-CC预约体验课动态标签供给.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2orbAVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQg6oAxJ3pmz5aA)）
+- [X战场树-营盘地图-候选v0.1](../queries/X战场树-营盘地图-候选v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）
+- [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）
+- [Brighterly调研总档-源摘要](../sources/Brighterly调研总档-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05deGeb8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl12M58Ke0xjE3)）
+- [CEO反攻Polly指示执行策略-源摘要](../sources/CEO反攻Polly指示执行策略-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DjQDVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqz0k4e85daZ90D)）
+- [Mel-TPCAP经营数据与口径-2026年8月](../sources/Mel-TPCAP经营数据与口径-2026年8月.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9Rlq23JGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKnpNOO81waOeDk)）
+- [海外外教运营周报-202608-0902-源摘要](../sources/海外外教运营周报-202608-0902-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZojlZRN86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYNl3lJ3kdP0wQ)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

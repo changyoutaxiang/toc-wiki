@@ -10,7 +10,7 @@ review: 待审
 ---
 
 # 坏课 KPI 设计收敛轨迹
-> **✅ 已合并入 [坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md)（2026-09-11，Leon 批 BCD）**：本页保留演化痕迹，**不删除**。现行阅读请以目标页为准；本页独特事实已迁入目标页对应附录/小节。
+> **✅ 已合并入 [坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）（2026-09-11，Leon 批 BCD）**：本页保留演化痕迹，**不删除**。现行阅读请以目标页为准；本页独特事实已迁入目标页对应附录/小节。
 
 
 > 来源外援库 **Leon Wiki Clean**（corpus-distill-v2 自动蒸馏）：综合层未经 Leon 审定（review: 待审），事实可复核；外援推断节已标注「（外援推断）」，不当作正式结论引用。
@@ -44,26 +44,7 @@ review: 待审
 
 ## 与 wiki 的连接
 
-- **指标/决策页**：[坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md)（坏课率 Q3/Q4 指标设计稿 v0.4 + 08-31 提案进展，本页的指标设计收敛轨迹即其上游）；[2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md)（坏课率 Q3/Q4 口径原则，待审）；[2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md)（灰度拍板与 DRI 授权）。
-- **口径/概念页**：[2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md)（五类判定口径与课后治理优先）；[一套标准两个接口](../concepts/%E4%B8%80%E5%A5%97%E6%A0%87%E5%87%86%E4%B8%A4%E4%B8%AA%E6%8E%A5%E5%8F%A3.md)（内部物理尺/对外沟通口径解耦——「分子盒内事件、学生反馈作探针」与内外接口解耦同构）。
-- **项目页**：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md)；[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md)（坏课率与试用期机制同属战役重构）。
-- **问题账接续（2026-09-15）：** TOC-15 已定迟到 1 分钟起算；TOC-16 已定假早退并入，当前 Wiki 事件表已回写（TOC-92 的本地部分）。四版原设计文件仍保留历史。TOC-17 数据源、TOC-18 正式基线、TOC-67 过渡组合及稳定类具体标准仍各自保留限制；不能把历史“阈值未冻结”概括成所有事项都未决定。具体边界见[坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md)与[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 坏课KPI设计稿 | [A 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l?utm_scene=team_space) |
-| 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标 | [A 库](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y?utm_scene=team_space) |
-| 2026-08-26-坏课治理双方案灰度拍板 | [A 库](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG?utm_scene=team_space) |
-| 2026-08-27-课堂问题数据口径与课后治理优先 | [A 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N?utm_scene=team_space) |
-| 一套标准两个接口 | [A 库](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm?utm_scene=team_space) |
-| 外教质量提升战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq?utm_scene=team_space) |
-| 新师训战营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+- **指标/决策页**：[坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）（坏课率 Q3/Q4 指标设计稿 v0.4 + 08-31 提案进展，本页的指标设计收敛轨迹即其上游）；[2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）（坏课率 Q3/Q4 口径原则，待审）；[2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）（灰度拍板与 DRI 授权）。
+- **口径/概念页**：[2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）（五类判定口径与课后治理优先）；[一套标准两个接口](../concepts/%E4%B8%80%E5%A5%97%E6%A0%87%E5%87%86%E4%B8%A4%E4%B8%AA%E6%8E%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm)）（内部物理尺/对外沟通口径解耦——「分子盒内事件、学生反馈作探针」与内外接口解耦同构）。
+- **项目页**：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）；[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)）（坏课率与试用期机制同属战役重构）。
+- **问题账接续（2026-09-15）：** TOC-15 已定迟到 1 分钟起算；TOC-16 已定假早退并入，当前 Wiki 事件表已回写（TOC-92 的本地部分）。四版原设计文件仍保留历史。TOC-17 数据源、TOC-18 正式基线、TOC-67 过渡组合及稳定类具体标准仍各自保留限制；不能把历史“阈值未冻结”概括成所有事项都未决定。具体边界见[坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）与[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供）。

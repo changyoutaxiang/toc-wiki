@@ -28,11 +28,11 @@ ingress_revisions: ["J-931557b40dbf449b5b7d9983@ce5f2c0e8455ced0.0c500b3abf24", 
 
 其共同结构是：**学生投诉 → 指标 → 系统日志 → 教师端当时设备/网络状态 → lesson recording → 诊断候选 → 人工复核/处置 → 后续课堂验证**。这只是待审的验证设计：PPT 没有批准阈值、完整案例身份、指标时间窗、日志版本、诊断置信度、误判/证据冲突、处罚或撤销处罚记录，也没有后续课结果；示例截图不证明某名教师确有网络、RAM 或 CPU 责任，更不证明该链已经接入运行。
 
-来源 `J-a88dff735d63841973c06026@f56d9ecca07294b2.c4f5e1f37f87`；发生日 2026-09-08、接收日 2026-09-09，Journal actor=`multiple`，无明确 supersedes/correction。原件：[PPTX](../../sources/provenance-local/common-feed/J-a88dff735d63841973c06026__f56d9ecca07294b2.c4f5e1f37f87)及[完整旁路](../../sources/provenance-local/common-feed/J-a88dff735d63841973c06026__f56d9ecca07294b2.c4f5e1f37f87.delivery.json)。本设施的 PDF/PNG 仅为阅读派生，不作为共同原料或独立证据。本节继续 `review: 待审`、`projection: public`。
+来源 `J-a88dff735d63841973c06026@f56d9ecca07294b2.c4f5e1f37f87`；发生日 2026-09-08、接收日 2026-09-09，Journal actor=`multiple`，无明确 supersedes/correction。原件：[PPTX](../../sources/provenance-local/common-feed/J-a88dff735d63841973c06026__f56d9ecca07294b2.c4f5e1f37f87)（本地资料，钉钉／GitHub未提供）及[完整旁路](../../sources/provenance-local/common-feed/J-a88dff735d63841973c06026__f56d9ecca07294b2.c4f5e1f37f87.delivery.json)（本地资料，钉钉／GitHub未提供）。本设施的 PDF/PNG 仅为阅读派生，不作为共同原料或独立证据。本节继续 `review: 待审`、`projection: public`。
 
 ## 当前建设依据（2026-09-10正式产出接续）
 
-Leon已指定[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md)中的最终纪要A和CEO方案B为正式产出。**Lesson作为基础单位的认知已明确确认；首期实现与验收仍待证据。** 本页不再仅以v0.6讨论稿说明当前规划。旧2＋2资产、可靠动作与TIDE问题继续保留，并放到逐课主链中验收。
+Leon已指定[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）中的最终纪要A和CEO方案B为正式产出。**Lesson作为基础单位的认知已明确确认；首期实现与验收仍待证据。** 本页不再仅以v0.6讨论稿说明当前规划。旧2＋2资产、可靠动作与TIDE问题继续保留，并放到逐课主链中验收。
 
 | 当前建设问题 | CEO规划中的选择与验收要求 | 尚缺什么 |
 |---|---|---|
@@ -56,11 +56,11 @@ Leon已指定[2026-09-09战略会正式产出与TutorOS建设规划](../sources/
 2. **对象、接口与运行**：事实源、标识、权威状态、执行回执、资源竞争及故障承接。
 3. **指标、样本与验收**：既有基线、有效授课机会、对照与独立检查、成本、扩大/停止及回退。
 
-它们是建设规划的落地要求，不是已经完成的契约。此前八类故障演练继续有效；共因故障要集中关联与控制重复动作，即时客户恢复不等待长期归因完成。[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md)的既有100/200分数线不由此扩张为新资格或工资公式。
+它们是建设规划的落地要求，不是已经完成的契约。此前八类故障演练继续有效；共因故障要集中关联与控制重复动作，即时客户恢复不等待长期归因完成。[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)）的既有100/200分数线不由此扩张为新资格或工资公式。
 
 ## 2026-09-10设计补充：跨域交付与蜂巢接入
 
-本节来自Tutor OS架构师对51TALK-27中CEO架构师与蜂巢架构师回应的整理，Leon本次明确要求去重归库。**作为有归因的设计补充候选保留，不是已生效接口、生产验收或政策授权。**《Tutor OS整体方案V1.0修订版》的设计宪法地位不变；本节细化其跨域承接、可靠执行与方法回路，不覆盖原文和历史。四域职责、逐课闭环、条件化能力及方法/应用分开已经由上文和[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md)承接，以下只补具体缺口。
+本节来自Tutor OS架构师对51TALK-27中CEO架构师与蜂巢架构师回应的整理，Leon本次明确要求去重归库。**作为有归因的设计补充候选保留，不是已生效接口、生产验收或政策授权。**《Tutor OS整体方案V1.0修订版》的设计宪法地位不变；本节细化其跨域承接、可靠执行与方法回路，不覆盖原文和历史。四域职责、逐课闭环、条件化能力及方法/应用分开已经由上文和[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）承接，以下只补具体缺口。
 
 ### 1. 交接必须找到真正采用结果的人
 
@@ -90,11 +90,11 @@ Learning的下一次学习决策责任方不仅输出课前状态，还要接收
 
 可考虑在现有授权系统上采用窄适配、持久任务记录和明确人工接手；保持单一权威事实源、既有身份权限、对象关联、版本与回执，并能导出、回放和替换。临时方案登记**Owner、实际消费者、成本、平台缺口、迁移验收、复审日期、退役条件**。若权限、执行可靠性或审计不足，只能停在影子/人工确认范围。
 
-这是Tutor的局部接入候选，不批准第二套身份、权威事实库或通用调度平台，也不替[系统治理四题-08-28双周会](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/queries/%E7%B3%BB%E7%BB%9F%E6%B2%BB%E7%90%86%E5%9B%9B%E9%A2%98-08-28%E5%8F%8C%E5%91%A8%E4%BC%9A.md)的AIC-30裁决。必要的共同安全保障可以先建；第二场景用于证明复用，不是拖延安全保障的理由，也没有被取消。蜂巢当前能力仍回[蜂巢0904增量验证与边界对照](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/queries/%E8%9C%82%E5%B7%A20904%E5%A2%9E%E9%87%8F%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%BE%B9%E7%95%8C%E5%AF%B9%E7%85%A7.md)及实际验收。（本次源§四；B组3。）
+这是Tutor的局部接入候选，不批准第二套身份、权威事实库或通用调度平台，也不替[系统治理四题-08-28双周会](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/queries/%E7%B3%BB%E7%BB%9F%E6%B2%BB%E7%90%86%E5%9B%9B%E9%A2%98-08-28%E5%8F%8C%E5%91%A8%E4%BC%9A.md)（本地资料，钉钉／GitHub未提供）的AIC-30裁决。必要的共同安全保障可以先建；第二场景用于证明复用，不是拖延安全保障的理由，也没有被取消。蜂巢当前能力仍回[蜂巢0904增量验证与边界对照](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/queries/%E8%9C%82%E5%B7%A20904%E5%A2%9E%E9%87%8F%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%BE%B9%E7%95%8C%E5%AF%B9%E7%85%A7.md)（本地资料，钉钉／GitHub未提供）及实际验收。（本次源§四；B组3。）
 
 ### 5. 系统学习以可核验的变更和后续使用证明
 
-沿用宪法§16的方法资产/实际应用区分，把变更串成：问题证据→修改的Spec/规则/Skill/工具→适用条件、反例与独立评测→审核/灰度/回滚→后续使用和效果→保留/修订/退役。试点可先用轻量版本记录与人工审核，不依赖完整Registry；发现问题的样本不能成为唯一验收样本，两个模型同意也不是独立效果证据。Learning签教学语义，Tutor签教师成长/运营含义；业务、产品、技术、数据、Eval、资产维护及实际消费责任分别落明，不等于新增同等数量岗位。运行Agent不自行发布正式规则。（本次源§五；B组3、C项4；旧机制见[蜂巢反馈迭代学习回路](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/synthesis/%E8%9C%82%E5%B7%A2%E5%8F%8D%E9%A6%88%E8%BF%AD%E4%BB%A3%E5%AD%A6%E4%B9%A0%E5%9B%9E%E8%B7%AF.md)。）
+沿用宪法§16的方法资产/实际应用区分，把变更串成：问题证据→修改的Spec/规则/Skill/工具→适用条件、反例与独立评测→审核/灰度/回滚→后续使用和效果→保留/修订/退役。试点可先用轻量版本记录与人工审核，不依赖完整Registry；发现问题的样本不能成为唯一验收样本，两个模型同意也不是独立效果证据。Learning签教学语义，Tutor签教师成长/运营含义；业务、产品、技术、数据、Eval、资产维护及实际消费责任分别落明，不等于新增同等数量岗位。运行Agent不自行发布正式规则。（本次源§五；B组3、C项4；旧机制见[蜂巢反馈迭代学习回路](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/synthesis/%E8%9C%82%E5%B7%A2%E5%8F%8D%E9%A6%88%E8%BF%AD%E4%BB%A3%E5%AD%A6%E4%B9%A0%E5%9B%9E%E8%B7%AF.md)（本地资料，钉钉／GitHub未提供）。）
 
 ### 6. 首期切口与平台可交付性一起验证
 
@@ -104,7 +104,7 @@ Learning的下一次学习决策责任方不仅输出课前状态，还要接收
 
 ### 本次来源与后续证据
 
-- [本次完整归档原稿](../../sources/provenance-local/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9/TutorOS%E7%9F%A5%E8%AF%86%E5%BA%93%E5%80%99%E9%80%89_%E8%B7%A8%E5%9F%9F%E4%BA%A4%E4%BB%98%E4%B8%8E%E8%9C%82%E5%B7%A2%E6%8E%A5%E5%85%A5%E7%BA%A6%E5%AE%9A_2026-09-10.md)，v0.1，SHA256 `b5f5c8f1b2d81d10c0c513fa2a2f32f33a77d75926b58b59d076f4d529d912fa`；桌面仅为投料，后续读此归档。
+- [本次完整归档原稿](../../sources/raw/TutorOS知识库候选_跨域交付与蜂巢接入约定_2026-09-10.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKZDLa5MWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS73ZNLPxWMwvDqPk)），v0.1，SHA256 `b5f5c8f1b2d81d10c0c513fa2a2f32f33a77d75926b58b59d076f4d529d912fa`；桌面仅为投料，后续读此归档。
 - 原稿A为已认领的宪法；B为51TALK-27评论`01a08ac0-4c62-755d-ad8c-61302b59b193`及Tutor收口`01a08ac2-7b6d-7413-b432-fbe292127252`；C为蜂巢评论`01a08ac7-cd58-7731-b034-889974846ce7`。本次已从Multica读回三条评论。B/C均明确未独立全文复核宪法；Shared引用是Agent回应的来源链，不是本次独立读取的公司实证。多轮意见不增加独立事实来源票数。
 - 下一份证据：真实接口和责任方、消费及纠错回执、接管撤权与迟到结果演练、样本/成本基线、后续课堂效果、领域团队交付与旧路径退出记录。集中接续问题账TOC-85；临时投递故障不进入长期业务结论。
 
@@ -121,7 +121,7 @@ Leon 在聊天中明确记录与架构师 agent 连续讨论后的产出：“le
 
 本批 AC 群聊提供了一个未闭环反例：消息中出现“老师已授课9分钟仍判 No Noti”的转述和“低于15分钟是否算缺席”的询问；另一页中牛琪称系统只支持每4分钟自动切换，Katherine要求如有老师在教室截图先人工移除处罚、同时继续技术排查。**9分钟、15分钟、4分钟分别来自不同人物与语境，不能拼成一条正式规则。** 当前需要保留课堂真实在场、系统切换、系统判定、处罚、人工撤销和技术修复六层状态，以及最终客户结果。（源：`J-2935db54b1f71762ba634d10@bec339c717d4c075.0353d5ee6e3e`；`J-4a77fca38e7e1f3ca7454d6f@187df81045c0ed59.c99de60e7e2e`，发生日2026-09-08，接收日2026-09-09，actor=multiple。）
 
-来源原件：[当前人工流水](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__ae6ca000b8f00dd6.498e8ea95ae6.md)、[聊天页3](../../sources/provenance-local/common-feed/J-2935db54b1f71762ba634d10__bec339c717d4c075.0353d5ee6e3e.json)、[聊天页2](../../sources/provenance-local/common-feed/J-4a77fca38e7e1f3ca7454d6f__187df81045c0ed59.c99de60e7e2e.json)及各自同名 `.delivery.json`。当前人工流水修订 supersedes 前版 `ae91639134284436.498e8ea95ae6`，两版均保留；本段所有判断只依据可读文本，保持 `review: 待审`、`projection: public`。
+来源原件：[当前人工流水](../../sources/provenance-local/common-feed/J-0679a9279798682abc0ef8fe__ae6ca000b8f00dd6.498e8ea95ae6.md)（本地资料，钉钉／GitHub未提供）、[聊天页3](../../sources/provenance-local/common-feed/J-2935db54b1f71762ba634d10__bec339c717d4c075.0353d5ee6e3e.json)（本地资料，钉钉／GitHub未提供）、[聊天页2](../../sources/provenance-local/common-feed/J-4a77fca38e7e1f3ca7454d6f__187df81045c0ed59.c99de60e7e2e.json)（本地资料，钉钉／GitHub未提供）及各自同名 `.delivery.json`。当前人工流水修订 supersedes 前版 `ae91639134284436.498e8ea95ae6`，两版均保留；本段所有判断只依据可读文本，保持 `review: 待审`、`projection: public`。
 
 ## v0.6阶段要回答什么
 
@@ -140,13 +140,13 @@ v0.6 将首期讨论组织为两项共用能力（鹰眼全监控、老师全触
 
 ## 与既有页面的关系
 
-- [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md) 的4＋2＋3一级架构已有接受记录，具体人名、任命、授权、预算及规则仍待落实；本页不以业务四域或2＋2覆盖其结构。
-- [新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) 的现行分数线与本页讨论的样本／资格运行语义不同；本页不补权重、公式、资格标准或自动处置。
-- [2026-08-21-2027外教侧持续交付系统-战略假说](2026-08-21-2027%E5%A4%96%E6%95%99%E4%BE%A7%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F-%E6%88%98%E7%95%A5%E5%81%87%E8%AF%B4.md) 中 Center 与持续交付仍待现实证据裁决。本页不批准 Center 扩张、资源迁移或完整供需算法。
+- [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)） 的4＋2＋3一级架构已有接受记录，具体人名、任命、授权、预算及规则仍待落实；本页不以业务四域或2＋2覆盖其结构。
+- [新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)） 的现行分数线与本页讨论的样本／资格运行语义不同；本页不补权重、公式、资格标准或自动处置。
+- [2026-08-21-2027外教侧持续交付系统-战略假说](2026-08-21-2027%E5%A4%96%E6%95%99%E4%BE%A7%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%E7%B3%BB%E7%BB%9F-%E6%88%98%E7%95%A5%E5%81%87%E8%AF%B4.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmX7DAX8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6anxbjW3bzYmDO)） 中 Center 与持续交付仍待现实证据裁决。本页不批准 Center 扩张、资源迁移或完整供需算法。
 
 ## 2026-09-02 会前增量：教师端数据基础设施候选（待审）
 
-- J-931的18:01记录Leon追加agent-friendly数据基础设施，指向2026 Q4／2027 Q1；教师行为、课堂、履约、培训、设备和准入的先行范围，以及与“先做数据验证”的区分，来自同记录的COO解读，不整体归为本人输入。具体范围、权限和验收仍未据此落实，详[会前六题](2027战略会前会-六题框架与证据门.md)。
+- J-931的18:01记录Leon追加agent-friendly数据基础设施，指向2026 Q4／2027 Q1；教师行为、课堂、履约、培训、设备和准入的先行范围，以及与“先做数据验证”的区分，来自同记录的COO解读，不整体归为本人输入。具体范围、权限和验收仍未据此落实，详[会前六题](2027战略会前会-六题框架与证据门.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLg35pe58xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLgDmQZq8xLq0Ee4)）。
 - J-673 把它定位为 Tutor OS 的第一块地基候选，开放 Q4 2026–Q1 2027 是否立项、owner、权限、只读范围、审计、回退和验收口径；本页不写成立项或已接入数据库。
 - J-820 的讨论进一步提示 TIDE 不等于完整新师流水线，训练完成后仍缺 launch 后监控和路径可见性；本页将其保留为验收缺口，不把听记数字升级为事实。
 
@@ -186,7 +186,7 @@ v0.6 将首期讨论组织为两项共用能力（鹰眼全监控、老师全触
 
 本批完整 HTML 原稿进一步把 A／B／C 的协作链写成：**事件进入业务 Case → 工作流决定由规则、Agent 或人工处理 → Agent 读取权威事实并提交结构化建议或动作请求 → 权限与业务规则校验 → 正式业务服务执行 → 回执与业务结果读回 → 更新 Case 与运行 Trace**。业务 Case 承载客户／课堂／教师结果，Agent Trace 承载技术执行过程，两者不能互相替代；调度、权限、持久化、状态、审计和回执不能依赖模型记忆。
 
-原稿也明确，“建议复用”不等于已经核实接口、权限和回执可用；须区分可直接使用、已有但缺契约／权限／回执、确实缺失三种状态。缺席后的后续课保护与教师支持只是首个候选切片，一市场、一课型、一教师池及 20–30 个脱敏案例都只是待签收的范围／起步建议，不是批准项目、固定样本量或工期。推荐、支持、正式认定和权益动作仍须分别绑定证据用途。来源 `J-db62600c8c2af00a52d387ea`，revision `d88c6e6601cbac19.c4f5e1f37f87`；actor=`multiple`，发生日 2026-09-08，接收/记录日 2026-09-09。原件：[HTML](../../sources/provenance-local/common-feed/J-db62600c8c2af00a52d387ea__d88c6e6601cbac19.c4f5e1f37f87)与[完整旁路](../../sources/provenance-local/common-feed/J-db62600c8c2af00a52d387ea__d88c6e6601cbac19.c4f5e1f37f87.delivery.json)。本段保持 `review: 待审`、`projection: public`，不证明任何服务、Runtime、Case、TIDE 或 Agent 已部署。
+原稿也明确，“建议复用”不等于已经核实接口、权限和回执可用；须区分可直接使用、已有但缺契约／权限／回执、确实缺失三种状态。缺席后的后续课保护与教师支持只是首个候选切片，一市场、一课型、一教师池及 20–30 个脱敏案例都只是待签收的范围／起步建议，不是批准项目、固定样本量或工期。推荐、支持、正式认定和权益动作仍须分别绑定证据用途。来源 `J-db62600c8c2af00a52d387ea`，revision `d88c6e6601cbac19.c4f5e1f37f87`；actor=`multiple`，发生日 2026-09-08，接收/记录日 2026-09-09。原件：[HTML](../../sources/provenance-local/common-feed/J-db62600c8c2af00a52d387ea__d88c6e6601cbac19.c4f5e1f37f87)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-db62600c8c2af00a52d387ea__d88c6e6601cbac19.c4f5e1f37f87.delivery.json)（本地资料，钉钉／GitHub未提供）。本段保持 `review: 待审`、`projection: public`，不证明任何服务、Runtime、Case、TIDE 或 Agent 已部署。
 <!-- common-feed:J-db62600c8c2af00a52d387ea@d88c6e6601cbac19.c4f5e1f37f87:end -->
 
 <!-- common-feed:J-626aa9e2772f20b7da54dee2@c3f4fcc370cf98d8.f9c98d4ea453:start -->
@@ -198,7 +198,7 @@ v0.6 将首期讨论组织为两项共用能力（鹰眼全监控、老师全触
 
 三项反事实作为停止/重构检查：坏课很少但学生进步未改善；真人课时减少而复杂任务增加；更换区域、供给模式或运营团队后只能复用监控和工单、不能复用教学能力与方法。以上全部来自 Agent 建议，原文没有真实课堂样本、采用率、学生结果、迁移样本、成本基线或批准记录；不构成 Leon 决定、正式战略、生产事实或已执行制度。
 
-来源 `J-626aa9e2772f20b7da54dee2`，精确修订 `c3f4fcc370cf98d8.f9c98d4ea453`，SHA-256 `c3f4fcc370cf98d8f27279c030c1bd6e55f95e032b98467a4190a2af8c91a3f2`；actor=`multiple`，发生日/接收日均登记为 2026-09-08，无明确 correction/supersedes。原件：[文本](../../sources/provenance-local/common-feed/J-626aa9e2772f20b7da54dee2__c3f4fcc370cf98d8.f9c98d4ea453)与[完整旁路](../../sources/provenance-local/common-feed/J-626aa9e2772f20b7da54dee2__c3f4fcc370cf98d8.f9c98d4ea453.delivery.json)。本节保持 `review: 待审`、`projection: public`。
+来源 `J-626aa9e2772f20b7da54dee2`，精确修订 `c3f4fcc370cf98d8.f9c98d4ea453`，SHA-256 `c3f4fcc370cf98d8f27279c030c1bd6e55f95e032b98467a4190a2af8c91a3f2`；actor=`multiple`，发生日/接收日均登记为 2026-09-08，无明确 correction/supersedes。原件：[文本](../../sources/provenance-local/common-feed/J-626aa9e2772f20b7da54dee2__c3f4fcc370cf98d8.f9c98d4ea453)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-626aa9e2772f20b7da54dee2__c3f4fcc370cf98d8.f9c98d4ea453.delivery.json)（本地资料，钉钉／GitHub未提供）。本节保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-626aa9e2772f20b7da54dee2@c3f4fcc370cf98d8.f9c98d4ea453:end -->
 
 ## v0.6来源与当时未覆盖范围
@@ -210,26 +210,7 @@ v0.6 将首期讨论组织为两项共用能力（鹰眼全监控、老师全触
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D14 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) · [D15 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md)
+[D14 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） · [D15 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvZppRAWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZB4AnW2LD0oRE)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-09-09战略会正式产出与TutorOS建设规划 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4?utm_scene=team_space) |
-| 新师训战营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N?utm_scene=team_space) |
-| TOC成立后-教师运营系统地图与责任清单 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y?utm_scene=team_space) |
-| 2026-08-21-2027外教侧持续交付系统-战略假说 | [A 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmX7DAX8A7depqY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6anxbjW3bzYmDO?utm_scene=team_space) |
-| 2027战略会前会-六题框架与证据门 | [A 库](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLg35pe58xLq0Ee4?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLgDmQZq8xLq0Ee4?utm_scene=team_space) |
-| TutorOS经营域-D14-事实标准与协同执行 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D15-方法沉淀与系统进化 | [A 库](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvZppRAWDOnGvpb?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZB4AnW2LD0oRE?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

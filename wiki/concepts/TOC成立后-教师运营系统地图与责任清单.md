@@ -29,11 +29,11 @@ ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", 
 
 两份原料共同把 P0 的成立门压实为两条：第一，联表必须补对象语义、来源、时点、用途、质量规则与最小必要字段，**Excel 有数据不等于统一教师事实平台成立**；第二，敏感表接入要分开记录**请求→批准→执行→读回**，消息里的“可以开通”只到批准意见，不能代替实际开通和消费者可读回。该增量只加强本页已有 P0 成立判据与 TOC-03 开口，不新增数据权限、远端操作或教师权益动作。
 
-来源原件：[XLSX](../../sources/provenance-local/common-feed/J-bb359f2b20026bef1a0f4f23__b688e112f5d303af.eca3006d4231)及[完整旁路](../../sources/provenance-local/common-feed/J-bb359f2b20026bef1a0f4f23__b688e112f5d303af.eca3006d4231.delivery.json)；[权限截图](../../sources/provenance-local/common-feed/J-e1d935f7ef69257c8625b839__bdd20a43bcc7a62c.c4f5e1f37f87.jpg)及[完整旁路](../../sources/provenance-local/common-feed/J-e1d935f7ef69257c8625b839__bdd20a43bcc7a62c.c4f5e1f37f87.jpg.delivery.json)。页面继续 `review: 待审`、`projection: public`。
+来源原件：[XLSX](../../sources/provenance-local/common-feed/J-bb359f2b20026bef1a0f4f23__b688e112f5d303af.eca3006d4231)（本地资料，钉钉／GitHub未提供）及[完整旁路](../../sources/provenance-local/common-feed/J-bb359f2b20026bef1a0f4f23__b688e112f5d303af.eca3006d4231.delivery.json)（本地资料，钉钉／GitHub未提供）；[权限截图](../../sources/provenance-local/common-feed/J-e1d935f7ef69257c8625b839__bdd20a43bcc7a62c.c4f5e1f37f87.jpg)（本地资料，钉钉／GitHub未提供）及[完整旁路](../../sources/provenance-local/common-feed/J-e1d935f7ef69257c8625b839__bdd20a43bcc7a62c.c4f5e1f37f87.jpg.delivery.json)（本地资料，钉钉／GitHub未提供）。页面继续 `review: 待审`、`projection: public`。
 
 ## 2026-09-15重读：架构接受之后，还缺相称权力与交接验证
 
-4个经营系统、2个公共平台、3份交接契约的一级接受继续保留；它回答责任类型，不替代具体任命、预算和仲裁权。原设计连O2能否整体持有、海外O3按什么粒度设实例都留有开放项，TOC作为业务owner也不吞并Payroll、财务、法务和教室的专业权责。下一步应以真实交接检查权责是否相称、失败如何升级、结果由谁回写，不能由框图推断这些已成立。（[责任图原稿](../../sources/raw/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md)，L17、L72–102、L725–812、L865–914。）
+4个经营系统、2个公共平台、3份交接契约的一级接受继续保留；它回答责任类型，不替代具体任命、预算和仲裁权。原设计连O2能否整体持有、海外O3按什么粒度设实例都留有开放项，TOC作为业务owner也不吞并Payroll、财务、法务和教室的专业权责。下一步应以真实交接检查权责是否相称、失败如何升级、结果由谁回写，不能由框图推断这些已成立。（[责任图原稿](../../sources/raw/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILlvrN64Wn4qY5Pr) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpAL3AW1DK0g6l)），L17、L72–102、L725–812、L865–914。）
 
 它与三轴模型、三个一级X、九项营盘候选、今天的十五经营域回答不同问题，不强行一一配对，也不以数字不同宣称互相推翻。
 
@@ -107,7 +107,7 @@ ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", 
 
 **C2 教师产品—客户结果契约**（O2 ↔ O4/P0 ↔ O3）：必须写清教师产品最低字段和展示资产、资格质量档期设备风险状态、全球硬门槛与市场权重分界、市场可使用/不可使用/需人工复核状态、匹配曝光预约连续性结果、复约收藏固定投诉拉黑退费沉默流失回传、结果回传时效可信度和失败告警。失败状态：好教师标签停留在招聘端未进入市场使用、市场私下维护不可比较名单、客户结果不回流、曝光变化污染质量判断却没有对照、市场偏好被冒充为全球标准。
 
-**C3 事件—整改—权益契约**（O3 ↔ O4 ↔ O2 ↔ HR/财务/法务/专业系统）：必须写清事件唯一入口和分类、原始事实/客户影响/教师影响/证据、客户补救 owner 时效和关闭条件、教师事实核验/整改 owner 和完成条件、评价线与干预线、同因复发和根因消除判据、权益动作的证据共签生效解释申诉回滚、各状态升级条件。**必须保留两个独立状态**：① 客户问题是否已回复、补救和关闭；② 根因是否已整改并验证不再复发。2026-09-15 回读需求地图 v0.3 的后继限定：根因也可能在产品、系统、流程或供给能力，不能预设都由教师整改；详见[需求地图](外教侧需求X-Y-Z需求地图.md)。失败状态：客户回复完成被当作根因消除、菲律宾整改完成但市场仍持续受损、一个总分直接触发流量/收入/停课/退出、申诉更正回滚没有入口、工单关闭率掩盖同因复发。
+**C3 事件—整改—权益契约**（O3 ↔ O4 ↔ O2 ↔ HR/财务/法务/专业系统）：必须写清事件唯一入口和分类、原始事实/客户影响/教师影响/证据、客户补救 owner 时效和关闭条件、教师事实核验/整改 owner 和完成条件、评价线与干预线、同因复发和根因消除判据、权益动作的证据共签生效解释申诉回滚、各状态升级条件。**必须保留两个独立状态**：① 客户问题是否已回复、补救和关闭；② 根因是否已整改并验证不再复发。2026-09-15 回读需求地图 v0.3 的后继限定：根因也可能在产品、系统、流程或供给能力，不能预设都由教师整改；详见[需求地图](外教侧需求X-Y-Z需求地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)）。失败状态：客户回复完成被当作根因消除、菲律宾整改完成但市场仍持续受损、一个总分直接触发流量/收入/停课/退出、申诉更正回滚没有入口、工单关闭率掩盖同因复发。
 
 ## 六、TIDE 与未来一年双主轴
 
@@ -155,7 +155,7 @@ ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", 
 ## 来源与边界
 
 - 源文件：`sources/外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md`（status: discussion-draft；证据边界：H2 总纲是正式决策正本，长期判断页不等于正式组织授权，7/28 材料数字与 owner 仍 `[unverified]`）。
-- 关联决策：[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md)（正式决策正本）；方法论承接 [外教战役四化蓝图](%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md) 与 [X-Y-Z三轴经营模型](X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md)。
+- 关联决策：[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)）（正式决策正本）；方法论承接 [外教战役四化蓝图](%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz)） 与 [X-Y-Z三轴经营模型](X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）。
 - 源内旧体系 wikilink（`projects/TOC/...`、`FT-DEC-011/012` 等系统资产卡、图片附件）不在本 wiki，编译为文字表述，不迁移为 wikilink。
 
 
@@ -163,17 +163,17 @@ ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", 
 
 本批两份共同原料都属于 `agent_processing`：v0.6 是 `discussion-draft`，Multica 评审明确新增内容为架构建议。它们可用来把本页的“系统之系统”与一条更窄的验证链对齐：业务图与系统图是两种投影；首期讨论为鹰眼、全触达与坏课治理、TIDE 的 2＋2；课程兑现、恢复案例和授课资格需要各自可查询的状态。它们**不**修改本页 4＋2＋3 的历史结构，也不证明接口、主写系统、人员授权、预算或生产状态已经存在。（源：J-9d51ec7a212df63bdcf515e0，修订 `e4f26d9bee4f7a22.d7f0ad9165a2`，§0、§5.1–5.3、§9.2；J-bc423c91c64a58e42bbcab88，修订 `9dc5a8e3cd54e1e2.9ba4ef4f0b17`，§1–2）
 
-本批可继续追问的最小范围见 [TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS%E9%A6%96%E6%9C%9F%E8%BF%90%E8%A1%8C%E5%A5%91%E7%BA%A6%E4%B8%8E2%EF%BC%8B2%E9%AA%8C%E6%94%B6%E7%BC%BA%E5%8F%A3.md)：课程交付／恢复／资格的主写与关闭检查、共享对象和动作契约、以及两个场景的真实结果和复用证据。该问题页为待审查询，不构成新的组织设计或实施命令。
+本批可继续追问的最小范围见 [TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS%E9%A6%96%E6%9C%9F%E8%BF%90%E8%A1%8C%E5%A5%91%E7%BA%A6%E4%B8%8E2%EF%BC%8B2%E9%AA%8C%E6%94%B6%E7%BC%BA%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)）：课程交付／恢复／资格的主写与关闭检查、共享对象和动作契约、以及两个场景的真实结果和复用证据。该问题页为待审查询，不构成新的组织设计或实施命令。
 
 ## 2026-09-10 组织专场补充：自动化瓶颈已从动作延伸到数据链和费用分类
 
 组织与人才专场 part2 暴露了两类结构性缺口。第一，招聘操作虽被描述为已有大量自动化，但候选人数据进入数据库、后续状态流转和流程修改仍耗时，团队继续依赖 Google Sheets/钉钉表格；因此“做过自动化”不能替代 P0 的统一对象、状态、来源和可变流程。第二，教师支付、争议与多种激励仍需熟手人工处理；会议讨论把 lesson fee、训练/导师/中心等非课费用与一次性品牌支出分开；激励简化后自动化只是其中一种解释，随后有人反驳：稳定流程也因缺产研资源而没有自动化，不能只归因激励太多。（源：`J-6dd5304ee21a6d5751bf0fb8`，revision `87ed0489366f3f6e.0e9826a5032f`，prepared 原文 658–736、820–832、3238–3334 行。）
 
-这些是**待验证的系统缺口与设计方向**：不证明招聘“已完全自动化”、支付系统已建设、激励已批准收敛为 2–3 种，亦不改变现行分数线、工资或权益政策。整理者建议后续结合具体项目，查看系统字段、状态时延、异常责任、费用口径及真实链路；这些是核实方向，不是会议新设的一揽子实施门槛。来源原件：[会议原稿](../../sources/provenance-local/common-feed/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md)与[完整旁路](../../sources/provenance-local/common-feed/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md.delivery.json)；发生日、接收日均为 2026-09-10，`actor=multiple`，页面保持 `projection: public`。
+这些是**待验证的系统缺口与设计方向**：不证明招聘“已完全自动化”、支付系统已建设、激励已批准收敛为 2–3 种，亦不改变现行分数线、工资或权益政策。整理者建议后续结合具体项目，查看系统字段、状态时延、异常责任、费用口径及真实链路；这些是核实方向，不是会议新设的一揽子实施门槛。来源原件：[会议原稿](../../sources/raw/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE9Zq2MGJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKZD60kgWrMqPxX6)）与[完整旁路](../../sources/provenance-local/common-feed/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md.delivery.json)（本地资料，钉钉／GitHub未提供）；发生日、接收日均为 2026-09-10，`actor=multiple`，页面保持 `projection: public`。
 
 ### 原转写回读：简化激励不替代资源与数据链建设
 
-讨论里“简化成2–3种”指激励种类，紧接着有明确反驳：固定流程也长期缺产研资源，课外费用事实尚未被系统承载。当地Payroll被描述为承担本地要求，中国侧讨论输出自动上传、仍在与供应商调整，不能写成替换本地系统或对接完成。这里改变了问题解释，不批准削减激励或新财务流程。（[同场原转写](../../sources/raw/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md) L694–742、814–826、832–922；混合说话标签，不能全部归Jennifer。）
+讨论里“简化成2–3种”指激励种类，紧接着有明确反驳：固定流程也长期缺产研资源，课外费用事实尚未被系统承载。当地Payroll被描述为承担本地要求，中国侧讨论输出自动上传、仍在与供应商调整，不能写成替换本地系统或对接完成。这里改变了问题解释，不批准削减激励或新财务流程。（[同场原转写](../../sources/raw/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE9Zq2MGJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKZD60kgWrMqPxX6)） L694–742、814–826、832–922；混合说话标签，不能全部归Jennifer。）
 
 ## 2026-09-10 完整合并纪要：系统债与组织边界的同场约束
 
@@ -181,32 +181,12 @@ ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", 
 
 同场的组织方向也不改变 4＋2＋3 的责任边界：国内／海外同职能可统一协调，但市场 owner 仍要保留；`agents-first` 只能在规则、数据、权限、失败升级与人工例外边界清楚后逐链验证。把激励简化为 2–3 种的提议、具体人员转岗、Teacher Acquisition 合并及系统接管，均没有审批或运行回执，继续列为待审设计与交接缺口。
 
-原件：[登记一](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)／[旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)；[登记二](../../sources/provenance-local/common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e)／[旁路](../../sources/provenance-local/common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)。发生日 2026-09-10、接收日 2026-09-11，actor=`multiple`；页面保持 `review: 待审`、`projection: public`。
+原件：[登记一](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)（本地资料，钉钉／GitHub未提供）／[旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)（本地资料，钉钉／GitHub未提供）；[登记二](../../sources/provenance-local/common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e)（本地资料，钉钉／GitHub未提供）／[旁路](../../sources/provenance-local/common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)（本地资料，钉钉／GitHub未提供）。发生日 2026-09-10、接收日 2026-09-11，actor=`multiple`；页面保持 `review: 待审`、`projection: public`。
 
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D01 学习需要与交付承诺](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md) · [D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [D14 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md)
+[D01 学习需要与交付承诺](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3)） · [D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） · [D14 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 外教侧需求X-Y-Z需求地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY?utm_scene=team_space) |
-| 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno?utm_scene=team_space) |
-| 外教战役四化蓝图 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz?utm_scene=team_space) |
-| X-Y-Z三轴经营模型 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y?utm_scene=team_space) |
-| TutorOS首期运行契约与2＋2验收缺口 | [A 库](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ?utm_scene=team_space) |
-| TutorOS经营域-D01-学习需要与交付承诺 | [A 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3?utm_scene=team_space) |
-| TutorOS经营域-D04-产能与供需配置 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv?utm_scene=team_space) |
-| TutorOS经营域-D14-事实标准与协同执行 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

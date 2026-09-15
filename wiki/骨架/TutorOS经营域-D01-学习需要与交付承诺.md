@@ -17,7 +17,7 @@ template_version: "1.1"
 
 # 学习需要与交付承诺
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)
+返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 **我们在讨论什么：** 面对一个学生的学习需要，我们究竟答应由谁、在什么时候、提供怎样的教学？这里先把承诺说清；有多少可用老师、怎样选老师和上课后的结果，分别与相邻经营域接起来看。
 
@@ -71,7 +71,7 @@ Tutor OS 的设计已经要求保留这些区别，但设计文件不能证明�
 
 **居家授课（HBT）是当前存量主流，与中心授课（Center）平行。** 居家要核对分散教师的时区、真实时段、资格和设备网络；在线或开放过时段，不等于此时能交付。中心还要看老师能否到岗、席位和公共网络是否可用、现场支持是否跟得上。座位多、场地满，也不等于客户所需的课能约到。两边都坚持 Every Lesson Counts——每一节课都要有价值，并共同保留学生需要和实际交付的记录。
 
-教师从哪里来，见[教师获取与准入](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md)；总体缺多少，见[产能与供需配置](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md)；合适老师怎样被选中，见[教师价值呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md)；连续授课见[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md)。上课后的质量和异常处理分别回到[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md)、[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md)。
+教师从哪里来，见[教师获取与准入](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)）；总体缺多少，见[产能与供需配置](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)）；合适老师怎样被选中，见[教师价值呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)）；连续授课见[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）。上课后的质量和异常处理分别回到[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)）。
 
 ## 4. 核心假设：我们相信什么，凭什么相信
 
@@ -113,7 +113,7 @@ Tutor OS 的设计已经要求保留这些区别，但设计文件不能证明�
 
 **为什么值得想：** 可能是孩子已经建立的信任，也可能是时段、教法或连续安排；弄清以后，承诺才能更贴近真实需要。
 
-**目前想到哪了：** 现有设计把客户选择、原约老师和代课接受分别保留，尚未回答不同家庭的选择理由。[E1] 值得看约不上、改期或换师时家长如何权衡，并与[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md)一起看后来的体验；不能替客户推定他愿意接受哪一种变化。
+**目前想到哪了：** 现有设计把客户选择、原约老师和代课接受分别保留，尚未回答不同家庭的选择理由。[E1] 值得看约不上、改期或换师时家长如何权衡，并与[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）一起看后来的体验；不能替客户推定他愿意接受哪一种变化。
 
 ### 那些最终没有约成课的学习需要，我们看见了多少？
 
@@ -121,35 +121,27 @@ Tutor OS 的设计已经要求保留这些区别，但设计文件不能证明�
 
 **目前想到哪了：** 现有责任地图要求保留需求与缺口，XYZ 的已确认原则也提醒我们看见尚未被接住的客户。[E2][E3] 但本页没有足够材料判断遗漏发生在哪里。值得留意没有合适时段、没有合适老师或沟通后放弃的真实原因，再与供需域区分哪些可以改善、哪些暂时超出服务范围。
 
-新材料可以推进这些问题，也可以提出新的问题。有了线索时保留出处和仍未回答的部分；普通好奇先留在本页，不自动变成待办。维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md)。
+新材料可以推进这些问题，也可以提出新的问题。有了线索时保留出处和仍未回答的部分；普通好奇先留在本页，不自动变成待办。维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
 
 ## 资料与以前的讨论
 
-- **[E1] Tutor OS 设计宪法：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md)，重点见第 2—3、7、9—10 章。该版本已被认领为设计宪法，具体建设建议、待定规则和运行效果仍各有边界；[HTML 原件](../../sources/provenance-local/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html)保留原文。
-- **[E2] 教师运营责任地图：** [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md)，重点见“需求—产能契约”。一级架构已获接受，具体任命、授权、指标和业务规则仍待确认；原稿为 `sources/外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md`。
-- **[E3] 客户结果与组织能力分别判断：** [X-Y-Z三轴经营模型](../concepts/X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md)第 3—6 章及“稳定内核”。已确认的是稳定内核；通俗版新增说法仍待审。原件为 `sources/外教战役/X-Y-Z三轴经营模型.md`。
+- **[E1] Tutor OS 设计宪法：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)），重点见第 2—3、7、9—10 章。该版本已被认领为设计宪法，具体建设建议、待定规则和运行效果仍各有边界；[HTML 原件](../../sources/provenance-local/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html)（本地资料，钉钉／GitHub未提供）保留原文。
+- **[E2] 教师运营责任地图：** [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)），重点见“需求—产能契约”。一级架构已获接受，具体任命、授权、指标和业务规则仍待确认；原稿为 `sources/外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md`。
+- **[E3] 客户结果与组织能力分别判断：** [X-Y-Z三轴经营模型](../concepts/X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）第 3—6 章及“稳定内核”。已确认的是稳定内核；通俗版新增说法仍待审。原件为 `sources/外教战役/X-Y-Z三轴经营模型.md`。
 
-供给状态中的既有开口继续见[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md)。以上三组材料承担不同解释作用，不把其中的架构相互印证当成实际交付已经有效。
+供给状态中的既有开口继续见[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）。以上三组材料承担不同解释作用，不把其中的架构相互印证当成实际交付已经有效。
 
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
+<!-- query-related:start -->
+## 相关知识页（按需读取）
 
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
+保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-| 经营域共建模板 | [A 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS经营域-D02-教师获取与准入 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D?utm_scene=team_space) |
-| TutorOS经营域-D04-产能与供需配置 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv?utm_scene=team_space) |
-| TutorOS经营域-D06-教师价值呈现与匹配 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3?utm_scene=team_space) |
-| TutorOS经营域-D07-师生关系与跨师承接 | [A 库](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3?utm_scene=team_space) |
-| TutorOS经营域-D08-好课判断与逐课证据 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D09-履约恢复与问题治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D?utm_scene=team_space) |
-| TutorOS设计宪法全文 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG?utm_scene=team_space) |
-| TOC成立后-教师运营系统地图与责任清单 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y?utm_scene=team_space) |
-| X-Y-Z三轴经营模型 | [A 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y?utm_scene=team_space) |
-| 新老师上岗后供给流水线与预测口径-待验证问题卡 | [A 库](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D?utm_scene=team_space) |
+- [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC成立后-教师运营系统地图与责任清单.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)）
+- [X-Y-Z三轴经营模型](../concepts/X-Y-Z三轴经营模型.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）
+- [2026-05-F5两车不合并618先行](../decisions/2026-05-F5两车不合并618先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr3w1r8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgYY7E6Jkb4Mw9r)）
+- [2026-08-10-好外教在51Talk-价值传播首战参谋方案](../projects/2026-08-10-好外教在51Talk-价值传播首战参谋方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaY7NlgWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnq3kMq86EDybno)）
+- [2026-08-21-2027外教侧持续交付系统-战略假说](../queries/2026-08-21-2027外教侧持续交付系统-战略假说.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmX7DAX8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6anxbjW3bzYmDO)）
+- [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）
+- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
 
-<!-- meaning-cloud-navigation:end -->
+<!-- query-related:end -->

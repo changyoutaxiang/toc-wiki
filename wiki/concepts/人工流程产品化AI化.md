@@ -18,7 +18,7 @@ review: 待审
 
 ## 定位
 
-「人工流程产品化 / AI 化」是「[组织基建四项](../projects/%E7%BB%84%E7%BB%87%E5%9F%BA%E5%BB%BA%E5%9B%9B%E9%A1%B9.md)」（组织增肌）基建下挂的两条子项目之一，承担**组织能力扩张的杠杆端**——**用产品化和 AI 化抵御人力成本扩张**。
+「人工流程产品化 / AI 化」是「[组织基建四项](../projects/%E7%BB%84%E7%BB%87%E5%9F%BA%E5%BB%BA%E5%9B%9B%E9%A1%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbLKLLWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILq7wp92Wn4qY5Pr)）」（组织增肌）基建下挂的两条子项目之一，承担**组织能力扩张的杠杆端**——**用产品化和 AI 化抵御人力成本扩张**。
 
 - serves_lever：`infra.org-build-four`（组织增肌，2026-04-29 起拆分为「关键岗位招聘」+「人工流程产品化/AI化」两子项目）；
 - workstream：组织增肌；owner：Leon；human_loop：leon；next_review_at：2026-05-06（已过期，未见更新记录）。
@@ -31,24 +31,9 @@ review: 待审
 
 ## 与四化/组织的关系
 
-- 本子项目与四化纲领同向：产品化、AI 化正是 [2026-05-15-用四化的方式打赢战役](../decisions/2026-05-15-%E7%94%A8%E5%9B%9B%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E8%B5%A2%E6%88%98%E5%BD%B9.md) 的后两化；具体打法与卡体系/生产线承接见 [外教战役四化蓝图](%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md)。
+- 本子项目与四化纲领同向：产品化、AI 化正是 [2026-05-15-用四化的方式打赢战役](../decisions/2026-05-15-%E7%94%A8%E5%9B%9B%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E8%B5%A2%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXRz2mOVkyEqBQm) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAy1oKWyMoPYe1)） 的后两化；具体打法与卡体系/生产线承接见 [外教战役四化蓝图](%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%9B%E5%8C%96%E8%93%9D%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz)）。
 - 它是「组织增肌」的两条杠杆之一（另一条是「关键岗位招聘」，源不在本 wiki，见源文件 `sources/外教战役/关键岗位招聘.md`）。
 
 ## 来源
 
 - 源文件：`sources/外教战役/人工流程产品化AI化.md`（multica 项目 PM-31，status: active，confidence: medium）。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 组织基建四项 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbLKLLWyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/bva6QBXJwazmBYGpILq7wp92Wn4qY5Pr?utm_scene=team_space) |
-| 2026-05-15-用四化的方式打赢战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXRz2mOVkyEqBQm?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAy1oKWyMoPYe1?utm_scene=team_space) |
-| 外教战役四化蓝图 | [A 库](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6amaxYW3bzYmDO?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrZ0KLJGXn6lpz?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->

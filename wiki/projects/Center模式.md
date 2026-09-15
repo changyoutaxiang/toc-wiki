@@ -20,9 +20,9 @@ ingress_revisions: ["J-56dfc977535806ca79c8c789@d2bb8cb30063fdb4.8aa67d9eb3b6", 
 
 ## 2026-09-14 知识骨架定位：与 HBT 平行
 
-**Center-based 与 Home-based 是 Tutor OS 下两种平行的供给经营模式。** HBT 是当前存量主流，Center 已有供给基础，当前需要大力建设。建设优先级、存量规模与架构地位分别表达；Center 的组织、训练、现场支持和可复制经营问题，位于总图 M2，并横跨 N2–N7。（Leon 直接纠正与认领：[2026-09-14-TutorOS知识骨架认领与共建分工](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md)。）
+**Center-based 与 Home-based 是 Tutor OS 下两种平行的供给经营模式。** HBT 是当前存量主流，Center 已有供给基础，当前需要大力建设。建设优先级、存量规模与架构地位分别表达；Center 的组织、训练、现场支持和可复制经营问题，位于总图 M2，并横跨 N2–N7。（Leon 直接纠正与认领：[2026-09-14-TutorOS知识骨架认领与共建分工](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）。）
 
-回到[TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)；两种模式的完整经营关系见[HBT](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m1)与[Center](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m2)。本节只澄清知识架构位置，以下带日期的政策、提案、数据和历史主张继续保留其原有证据状态。
+回到[TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）；两种模式的完整经营关系见[HBT](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m1) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)）与[Center](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m2) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)）。本节只澄清知识架构位置，以下带日期的政策、提案、数据和历史主张继续保留其原有证据状态。
 
 云端返回总图：[【A】Tutor OS](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) · [Teacher battle · Leon wiki](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space)
 
@@ -57,7 +57,7 @@ Center的价值进一步落在本地owner的招聘、文化、现场管理和训
 
 ## 2026-09-12 Mel经营报告：按月份和分母引用数字
 
-新增来源入口：[Mel-TPCAP经营数据与口径-2026年8月](../sources/Mel-TPCAP%E7%BB%8F%E8%90%A5%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%8F%A3%E5%BE%84-2026%E5%B9%B48%E6%9C%88.md)。它保存《TPCAP Updates 2026》正文的历史数据、原文定位及冲突，图片独有数字尚未核读。
+新增来源入口：[Mel-TPCAP经营数据与口径-2026年8月](../sources/Mel-TPCAP%E7%BB%8F%E8%90%A5%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%8F%A3%E5%BE%84-2026%E5%B9%B48%E6%9C%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9Rlq23JGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKnpNOO81waOeDk)）。它保存《TPCAP Updates 2026》正文的历史数据、原文定位及冲突，图片独有数字尚未核读。
 
 - 8月末报告：Overall Lesson Share **37.57%**、OVS **41.14%**、DOM **33.99%**，整体utilization **76.02%**。YTD TBT对比另为人数占比 **19.67%**、课量占比 **34.62%**；这是不同窗口，不应将34.62%当8月单月或把37.57%泛化为任何市场。（源：该源页§1–2；正文快照§AUGUST 2026 EOM。）
 - 同一YTD报告TBT GE **20.31%**，HBT **21.66%**、CBT **23.33%**；出勤及产能表现与教学评价需分别经营。此前“下限已验证”“几乎零坏课”的现场概括不能外推为全网客观事实；本报告也不单独证明Center的因果优势。（源：该源页§2。）
@@ -73,7 +73,7 @@ Leon 在本人聊天中提出把 Center 放到“更高的商业级别”考虑�
 
 这些是 Leon 的**战略与组织提案**，不是已批准的组织调整、商业模式、订阅制度、扩张预算或已验收能力。“头部20%可能已经形成正确甚至标准”保留其不确定语气；“一个月培养合格老师”还缺 Center/教师样本、培训内容、合格标准、毕业后真实课堂和客户结果。聊天中随后出现的 Global Tutor OS 长分析及 90 天试验设计为 Agent 建议，只作有归因建议，不反写成 Leon 决定。
 
-来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json)与[完整旁路](../../sources/provenance-local/common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json.delivery.json)。同页图片、视频、卡片与未传入的转发正文独有主张 held；本节保持 `review: 待审`、`projection: public`。
+来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json.delivery.json)（本地资料，钉钉／GitHub未提供）。同页图片、视频、卡片与未传入的转发正文独有主张 held；本节保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-e41950a06ae371b85c5adb03@b5c1c4e31a7484b9.43a2a1f738c1:end -->
 
 <!-- common-feed:J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a:start -->
@@ -83,7 +83,7 @@ Jack 报告：一名 businessman-owned TBT Center owner 在 51Talk 经营三家�
 
 这是具名的一手**风险报告与治理判断**，不是竞业侵害已经查实：三家中心、约 120 名老师、参与 Polly 建设及“第一家”等说法均缺协议、资源使用、老师转移、课堂影响和对方说明。聊天内随后给出的核事实、分级处理、暂缓未承诺支持及谈判话术来自 Agent 建议，不是公司政策或已执行动作。对 Center 的治理应把经营者角色、资源与数据边界、老师个人选择、已约课堂接续和统一合作规则分开，不能用未核听闻直接认定违约或停止老师正常课堂/结算。
 
-来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json)与[完整旁路](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json.delivery.json)。页面保持 `review: 待审`、`projection: public`。
+来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json.delivery.json)（本地资料，钉钉／GitHub未提供）。页面保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a:end -->
 
 <!-- common-feed:J-edd3ea34d7d27bd66c8d09ac@d6f8203b2a8ccbbf.7954bb570606:start -->
@@ -93,7 +93,7 @@ Leon 在本人记录中把 Center/TBT 的总问题概括为“我们用线上模
 
 这组输入把本页已有“治理先行”进一步落到**运营条件与产品接口**：固定排班、课量保障、升级窗口、代课协同、移动管理和视频隐私需要一起设计，不能只把居家老师的规则搬进 Center。Katherine 随后整理的 TBT/CO Portal 需求还包括出勤、投诉、录播 coaching、TBT 身份标记和固定 slots；它们是业务侧候选清单，不是系统现状或已批准规则。整理中的“每15名配1名 captain”“每天至少10节”“提前30分钟”“全勤100/1500比索”等参数缺正式制度、适用 Center、版本和执行回执，本页不签发。
 
-同源关于 AI 学生验收、培训报酬、tip、返点及“普通新师不是 Polly 对象”的内容仍是未收敛假设；不据此改薪酬、资格或竞品事实。未交付图片、老师薪酬 HTML、培训手册网页和其他附件的独有内容未读。来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json)与[完整旁路](../../sources/provenance-local/common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json.delivery.json)。Journal 登记发生/接收日均为 2026-09-11、actor=`multiple`，无明确 correction 或 supersedes；本段保持 `review: 待审`、`projection: public`。
+同源关于 AI 学生验收、培训报酬、tip、返点及“普通新师不是 Polly 对象”的内容仍是未收敛假设；不据此改薪酬、资格或竞品事实。未交付图片、老师薪酬 HTML、培训手册网页和其他附件的独有内容未读。来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json.delivery.json)（本地资料，钉钉／GitHub未提供）。Journal 登记发生/接收日均为 2026-09-11、actor=`multiple`，无明确 correction 或 supersedes；本段保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-edd3ea34d7d27bd66c8d09ac@d6f8203b2a8ccbbf.7954bb570606:end -->
 
 <!-- common-feed:J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31:start -->
@@ -103,20 +103,20 @@ Leon 在本人记录中把 Center/TBT 的总问题概括为“我们用线上模
 
 这加强了本页已有“治理先行”的原始来源链，但不签发 1:50 编制、岗位、培训认证、预算、固定排班或扩张政策。162个 Center、79位 owner、约4800设备席位、19% headcount 与约40%课量等均为会议展示/口述，底表、窗口和计算未随批交付，只能作为待核现场报告；个别优秀 Center 的表现也不能外推全部 Center。
 
-来源原件：[下午原稿](../../sources/provenance-local/common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md)与[完整旁路](../../sources/provenance-local/common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md.delivery.json)。转写后段人物标签混杂，不把全段强归某一人；页面保持 `review: 待审`、`projection: public`。
+来源原件：[下午原稿](../../sources/provenance-local/common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md.delivery.json)（本地资料，钉钉／GitHub未提供）。转写后段人物标签混杂，不把全段强归某一人；页面保持 `review: 待审`、`projection: public`。
 <!-- common-feed:J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31:end -->
 
 ### 9月9日下午直接原稿：标准、支持与教师选择
 
-“电脑不再是问题”在讨论中有适用边界：部分成熟经营者更担心新师订不上课，随后又补充新经营者仍可能缺启动资金；空间容量、已装备座位和老师填充也分别说明。不能据此承诺全部中心已解决设备、订课或资金问题。（[下午前段原稿](../../sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md)，L372–404、L604–632。）
+“电脑不再是问题”在讨论中有适用边界：部分成熟经营者更担心新师订不上课，随后又补充新经营者仍可能缺启动资金；空间容量、已装备座位和老师填充也分别说明。不能据此承诺全部中心已解决设备、订课或资金问题。（[下午前段原稿](../../sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcedBbbN186zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS73ZKzyYWMwvDqPk)），L372–404、L604–632。）
 
 讨论强调“不是中心本身，而是标准重要”：固定排班与纪律的关联是线索，续费优势未验证，比较还需按实际固定课与原有选师条件看。Head Teacher从100席到50席先后提出，认证、训练、付费仍需设计；owner的利益也不必然与教学质量一致。个别中心限制家人、恋爱等是现场报告，不能因低缺勤就当可复制标准。（同源 L488–524、L558–582、L636–668。）
 
 平台和中心希望成熟老师留下，现场也多次明确老师有权离开、不能强制阻止回家；回家后的设备网络与支持仍需接上。封顶抽成甚至可能使经营者更想换掉成熟老师，因此不能把中心获益等同老师受益。末尾仍表达公司偏好留中心、全职固定，并承认不知道老师是否同意；这种偏好与选择权边界应同时保留。（同源 L764–850、L864–910。）
 
-会议口述4000比索、两月保持表现，与Mel报告4月5000分两次的历史proposal不是一个已核版本：未见变更链，不能合成现行政策或已支付事实；毕业后继续管理三月是另一项观察。持续分成、补贴、20%或15%仍待测算，需看教师选择、实际所得、CO成本和转换后的课堂结果。（同源 L764–904；对照 [Mel历史提案](../sources/Mel-TPCAP经营数据与口径-2026年8月.md)第5节。）
+会议口述4000比索、两月保持表现，与Mel报告4月5000分两次的历史proposal不是一个已核版本：未见变更链，不能合成现行政策或已支付事实；毕业后继续管理三月是另一项观察。持续分成、补贴、20%或15%仍待测算，需看教师选择、实际所得、CO成本和转换后的课堂结果。（同源 L764–904；对照 [Mel历史提案](../sources/Mel-TPCAP经营数据与口径-2026年8月.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9Rlq23JGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKnpNOO81waOeDk)）第5节。）
 
-**上午直接原稿补证（2026-09-15重读）：** 讨论在“底线更高，上限不知道”的同时，说抽检未见明显巨大教学差异；fixed与续费在此仍是条件推演，没有本片段的因果核定。后段报告部分老师从中心转居家后表现下滑，提到现场管理支持消失；直接从居家起步的老师则是另一条逐步趋稳的轨迹。这些观察还需核样本，不能推出居家天生较差，也不能把仍需支持等同培养失败。比较时应保留正常支持、课程与教师阶段。（[上午原稿](../../sources/raw/J-2ee64764d3fa5e68577e46bd__741085f3fc7a7cb4.0a92559cf98e.md)，L356–388、L414–440；人物标签不能保证逐句归属。）
+**上午直接原稿补证（2026-09-15重读）：** 讨论在“底线更高，上限不知道”的同时，说抽检未见明显巨大教学差异；fixed与续费在此仍是条件推演，没有本片段的因果核定。后段报告部分老师从中心转居家后表现下滑，提到现场管理支持消失；直接从居家起步的老师则是另一条逐步趋稳的轨迹。这些观察还需核样本，不能推出居家天生较差，也不能把仍需支持等同培养失败。比较时应保留正常支持、课程与教师阶段。（[上午原稿](../../sources/raw/J-2ee64764d3fa5e68577e46bd__741085f3fc7a7cb4.0a92559cf98e.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seadwxnqJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eIN5edBOGVMGjLRb3)），L356–388、L414–440；人物标签不能保证逐句归属。）
 
 <!-- common-feed:J-21d9bb317a9010618bb1160f@36eb0efdbd25baeb.4c18cf080c4a:start -->
 ## 袁慧如反馈核对：TBT/HBT 阶段与 40% 语义
@@ -125,7 +125,7 @@ Leon 在本人记录中把 Center/TBT 的总问题概括为“我们用线上模
 
 反馈所称“前三个月重点监控”不能外推为所有 HBT 已执行的监控制度；约 1 位 Head Teacher 对 50 个 seats 仍只是待设计参数。上述数字均未获同窗底表与当前状态验证。
 
-来源原件：[袁慧如反馈](../../sources/provenance-local/common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md)，修订 `36eb0efdbd25baeb.4c18cf080c4a`。P1 完整路径：`/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-09-09_StratPlan-2027/01_StratPlan-2027_原稿.md`（01:07:49—01:22:36）；P2 完整路径：`/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-09-09_StratPlan-2027/02_StratPlan-2027-1_原稿.md`（01:48:03—01:50:41）。
+来源原件：[袁慧如反馈](../../sources/raw/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHarY5DANJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDE30mPgW3bzYmDO)），修订 `36eb0efdbd25baeb.4c18cf080c4a`。P1 完整路径：`/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-09-09_StratPlan-2027/01_StratPlan-2027_原稿.md`（01:07:49—01:22:36）；P2 完整路径：`/Users/wangdong/Desktop/Leon-work/projects/TOC/_raw/meetings-raw/2026-09-09_StratPlan-2027/02_StratPlan-2027-1_原稿.md`（01:48:03—01:50:41）。
 <!-- common-feed:J-21d9bb317a9010618bb1160f@36eb0efdbd25baeb.4c18cf080c4a:end -->
 
 ## 2026-09-10新增讨论：菲律宾办公室承接美国市场链条
@@ -140,22 +140,22 @@ Leon 在本人记录中把 Center/TBT 的总问题概括为“我们用线上模
 
 会议后段提出“不再继续自建 Center”，只是一项资源配置方向，**不等于**关闭现有自营节点、停止伙伴 Center 或退出 Offline。组织图、编制、预算、交接及实际执行回执均未交付；上述人数只保留为会议时点的待核口述，不晋升为 current truth，也不覆盖本页现行的 Center/Offline 候审框架。
 
-来源原件：[完整合并纪要](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)与[完整旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)。发生日 2026-09-10，接收日 2026-09-11，actor=`multiple`；来源为两份钉钉听记合并稿，未做录音复核，组织图及其他附件未交付。本节保持 `review: 待审`、`projection: public`。
+来源原件：[完整合并纪要](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e.delivery.json)（本地资料，钉钉／GitHub未提供）。发生日 2026-09-10，接收日 2026-09-11，actor=`multiple`；来源为两份钉钉听记合并稿，未做录音复核，组织图及其他附件未交付。本节保持 `review: 待审`、`projection: public`。
 
 ## 会后接续：治理先行、以好课供给验证规模化（2026-09-10）
 
-本轮Leon已指定最终合并纪要及CEO建设规划为战略会正式产出，见[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md)。**Center已进入会后供给建设方向，不能继续只用09-05“会前重要备选议题”概括。** 会议讨论近期先补治理、Head Teacher、课堂支持与环境，并观察可复制培养和经营结果，再判断扩张节奏；CEO规划继续承接这一顺序。（源A议题8–12；源B§8–9。）
+本轮Leon已指定最终合并纪要及CEO建设规划为战略会正式产出，见[2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）。**Center已进入会后供给建设方向，不能继续只用09-05“会前重要备选议题”概括。** 会议讨论近期先补治理、Head Teacher、课堂支持与环境，并观察可复制培养和经营结果，再判断扩张节奏；CEO规划继续承接这一顺序。（源A议题8–12；源B§8–9。）
 
 - 地点和组织模式本身不是质量证明：噪音、网络、设备和现场支持要能追到每节课；同一Center公共故障不逐人判责。
 - 招聘渠道与交付模式分开：转介绍是渠道，Home-based/Center是组织与支持条件。Head Teacher/Mentor应验证是否提高老师能力、稳定好课供给与复用效率。
 - 扩张同时受适配课量、老师实际收入、支持能力和经营成本约束；不是只有座位和启动资金。Center、老师与平台的收益安排须一起测算。
 - 会议中的教师/课量占比、现场观察属于各自时间窗；不能推出所有Center优于居家，不能把候选分成上限、带教收入或转居家路径写成已签发政策。
 
-**状态**：记录的是正式产出中的方向及建设要求；未据此批准预算、全面扩张、组织任命、具体师生/师徒比例或薪酬条款。下文截至5月的分析及09-05确认保留历史身份，均不冒充今天的实时经营数据。与[好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)一起按“明确条件下持续交付好课”检验。
+**状态**：记录的是正式产出中的方向及建设要求；未据此批准预算、全面扩张、组织任命、具体师生/师徒比例或薪酬条款。下文截至5月的分析及09-05确认保留历史身份，均不冒充今天的实时经营数据。与[好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）一起按“明确条件下持续交付好课”检验。
 
 ## 2026-09-15 回读走访：观察所得与扩张证据分开
 
-9月3日一官方、三合作中心的走访，原记录提出“配方基本验证”：大学毕业生与现场训练管理提供了值得测试的机制线索。这一观察判断保留；同页也明确没有居家对照和完整成本。两中心全为大学毕业生、几乎零坏课及40%付费课贡献仍是待核口述，不能外推全部中心。准备时问过的教师选择、通勤成本、离开去向和留存口径，现场记录尚未带回答案。中心经营收益不能代替老师的选择。（[走访记录](../../sources/raw/2026-09-03_%E5%AE%BF%E5%8A%A1Center%E8%B5%B0%E8%AE%BF%E6%B4%9E%E5%AF%9F-%E5%8E%9F%E5%A7%8B%E8%AE%B0%E5%BD%95%E4%B8%8E%E8%9E%8D%E5%90%88%E5%88%A4%E5%AE%9A__b79b5176a364.md) L18–43、53–66；[准备稿](../../sources/raw/J-1e20620af68609eede0f718c__7c6278b5d4b715a9.5d3f5d26816f__2026-09-02_CebuCenter%E8%B5%B0%E8%AE%BF%E5%87%86%E5%A4%87-%E8%A7%82%E5%AF%9F%E8%AF%A2%E9%97%AE%E6%80%9D%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88.md) L36–39、66–76。）
+9月3日一官方、三合作中心的走访，原记录提出“配方基本验证”：大学毕业生与现场训练管理提供了值得测试的机制线索。这一观察判断保留；同页也明确没有居家对照和完整成本。两中心全为大学毕业生、几乎零坏课及40%付费课贡献仍是待核口述，不能外推全部中心。准备时问过的教师选择、通勤成本、离开去向和留存口径，现场记录尚未带回答案。中心经营收益不能代替老师的选择。（[走访记录](../../sources/raw/2026-09-03_%E5%AE%BF%E5%8A%A1Center%E8%B5%B0%E8%AE%BF%E6%B4%9E%E5%AF%9F-%E5%8E%9F%E5%A7%8B%E8%AE%B0%E5%BD%95%E4%B8%8E%E8%9E%8D%E5%90%88%E5%88%A4%E5%AE%9A__b79b5176a364.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpub036xPkJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHarvb3A9JlemrZQ3)） L18–43、53–66；[准备稿](../../sources/raw/J-1e20620af68609eede0f718c__7c6278b5d4b715a9.5d3f5d26816f__2026-09-02_CebuCenter%E8%B5%B0%E8%AE%BF%E5%87%86%E5%A4%87-%E8%A7%82%E5%AF%9F%E8%AF%A2%E9%97%AE%E6%80%9D%E8%80%83-%E5%8F%8C%E8%AF%AD%E7%89%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flBMqa4YWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpORPpW1DK0g6l)） L36–39、66–76。）
 
 当时将官方中心用作 lab 是 Jen/Mel 的口头共识，原记录要求后续正式定位与授权；“明天能做、一周出结果”是试验能力设想。人工数在线人数暴露了具体管理信息缺口，支持将系统建设列入战略议程，尚不证明立项或运行。这里保存9月3日状态；本页9月10日以后的建设方向按各自后继来源使用，不退回永久会前候选。（同一走访记录 L39–51、65–66。）
 
@@ -183,7 +183,7 @@ Center 模式不是外教战役里的补充渠道，而是供给侧最有战略�
 - 批量把新鲜大学生培养成标准老师，平衡高薪抢资深老师的路径。
 - 通过教学变量控制，稳定抬高老师质量下限。
 - 通过培训和管理，给老师质量上限留下持续提升空间。
-- 与直通车、薪酬改革形成组合拳：Center 守下限，直通车拉上限（见 [直通车项目](%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)）。
+- 与直通车、薪酬改革形成组合拳：Center 守下限，直通车拉上限（见 [直通车项目](%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)））。
 
 ## 历史判断：曾将守下限视为已验证，上限待证明
 
@@ -191,7 +191,7 @@ Center 模式不是外教战役里的补充渠道，而是供给侧最有战略�
 - **未验证**：尚未证明 Center 模式「有更高的上限」。在以下指标上，Center 老师对比居家老师尚无可证明的数据优势：退费率、升舱率、续费率、My Students、Rebook、B+/A 老师占比。
 - **下一步**：快速找 1～2 个中心做测试，通过激励与管理手段拉动上述若干指标实现明显拉升，给 Center 模式「盖棺定论」。
 - **战略意义**：若上限被证明，Center 将成为教师质量提升的战略级杠杆；若只守下限而无上限优势，Center 的战略价值需要重新评估。
-- **关联**：在 [电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md) 中讨论用电脑租赁一劳永逸解决扩张和设备质量问题；Center 质量上限测试的结果将影响战略资源分配——继续押注 Center 管理杠杆，还是转向设备杠杆。
+- **关联**：在 [电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6jN7N8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4Hjm6gxDwVZd1wyK0)） 中讨论用电脑租赁一劳永逸解决扩张和设备质量问题；Center 质量上限测试的结果将影响战略资源分配——继续押注 Center 管理杠杆，还是转向设备杠杆。
 
 ## 历史共识与候选打法
 
@@ -227,27 +227,27 @@ Center 模式不是外教战役里的补充渠道，而是供给侧最有战略�
 - 2026-04-20：进一步确认部分 Center 将承担新招聘流程试验场角色；Center 专题被抬升为近 3 天内应尽快开成、先确定方向的动作。
 - 2026-04-22：战役推进对齐会明确 Center 阶段任务：暂时不做激进扩张，先追 15%～25% 质量标，成为质量样板后再讨论扩张节奏——定位从「扩张尝试」收拢为「质量样板」。
 - 2026-05-08：Leon 与曹文磊讨论从中国采购电脑并海运到菲律宾，明确分批发货、重量/体积计费、笔记本 vs 台式机与合约机/出售机制等关键判断；Leon 在短会上把设备定义为最大杠杆。
-- 2026-05-09：在 Center 模式下新开「电脑租赁模式」项目（[电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md)）；Leon 确认租赁模式优先级高于分期售卖——核心目标不是设备盈利，而是降低 CO 启动门槛、通过软硬件获得供给控制权、形成 Center 供应链壁垒。
+- 2026-05-09：在 Center 模式下新开「电脑租赁模式」项目（[电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6jN7N8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4Hjm6gxDwVZd1wyK0)））；Leon 确认租赁模式优先级高于分期售卖——核心目标不是设备盈利，而是降低 CO 启动门槛、通过软硬件获得供给控制权、形成 Center 供应链壁垒。
 - 2026-05-09：Leon 判断 Center 模式已验证「守下限」，但「上限」尚未证明（指标见上）；下一步找 1～2 个中心做测试给 Center 模式「盖棺定论」，此测试结果将影响整体战略资源分配。
 - 2026-05-14：Leon 与蔡林电话后确认 Cocos 最低配置对齐现有招聘标准，避免原舒适标准仅约 30% 在岗老师满足造成招聘侧地震；Center 侧下一步关注低配机型性能边界与插件组合上限。
-- 2026-09-02：周报信号（[海外外教运营周报-202608-0902-源摘要](../sources/%E6%B5%B7%E5%A4%96%E5%A4%96%E6%95%99%E8%BF%90%E8%90%A5%E5%91%A8%E6%8A%A5-202608-0902-%E6%BA%90%E6%91%98%E8%A6%81.md)）——CC 直约新模式（CC 选老师）完课率 89.71% vs 旧模式 88.01% vs 系统分配 75.28%，8 月新模式预约量增 5 倍。这是 CC 选师可见模式的历史报告信号，不能证明学员自主选师效果；9月9日原稿明确三选一尚未测试。与 Center「老师入盒」控变量的类比仅是旧分析假设，不能据此证明 Center 效果或支持立项。
+- 2026-09-02：周报信号（[海外外教运营周报-202608-0902-源摘要](../sources/%E6%B5%B7%E5%A4%96%E5%A4%96%E6%95%99%E8%BF%90%E8%90%A5%E5%91%A8%E6%8A%A5-202608-0902-%E6%BA%90%E6%91%98%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZojlZRN86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYNl3lJ3kdP0wQ)））——CC 直约新模式（CC 选老师）完课率 89.71% vs 旧模式 88.01% vs 系统分配 75.28%，8 月新模式预约量增 5 倍。这是 CC 选师可见模式的历史报告信号，不能证明学员自主选师效果；9月9日原稿明确三选一尚未测试。与 Center「老师入盒」控变量的类比仅是旧分析假设，不能据此证明 Center 效果或支持立项。
 
 - 2026-09-03：宿务走访原始记录（源 `2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md`）：大学毕业生×中心配方为观察性证据；付费课 center 课量口述 40% 未核；新老师足量约课是痛点；官方中心定位 lab 不是 factory（与 Jen/Mel 口头共识，待 9/8 会上升格）。不改 09-05「重要备选议题」边界。该原始记录 §4 还指出中心负责人仍在人工数数，中心系统建设需纳入战略会议程；这是建设信号，不代表系统已建成或项目获批。本批不另建走访单页。
 
 ## 相关页面
 
-- 项目：[直通车项目](%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)（Center 守下限、直通车拉上限的组合拳）· [电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md)（Center 扩张的硬件底座）
-- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md)（Center 从「座位扩张」重新定位为「质量引擎」等时点判断）· [外教质量提升战役](%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md)
-- 机制：[老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md)（Center 是飞轮质量放大环节）
+- 项目：[直通车项目](%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）（Center 守下限、直通车拉上限的组合拳）· [电脑租赁模式](%E7%94%B5%E8%84%91%E7%A7%9F%E8%B5%81%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6jN7N8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4Hjm6gxDwVZd1wyK0)）（Center 扩张的硬件底座）
+- 决策：[Q2关键决策与判断](../decisions/Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（Center 从「座位扩张」重新定位为「质量引擎」等时点判断）· [外教质量提升战役](%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）
+- 机制：[老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）（Center 是飞轮质量放大环节）
 
 <!-- 2026-09-07 独立复核差异已落实；旧批 SRC-01 全文复核、附件与其余候选仍待处理，不据此结案全批。证据：AIOS Stack/work/coo-memory-unification/evidence/20260907-auto-continuation/wiki-independent-review.md -->
 
 <!-- meaning-navigation:start -->
 ## 所在的经营问题
 
-[D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [D05 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) · [D11 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) · [D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+[D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） · [D05 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） · [D11 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)） · [D13 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)）
 
-返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md)。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
+返回 [TutorOS第二层经营地图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） / [TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。以上是经营问题的阅读入口；具体判断仍按本页的来源、日期和审核范围使用。
 <!-- meaning-navigation:end -->
 
 
@@ -256,31 +256,4 @@ Center 模式不是外教战役里的补充渠道，而是供给侧最有战略�
 
 D04/D05/D11/D13要求同时看需求、供给模式、教师选择与全成本。历史1–2中心及“守下限已验证”不能为全网效果背书，租赁绑定和低成本均需条件。40%是课量份额与治理投入不匹配的讨论，不是治理缺口率；存量HBT主流、HBT与Center平行的后继认可继续有效。9月12日关闭Cebu的动作信号须核具体设施、承接与回执，不能由旧Lab建议覆盖，也不能扩大为全面退出Offline或已关闭。
 
-来源：[SRC-f00c3757f0eb · 51–95、107–113](../../sources/raw/Center%E6%A8%A1%E5%BC%8F.md)；[SRC-98e770732afc · 3–9](../../sources/raw/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md)；[SRC-0a91d798adb0 · 46–138、380–409、695–730](../../sources/raw/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9B%A2%E9%98%9F%E5%9C%A8%20TutorOS%20%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%BB%E6%94%BB%E4%BB%B7%E5%80%BC%E7%82%B9.md)。本次为原料复核后的知识修订，未扩大既有人类认可或执行授权。
-
-<!-- meaning-cloud-navigation:start -->
-## 钉钉阅读入口
-
-钉钉阅读时，用下表进入相关知识；原始依据按各自权限读取。
-
-| 页面 | A 知识库 | Leon 知识库 |
-|---|---|---|
-| 2026-09-14-TutorOS知识骨架认领与共建分工 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE?utm_scene=team_space) |
-| TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
-| TutorOS骨架节点与证据导航 | [A 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE?utm_scene=team_space) |
-| Mel-TPCAP经营数据与口径-2026年8月 | [A 库](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9Rlq23JGXn6lpz?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKnpNOO81waOeDk?utm_scene=team_space) |
-| 2026-09-09战略会正式产出与TutorOS建设规划 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4?utm_scene=team_space) |
-| 好老师生命周期 | [A 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv?utm_scene=team_space) |
-| 直通车项目 | [A 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9?utm_scene=team_space) |
-| 电脑租赁模式 | [A 库](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6jN7N8BQEx5rG?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4Hjm6gxDwVZd1wyK0?utm_scene=team_space) |
-| 海外外教运营周报-202608-0902-源摘要 | [A 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZojlZRN86EDybno?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYNl3lJ3kdP0wQ?utm_scene=team_space) |
-| Q2关键决策与判断 | [A 库](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2?utm_scene=team_space) |
-| 外教质量提升战役 | [A 库](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq?utm_scene=team_space) |
-| 老师质量提升飞轮 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk?utm_scene=team_space) |
-| TutorOS经营域-D04-产能与供需配置 | [A 库](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv?utm_scene=team_space) |
-| TutorOS经营域-D05-授课条件与模式治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm?utm_scene=team_space) |
-| TutorOS经营域-D11-教师体验与公平治理 | [A 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1?utm_scene=team_space) |
-| TutorOS经营域-D13-全成本与可持续经营 | [A 库](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA?utm_scene=team_space) |
-| TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
-
-<!-- meaning-cloud-navigation:end -->
+来源：[SRC-f00c3757f0eb · 51–95、107–113](../../sources/raw/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPmNklm5J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZnwL7468qjMp697)）；[SRC-98e770732afc · 3–9](../../sources/raw/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHarY5DANJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDE30mPgW3bzYmDO)）；[SRC-0a91d798adb0 · 46–138、380–409、695–730](../../sources/raw/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9B%A2%E9%98%9F%E5%9C%A8%20TutorOS%20%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%BB%E6%94%BB%E4%BB%B7%E5%80%BC%E7%82%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQP97Oqb81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZ75a34p86EDybno)）。本次为原料复核后的知识修订，未扩大既有人类认可或执行授权。
