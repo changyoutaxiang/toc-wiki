@@ -101,6 +101,7 @@ review: 记录
 
 以下材料未强行归域；用于找来源，不代表现行结论。
 
+- [2026-09-15公司治理Context-Pack-v1.0-源摘要](sources/2026-09-15公司治理Context-Pack-v1.0-源摘要.md) · [A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqYkGXR2J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAyZ0pZYW2LD0oRE)：CEO确认五篇公司治理权威全文（基本法／战略铁三角／AI-first Hybrid／51Talk OS／蜂巢），Tutor OS 公司级上层依据现行正本
 - [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲-源摘要](sources/2026-07-13-CEO下半年外教战役指示-双主帅H2总纲-源摘要.md) · [A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dLz7R8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpXq5eMaJgk9rpMq)
 - [Q2关键决策与判断-源摘要](sources/Q2关键决策与判断-源摘要.md) · [A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMQR1386zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3OBAZ8B5r9YAn)
 - [会议纪要索引-2026-07](sources/会议纪要索引-2026-07.md) · [A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa1BEezVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYAzm2J3kdP0wQ)

@@ -3,10 +3,10 @@ projection: public
 type: project
 title: TutorOS建设
 tags: [TutorOS, 架构, 精选资料]
-related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS设计宪法全文, 2026-09-09战略会正式产出与TutorOS建设规划, TutorOS首期运行契约与2＋2验收缺口, 51Talk OS, 蜂巢]
+related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS设计宪法全文, 2026-09-09战略会正式产出与TutorOS建设规划, TutorOS首期运行契约与2＋2验收缺口, 51Talk OS, 蜂巢, 2026-09-15公司治理Context-Pack-v1.0-源摘要]
 created: 2026-09-10
-updated: 2026-09-14
-sources: ["AI 变革/10-worker-bee-ai-native-rd-production-system.md", "AI 变革/51Talk OS 上下文 落地建议.html", "AI 变革/51Talk OS.html", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "AI 变革/以终为始看未来：蜂巢系统的真正价值.html", "外教战役/Meeting/外教战略会纪要最终版.html", "AI 变革/蜂巢系统关键问题答疑-事实版.md", "AI 变革/蜂巢系统到底是什么-全员通俗版.md", "外教战役/2026-09-10-TutorOS宪法认领与精选素材归库授权.md", "外教战役/TutorOS知识库候选_跨域交付与蜂巢接入约定_2026-09-10.md"]
+updated: 2026-09-15
+sources: ["AI 变革/10-worker-bee-ai-native-rd-production-system.md", "AI 变革/51Talk OS 上下文 落地建议.html", "AI 变革/51Talk OS.html", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "AI 变革/以终为始看未来：蜂巢系统的真正价值.html", "外教战役/Meeting/外教战略会纪要最终版.html", "AI 变革/蜂巢系统关键问题答疑-事实版.md", "AI 变革/蜂巢系统到底是什么-全员通俗版.md", "外教战役/2026-09-10-TutorOS宪法认领与精选素材归库授权.md", "外教战役/TutorOS知识库候选_跨域交付与蜂巢接入约定_2026-09-10.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/03-第四个五年战略方向-AI-first-Hybrid-Personalized-Learning-领导者-V1.0-Full-Text.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/04-51Talk-OS-公司级操作系统定义-V1.0-Full-Text.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/05-蜂巢系统-目标定位与核心架构原则-V1.0-Full-Text.md"]
 review: 记录
 ---
 
@@ -30,6 +30,10 @@ review: 记录
 
 首次实质架构任务：先核HTML原件SHA256，再按阅读清单的四个行范围完整读取正文；工具截断须补读。当前会话已完整读入且版本未变时，按题回相关章节。原件更新则重核和重读，不自动沿用旧提取稿。
 
+## 公司治理层现行正本（2026-09-15）
+
+CEO Jack（黄佳佳）2026-09-15 确认发布[《51Talk 公司治理 Context Pack v1.0》五篇全文](../sources/2026-09-15公司治理Context-Pack-v1.0-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqYkGXR2J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAyZ0pZYW2LD0oRE)）：基本法、主要矛盾与战略铁三角、AI-first Hybrid 战略方向、51Talk OS 定义、蜂巢系统架构原则。本专题引用公司级方向、51Talk OS 与蜂巢材料时，以该包为现行正本；Tutor OS 设计宪法仍是域内首要依据，未见冲突条款。其中 GOV-05《51Talk OS 定义》与GOV-06《蜂巢系统》（按CEO确认覆盖此前同名版本）分别是下表"公司OS与接口责任""蜂巢复用与工蜂建设"两行的现行首选；旧库对应页与下表旧精选保留历史参考。
+
 ## 八份精选资料
 
 | 编号 | Wiki内原件 | 在本专题中的用途与状态 |
@@ -52,10 +56,10 @@ review: 记录
 | 问题 | 宪法章节 | 相关知识页与配套资料 |
 |---|---|---|
 | Tutor OS目标、首期范围 | §1–4、18–21 | [2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09%E6%88%98%E7%95%A5%E4%BC%9A%E6%AD%A3%E5%BC%8F%E4%BA%A7%E5%87%BA%E4%B8%8ETutorOS%E5%BB%BA%E8%AE%BE%E8%A7%84%E5%88%92.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）；[TutorOS首期运行契约与2＋2验收缺口](../queries/TutorOS%E9%A6%96%E6%9C%9F%E8%BF%90%E8%A1%8C%E5%A5%91%E7%BA%A6%E4%B8%8E2%EF%BC%8B2%E9%AA%8C%E6%94%B6%E7%BC%BA%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)） |
-| 公司OS与接口责任 | §2、12–14 | [51Talk OS](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/concepts/51Talk%20OS.md)（本地资料，钉钉／GitHub未提供）；精选《51Talk OS》与Context落地建议 |
+| 公司OS与接口责任 | §2、12–14 | 现行首选：[GOV-05《51Talk OS 定义》](../../sources/supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/04-51Talk-OS-%E5%85%AC%E5%8F%B8%E7%BA%A7%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%AE%9A%E4%B9%89-V1.0-Full-Text.md)（CEO确认全文） · [A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLKgzpl98Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPmqrppeJ63zgkYA)；[源摘要](../sources/2026-09-15公司治理Context-Pack-v1.0-源摘要.md)；旧库[51Talk OS](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/concepts/51Talk%20OS.md)与精选《51Talk OS》《Context落地建议》为历史参考 |
 | 教学能力与跨老师连续性 | §3–6、8、10、17 | [好老师生命周期](../concepts/%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；相关历史来源按阅读清单定位 |
 | 教师收益与供给经营 | §7–11、19–20 | 精选纪要作背景，具体政策与当前数据回正式依据 |
-| 蜂巢复用与工蜂建设 | §12–14、16 | [蜂巢](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/entities/%E8%9C%82%E5%B7%A2.md)（本地资料，钉钉／GitHub未提供）；[蜂巢0904增量验证与边界对照](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/queries/%E8%9C%82%E5%B7%A20904%E5%A2%9E%E9%87%8F%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%BE%B9%E7%95%8C%E5%AF%B9%E7%85%A7.md)（本地资料，钉钉／GitHub未提供）；工蜂方案与蜂巢配套资料 |
+| 蜂巢复用与工蜂建设 | §12–14、16 | 现行首选：[GOV-06《蜂巢系统》](../../sources/supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/05-%E8%9C%82%E5%B7%A2%E7%B3%BB%E7%BB%9F-%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%BD%8D%E4%B8%8E%E6%A0%B8%E5%BF%83%E6%9E%B6%E6%9E%84%E5%8E%9F%E5%88%99-V1.0-Full-Text.md)（CEO确认全文，覆盖此前同名版本） · [A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS73qk06DWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eIN5qkQ59VMGjLRb3)；[源摘要](../sources/2026-09-15公司治理Context-Pack-v1.0-源摘要.md)；旧库[蜂巢](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/entities/%E8%9C%82%E5%B7%A2.md)、[蜂巢0904增量验证与边界对照](/Users/wangdong/Desktop/%E6%9E%81%E7%AE%80%20LLMwiki/wiki/AIOS%E5%BB%BA%E8%AE%BE/queries/%E8%9C%82%E5%B7%A20904%E5%A2%9E%E9%87%8F%E9%AA%8C%E8%AF%81%E4%B8%8E%E8%BE%B9%E7%95%8C%E5%AF%B9%E7%85%A7.md)与工蜂方案为历史参考 |
 | 方法资产与验证 | §16、18–20 | Context落地建议、工蜂研发生产方案 |
 
 精选文件中的旧本地路径和相对链接只保留历史溯源意义，不自动跟随到原投料目录或缺失附件。本次归档了清单内8份文件；未随本批提供的依赖不得假装已入库。需要更多材料时先从Wiki正常入口和现有来源定位。

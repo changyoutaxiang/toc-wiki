@@ -1,0 +1,76 @@
+{
+  "package_id": "51talk-company-governance-context-pack",
+  "title": "51Talk 公司治理 Context Pack",
+  "version": "1.0",
+  "released_on": "2026-09-15",
+  "status": "released",
+  "classification": "internal",
+  "release_scope": "five_confirmed_core_fulltexts_only",
+  "authority": "Jack (CEO)",
+  "fulltext_preservation": "byte-identical source snapshots",
+  "reading_order": [
+    "GOV-01",
+    "GOV-02",
+    "GOV-03",
+    "GOV-05",
+    "GOV-06"
+  ],
+  "documents": [
+    {
+      "id": "GOV-01",
+      "title": "51Talk基本法",
+      "role": "根本原则",
+      "version": "15周年发布版",
+      "status": "published_fulltext",
+      "path": "fulltext/01-51Talk-基本法-15周年发布版.md",
+      "source_project_path": "docs/context/company-governance-context-pack-v1.0/00-authoritative-fulltext/51Talk-基本法-15周年发布版.md"
+    },
+    {
+      "id": "GOV-02",
+      "title": "从十五年复盘到第四个五年：51Talk 的主要矛盾与战略铁三角",
+      "role": "主要矛盾与未来五年铁三角",
+      "version": "1.0",
+      "status": "authoritative_fulltext",
+      "path": "fulltext/02-从十五年复盘到第四个五年-主要矛盾与战略铁三角-V1.0-Full-Text.md",
+      "source_project_path": "docs/context/company-governance-context-pack-v1.0/00-authoritative-fulltext/从十五年复盘到第四个五年-主要矛盾与战略铁三角-V1.0-Full-Text.md"
+    },
+    {
+      "id": "GOV-03",
+      "title": "第四个五年战略方向：AI-first Hybrid Personalized Learning 领导者",
+      "role": "未来形态",
+      "version": "1.0",
+      "status": "authoritative_fulltext",
+      "path": "fulltext/03-第四个五年战略方向-AI-first-Hybrid-Personalized-Learning-领导者-V1.0-Full-Text.md",
+      "source_project_path": "docs/context/company-governance-context-pack-v1.0/00-authoritative-fulltext/第四个五年战略方向-AI-first-Hybrid-Personalized-Learning-领导者-V1.0-Full-Text.md"
+    },
+    {
+      "id": "GOV-05",
+      "title": "51Talk OS：公司级操作系统定义",
+      "role": "公司运行机制",
+      "version": "1.0",
+      "status": "authoritative_fulltext",
+      "path": "fulltext/04-51Talk-OS-公司级操作系统定义-V1.0-Full-Text.md",
+      "source_project_path": "docs/context/company-governance-context-pack-v1.0/00-authoritative-fulltext/51Talk-OS-公司级操作系统定义-V1.0-Full-Text.md"
+    },
+    {
+      "id": "GOV-06",
+      "title": "蜂巢系统：目标、定位与核心架构原则",
+      "role": "智能执行与学习体系",
+      "version": "1.0",
+      "status": "authoritative_fulltext",
+      "path": "fulltext/05-蜂巢系统-目标定位与核心架构原则-V1.0-Full-Text.md",
+      "source_project_path": "docs/context/company-governance-context-pack-v1.0/00-authoritative-fulltext/蜂巢系统-目标定位与核心架构原则-V1.0-Full-Text.md",
+      "revision": "2026-09-15-knowledge-ontology-future"
+    }
+  ],
+  "combined": "51Talk-公司治理-Context-Pack-V1.0-全文合订本.md",
+  "supporting_files": [
+    "README.md",
+    "USAGE.md",
+    "RELEASE-NOTES.md",
+    "SHA256SUMS.txt"
+  ],
+  "excluded": "Historical drafts, raw conversations, financial target scenarios, old derived rules and external reference documents",
+  "external_reference_policy": "Original reference links and Wiki links preserved; not bundled and not required for reading the core texts",
+  "deduplication": "Ingest split fulltexts OR combined edition, not both"
+}

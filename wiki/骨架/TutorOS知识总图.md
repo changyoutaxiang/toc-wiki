@@ -22,7 +22,7 @@ architecture_version: "1.1"
 
 把全球教师的潜力，持续转化为适合学生、能够兑现的好课；让学生获得学习价值，让教师获得成长与合理收益，让交付长期持续，并把验证有效的做法积累成组织能力。
 
-一节课是交付单元；教师能力、可用产能和师生关系需要跨课经营。Tutor OS 位于 51Talk OS 之内，与 Learning、Service、Growth 协同。（依据：[TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)） §1–4。）
+一节课是交付单元；教师能力、可用产能和师生关系需要跨课经营。Tutor OS 位于 51Talk OS 之内，与 Learning、Service、Growth 协同。（依据：[TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)） §1–4。）公司治理层现行正本为[《51Talk 公司治理 Context Pack v1.0》（2026-09-15，CEO 确认五篇全文）](../sources/2026-09-15公司治理Context-Pack-v1.0-%E6%BA%90%E6%91%98%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqYkGXR2J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAyZ0pZYW2LD0oRE)），其中 GOV-03 §六给出 Tutor OS"全球真人供给与交付的重要支撑"定位原文；按 GOV-03/GOV-05，Learning 与 Tutor 方向已确认，Service、Growth 两域仍为构想。
 
 ## 总体骨架
 

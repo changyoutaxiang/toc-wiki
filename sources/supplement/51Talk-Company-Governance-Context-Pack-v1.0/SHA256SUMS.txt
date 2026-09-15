@@ -1,0 +1,10 @@
+1a417d2dbb7c3ad51282c96cc3d3a6456e6fa7874d94dadfd697457bb18829da  51Talk-公司治理-Context-Pack-V1.0-全文合订本.md
+5afe25583c50bc6c96a43d03e66e7f14e7865d61071955a34b6e12015cd79b7b  README.md
+0e247b7c28534cf27916c9f8b09b89c859639a4cb094dd4497728807a61945e9  RELEASE-NOTES.md
+14e8dea8a9263852450cee892cf41f6a2f283b3ca014fe0bc3fac396397eb929  USAGE.md
+64b579d5008cd5bcb4127985531dc8bc702123689e3e5eb837fa50ef591e33eb  fulltext/01-51Talk-基本法-15周年发布版.md
+f58ddb69cd48674a06f98beb522d27c33deaa4b4f2ab4ce9b29dabe0bfc42dac  fulltext/02-从十五年复盘到第四个五年-主要矛盾与战略铁三角-V1.0-Full-Text.md
+a7bbf39183e4542669e57aea85479a79867e075b10c2dc04d9248343eba311ae  fulltext/03-第四个五年战略方向-AI-first-Hybrid-Personalized-Learning-领导者-V1.0-Full-Text.md
+cd6313cf56706a03df2a1269e927d4ea220dc894979d47c53eec9fd3db4527c9  fulltext/04-51Talk-OS-公司级操作系统定义-V1.0-Full-Text.md
+3dcbb0b49f1dacf932abdf03fe223c97b79692bd47ec135a67e3ba22bb0c6a5f  fulltext/05-蜂巢系统-目标定位与核心架构原则-V1.0-Full-Text.md
+a70ea42ec08a6fbc178b171a9b8ed20732e1419f55830ad8b5e61c56582a3a8a  manifest.json
