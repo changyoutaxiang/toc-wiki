@@ -20,11 +20,11 @@ architecture_version: "1.1"
 
 ## 每个经营域怎样一起建设
 
-按[[经营域共建模板]]，先看客户价值，再说清本年度和当季度的主要矛盾、事情怎样做好、我们相信什么、最近看法怎样变化、眼下怎样取舍，以及“当下的好奇”。全文使用非技术语言，方便 Leon 随时进入并接着思考。[[TutorOS经营域-D03-新师成材与早期经营|新师成材页]]已先采用这套写法。
+按[[经营域共建模板]]，先看客户价值，再说清本年度和当季度的主要矛盾、事情怎样做好、我们相信什么、最近看法怎样变化、眼下怎样取舍，以及“当下的好奇”。全文使用非技术语言，方便 Leon 随时进入并接着思考。2026-09-15，十五个域已全部采用这套写法；[[TutorOS经营域-D03-新师成材与早期经营|新师成材页]]保留为先行实例。先读每页开头的当前看法与一个好奇问题，有兴趣时再往下看依据。
 
 年度与季度标明具体时间，说明两者的关系；没看清的地方留作讨论，不能把 AI 的建议写成公司已经确定的重点。
 
-“当下的好奇”通常保留两三个还想弄明白的问题，写清为什么值得想、目前想到哪了。新材料回来推进问题，也可以带来原先没想到的问题；不急着给答案，不随季度清空。其他域在实际讨论和维护时逐步采用，不为凑数补满问题。
+“当下的好奇”通常保留两三个还想弄明白的问题，写清为什么值得想、目前想到哪了。新材料回来推进问题，也可以带来原先没想到的问题；不急着给答案，不随季度清空。目前各域保留两到三个问题，数量可随理解变化；不为凑数补满，也不要求逐页定期巡检。
 
 ## 从七条主线进入十五个经营域
 
@@ -76,7 +76,11 @@ architecture_version: "1.1"
 
 一份新材料可以补充、强化、限定或反驳多个域，也可以暂时无法归域。Agent 应先找它改变了什么，再决定合并、补证或记为新问题。地图为蒸馏提供问题意识，材料也有权改变地图；不为填满每个域而生页。（维护操作见[[TutorOS知识骨架维护约定]]。）
 
+已有材料也从这些经营问题重新进入：在[[TutorOS知识骨架落点索引|按经营域找相关页面]]中，可以看到概念、项目、决定和问题卡的共同落点。一张材料可以帮助思考几个问题，正文仍只保留一份。轻量梳理先连接问题、识别值得纠正或深读的地方；历史记录、未决假设和已确认决定继续分别使用。页面已经归域，不等于其中的判断已经重新核实。
+
 ## 最近一次认识变化与下一次碰撞
+
+2026-09-15：以 D03 为实例，将共同模板扩展到其余十四域，并交叉复读旧决定与后来的纠正。各页现在都从客户价值进入，说明年度与季度的建议判断、重要假设、最近认识及持续好奇。老师在正常支持下变好与换环境后的能力分别看；恢复客户课堂与认定老师责任分别看；经营报告中的课量、利用率与利润分别看。本次整理没有新增培养、收入或模式效果的实测证据，七条主线、十五域及两种平行模式的架构继续沿用。
 
 2026-09-14：三个模型同读 Wiki 得出 7／8／13 域；同一模型改读 GBrain 得出另一种 13 域。综合后保留较细的关键分界，并增加新师过渡与教师独立权益的明确位置。特别是 GBrain 召回后回读 FT-DEC-014，补回“老师体验有独立责任”的已有战略认识，并修正两篇旧页面的阅读边界。完整比较见[构建取舍](</Users/wangdong/Desktop/极简 LLMwiki/_reports/2026-09-14-TOC知识总图建设/第二层建设-v1.1/comparison/比较与取舍.md>)；研究者一致不增加业务证据票数。
 
@@ -89,6 +93,7 @@ architecture_version: "1.1"
 
 | 页面 | A 知识库 | Leon 知识库 |
 |---|---|---|
+| 按经营域找相关页面 | [打开](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6?utm_scene=team_space) | [打开](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno?utm_scene=team_space) |
 | TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
 | TutorOS经营域-D01-学习需要与交付承诺 | [A 库](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3?utm_scene=team_space) |
 | TutorOS经营域-D02-教师获取与准入 | [A 库](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D?utm_scene=team_space) |

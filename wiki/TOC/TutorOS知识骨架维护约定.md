@@ -34,7 +34,7 @@ review: 记录
 
 **第一、第二层给 Leon 看的正文全部使用非技术语言。** 先说现在怎么看，再用具体人、事和结果解释。专用名称确实需要时，当场说明；重要条件、代价和相反事实保留。开头便于迅速接上思考，详细资料放在后面。
 
-Leon 已认可七项内容及上述写法，原话见[[2026-09-14-TutorOS知识骨架认领与共建分工]]。D03 先按新写法改好；其他域在接下来的实际讨论和维护中逐步采用，不凭空补齐年度、季度判断，也不为凑齐栏目制造好奇问题。
+Leon 已认可七项内容及上述写法，并于 2026-09-15 要求推广到其他经营域，原话见[[2026-09-14-TutorOS知识骨架认领与共建分工]]。D03 先作实例，其余十四域现已结合各自材料采用同一写法，十五域都保留两三个“当下的好奇”。年度、季度重点中的建议仍留作讨论，不能因栏目齐全就当作公司决定；以后也不为凑数制造问题。
 
 ## “当下的好奇”怎样参与蒸馏
 
@@ -75,6 +75,10 @@ Leon 已认可七项内容及上述写法，原话见[[2026-09-14-TutorOS知识�
 
 ## 落点数据怎样解释
 
+存量页面可以先做一次轻量梳理：读清它实际在回答什么问题、现在应当怎样使用，再连接经营域，留下一个具体的下一步。正文可沿用、入口需整理、需要补证或纠错、值得深度重蒸馏、需要核对重复关系，以及通用导航维护，分别记录。没有合适经营域的材料继续保留，不为填满地图硬归类。
+
+轻量梳理注明读了全文还是重点段落，以及所依据的页面版本。刚完成核对、内容未变的页面可以沿用已有记录，但要明说。接到经营域只帮助找到材料；要证明某条判断正确，仍需回到原始材料和后来的纠正。历史问题已经解决，就接好后继记录，不因旧页仍在而重新开题。
+
 第二层 registry 使用 schema 2：`domains` 保存 Dxx 的名称、问题、主节点、正文和证据页；`relations` 保存有类型与依据的关系。页面 `domains` 可多选；`meaning_status` 分为 `mapped`（核读后连接）、`unassigned`（尚未核读归域）、`navigation`（通用导航）。域正文自己属于本域，引用的证据页与域之间双向标记；全部继承页面自己的来源与 review。尚未归域不是知识无用或准入失败。
 
 `python3 scripts/toc-map.py locate 新师训战营` 可查看对应域；`python3 scripts/toc-map.py impact D11` 返回其已标注证据与原页。结果是需阅读的影响候选，未登记的隐含依赖仍需查找，不能冒称全库影响已穷尽。
@@ -97,6 +101,8 @@ Leon 已认可七项内容及上述写法，原话见[[2026-09-14-TutorOS知识�
 每次完成已授权的骨架修改后，更新落点与索引，再同步本次受影响的页面到两库，并逐页回读正文、核对版本与内容指纹；失败的一侧记录为未完成，不能用另一侧成功或相同页数代替。云端有不同修改时，先带回本地核对合并，再发布同一版本，避免静默覆盖。
 
 `projection: public` 表示允许进入这两处既有投影，不改变知识库访问权限，也不提升 `review`、来源核验或业务生效状态。索引的发布标记由 `.structure/knowledge-map.json` 中 `index_projection` 保存，重建时沿用。此次同步授权继续适用于骨架维护；新增业务敏感内容和下层页面仍依其原有发布边界处理。
+
+本地登记可以保留仅本地页面的完整关联。生成双库导航时，标明仅本地的页面不显示名称、理由和链接；限制若写在正文里，核读后在登记中记明依据。后来的明确整页分享授权、只限制部分明细的说明，都按各自范围解释。公开导航中的“相关知识页”包含历史记录和待核材料，不能统称为已核实结论。
 
 任一阅读面的修正都带着原版本和节点回到本地共同正本；不分别养出两个云端版本。每次同步的结果记入 Wiki log 和投影回执，本约定不另设定时任务。
 
@@ -127,6 +133,7 @@ Leon 已认可七项内容及上述写法，原话见[[2026-09-14-TutorOS知识�
 
 | 页面 | A 知识库 | Leon 知识库 |
 |---|---|---|
+| 按经营域找相关页面 | [打开](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6?utm_scene=team_space) | [打开](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno?utm_scene=team_space) |
 | TutorOS知识总图 | [A 库](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space) |
 | TutorOS第二层经营地图 | [A 库](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l?utm_scene=team_space) | [Leon 库](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v?utm_scene=team_space) |
 

@@ -5,7 +5,7 @@ title: TOC 域总览
 tags: [overview, toc]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS知识骨架落点索引, 2026-09-14-TutorOS知识骨架认领与共建分工, 外教转介绍数据口径冲突与待核清单, Referral重启, 2026-08-14-高质量获客与转介绍-战略提醒, 外教触达原子小队, 外教触达口径与验收缺口, 外教质量提升战役, 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲, Q2关键决策与判断, 好老师生命周期, 好老师统一定义的取舍、临时使用与激励边界-待验证问题卡, 老师质量提升飞轮, X-Y-Z三轴经营模型, 会议纪要索引, 坏课KPI设计稿, 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标, 2026-09-07-TOC个人Wiki镜像共享与坑位检查, TutorOS首期运行契约与2＋2验收缺口]
 created: 2026-08-30
-updated: 2026-09-14
+updated: 2026-09-15
 sources: ["外教战役/战役总览.md", "外教战役/00_工作台.md", "外教战役/Meeting/J-a78b9945c0a79e86f3c04d74__dbf6a6fb2bea.md", "外教战役/J-14eb9db3c308978b72bbb260__b79b5176a3643822.26b513755ca8__2026-09-03_宿务Center走访洞察-原始记录与融合判定.md", "外教战役/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__菲律宾团队在 TutorOS 时代的主攻价值点.md", "外教战役/Meeting/J-1b0f0aaf0cce24916e65424e__62b353ac9ab9a5e6.885b710c2b05__dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md", "common-feed/J-ffe0292293c20cd84369f608__58475e9928597051.c5141293f4a4.json", "common-feed/J-0679a9279798682abc0ef8fe__ae91639134284436.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__ae6ca000b8f00dd6.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__91d99bd723d10193.498e8ea95ae6.md", "common-feed/J-5efc8ede790e9c335c844728__6e0f5f998db14dc4.f9c98d4ea453.jpg", "common-feed/J-a9acefbd7062263a3e56abe0__b9d9af954f32ba4e.f9c98d4ea453.jpg", "common-feed/J-2935db54b1f71762ba634d10__bec339c717d4c075.0353d5ee6e3e.json", "common-feed/J-4a77fca38e7e1f3ca7454d6f__187df81045c0ed59.c99de60e7e2e.json", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 记录
 # ── 联邦房卡：描述的是「云端房间」的覆盖范围，不是本地全库 ──
@@ -71,7 +71,7 @@ ingress_revisions: ["J-14eb9db3c308978b72bbb260@b79b5176a3643822.26b513755ca8", 
 **战略决策与战役级**（决策链：04-24 调度方式 → 05-11 Polly 反攻 → 05-15 四化纲领 → 05-20 KPI3vsKPI4 → 05-29 F5 两车 → 07-13 H2 总纲，逐级 supersedes 衔接；Q2 决策史为聚合历史参考）
 
 - [[2026-04-24-一号位思维后战役调度方式调整]] · [[2026-05-11-CEO反攻Polly指示与外教战役国内倾斜]] · [[2026-05-15-用四化的方式打赢战役]] · [[2026-05-20-指挥官分歧-KPI3vsKPI4]] · [[2026-05-F5两车不合并618先行]] · [[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲]] · [[Q2关键决策与判断]]
-- 组织治理与双帽：[[CE组织治理]] · [[双任命长期判断-AI变革部与TOC]]
+- 组织治理：[[CE组织治理]] · [[TutorOS经营域-D14-事实标准与协同执行]]
 
 **供给与质量**
 
