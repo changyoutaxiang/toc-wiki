@@ -5,9 +5,10 @@ title: Tutor OS 骨架节点与证据导航
 tags: [TutorOS, 知识骨架, 证据导航, HBT, Center]
 related: [TutorOS知识总图, TutorOS第二层经营地图, TutorOS设计宪法全文, 2026-09-14-TutorOS知识骨架认领与共建分工, 2026-09-09战略会正式产出与TutorOS建设规划, TutorOS知识骨架落点索引, 好老师生命周期, Center模式, 新师训战营, Referral重启, 薪酬改革, 直通车项目]
 created: 2026-09-14
-updated: 2026-09-14
+updated: 2026-09-15
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 architecture_version: "1.1"
 ---
 

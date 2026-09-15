@@ -8,7 +8,8 @@ related: [2026-04-25-cost-per-launch下调至1500并转向Referral, 漏斗分流
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/Referral重启.md", "外教战役/2026-09-05_外教转介绍知识库入库建议_数字复核版.md", "common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md", "common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-e24dd162f0238830ed3713be__acc5118b37fd769f.aa3fe0b49a7e", "common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 facility: llmwiki
 ingress_revisions: ["J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31", "J-e595745aee1d632a2143e153@b6d159e866f59cd9.30582acd6940", "J-735fad10d2f2ad9f83e27271@355663e6fffc3bad.aa3fe0b49a7e", "J-f8fd9005ce87882cd45f407f@355663e6fffc3bad.aa3fe0b49a7e", "J-e24dd162f0238830ed3713be@acc5118b37fd769f.aa3fe0b49a7e", "J-21d9bb317a9010618bb1160f@36eb0efdbd25baeb.4c18cf080c4a"]
 ---

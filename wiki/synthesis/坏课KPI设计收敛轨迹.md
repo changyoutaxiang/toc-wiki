@@ -6,7 +6,8 @@ related: [坏课KPI设计稿, 2026-08-31-外教质量提升双周会-坏课率Q3
 created: 2026-08-31
 updated: 2026-09-15
 sources: ["LeonWikiClean:synthesis/坏课-kpi-设计收敛轨迹"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 ---
 
 # 坏课 KPI 设计收敛轨迹

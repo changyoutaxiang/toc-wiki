@@ -8,8 +8,8 @@ related: [TutorOS第二层经营地图, TutorOS知识总图, 新师训战营-TID
 created: 2026-09-14
 updated: 2026-09-15
 sources: ["外教战役/Meeting/2026-07-13_老师试用期讨论_听记原文.srt", "外教战役/Meeting/2026-09-04_听记-teacher-growth-system-including-TIDE__62b353ac9ab9.md", "本轮对话：Leon，2026-09-05；原话及裁决边界见wiki/log.md历史告警逐页确认04", "common-feed/J-a67f650421d38ae3a9feabe1__a6b2f802ac0b9d98.ec43d0881a35.json", "conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "/Users/wangdong/Desktop/Leon-work/projects/TOC/运营支撑/系统资产卡/FT-DEC-009_新师试用期海外AB与200分封顶确认.md"]
-review: 待审
-review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领
+review: 已审
+review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 architecture_version: "1.1"
 meaning_domain: D03
 knowledge_revision: "D03-2026-09-15.3"

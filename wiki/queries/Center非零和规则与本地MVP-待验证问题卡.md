@@ -8,7 +8,8 @@ related: [Center客户交付确定性节点-关键战略假设, Center模式]
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/2026-08-21_Center非零和规则与本地MVP_待验证问题卡.md", "common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 facility: llmwiki
 processing_review: complete
 ingress_revisions: ["J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a"]

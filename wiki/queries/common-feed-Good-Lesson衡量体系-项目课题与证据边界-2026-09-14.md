@@ -4,12 +4,13 @@ title: Good Lesson 衡量体系：项目课题与证据边界（2026-09-14）
 tags: []
 related: []
 created: '2026-09-14'
-updated: '2026-09-14'
+updated: 2026-09-15
 sources:
 - common-feed/J-da0bdcf1606a3599ecacab9e__aed7ef39acf9a1b6.94e30bfe8fd6.md
 ingress_revisions:
 - J-da0bdcf1606a3599ecacab9e@aed7ef39acf9a1b6.94e30bfe8fd6
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 projection: local-only
 status: unresolved
 next_evidence: 范围内可读的战略会 Good Lesson 原文；有课次ID、任务版本和前后课链路的普通课、异常课和无反馈课样本；教育专家标注协议及一致性、AI与人工误判样本、学生及家长反馈与后续学习验证；使用真实课堂数据或试验的明确授权。

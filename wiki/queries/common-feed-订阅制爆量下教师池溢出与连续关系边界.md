@@ -4,12 +4,13 @@ title: 订阅制爆量下教师池溢出与连续关系边界
 tags: []
 related: []
 created: '2026-09-14'
-updated: '2026-09-14'
+updated: 2026-09-15
 sources:
 - common-feed/J-1a1bf1b5e1abb53bd8412bed__a70549dac2bb1438.71edcfd2b64c.md
 ingress_revisions:
 - J-1a1bf1b5e1abb53bd8412bed@a70549dac2bb1438.71edcfd2b64c
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 projection: local-only
 status: unresolved
 next_evidence: 同一市场与高峰窗口的渠道级 active→unblocked→eligible→shown→bookable→committed→delivered

@@ -4,9 +4,10 @@ title: CEO反攻Polly指示执行策略-源摘要
 tags: [battle, polly, execution-strategy, 反攻, source]
 related: [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜, Q2关键决策与判断, 外教质量提升战役, 直通车项目, 新老师蜜月期课程优化]
 created: 2026-08-30
-updated: 2026-09-11
+updated: 2026-09-15
 sources: ["外教战役/CEO反攻Polly指示执行策略.md"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 ---
 
 # CEO反攻Polly指示执行策略-源摘要

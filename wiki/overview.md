@@ -8,6 +8,7 @@ created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/战役总览.md", "外教战役/00_工作台.md", "外教战役/Meeting/J-a78b9945c0a79e86f3c04d74__dbf6a6fb2bea.md", "外教战役/J-14eb9db3c308978b72bbb260__b79b5176a3643822.26b513755ca8__2026-09-03_宿务Center走访洞察-原始记录与融合判定.md", "外教战役/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__菲律宾团队在 TutorOS 时代的主攻价值点.md", "外教战役/Meeting/J-1b0f0aaf0cce24916e65424e__62b353ac9ab9a5e6.885b710c2b05__dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md", "common-feed/J-ffe0292293c20cd84369f608__58475e9928597051.c5141293f4a4.json", "common-feed/J-0679a9279798682abc0ef8fe__ae91639134284436.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__ae6ca000b8f00dd6.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__91d99bd723d10193.498e8ea95ae6.md", "common-feed/J-5efc8ede790e9c335c844728__6e0f5f998db14dc4.f9c98d4ea453.jpg", "common-feed/J-a9acefbd7062263a3e56abe0__b9d9af954f32ba4e.f9c98d4ea453.jpg", "common-feed/J-2935db54b1f71762ba634d10__bec339c717d4c075.0353d5ee6e3e.json", "common-feed/J-4a77fca38e7e1f3ca7454d6f__187df81045c0ed59.c99de60e7e2e.json", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 记录
+---
 # ── 联邦房卡：描述的是「云端房间」的覆盖范围，不是本地全库 ──
 
 只查知识请先用[只读查询入口](TutorOS知识骨架落点索引.md) · [A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。

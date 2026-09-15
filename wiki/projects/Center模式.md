@@ -9,7 +9,8 @@ related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-Tu
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/Center模式.md", "外教战役/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-a7845710f12b1e4407adcd3e__587c30cbf58b0f84.bfb5b3e5e4e3.md", "common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md", "common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json", "common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json", "common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md", "common-feed/J-c367716bb978ddf2846fd86e__e7e62345afd4ef7d.900396edc370.json", "common-feed/J-0a34eb15cf600409b69b1d5f__86b1b3db9f17187a.ec04c86adec0.json"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 facility: llmwiki
 ingress_revisions: ["J-56dfc977535806ca79c8c789@d2bb8cb30063fdb4.8aa67d9eb3b6", "J-ec8e516b745b355494be9b0b@37a045e8a9f5aec8.e0be7b3e7cdb", "J-a7845710f12b1e4407adcd3e@587c30cbf58b0f84.bfb5b3e5e4e3", "J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31", "J-edd3ea34d7d27bd66c8d09ac@d6f8203b2a8ccbbf.7954bb570606", "J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a", "J-e41950a06ae371b85c5adb03@b5c1c4e31a7484b9.43a2a1f738c1", "J-735fad10d2f2ad9f83e27271@355663e6fffc3bad.aa3fe0b49a7e", "J-21d9bb317a9010618bb1160f@36eb0efdbd25baeb.4c18cf080c4a", "J-c367716bb978ddf2846fd86e@e7e62345afd4ef7d.900396edc370", "J-0a34eb15cf600409b69b1d5f@86b1b3db9f17187a.ec04c86adec0"]
 ---

@@ -8,7 +8,8 @@ related: [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲, 外教战
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md", "外教战役/J-9d51ec7a212df63bdcf515e0__e4f26d9bee4f7a22.d7f0ad9165a2__TutorOS双视角框架AI冷读v0.6.md", "外教战役/J-bc423c91c64a58e42bbcab88__9dc5a8e3cd54e1e2.9ba4ef4f0b17__TutorOSv0.6架构评审与落地建议.md", "common-feed/J-6dd5304ee21a6d5751bf0fb8__87ed0489366f3f6e.0e9826a5032f.md", "common-feed/J-bb359f2b20026bef1a0f4f23__b688e112f5d303af.eca3006d4231", "common-feed/J-e1d935f7ef69257c8625b839__bdd20a43bcc7a62c.c4f5e1f37f87.jpg", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-f8fd9005ce87882cd45f407f__355663e6fffc3bad.aa3fe0b49a7e"]
-review: 待审
+review: 已审
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 facility: llmwiki
 processing_review: complete
 ingress_revisions: ["J-6dd5304ee21a6d5751bf0fb8@87ed0489366f3f6e.0e9826a5032f", "J-bb359f2b20026bef1a0f4f23@b688e112f5d303af.eca3006d4231", "J-e1d935f7ef69257c8625b839@bdd20a43bcc7a62c.c4f5e1f37f87", "J-735fad10d2f2ad9f83e27271@355663e6fffc3bad.aa3fe0b49a7e", "J-f8fd9005ce87882cd45f407f@355663e6fffc3bad.aa3fe0b49a7e"]
