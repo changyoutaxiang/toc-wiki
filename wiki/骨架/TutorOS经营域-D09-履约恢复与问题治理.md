@@ -149,7 +149,7 @@ knowledge_revision: "D09-2026-09-15.3"
 
 原来的三个独立来源组继续保留：9 月设计、8 月 26 日治理讨论、8 月 27 日问题口径讨论。[坏课KPI-坏课治理语义岛-2026-09-11](../queries/%E5%9D%8F%E8%AF%BEKPI-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E8%AF%AD%E4%B9%89%E5%B2%9B-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）提供阅读顺序与状态核对，其整理内容不另算一份业务证据。
 
-- **[E5] 8 月 26 日原始讨论：** [听记转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-26/media/dws-听记-Bad-Class-Issue-Updates-2026-08-26.md:167>)（来源指针缺口，需补证） 10:20—10:54、56:48—57:20、65:55—66:25、67:46—68:41，分别涉及人工换师入表、何时恢复接课、开关与优先推荐的区别。它与 [E2] 是同一来源组；讨论中的方案先后仍有调整，不能只摘中途发言推定实际执行。
+- **[E5] 8 月 26 日原始讨论：** [听记转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-26/media/dws-听记-Bad-Class-Issue-Updates-2026-08-26.md:167>)（来源指针缺口，需补证；本地资料，钉钉／GitHub未提供） 10:20—10:54、56:48—57:20、65:55—66:25、67:46—68:41，分别涉及人工换师入表、何时恢复接课、开关与优先推荐的区别。它与 [E2] 是同一来源组；讨论中的方案先后仍有调整，不能只摘中途发言推定实际执行。
 - **已有有效性认定：** [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） TOC-70，2026-09-04：据事实认定有效，不强制补 A/B；保留分母及原条约束，不能外推成零误伤。
 
 <!-- query-related:start -->

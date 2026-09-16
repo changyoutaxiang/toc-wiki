@@ -22,6 +22,10 @@ TOC独立知识库的私有只读出口。共同正本在Leon本地的独立TOC 
 
 原box路径`/home/box/knowledge/toc-wiki`为历史下游配置；本仓更新不证明该下游已拉取，不据此启动旧进料队列。
 
+## Agent 读取入口
+
+外部/跨会话 Agent 先读 [AGENTS.md](AGENTS.md)：truth resolution 步骤、双层审态语义、本地依赖降档与 conflict 返回规则。
+
 ## 结构化读取入口
 
 [当前宪法读取清单](wiki/projects/tutor-os-knowledge.json)指向同版MD；旧wiki/TOC/projects/tutor-os-knowledge.json原样保留为历史资产，不作当前入口。历史块仍按本地权限读取。

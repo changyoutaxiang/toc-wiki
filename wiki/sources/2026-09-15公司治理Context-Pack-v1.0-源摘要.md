@@ -52,4 +52,4 @@ CEO Jack（黄佳佳）2026-09-15 确认发布的公司治理上下文包：五�
 
 ## 同步状态
 
-三出口已同步（2026-09-15）：本页与五篇全文在两钉钉空间（原料目录见上）逐节点回读字节一致；私有 GitHub toc-wiki 同版含整包。批次候选与登记：[_ops/batches/gov-context-pack-20260915](../../_ops/batches/gov-context-pack-20260915/manifest.json)。
+三出口已同步（2026-09-15）：本页与五篇全文在两钉钉空间（原料目录见上）逐节点回读字节一致；私有 GitHub toc-wiki 同版含整包。批次候选与登记：[_ops/batches/gov-context-pack-20260915](../../_ops/batches/gov-context-pack-20260915/manifest.json)（本地资料，钉钉／GitHub未提供）。

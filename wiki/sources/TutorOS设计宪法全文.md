@@ -16,7 +16,7 @@ review: 记录
 
 本页逐节提取HTML的21章及附录，保留折叠正文与表格文字，不是摘要。原件仍为sources中的不可变文件。本页的“记录”表示忠实转录；Leon在2026-09-10明确认领该版本为Tutor OS设计宪法，原文明示的具体待定项继续保留。（[直接认领记录](../../sources/raw/2026-09-10-TutorOS宪法认领与精选素材归库授权.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpub0BL3ymJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzn4am5KWDOnGvpb)））
 
-原件SHA256：`37a045e8a9f5aec83b7c17bc4186136651dc8c602ca61a17a365b032e91126ec`。先核上述HTML原件；本次另列转换MD与认领记录的[阅读清单](../projects/tutor-os-knowledge.json)（本地资料，钉钉／GitHub未提供），其MD行号不用于定位本页HTML提取稿。原件改变则重新提取核验，不能沿用旧稿。
+原件SHA256：`37a045e8a9f5aec83b7c17bc4186136651dc8c602ca61a17a365b032e91126ec`。先核上述HTML原件；本次另列转换MD与认领记录的[阅读清单](../projects/tutor-os-knowledge.json)（钉钉未提供；GitHub出口已提供），其MD行号不用于定位本页HTML提取稿。原件改变则重新提取核验，不能沿用旧稿。
 
 ## 阅读块 1
 

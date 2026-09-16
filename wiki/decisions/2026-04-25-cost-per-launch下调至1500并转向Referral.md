@@ -11,7 +11,7 @@ review: 已审
 date: 2026-04-25
 decided_by: 公司（Leon 与 Jen 执行对齐）
 status: 生效
-supersedes: []
+supersedes: [2026-04-15-Q2战役总纲与三标收敛]
 superseded_by: []
 ---
 
