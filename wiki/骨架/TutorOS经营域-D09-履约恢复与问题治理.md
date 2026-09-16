@@ -159,6 +159,7 @@ knowledge_revision: "D09-2026-09-15.3"
 
 - [外教侧需求X-Y-Z需求地图](../concepts/外教侧需求X-Y-Z需求地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)）
 - [抓共性负向项](../concepts/抓共性负向项.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）
+- [2026-09-16-代课规则误杀与规则变更双方可知](../decisions/2026-09-16-代课规则误杀与规则变更双方可知.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3zLQEedVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQNX6Bq8B5r9YAn)）
 - [2026-05-F5两车不合并618先行](../decisions/2026-05-F5两车不合并618先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr3w1r8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgYY7E6Jkb4Mw9r)）
 - [2026-06-29-放弃BPlus核心KPI与新基本法](../decisions/2026-06-29-放弃BPlus核心KPI与新基本法.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKKxZkWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDP0XrGWzN67Mw4)）
 - [2026-07-16-Cocos-AC版本治理](../decisions/2026-07-16-Cocos-AC版本治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4v1dqJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDpLQZ8A7depqY)）

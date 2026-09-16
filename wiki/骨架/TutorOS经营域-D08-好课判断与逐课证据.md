@@ -184,6 +184,7 @@ template_version: "1.1"
 - [好老师生命周期](../concepts/好老师生命周期.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）
 - [抓共性负向项](../concepts/抓共性负向项.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）
 - [老师质量提升飞轮](../concepts/老师质量提升飞轮.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）
+- [2026-09-16-好课定义为唯一硬P0与委员会先行](../decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi67MqNgpJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1D9PMkQJzlwrZgb)）
 - [2026-04-28-教师评价战役第一发子弹与AI匹配v1.3](../decisions/2026-04-28-教师评价战役第一发子弹与AI匹配v1.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKK2b7WzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrQXaPJGXn6lpz)）
 - [2026-05-13-Cocos战略押注路径B](../decisions/2026-05-13-Cocos战略押注路径B.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqrPgvpZWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpqrKO6GWAgozOKL)）
 - [2026-05-26-TPT500-600升BPlus](../decisions/2026-05-26-TPT500-600升BPlus.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjBdlMJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vd6YNXJzlwrZgb)）

@@ -167,6 +167,7 @@ TBT/CBT/HBT 是本报告中的分组，其完整定义及与实际授课地点�
 保留各页原有日期、认可范围和未决条件；下表只表示有关联。
 
 - [人工流程产品化AI化](../concepts/人工流程产品化AI化.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKR07XWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjmRk0RnVZd1wyK0)）
+- [2026-09-16-2027预算纳入token预算把Token当HC看](../decisions/2026-09-16-2027预算纳入token预算把Token当HC看.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fl9nYGnMWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLXpjwGk8Ke0xjE3)）
 - [2026-04-20-KOL转向与实验型定位收敛](../decisions/2026-04-20-KOL转向与实验型定位收敛.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2Dek2VxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAgOLoWyMoPYe1)）
 - [2026-04-25-cost-per-launch下调至1500并转向Referral](../decisions/2026-04-25-cost-per-launch下调至1500并转向Referral.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkBzbD8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnZeY3nVxAZB1Gv)）
 - [2026-05-09-电脑租赁AssetCo方向拍定](../decisions/2026-05-09-电脑租赁AssetCo方向拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5bvzvVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeylnmBDW1DK0g6l)）

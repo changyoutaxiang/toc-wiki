@@ -157,6 +157,7 @@ template_version: "1.1"
 
 - [一套标准两个接口](../concepts/一套标准两个接口.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm)）
 - [老师质量提升飞轮](../concepts/老师质量提升飞轮.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）
+- [2026-09-16-线上线下分开建与中心实验室关闭转CO分级](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq9r4AEXWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqmObQo8A7depqY)）
 - [2026-04-27-CE评分三维度改革方向对齐](../decisions/2026-04-27-CE评分三维度改革方向对齐.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05d6KBn8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX70opwJgk9rpMq)）
 - [2026-05-09-电脑租赁AssetCo方向拍定](../decisions/2026-05-09-电脑租赁AssetCo方向拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5bvzvVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeylnmBDW1DK0g6l)）
 - [2026-05-13-Cocos战略押注路径B](../decisions/2026-05-13-Cocos战略押注路径B.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqrPgvpZWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpqrKO6GWAgozOKL)）

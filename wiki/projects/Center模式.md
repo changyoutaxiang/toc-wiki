@@ -5,7 +5,7 @@ processing_review: corrections-applied-batch-incomplete
 type: project
 title: Center 模式
 tags: [battle, center, supply, 电脑租赁, 培训]
-related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, 直通车项目, 北美订阅制外教供给, 电脑租赁模式, 外教质量提升战役, Q2关键决策与判断]
+related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, 直通车项目, 北美订阅制外教供给, 2026-09-16-线上线下分开建与中心实验室关闭转CO分级, 电脑租赁模式, 外教质量提升战役, Q2关键决策与判断]
 created: 2026-08-30
 updated: 2026-09-15
 sources: ["外教战役/Center模式.md", "外教战役/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-a7845710f12b1e4407adcd3e__587c30cbf58b0f84.bfb5b3e5e4e3.md", "common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md", "common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json", "common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json", "common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md", "common-feed/J-c367716bb978ddf2846fd86e__e7e62345afd4ef7d.900396edc370.json", "common-feed/J-0a34eb15cf600409b69b1d5f__86b1b3db9f17187a.ec04c86adec0.json"]
@@ -18,6 +18,13 @@ ingress_revisions: ["J-56dfc977535806ca79c8c789@d2bb8cb30063fdb4.8aa67d9eb3b6", 
 
 
 # Center 模式
+
+## 2026-09-16 战略 follow-up：线上线下分开建；Sabu 实验室定关闭转 CO 分级
+
+- **线上线下分开建**：中心（offline）与线上（online）不得套用同一套建设逻辑（"do not mix them"）；TS 拆分口径从"国内/海外"改为"线上/线下"，T21、D04 归入中心 CBT 运营，拟另设 1–2 支中心原子小队。判断归属看交付形态，不看地理。
+- **Sabu 实验室定调关闭**：三个月通知房东、吸收约六个月租金、高价 PC 资产转卖 CO；理由是管理能力摊不薄——"top sales 才是最好的实验室主人"。
+- **前置条件**：先建中心评分系统（分级参考 teacher TIDE），再谈新生前几节课优先分配给中心，顺序不能反。
+- 依据：[2026-09-16-线上线下分开建与中心实验室关闭转CO分级](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq9r4AEXWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqmObQo8A7depqY)）；RCL-2026-09-16-v1（MEM-03/09）。
 
 ## 2026-09-14 知识骨架定位：与 HBT 平行
 
