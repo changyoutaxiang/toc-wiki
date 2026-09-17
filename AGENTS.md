@@ -20,6 +20,7 @@ updated: 2026-09-17
 4. 每条结论应能追溯到 source；source 不在当前出口内时按「三、本地依赖」降置信度。
 5. 不知道就回答不知道；不存在的证据不补造。
 6. 钉钉出口的页面名链接不一定可点，用紧邻的 A / Leon 节点链接进入；GitHub 出口页面名链接可直接用。
+7. GitHub 出口另提供机器索引 `agent/pages.jsonl`（每页一行的 id/type/review/answers/supersedes/source_availability/content_hash，含 `agent/manifest.json` 字段语义与 `agent/sources.jsonl` 源清单）；索引从正本派生、随发布再生成，用于低成本定位与确定性路由，冲突时仍以页面正文本为准。
 
 ## 二、审态语义（双层，避免误读状态冲突）
 

@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-17T09:30:17",
+  "generator": "_ops/build_agent_index.py（从正本 frontmatter 与落点索引派生，勿手改）",
+  "protocol": "AGENTS.md",
+  "pages": 188,
+  "exported_source_files": 506,
+  "local_only_source_ids": 89,
+  "fields": {
+    "id/path": "仓库根相对路径，稳定标识；引用用「路径+节标题」",
+    "review": "页级权威审态：已审=蒸馏忠实性认可(2026-09-15批量认可语义)≠逐条人审；记录=留痕；待审=未认可",
+    "status": "业务状态（如生效），有则给出",
+    "answers": "本页回答的经营问题（落点索引原文）",
+    "supersedes/superseded_by": "新旧链，双向一致（lint 保证）；被 supersede 页只作演化解释",
+    "source_availability": "exported=出口内可读；local_only=本地限定降置信度；internal_ref=库内页引用；non_file=跨脑/对话指针；unresolved=登记待核",
+    "content_hash": "导出字节 sha256"
+  },
+  "self_check": "PASS"
+}
