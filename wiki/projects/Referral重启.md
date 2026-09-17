@@ -21,7 +21,7 @@ ingress_revisions: ["J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31", 
 
 > **权威阅读顺序（2026-09-14 · 语意层导读 · REF 岛 P0）**
 > 1. **CPL／渠道决策（已审）** → [2026-04-25-cost-per-launch下调至1500并转向Referral](../decisions/2026-04-25-cost-per-launch%E4%B8%8B%E8%B0%83%E8%87%B31500%E5%B9%B6%E8%BD%AC%E5%90%91Referral.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkBzbD8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnZeY3nVxAZB1Gv)）（1500 约束 + 向 Referral 集中；**不**证明现行 CPL 已达标）
-> 2. **项目叙事（本页·待审）** → 组织问题优先的三层打法；漏斗分流已合并为本页历史附录（**不作**现行渠道切分正本）
+> 2. **项目叙事（本页·内容级待审）** → 组织问题优先的三层打法；漏斗分流已合并为本页历史附录（**不作**现行渠道切分正本）
 > 3. **高质量假设（待验证）** → [2026-08-14-高质量获客与转介绍-战略提醒](../queries/2026-08-14-%E9%AB%98%E8%B4%A8%E9%87%8F%E8%8E%B7%E5%AE%A2%E4%B8%8E%E8%BD%AC%E4%BB%8B%E7%BB%8D-%E6%88%98%E7%95%A5%E6%8F%90%E9%86%92.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4aeYOxJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkdbmve8BQEx5rG)）（假设 ≠ 已证明高质量获客；非 H2 新增项目／预算／DRI）
 > 4. **数据开口** → [外教转介绍数据口径冲突与待核清单](../queries/%E5%A4%96%E6%95%99%E8%BD%AC%E4%BB%8B%E7%BB%8D%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E5%86%B2%E7%AA%81%E4%B8%8E%E5%BE%85%E6%A0%B8%E6%B8%85%E5%8D%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKYOABk18akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqLMq6MJGXn6lpz)）／[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） **TOC-79**（未核前不得 CURRENT ANSWER、不得择一写成正本）
 > 5. **候选未扩权**：KOC／Champions／原子小队／激励方案＝设计候选，**未**批准为制度；09-10：有运营人员 ≠ 端到端 owner 已任命
@@ -37,7 +37,7 @@ Katherine 回忆自己此前做 Referral 时，一名“聪明的老师”自行
 
 本批没有该群组、线索数量、转化、留存、质量、时间窗或后续复制记录，因此这里只保存**一手历史案例与待验证问题**，不证明 Facebook 群组现在仍有效、不把“超级给力”换算成 ROI，也不据此批准渠道、预算或 Referral 机制。聊天内 `TOC小王` 的战略回答是 Agent 输出，不作为第二份独立来源；同页图片、文件、音频和链接正文未随 task 交付，其独有内容未读。
 
-来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json.delivery.json)（本地资料，钉钉／GitHub未提供）。Journal 登记发生日 2026-09-10、接收日 2026-09-11、actor=`multiple`，无明确 correction 或 supersedes；本段保持 `review: 待审`、`projection: public`。
+来源原件：[聊天 JSON](../../sources/provenance-local/common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json.delivery.json)（本地资料，钉钉／GitHub未提供）。Journal 登记发生日 2026-09-10、接收日 2026-09-11、actor=`multiple`，无明确 correction 或 supersedes；页级 review 已于 2026-09-15 批量认可转已审（蒸馏忠实性），`projection: public`。
 <!-- common-feed:J-e595745aee1d632a2143e153@b6d159e866f59cd9.30582acd6940:end -->
 
 <!-- common-feed:J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31:start -->

@@ -14,7 +14,7 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 > **清道夫标注 2026-09-11**：维持 source 摘要/索引位，不升格为独立 concept/project。
 
 
-> **首行状态标注**：源文件 `status: active`、`decision_state: aligned`、`confidence: medium`、`updated_at: 2026-05-11`。内容为 CEO 反攻指示（[2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)））的执行策略拆解，其中「好老师国内/海外分配比例」等多项为**待 Leon 拍板**的候选建议，本页 `review: 待审`——不得当作已生效结论引用。
+> **首行状态标注**：源文件 `status: active`、`decision_state: aligned`、`confidence: medium`、`updated_at: 2026-05-11`。内容为 CEO 反攻指示（[2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)））的执行策略拆解，其中「好老师国内/海外分配比例」等多项为**待 Leon 拍板**的候选建议，页级 review 已于 2026-09-15 批量认可转已审（蒸馏忠实性）——内容不得当作已生效结论引用。
 
 ## 源定位
 

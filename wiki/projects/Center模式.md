@@ -47,7 +47,7 @@ ingress_revisions: ["J-56dfc977535806ca79c8c789@d2bb8cb30063fdb4.8aa67d9eb3b6", 
 
 Jack 在三人聊天中提议把 CBT 与 TBT 统一称为 **Center-based teacher（CBT）**，并与 HBT 区分；Jennifer 说明区分的理由涉及费用和比较，并对该提议作赞回应。（源：`J-c367716bb978ddf2846fd86e`，revision `e7e62345afd4ef7d.900396edc370`，prepared 8–38 行；发生日、接收日均为 2026-09-12；sender Jack、Jennifer。）
 
-这是一项**待审术语提议**，不是 Leon 拍板、正式术语表、收费规则或统计口径。现有资料仍提示 CBT/TBT/HBT 的比较混入市场、合同、资历、课程、分母和时间窗差异；统一称谓不能自动统一数据口径。正式采用前仍需明确 CBT 与 TBT 各自原定义、HBT 边界、适用系统字段、费用规则、比较分母和批准人。本页继续保持 `review: 待审`、`projection: public`。
+这是一项**待审术语提议**，不是 Leon 拍板、正式术语表、收费规则或统计口径。现有资料仍提示 CBT/TBT/HBT 的比较混入市场、合同、资历、课程、分母和时间窗差异；统一称谓不能自动统一数据口径。正式采用前仍需明确 CBT 与 TBT 各自原定义、HBT 边界、适用系统字段、费用规则、比较分母和批准人。页级 review 已于 2026-09-15 批量认可转已审（蒸馏忠实性），`projection: public`。
 <!-- common-feed:J-c367716bb978ddf2846fd86e@e7e62345afd4ef7d.900396edc370:end -->
 
 ## 2026-09-12 CEO高管分享：经营方向进一步明确

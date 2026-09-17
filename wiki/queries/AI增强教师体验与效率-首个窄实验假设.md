@@ -28,7 +28,7 @@ ingress_revisions: ["J-f596ee15874226f331fbe04b@ff8e784342411433.8c00178b6aaa"]
 同页其他未交付图片/链接不作为证据；图片独有主张保持 held。来源原件：[聊天页](../../sources/provenance-local/common-feed/J-f596ee15874226f331fbe04b__ff8e784342411433.8c00178b6aaa.json)（本地资料，钉钉／GitHub未提供）与[完整旁路](../../sources/provenance-local/common-feed/J-f596ee15874226f331fbe04b__ff8e784342411433.8c00178b6aaa.json.delivery.json)（本地资料，钉钉／GitHub未提供）。页面保持 `projection: public`。
 <!-- common-feed:J-f596ee15874226f331fbe04b@ff8e784342411433.8c00178b6aaa:end -->
 
-> **首行状态标注**：源文件 `type: strategy-hypothesis`、`status: hypothesis-selected-for-project`（Leon 于 2026-08-11 选择进入外教战役正本的方向假设，来源：蜂巢系统 Agent Hive 群内输入、蜂巢双周会与日终候选 C-010）。not_canonical_for 明确排除「已验证收益、正式项目立项、教师评价或自动权益动作」。本页 `review: 待审`——不是已验证结论。
+> **首行状态标注**：源文件 `type: strategy-hypothesis`、`status: hypothesis-selected-for-project`（Leon 于 2026-08-11 选择进入外教战役正本的方向假设，来源：蜂巢系统 Agent Hive 群内输入、蜂巢双周会与日终候选 C-010）。not_canonical_for 明确排除「已验证收益、正式项目立项、教师评价或自动权益动作」。页级 review 已于 2026-09-15 批量认可转已审（蒸馏忠实性）——内容不是已验证结论。
 
 ## 假设
 

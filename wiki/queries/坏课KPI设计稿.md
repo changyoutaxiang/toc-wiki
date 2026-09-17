@@ -20,7 +20,7 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 > 2. **治理动作** → [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）（已审；小队事件口径正本）
 > 3. **稳定类** → [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）（五类 + 课后优先）
 > 4. **Q3/Q4 方向（候选）** → [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）（方向认可 ≠ 已挂 KPI）
-> 5. **本页** = KPI 口径**讨论稿 / 非生效 KPI**（待审；勿当已冻结正式口径）
+> 5. **本页** = KPI 口径**讨论稿 / 非生效 KPI**（页级已审 09-15 批量认可，蒸馏忠实性；内容勿当已冻结正式口径）
 >
 > **当前接续（2026-09-15）**：TOC-15 的迟到 **1 分钟起算**、TOC-16 的假早退判定，已写入下方 Wiki 工作事件表，完成 TOC-92 的本地回写部分。四版 HTML 原件保留历史；这不代表公司正式事件表、数据实现或 KPI 已采纳。TOC-17 数据源仍未定，未定前只影子运行。
 

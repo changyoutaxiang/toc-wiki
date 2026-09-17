@@ -14,7 +14,7 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 > **归档候选 2026-09-11（Leon 批）**：draft/薄内容，待后续物理归档；本轮不搬家。
 
 
-> [!warning] 待审
+> [!warning] 页级 review 已于 2026-09-15 批量认可转已审（蒸馏忠实性）
 > 本页编译自《老师APP重启.md》（decision_state draft、updated_at 2026-05-15、human_loop leon）。
 > 项目档案待拆解，内容未经 Leon 审定，**不得当作正式结论引用**。
 
