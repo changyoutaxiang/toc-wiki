@@ -2,146 +2,181 @@
 projection: public
 type: synthesis
 title: Tutor OS 经营域 D01｜学习需要与交付承诺
-tags: [TutorOS, 第二层经营域, 学习需要, 交付承诺, 供需]
-related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文, TOC成立后-教师运营系统地图与责任清单, X-Y-Z三轴经营模型]
+tags: [TutorOS, 第二层经营域, 学习需要与交付承诺, 认知骨架]
+related: [TutorOS第二层经营地图, D01-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-15
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md", "外教战役/X-Y-Z三轴经营模型.md"]
-review: 已审
-review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
-architecture_version: "1.1"
+updated: 2026-09-17
 meaning_domain: D01
-knowledge_revision: "D01-2026-09-15.1"
-template_version: "1.1"
+architecture_version: "1.1"
+template_version: "2.0"
+knowledge_revision: "D01-2026-09-17.v2.1"
+based_on_revision: "D01-2026-09-15.1"
+review: 待审
+content_review_status: pending
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
+evidence_checked_on: 2026-09-17
+evidence_register: "../queries/D01-认知依据与演化.md"
+active_hypotheses: [D01-H01, D01-H02]
+open_questions: [D01-Q01, D01-Q02, D01-Q03]
+source_snapshot_note: "本轮以冻结旧域页为改写基线，关键来源按实际章节回读；逐文件指纹与范围见本轮交付记录，不以旧回执代替新验收。"
+source_pointer_scope: "sources保留旧来源导航并接本轮依据页；具体本轮实读范围以附页及读取清单为准，旧指针不表示本轮全读。"
+sources:
+  - "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"
+  - "外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md"
+  - "外教战役/X-Y-Z三轴经营模型.md"
+  - "wiki/queries/D01-认知依据与演化.md"
+  - "wiki/concepts/TOC成立后-教师运营系统地图与责任清单.md"
+  - "wiki/concepts/X-Y-Z三轴经营模型.md"
+  - "wiki/decisions/2026-09-14-TutorOS知识骨架认领与共建分工.md"
+  - "wiki/decisions/2026-09-16-代课规则误杀与规则变更双方可知.md"
+  - "wiki/decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md"
+  - "wiki/queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md"
+  - "wiki/sources/TutorOS设计宪法全文.md"
+  - "wiki/骨架/TutorOS知识总图.md"
+  - "wiki/骨架/TutorOS第二层经营地图.md"
 ---
 
-# 学习需要与交付承诺
+# D01｜学习需要与交付承诺
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
+[经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [证据、历史与阅读边界](../queries/D01-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPqL5j2xJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZG4RoGZ85daZ90D)）
 
-**我们在讨论什么：** 面对一个学生的学习需要，我们究竟答应由谁、在什么时候、提供怎样的教学？这里先把承诺说清；有多少可用老师、怎样选老师和上课后的结果，分别与相邻经营域接起来看。
+> **用途：** 接上当前理解、解释新案例、寻找下一份有用证据。正式决定、已确认进展与效果假设各按原范围阅读。
 
-**目前最重要的看法：** 可信的承诺，要同时说清学生需要、老师能教什么、届时能不能上课，以及客户接受哪些安排。“名单里有老师”还不足以让家长放心。
+<a id="学习需要与交付承诺"></a>
+<a id="2-主要矛盾本年度和当季度分别难在哪里"></a>
+<a id="本年度的矛盾2026-年建议这样理解"></a>
+<a id="当季度的矛盾2026-年第三季度待判断"></a>
+<a id="两者怎样相连"></a>
+<a id="now"></a>
+## 1. NOW｜现在怎么看
 
-**最值得接着想的一件事：** 一节课开始前，哪些事情必须先弄清，哪些可以留给老师在课堂上判断？见下文“当下的好奇”。
+**核心问题：** 一个孩子需要怎样的学习支持，怎样才能成为我们说得清、供给接得住、家长也认可的承诺？
 
-最近更新：2026-09-15。按共同模板整理现有认识，首次列出年度、季度的建议问法和好奇问题；本次没有增加承诺兑现效果的实测证据。
+**当前判断：** 把“孩子这阶段要完成什么、谁适合教、何时真能上、变化时接受什么选择”接起来，才形成可信的交付承诺。老师名单、预约成功、最终有人上完课，各自只说明一部分。[E01][] [E02][]
 
-## 1. 客户价值：做好以后，谁会得到什么
+**当前重点：** 先辨认一个承诺到底包含哪些不可替代的部分。家长说“我要这个老师”，可能在保护已经建立的信任、固定时间或教学方式；不能直接翻译成某个评分条件。最值得继续追问的是：[在具体家庭里，哪一项变化会让原承诺不再成立？](#d01-q02)
 
-希望看到这样的经历：家长为孩子约课时，知道这位老师为什么适合、能否在所需时段授课，以及后续能怎样继续。上课前，老师了解孩子目前的困难和本课重点；发生变动时，家长得到清楚的说明和真正可选的方案。这是目标场景，尚不是已经验证的交付结果。[E1]
-
-学生与家长得到的是学习安排和承诺之间的一致。老师得到的是清楚、适合自己能力与时间的授课安排，不必承接事先没有说清、自己也没有条件完成的要求。公司因此有机会少一些失约、返工和信任损失，但这些改善仍需用实际经历验证。
-
-预约成功、接单量增加、教师名单扩大，都不能单独证明这件事做好了。还要看学生最后是否上到了所需的课，以及没上成的承诺有没有被看见和妥善处理。[E1][E3]
-
-## 2. 主要矛盾：本年度和当季度，分别难在哪里
-
-### 本年度的矛盾（2026 年，建议这样理解）
-
-**学生需要和老师条件都在变化，我们仍要给出让人信得过的具体承诺。** 承诺过满，会把供给中的不确定变成客户的失望；过于保守，又可能让原本可以满足的需要没有机会被接住。
-
-建议把全年想要的变化理解为：更多客户能得到符合学习需要、时段合适且实际兑现的安排；遇到无法满足的需要，也能说清差在哪里。现有设计支持这个方向，但本页还没有足够的全年实际情况，不能认定这已是公司确定的年度首要矛盾。[E1][E2]
-
-### 当季度的矛盾（2026 年第三季度，待判断）
-
-**建议先看清：我们口头上、页面上和预约时答应的事，最后是否是同一件事。** 尤其要分清原老师是否按约上课、客户是否接受代课，以及代课以后教得怎样。
-
-Tutor OS 的设计已经要求保留这些区别，但设计文件不能证明真实课次中的记录和交接都已接通。最需要补的是几段完整经历：当初怎么答应、后来哪里变了、客户是否接受、实际怎样交付。[E1]
-
-### 两者怎样相连
-
-先看清承诺与实际之间在哪里走样，才能判断全年该改善需求说明、供给准备，还是客户沟通。若主要问题其实出在某类课程或时段，就应回到那个具体缺口，不把所有问题都归结为“承诺不清”。
-
-## 3. 做好这件事，靠什么
-
-让下面几步彼此接得上。[E1][E2]
-
-| 一路要问的问题 | 需要说清什么 |
+| 现在能确定什么 | 仍不能据此确定什么 |
 |---|---|
-| 学生这一课需要什么？ | 当前起点、本课目标、课程任务和必要的个人情况；老师要能看懂、用得上 |
-| 谁能在这个时候教？ | 教师资格、所能教的课程、真实可约时段、设备网络及必要支持 |
-| 我们具体答应了什么？ | 原约老师、市场、课程、时间、固定或灵活安排，以及客户实际接受的选择 |
-| 最后发生了什么？ | 原老师是否到课，是否取消、改期或代课；有变化时，原承诺与实际安排都保留 |
-| 下一次应怎样更准确？ | 结合课堂结果、未满足的需要和客户反馈，修正下一轮准备与承诺 |
+| Tutor OS 设计宪法把“每个孩子得到适合、可兑现的真人教学”作为设计方向；学习、供给、服务、增长各有接口。[E01][] | 这些角色和接口已经按设计投入运行、承诺被持续兑现。 |
+| 9月16日确认：规则生效时受影响双方应知晓；修复不可见优先于继续提高规则精度。[E04][] | 误杀已经修好，或所有家庭都已完成告知。 |
+| 好课定义是9月16日唯一硬P0；教师数据汇总、晋升与小费、个性化任务部署后置。[E05][] | 好课标准已完成，或可凭本页直接生成新的个性化教学任务。 |
 
-本课教学目标和学生跨课进步，由负责学习与课程的团队判断；Tutor OS 负责组织合格、适配的真人教学；客户偏好、代课接受和恢复由服务团队承接；市场与销售把真实可用的供给讲给客户。各方用同一段实际经历接力，具体职责与执行安排仍须按正式约定落实。[E1]
+这些是不同层的确定性：设计、正式决定、实际经历和效果不能互相代替。既有决定继续有效；本页新增综合仍待审。
 
-一节课适合作为检查承诺是否兑现的完整单位。没有上成的课也留下来；后来有人补上课，不能抹掉原承诺曾经失约。改期与代课保留前后关系，实际上的一节课不重复计算。这种“课堂交付档案”是已有设计里的工作定义，不表示已经新增或上线一套产品。[E1]
+<a id="1-客户价值做好以后谁会得到什么"></a>
+<a id="3-做好这件事靠什么"></a>
+<a id="6-怎么取舍"></a>
+<a id="model"></a>
+## 2. MODEL｜价值怎样产生
 
-**居家授课（HBT）是当前存量主流，与中心授课（Center）平行。** 居家要核对分散教师的时区、真实时段、资格和设备网络；在线或开放过时段，不等于此时能交付。中心还要看老师能否到岗、席位和公共网络是否可用、现场支持是否跟得上。座位多、场地满，也不等于客户所需的课能约到。两边都坚持 Every Lesson Counts——每一节课都要有价值，并共同保留学生需要和实际交付的记录。
+**用一个场景进入（诊断示例）：** 孩子愿意跟一位熟悉的老师开口，家长购买时理解为“每周这个时间能继续跟他学”。体验课顺利、老师评价高，却没有后续可约时段。此时“有好老师”和“能兑现这位孩子的承诺”之间仍有缺口。这个例子用于检查承诺，不代表一次新记录的经营事件。[E01][] [E02][]
 
-教师从哪里来，见[教师获取与准入](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)）；总体缺多少，见[产能与供需配置](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)）；合适老师怎样被选中，见[教师价值呈现与匹配](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)）；连续授课见[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）。上课后的质量和异常处理分别回到[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)）。
+### 从学习需要走到可兑现的约定
 
-## 4. 核心假设：我们相信什么，凭什么相信
+```text
+孩子此刻的学习需要 → 可承担任务的教师与条件 → 说得清的承诺 → 实际经历与变化 → 下一次更可靠的承诺
+       ↑                                                │
+       └──────────── 课堂证据、客户反馈与履约记录 ──────────┘
+```
 
-**第一条：把少量关键学习需要提前说清，可能帮助我们更准确地选老师、做准备。** 前提是信息可靠、没有过时，老师看得懂，而且确实会影响教学。现有宪法提出这个方向，尚未证明需要写到多细。若更简短的说明同样支持学习、又明显减少准备负担，就应缩减要求；若信息已经齐全仍经常选错老师，就要查教师能力与可约条件，不能继续堆材料。[E1]
+| 环节 | 真正要弄清的事 | 容易混淆的替代物 |
+|---|---|---|
+| 理解需要 | 当前学习任务、已有基础、影响上课的关键条件；哪些信息仍未知 | 填得很长的表单，或只知道年龄和级别 |
+| 判断能否承接 | 教师资格、课程适配、授课条件与真实时段；同一时段是否已被占用 | 教师总人数、主页展示、一个综合等级 |
+| 明确承诺 | 原老师、课型、时间、关系连续性，以及家长真实接受的替代范围 | 销售口头描述与后台默认规则各讲一套 |
+| 看实际经历 | 原约定是否兑现；变化是否解释、是否接受；课堂到底发生什么 | 有老师接走就算原承诺完成 |
+| 回流认识 | 哪些需要理解错了，哪些是供给或规则问题，下一次如何收窄或改善 | 把所有问题归到老师能力不足 |
 
-**第二条：说清能兑现的范围和可接受的替代方案，可能更有利于长期信任。** 前提是客户知道自己在选择什么，供给状态真实有效，变化能及时告知。现有责任地图支持把需求、供给承诺和失约处理连起来，但没有直接证明这种做法对客户的实际影响。若太多可满足的需求被当成“不确定”拒绝，或客户的选择经常变化，就要重看承诺怎么表达、确认到哪一步，保留有边界的备选方案。[E1][E2]
+这条链成立，需要课前信息足够可信、有人使用，且供给确认能够接到实际约课。收集更多信息本身不产生价值；如果老师拿不到、课程无从调整，或答案已经过时，信息只增加家庭负担。孩子在课堂中显露的新需要，也应允许老师补充判断。[E01][] [E02][]
 
-这两条都需要成功、失败和无法判断的实际课次一起检验。中心排班看上去更稳定，也不自动证明承诺更可信；要在相近课程、时段和学生需要下比较。
+### 四种结果分别留下
 
-## 5. 最新认知：现在怎么看，最近哪里变了
+同一堂课至少要保留：**原承诺是否兑现、变化后是否恢复上课、孩子学到了什么、客户是否接受后续安排**。代课可以让孩子及时上课，但原老师未兑现仍然成立；家长接受这一次替代，也不自动表示接受长期换师。被取消、未开出的承诺不能从观察范围里消失。同一节实际授课也不能因多个系统接力而被重复算作多次交付。[E01][] [E04][]
 
-目前保留三点：
+### 这里真正的取舍
 
-1. **先问要交付什么，再问有多少老师。** 需求不清时，名单再长也不能证明够用。
-2. **答应、实际授课、客户是否接受变化，要分别看。** 补位可以恢复服务，但不能改写原承诺的历史。
-3. **跨团队的约定要接到客户结果。** 现有“需求—产能”设计已经要求说清预测时间、数量、课程、能力、市场、时段和变化处理；具体负责人、权限与运行方式仍待确认。[E2]
+**更贴近个人需要，还是更容易稳定兑现？** 过度定制会把供给压到极窄，保守到只说“什么都不能承诺”又会失去可满足的需要。先识别家庭真正不能让步的部分，再讨论其他有条件的选项，比把所有偏好都写成硬条件更有希望；这一机制仍需真实案例检验。[E01][] [E03][]
 
-2026-09-14，本域从总图中的需求入口展开为长期经营问题：既不替代学生学习路径，也不等于供给预测。2026-09-15，进一步把“承诺怎样可信”拆成年度、季度的建议判断，以及两个待验证的假设、三个好奇问题。这是思考方式的展开，没有新增排课规则、接口可用性或业务成果。
+**快恢复，还是保留关系连续性？** 紧急替代时，要同时告诉家长可用选择和损失，给老师可解释的规则。恢复速度不能抵销原承诺破坏，长期关系也不能成为让孩子一直没课上的理由。处理本身还会影响教师的机会、所得和信任，不能把全部代价转给老师。[E01][] [E04][]
 
-## 6. 怎么取舍
+这套模型把学习目标交给学习与课程侧共同确认，Tutor侧确认真人教师可交付范围，服务侧承接解释与恢复，增长侧使用真实可售内容。它描述责任接口，不替公司正式指定组织和人员。[E01][] [E02][]
 
-目前倾向先把客户真正需要、老师真实能做的部分说清，再给出承诺。这样可能少一些快速成交的便利，却更容易看清供给能否兑现。
+<a id="4-核心假设我们相信什么凭什么相信"></a>
+<a id="beliefs"></a>
+## 3. BELIEFS｜哪些判断仍待检验
 
-也要保留合理的灵活性。人工预测、候选老师或暂时预留可以帮助接住变化中的需求；采用时，应说清哪些已确认、哪些还在等待，何时释放预留，以及冲突或失败后怎么办。不能把候选当成已经可用的课，也不必等到所有信息完美才回应客户。
+<a id="d01-h01"></a>
+### D01-H01｜少量关键课前信息，可能比更长的画像更有用
 
-若真实材料表明，客户更在意某种学习连续性而非始终同一位老师，可以重新组织可选方案；但客户没有接受的替代，不能由我们替他接受。涉及补偿、正式排课和资格变化，继续按相应规则处理。
+**判断：** 如果信息正好能改变选师或备课，并可靠地到达使用者，就可能提高课堂适配。这里相信的是“可行动的信息”，不是信息量。[E01][] [E02][]
 
-## 7. 当下的好奇
+- **支撑与权重：** 设计宪法与责任地图给出机制理由，旧域页保留同一假设；目前没有本域独立对照结果，权重有限。
+- **会怎样改判：** 信息很完整但仍经常错配，要先查课程、教师能力和时段限制；若删减表单后匹配与学习体验不降，应缩减收集，而非归咎客户不配合。
+- **下一份有用证据：** 沿一个孩子的连续几课，比较老师实际使用了哪条课前信息、改变了什么动作，以及孩子因此有什么可见变化。
 
-以下问题于 2026-09-15 首次列入，还没有答案。
+<a id="d01-h02"></a>
+### D01-H02｜把可兑现范围和替代条件说清，可能更有利于长期信任
 
-### 一节课开始前，哪些事情必须先弄清，哪些可以留给老师在课堂上判断？
+**判断：** 家长预先理解限制、变化时拥有真实选择，比到课前才发现系统替自己作了决定，更有希望维持信任。[E01][] [E04][]
 
-**为什么值得想：** 既想让老师有准备，也想保留教学判断，避免课前信息越来越多却没有帮助。
+- **支撑与权重：** 9月15日静默规则误杀提供了明确反例，9月16日形成双方可知原则。它有力支持修复不可见的必要性；对长期信任提升的幅度与普遍性仍没有验证。
+- **会怎样改判：** 充分解释仍频繁失约，说明承诺范围或供给能力有问题；告知不能为失约免责。若过早收窄承诺使本可满足的需求流失，也应调整边界。
+- **下一份有用证据：** 保留原约定、变化说明、客户选择、实际履约及后续关系，观察“解释了但没接住”和“接住且被接受”的区别。
 
-**目前想到哪了：** 宪法要求本课重点适量、老师能看懂，但还没有材料证明最有用的是哪些信息。[E1] 值得留意同类课堂中，哪些事没提前知道真的影响了教学，哪些内容老师从未用到，以及老师为什么临时改变教法。
+<a id="7-当下的好奇"></a>
+<a id="一节课开始前哪些事情必须先弄清哪些可以留给老师在课堂上判断"></a>
+<a id="家长说我要这个老师时最想保住的究竟是什么"></a>
+<a id="那些最终没有约成课的学习需要我们看见了多少"></a>
+<a id="frontier"></a>
+## 4. FRONTIER｜接下来想弄清什么
 
-### 家长说“我要这个老师”时，最想保住的究竟是什么？
+<a id="d01-q01"></a>
+### D01-Q01｜课前必须知道什么，什么应留给课堂中的专业判断？
 
-**为什么值得想：** 可能是孩子已经建立的信任，也可能是时段、教法或连续安排；弄清以后，承诺才能更贴近真实需要。
+**为什么好奇：** 多问会增加家庭负担，少问可能让老师重复摸索。**当前认识：** 信息是否改变教师动作比字段是否齐全更重要，但还没有足够案例划定最小集合。**值得继续看：** 同一个学生在准备充分和信息不足的课中，哪里出现可解释的差别；同时看老师现场发现了哪些课前问不到的需要。[E01][] [E02][]
 
-**目前想到哪了：** 现有设计把客户选择、原约老师和代课接受分别保留，尚未回答不同家庭的选择理由。[E1] 值得看约不上、改期或换师时家长如何权衡，并与[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）一起看后来的体验；不能替客户推定他愿意接受哪一种变化。
+<a id="d01-q02"></a>
+### D01-Q02｜家长说“我要这个老师”，实际在保护什么？
 
-### 那些最终没有约成课的学习需要，我们看见了多少？
+**为什么好奇：** 直接解释成固定老师需求，会漏掉时间、信任、教学习惯和孩子愿意开口等不同动机。**当前认识：** 同一个动作可能对应不同需要，一次接受代课也不等于长期接受。**值得继续看：** 家长主动接受或拒绝替代的具体理由，以及孩子换师后的学习连续性，先让真实选择澄清承诺。[E01][] [E04][]
 
-**为什么值得想：** 如果只看已经接受的预约，就可能只学会改善现有服务，看不见我们一直没有接住的人。
+<a id="d01-q03"></a>
+### D01-Q03｜哪些学习需要从未进入预约记录？
 
-**目前想到哪了：** 现有责任地图要求保留需求与缺口，XYZ 的已确认原则也提醒我们看见尚未被接住的客户。[E2][E3] 但本页没有足够材料判断遗漏发生在哪里。值得留意没有合适时段、没有合适老师或沟通后放弃的真实原因，再与供需域区分哪些可以改善、哪些暂时超出服务范围。
+**为什么好奇：** 只研究成功预约者，会把“找不到合适时段”“看不懂老师”“担心不能继续约”的家庭漏掉。**当前认识：** 未进入系统的需要不等于没有需求；其规模与成因仍未知。**值得继续看：** 少量放弃预约或未成交的完整经历，区分学习需要未理解、表达不清、价格或真实供给不足，不从单一原因推全体。[E01][] [E03][]
 
-新材料可以推进这些问题，也可以提出新的问题。有了线索时保留出处和仍未回答的部分；普通好奇先留在本页，不自动变成待办。维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
+<a id="5-最新认知现在怎么看最近哪里变了"></a>
+<a id="delta"></a>
+## 5. DELTA｜认识怎样走到这里
 
-## 资料与以前的讨论
+| 日期与材料 | 认识变化 | 保留的限制 |
+|---|---|---|
+| 2026-09-10 设计宪法 | 将学习需要、真人供给、关系与履约放进同一套设计，明确“说得出”还要“接得住”。[E01][] | 设计文件不能证明责任接口已运行。 |
+| 2026-09-14 骨架认领 | Tutor OS从真人外教持续交付展开；居家与中心在骨架中平行，不能把中心化作为所有承诺的前提。[E06][] | 认领骨架不等于每条域内综合已审或每种模式已验效。 |
+| 2026-09-15 事件／9月16日确认 | 代课误杀显露出“系统知道、双方不知道”的承诺破坏，形成双方可知、先修不可见的明确原则。[E04][] | 当时窗口没有修复结论；不反推今天一定仍未修复。 |
+| 2026-09-16 正式决定 | 好课标准成为相关新建设的共同前置；客户声音进入标准收集，个性化任务部署后置。[E05][] | 不能把本域需求描述直接当作已完成的好课定义。 |
 
-- **[E1] Tutor OS 设计宪法：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)），重点见第 2—3、7、9—10 章。该版本已被认领为设计宪法，具体建设建议、待定规则和运行效果仍各有边界；[HTML 原件](../../sources/provenance-local/common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html)（本地资料，钉钉／GitHub未提供）保留原文。
-- **[E2] 教师运营责任地图：** [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC%E6%88%90%E7%AB%8B%E5%90%8E-%E6%95%99%E5%B8%88%E8%BF%90%E8%90%A5%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%9B%BE%E4%B8%8E%E8%B4%A3%E4%BB%BB%E6%B8%85%E5%8D%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)），重点见“需求—产能契约”。一级架构已获接受，具体任命、授权、指标和业务规则仍待确认；原稿为 `sources/外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md`。
-- **[E3] 客户结果与组织能力分别判断：** [X-Y-Z三轴经营模型](../concepts/X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）第 3—6 章及“稳定内核”。已确认的是稳定内核；通俗版新增说法仍待审。原件为 `sources/外教战役/X-Y-Z三轴经营模型.md`。
+<a id="资料与以前的讨论"></a>
+<a id="相关知识页按需读取"></a>
+<a id="boundaries"></a>
+## 6. BOUNDARIES｜边界与下钻
 
-供给状态中的既有开口继续见[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）。以上三组材料承担不同解释作用，不把其中的架构相互印证当成实际交付已经有效。
+| 接口 | 这里交出什么，继续到哪里 |
+|---|---|
+| 学习与课程侧 | 确认学习目标与课程需要；Tutor侧不独占教学目标解释权。[E01][] |
+| [D04 产能与供需配置](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） / [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） | 将拟承诺的时间、任务与资格交给真实供给和条件核对；居家、中心平行判断。 |
+| [D06 教师价值呈现与匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） / [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 把需要转成可理解的选项；继续追问选择后能否持续学习。 |
+| [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） / [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 学习质量与失约恢复分别判断，不用恢复成功覆盖学习未知或原承诺未兑现。 |
 
-<!-- query-related:start -->
-## 相关知识页（按需读取）
+正式决定以各决策页为准；组织、数字与实际经营状态回公司系统和业务正本。本页不新增承诺条款、招生话术、个性化任务或评价规则。
 
-保留各页原有日期、认可范围和未决条件；下表只表示有关联。
+[证据登记与全部旧相关页](../queries/D01-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPqL5j2xJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZG4RoGZ85daZ90D)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
-- [TOC成立后-教师运营系统地图与责任清单](../concepts/TOC成立后-教师运营系统地图与责任清单.md) （[A](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6LgE4aW3bzYmDO) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLqEADgVgN7R35y)）
-- [X-Y-Z三轴经营模型](../concepts/X-Y-Z三轴经营模型.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）
-- [2026-05-F5两车不合并618先行](../decisions/2026-05-F5两车不合并618先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr3w1r8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgYY7E6Jkb4Mw9r)）
-- [2026-08-10-好外教在51Talk-价值传播首战参谋方案](../projects/2026-08-10-好外教在51Talk-价值传播首战参谋方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaY7NlgWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnq3kMq86EDybno)）
-- [2026-08-21-2027外教侧持续交付系统-战略假说](../queries/2026-08-21-2027外教侧持续交付系统-战略假说.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmX7DAX8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TD6anxbjW3bzYmDO)）
-- [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）
-- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
-
-<!-- query-related:end -->
+[E01]: ../queries/D01-认知依据与演化.md#e01
+[E02]: ../queries/D01-认知依据与演化.md#e02
+[E03]: ../queries/D01-认知依据与演化.md#e03
+[E04]: ../queries/D01-认知依据与演化.md#e04
+[E05]: ../queries/D01-认知依据与演化.md#e05
+[E06]: ../queries/D01-认知依据与演化.md#e06

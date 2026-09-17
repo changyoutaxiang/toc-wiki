@@ -5,7 +5,7 @@ title: Tutor OS 第二层经营地图
 tags: [TutorOS, 意义层, 经营域, 人机共建, HBT, Center]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS知识骨架维护约定, TutorOS知识骨架落点索引, 2026-09-14-TutorOS知识骨架认领与共建分工]
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 已审
 review_scope: 两层意义骨架的建设方向已经Leon认可；本次域划分及新增综合未逐条认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
@@ -14,7 +14,7 @@ architecture_version: "1.1"
 
 # Tutor OS 第二层经营地图
 
-只查知识请先用[只读查询入口](../TutorOS知识骨架落点索引.md) · [A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。
+只查知识请先用[只读查询入口](../TutorOS知识骨架落点索引.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)） · [A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。
 
 返回[TutorOS知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。第一层回答整个 Tutor OS 怎样创造价值；这一层把它展开为 **15 个长期经营问题**。每个域都有一篇可讨论、可修正的理解正文。先从正在思考的问题进入，不需要逐页通读或逐页审批。
 
@@ -22,11 +22,21 @@ architecture_version: "1.1"
 
 ## 每个经营域怎样一起建设
 
-按[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)），先看客户价值，再说清本年度和当季度的主要矛盾、事情怎样做好、我们相信什么、最近看法怎样变化、眼下怎样取舍，以及“当下的好奇”。全文使用非技术语言，方便 Leon 随时进入并接着思考。2026-09-15，十五个域已全部采用这套写法；[新师成材页](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）保留为先行实例。先读每页开头的当前看法与一个好奇问题，有兴趣时再往下看依据。
+按[经营域共建模板](../经营域共建模板.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)），十五个经营域采用与 [D03](TutorOS经营域-D03-新师成材与早期经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）、[D05](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） 完全相同的六模块顺序：
 
-年度与季度标明具体时间，说明两者的关系；没看清的地方留作讨论，不能把 AI 的建议写成公司已经确定的重点。
+| 模块 | 回答的问题 |
+|---|---|
+| NOW｜现在怎么看 | 核心问题、当前判断、当前重点 |
+| MODEL｜价值怎样产生 | 客户与教师经历、成立机制、条件、其他解释及重要取舍 |
+| BELIEFS｜哪些判断仍待检验 | 暂时相信什么，凭什么，什么证据会使判断改变 |
+| FRONTIER｜接下来想弄清什么 | 仍然好奇什么，目前想到哪，值得继续看什么 |
+| DELTA｜认识怎样走到这里 | 哪些有出处的证据、决定或纠错改变了认识 |
+| BOUNDARIES｜边界与下钻 | 本域解释到哪里，去哪里看正式规则、执行与证据 |
 
-“当下的好奇”通常保留两三个还想弄明白的问题，写清为什么值得想、目前想到哪了。新材料回来推进问题，也可以带来原先没想到的问题；不急着给答案，不随季度清空。目前各域保留两到三个问题，数量可随理解变化；不为凑数补满，也不要求逐页定期巡检。
+先读 NOW，遇到新案例再读 MODEL；要判断证据分量或找到原材料，从 E 编号进入配套认知依据附页。主页面是唯一认知正文，附页保留阅读范围、完整历史和相关知识目录。
+
+年度与季度重点在有依据且有助判断时说明，不强制每页补齐。H 与 Q 的数量服从内容，问题可跨季度保留；不把好奇自动转成任务，不把模板改写当成新的业务认识。全文使用非技术语言，重要条件、取舍和相反事实保留。写法版本为 2.0，经营架构维持 1.1；各域具体判断的审态仍按原批准范围及新增内容分别记录。
+
 
 ## 从七条主线进入十五个经营域
 
@@ -81,6 +91,8 @@ architecture_version: "1.1"
 已有材料也从这些经营问题重新进入：在[按经营域找相关页面](../TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%90%BD%E7%82%B9%E7%B4%A2%E5%BC%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)）中，可以看到概念、项目、决定和问题卡的共同落点。一张材料可以帮助思考几个问题，正文仍只保留一份。轻量梳理先连接问题、识别值得纠正或深读的地方；历史记录、未决假设和已确认决定继续分别使用。页面已经归域，不等于其中的判断已经重新核实。
 
 ## 最近一次认识变化与下一次碰撞
+
+2026-09-17：以 D03、D05 的六模块样板统一十五域写法，完整来源与旧相关目录进入各域依据附页；9月15—16日决定按各域适用范围接续。经营架构仍为1.1；写法、工程验收、逐条人审和业务效果分别记录。
 
 2026-09-15：以 D03 为实例，将共同模板扩展到其余十四域，并交叉复读旧决定与后来的纠正。各页现在都从客户价值进入，说明年度与季度的建议判断、重要假设、最近认识及持续好奇。老师在正常支持下变好与换环境后的能力分别看；恢复客户课堂与认定老师责任分别看；经营报告中的课量、利用率与利润分别看。本次整理没有新增培养、收入或模式效果的实测证据，七条主线、十五域及两种平行模式的架构继续沿用。
 

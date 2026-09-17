@@ -1,220 +1,160 @@
 ---
-rebuild_review_scope: "2026-09-15新增整理未经逐条人审；原有人类认可按原日期与范围保留"
 projection: public
 type: synthesis
 title: TutorOS经营域-D08-好课判断与逐课证据
 tags: [TutorOS, 第二层经营域, 好课判断, 逐课证据, 坏课率, 质量评价]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-06-29-放弃BPlus核心KPI与新基本法, 2026-08-27-课堂问题数据口径与课后治理优先, 抓共性负向项]
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/Meeting/2026-06-29-Q3Q4-KPI-Catchup.md", "外教战役/Meeting/2026-08-27_聊下网络设备治理纪要.md", "外教战役/Meeting/20260831 外教质量提升双周会会议纪要.md", "外教战役/2026-07-13-CEO下半年外教战役指示-双主帅H2总纲.md", "本轮对话：Leon，2026-09-05；原话及裁决边界见wiki/log.md历史告警逐页确认04", "Leon-work:journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md", "Leon-work:journal/2026/08/2026-08-31/media/dws-听记-外教质量提升双周会-2026-08-31.md"]
-review: 已审
-review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
+review: 待审
+review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用"
 architecture_version: "1.1"
 meaning_domain: D08
-knowledge_revision: "D08-2026-09-15.3"
-template_version: "1.1"
+knowledge_revision: "D08-2026-09-17.v2.1"
+template_version: "2.0"
+
+content_review_status: pending
+prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
+based_on_revision: "D08-2026-09-15.3"
 ---
 
-# 好课判断与逐课证据
+# D08｜好课判断与逐课证据
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
+> 孩子上完一课，是否可靠地得到承诺的服务，并在适合自己的挑战中学会了一点东西？先能说清这一课发生了什么，再讨论怎样帮助老师、积累信任和安排激励。
 
-**我们在讨论什么：** 这一节课兑现了什么价值，我们凭什么这样判断，还有哪些事情暂时看不清？
+[当前判断](#now) · [价值机制](#model) · [待检验判断](#beliefs) · [探索问题](#frontier) · [认识演化](#delta) · [边界与下钻](#boundaries)
 
-**目前最重要的看法：** 先分别看课是否可靠地发生、学生做到了什么、互动是否适合，并继续观察后来的学习与认可。减少坏课是底线，不能单凭“没有出问题”就认定教得好。
+<a id="好课判断与逐课证据"></a>
+<a id="2-主要矛盾本年度和当季度分别难在哪里"></a>
+<a id="本年度的矛盾2026-年建议这样理解"></a>
+<a id="当季度的矛盾2026-年第三季度待判断"></a>
+<a id="两者怎样相连"></a>
+<a id="now"></a>
+## 1. NOW｜现在怎么看
 
-**最值得接着想的一件事：** 一节并不热闹、孩子回答也不总正确的课，什么时候反而是一节好课？见下文“当下的好奇”。
+**核心问题：** 怎样判断这一课对这个孩子有没有价值，并让判断足以指导下一步，同时不把容易测的行为错当成学习？
 
-最近更新：2026-09-15。补清逐课证据、单分与多维、稀疏反馈，以及没有坏课不等于已经是好课。
+**当前判断：** **“按约上完、没有检测出坏课、真正学到了、愿意继续上”需要分别看。** 设备正常、准时出席是基础；笑容、开口多、点击正确或持续复约，都不能单独证明当堂有效学习。判断要结合课程目标、孩子起点、任务难度、教师帮助，以及孩子是独立完成还是被提示后完成。[E01][] [E07][] [E08][]
 
-## 1. 客户价值：做好以后，谁会得到什么
+**当前重点：** 9 月 16 日已确认，好课定义是相关建设的**唯一硬 P0**。标准未定义，教师数据汇总、晋升与小费系统、个性化任务部署这些被点名的新建设后置；先由委员会组织素材与裁判标准，家长、客户和 SS/LP 的声音要进入。Sophia 负责执行，Lucy 与蔡林担任相关 sponsor；主持人未定，不能写成委员会已运转或标准已完成。[E02][]
 
-希望看到这样的经历：孩子遇到困难时，老师发现问题、调整解释，让他有机会自己说出来。课后，我们能指出孩子做到了什么、仍需要什么帮助；老师得到具体且能纠正的反馈，下一次继续检验。这是要建设的能力，不是本次已经核实的公司案例。[E1]
+这一闸门不等于既有教学支持、课堂恢复或正常待遇全部停摆。已生效的规则按原范围继续理解，不能借“标准未定”新设扣罚，也不能把旧设计优先级当成当前部署授权。[E01][] [E02][]
 
-学生和家长应得到可靠的课堂、适合孩子的教学，以及有依据的学习说明。老师应知道评价从何而来，有机会补充情况、提出异议，平台或公共环境的问题不能轻易算成个人能力差。
+<a id="1-客户价值做好以后谁会得到什么"></a>
+<a id="3-做好这件事靠什么"></a>
+<a id="6-怎么取舍"></a>
+<a id="model"></a>
+## 2. MODEL｜价值怎样产生
 
-坏课率下降、评分上涨、投诉减少都需要解释原因。如果只是更少纳入困难学生、漏掉没有反馈的课，或客服回复更快了，就不能据此认定教学更好。评价能帮助后面的课堂改善，才是这项工作的重要价值。[E1]
+### 先看一节不热闹的课
 
-## 2. 主要矛盾：本年度和当季度，分别难在哪里
+设想一个不爱说话的孩子，在有难度的任务里停顿、试错。老师没有立刻给答案，而是缩小问题、等待，再让孩子独立尝试。最后孩子说出的句子仍不完美，却比开课时更独立。这一课可能有学习价值。另一个孩子一直笑、答案全对，若只是跟读老师的答案，证据还不足。两者都是解释机制的场景，不是已测得的样本。[E01][] [E08][]
 
-### 本年度的矛盾（2026 年，建议这样理解）
+### 让证据沿着孩子实际经历组织
 
-**既要减少大家都能感受到的课堂伤害，也要越来越看懂真正有效的教学。** 只抓缺席、断线等问题，能保护底线，却不足以帮助普通老师教得更好；过早追求一个全面分数，又可能在证据不足时误判学生和教师。
+| 要回答的事 | 需要看什么 | 最容易越过的边界 |
+|---|---|---|
+| 原来承诺了什么 | 原老师、时段、课程与学生需要 | 换师后完成一课，就把原失约删掉 |
+| 这一课实际交付了什么 | 实际老师、到场与中断、学习时间、替代安排 | 只保留成功结束的课，取消和未开课消失 |
+| 孩子做了什么学习工作 | 任务目标、起点、难度、尝试、独立或提示后的表现 | 用开口时长、表情或正确率直接判学习 |
+| 教师帮助起了什么作用 | 如何提问、等待、纠正、调整；孩子随后有什么变化 | 只数教师动作，不看它是否适合这个孩子 |
+| 还有哪些看不清 | 录课缺失、识别错误、反馈未回、归属冲突 | 把“未知”当低分，或当作没有问题 |
+| 后来是否仍有价值 | 下一课能否继续、学习变化、家长与孩子解释 | 当堂指标和续费相关，就宣称因果成立 |
 
-建议全年希望看到的变化，是能更可靠地解释不同课堂的价值和问题，用这些认识改善后面的课。6 月 29 日换尺及 Tutor OS 宪法支持这条方向，但具体年度重点和结果标准仍需正式业务依据确认。[E1][E2]
+原始记录、证据解释和业务动作是三层。先保留原记录与不确定性，再给有范围的判断；奖励、支持、责任或恢复动作各自按有效规则执行。AI 没有结果不能成为课堂、正常结算或必要帮助被扣住的理由。[E01][]
 
-### 当季度的矛盾（2026 年第三季度，待判断）
+### 三种覆盖，不能混为“已经全量”
 
-**建议先把少数能看清、也能帮助下一课的事情判断可靠，同时让“暂时看不清”被看见。** 8 月 27 日材料已整理课堂异常现象，也明确归因只能作为建议；当时使用的是被筛出的疑似问题课堂，并非全部课堂。[E3]
+第一层是**应该被看见的全部承诺**，包含取消、缺席、换师和未完成；第二层是**真正取得了哪些证据**；第三层是**哪些课有足够可靠的材料可判断**。全量监控的方向已提出，但方向不是全量覆盖回执，更不等于每课都能可靠评价。[E05][]
 
-因此，先分清能判断什么、漏掉了哪些课、教学专家在哪里有分歧，比急着形成一个适用于所有课的分数更有依据。这是本页提出的季度建议，不表示公司已经正式确定本季度采用哪些评价指标。8 月 31 日的指标过渡组合仍为方向讨论，不作正式考核依据。[E4]
+老师人数、课次数、触达数、回复数、确认出席数也不能互换。8 月 31 日已出现老师量误写为课量、时段缺席占比与缺席率混淆的现场纠正。分母不清时，漂亮的变化率不能支持后续决策。[E06][]
 
-### 两者怎样相连
+### 成立条件与取舍
 
-少数判断先做到可靠，才能逐步扩大对好教学的理解。可靠的底线判断帮助处理当下伤害，正向教学证据帮助后续培养；两条都要往前走，不能长期用其中一条代替另一条。
+评价者需要共同理解任务和证据，保留困难孩子、安静课堂与资料缺失，不只在容易识别的样本上证明自己。设备异常可能来自网络、平台或学生端，课堂困难也可能来自课程不适配，不能都归责老师。[E04][] [E08][]
 
-## 3. 做好这件事，靠什么
+**先争取可解释、能纠错的少量判断，再扩大范围和后果。** 即时支持与长期认识要分开：足够明确的风险可以按原规则及时保护；个人能力和升降级需要跨课、跨条件观察。多维信息更完整，也可能更费解释成本；一张雷达图本身仍不是有效标准。[E01][] [E10][] [E11][]
 
-每节课先回答下面的问题，再决定哪些能够判断。[E1]
+<a id="4-核心假设我们相信什么凭什么相信"></a>
+<a id="beliefs"></a>
+## 3. BELIEFS｜哪些判断仍待检验
 
-| 一路要问的问题 | 需要哪些事实，不能省掉什么区别 |
+<a id="d08-h01"></a>
+### D08-H01｜围绕具体孩子与任务解释课堂，比笼统的好坏标签更能指导改进
+
+- **为什么值得相信：** 同一位老师面对不同孩子、课程和条件会有不同表现；指出孩子在哪一步需要什么帮助，才可能改变下一次行动。[E01][] [E08][]
+- **现在有什么证据：** 有设计和会议中的问题重构，尚无本组材料中一致标准下的独立评价与改进效果验收。
+- **什么会改变判断：** 解释分歧大、老师读不懂或不能用，或者细致报告始终不能改善孩子实际学习。
+- **下一份值得看的证据：** 少量连续真实课堂，由教师、教研与客户视角共同核对，记录分歧、修订和下一课改变，而不只对报告打分。
+
+<a id="d08-h02"></a>
+### D08-H02｜识别少数真正帮助孩子的教学行为，可能形成可复用的支持方法
+
+- **为什么值得相信：** 如果能解释“哪种帮助，在什么孩子和任务下有效”，其他老师可能学着应用。[E01][]
+- **现在有什么证据：** 是方法方向；会议提出从逐课评价走向帮助与成长，尚未证明某组行为已能跨教师复制效果。[E08][]
+- **什么会改变判断：** 去掉某位明星老师、换课程或孩子后便失效，或教师为分数表演行为却妨碍学习。
+- **下一份值得看的证据：** 独立样本中的重复应用、失败案例与合理成本；探索指标的样本和验证指标的样本分开，避免在同一批课里选标准又证明标准。[E09][]
+
+<a id="7-当下的好奇"></a>
+<a id="一节并不热闹孩子回答也不总正确的课什么时候反而是一节好课"></a>
+<a id="没有投诉没有评价的普通课里藏着哪些我们一直没看见的好与坏"></a>
+<a id="frontier"></a>
+## 4. FRONTIER｜接下来想弄清什么
+
+<a id="d08-q01"></a>
+### D08-Q01｜一节不热闹、回答也不总正确的课，什么时候反而是一节好课？
+
+它迫使我们分清“轻松答对”和“经过合适挑战产生进步”。目前知道需要任务目标、起点和帮助方式，但还没有定版标准。值得把完整片段、教师解释、孩子后续独立表现放在一起，寻找能说服不同评价者的证据。[E01][] [E08][]
+
+<a id="d08-q02"></a>
+### D08-Q02｜没有投诉、没有评价的普通课里，藏着哪些没看见的好与坏？
+
+沉默可能是满意，也可能是没有入口、懒得反馈或直接离开。已有材料指出评价并非每课覆盖、投诉链条有延迟。值得把普通沉默样本、退出样本与主动反馈样本并排看，确认我们的标准有没有只看见最愿意发声的人。[E07][] [E10][]
+
+<a id="5-最新认知现在怎么看最近哪里变了"></a>
+<a id="9月9日下午单课总分的设想后来怎样被修正"></a>
+<a id="早期评分讨论的反例能测多少不等于能决定所有人的命运"></a>
+<a id="2026-09-15-原料补充没有检测到坏课不等于证明好课"></a>
+<a id="本轮原料怎样修正判断2026-09-15"></a>
+<a id="delta"></a>
+## 5. DELTA｜认识怎样走到这里
+
+| 时间与来源 | 认识怎样变化 | 不能越过的边界 |
+|---|---|---|
+| 4 月 27 日 [E10][] | 已在区分入职与在岗、低覆盖反馈与多维教师类型，提出升降级要有安全网 | 早期简化算式和当时覆盖数字不是现行全员制度 |
+| 6 月 29 日与后续确认 [E03][] | 从 B+/A 作为核心质量 KPI 转向真实表现与好课；入口筛选仍有作用 | 不等于取消入口筛选；9 月 5 日新师出营分数沿 D03 范围，不能扩成逐课标准 |
+| 8 月 13—31 日 [E04][] [E05][] [E06][] | 从监控目标走向证据覆盖、问题归属、时段分母和数量对象校准 | 全量是目标；问题样本和暂用阈值不是全体课堂定律 |
+| 9 月 4 日 [E07][] | 把逐课履约表现与长期关系认可分开；“坏课/非坏课”仍不足以找出好课 | 十多课核验不准是现场反馈，不是准确率统计；正向反馈提案不等于取消所有处罚 |
+| 9 月 9 日下午、晚间 [E08][] [E09][] | 下午从单课总分设想继续讨论到多维雷达、未必总分；晚间探索与长期结果的关系 | 保留会中修正，不截取最早方案；历史数据是否足够、哪些指标有效都未验收 |
+| 9 月 16 日 [E02][] | 好课定义成为唯一硬 P0，相关系统建设须等共同标准，委员会先行 | 决定已确认，标准、主持人、运行与效果仍不能代填 |
+
+<a id="已有决定与还没弄清的事"></a>
+<a id="资料与以前的讨论"></a>
+<a id="相关知识页按需读取"></a>
+<a id="boundaries"></a>
+## 6. BOUNDARIES｜边界与下钻
+
+| 相邻域 | 本域负责的接口 |
 |---|---|
-| 原来答应什么？ | 学生起点、本课目标、课程版本、原约老师和时段 |
-| 实际怎样上课？ | 实际老师、到课与中断、取消或代课、客户是否接受变化；补位不抹掉原师失约 |
-| 学生当堂做到了什么？ | 是否独立回答、怎样使用所学、哪里仍依赖提示；答对一次不等于已经长期掌握 |
-| 老师怎样帮助学生？ | 有没有发现困难、调整教法、给出适当等待与反馈；热闹、笑容和开口时间不能单独证明有效 |
-| 哪些仍然看不清？ | 没有录课、声音识别不准、资料过少、客户未反馈或来源冲突，都单独留下 |
-| 后来有没有变化？ | 后续相近任务中的表现、教师实际改法和客户经历；课上完、问题处理完、学习有进步分别判断 |
+| [D03 新师成材与早期经营](TutorOS经营域-D03-新师成材与早期经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） | 早期过渡的出营规则沿原范围；本域提供课堂证据，不能把出营线改为好课线 |
+| [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） | 把居家/中心、设备与支持条件带入解释，不能用模式名称替代课堂质量 |
+| [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 长期关系是重要结果之一；固定、收藏、复约不能代替逐课学习证据 |
+| [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 问题与原失约保留，恢复不覆盖证据；归责和保护按有效规则 |
+| [D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 把判断变成适合老师的帮助，再回看下一课；不以发任务证明成长 |
 
-**说“全量看见”之前，先把三件事分开。** 8 月 13 日说的是全量监控的建设目标，也提到工单、评价接入和事实核实的缺口；8 月 27 日只有疑似问题课堂清单，且该场原听记没有逐字稿，现存的是 AI 摘要。[E3][E6]
+**本页不发布统一评分公式，不授权扣罚或晋升，也不宣称任何评价模型已经有效。** 成熟老师方案仍有待决口径和动作冲突；即时保护、近期暴露与长期升降级须分别理解。[E11][]
 
-| 看哪一层 | 它能回答什么 |
-|---|---|
-| 原本应当交付哪些课 | 是否漏掉缺席、取消、换师等没有正常完课的承诺；具体统计范围仍按正式口径 |
-| 其中实际取到了哪些材料 | 哪些课有记录，哪些没取到、晚到或对不上；有记录不等于足够判断 |
-| 其中哪些能够可靠判断 | 哪些问题已核实，哪些只能疑似或暂时未知；没有结论不能自动算好课 |
+完整来源、历史纠正、未决项和旧相关页见[认知依据与演化](../queries/D08-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seMP47eNJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLX9qMnm8Ke0xjE3)）。返回 [第二层经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。
 
-数字还要说明是在数老师、课次还是回复。8 月 31 日现场就纠正过“老师人数被说成课量”，也区分了有回复与确认出席、某时段占全部缺席的份额与该时段自身的缺席率。不能把这些数接成同一种改善。[E7]
-
-课件活动、音视频片段、教师和客户反馈，要能对应同一节课、同一项任务和实际发生的时间，也要确认本次判断有权使用哪些资料。互动课件 Cocos 能帮助看见学生做了什么，录课和声音记录帮助理解师生怎样互动；目前不能凭设计文件认定所需材料已经全部稳定取得。[E1]
-
-点击完成不等于学会；正确率高也可能是老师不断提示答案。只看投诉会漏掉沉默的人，只看设备参数会漏掉学生的真实感受，只看 AI 的结论会漏掉它无法判断的情形。先让教学专家说清判断依据与分歧，再检验 AI 是否能可靠使用这些标准。
-
-再把多节课连起来看：同一学生是否继续进步、老师在不同场景下怎样表现、同一任务是否让多位老师受阻、导师或中心的帮助是否有效，以及各市场到底形成多少可靠供给。由此分别改善学习安排、匹配、培养、课程和供给；不能把这些长期问题都压成单课分数。[E1]
-
-**居家授课（HBT）是存量主流，与中心授课（Center）平行。** 居家要分清设备、网络、家庭环境与教学行为。中心要留意多位老师同时断线、公共噪音或现场管理问题，不能把同一个公共故障拆成多个老师能力差。现场支持是否有效，也要由后续课堂证明。两种模式都接受 Every Lesson Counts——每一节课都要有价值——的检验，不因授课地点先作优劣判断。
-
-本域提供有依据的课堂判断，不包办所有后续动作。异常恢复见[履约恢复与问题治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)），教师改进见[教师成长与教学支持](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)），关系延续见[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)），解释和申诉见[教师体验与公平治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)）。学生长期掌握、教师长期能力和收入资格，也不能全从某一节课推出。
-
-## 4. 核心假设：我们相信什么，凭什么相信
-
-**第一条：有任务背景、具体片段和清楚的适用条件，评价更可能帮助老师改进。** 宪法给出了这样的方向，尚未证明所有课型都能可靠评价。若专家面对相同课堂仍无法解释分歧，或老师根据反馈也不知道该改什么，就应收窄判断、改进标准和反馈。AI 与自己的说法一致，不足以证明评价正确；材料缺失也不能变成教师低分。[E1]
-
-**第二条：在减少坏课之外，关注少数关键教学行为，可能帮助我们复制有效教法。** 例如是否给学生独立回答的机会、是否发现困难并调整，都值得验证。前提是这些行为适合当时任务和学生，而不是机械要求每节课采用同一种做法。若评分变好，只是因为提示答案、挑容易的任务或回避困难学生，就应改变评价方式；若行为改变但学习没有推进，也要重新检查任务和解释，不能仅凭动作出现就宣布有效。[E1][E2]
-
-检验两条假设时，要保留普通课、异常课、未反馈课，以及难以评价的部分，分别看不同课程、学生阶段和授课模式。
-
-## 5. 最新认知：现在怎么看，最近哪里变了
-
-目前保留三点：
-
-1. **可靠交付、有效学习、持续认可，各自回答不同问题。** 前者主要看当课，后两者还要看后来的表现与关系；目前不宜相加成决定教师全部权益的总分。证据不足可以作为正式结果，既不填零分，也不默认好课。[E1]
-2. **底线判断需要持续贴近学生感受。** 听不见、看不见、卡顿、教材未加载、频繁进出和设备异常，是现有问题入口；卡顿超过 10 分钟只用于当时首轮探查，不是已经最终确认的通用坏课标准。归因仍是建议，疑似问题清单也不能直接算出全部课堂的坏课率。[E3]
-3. **换尺不等于旧规则可以随意取消。** 6 月 29 日放弃 B+/A 核心指标的历史决定，已由 7 月 13 日总纲接续；B+/A 作为入门尺与客户真实授课评价分开。30 天新师评价继续看 9 月 5 日已确认的最终得分口径，不从这里另推新公式或处置。[E2][E5]
-
-2026-09-14，把坏课指标、课堂事实和好课评价放进同一个经营域，同时保留底线与正向教学的区别；同场会议的纪要与方法化整理也只算一组依据。2026-09-15，先明确年度、季度建议和好奇，再通过原料复核补清覆盖、材料和判断三层，以及人数、课次、回复的区别。这次没有新增教学实测，不据此宣称评价已经更准确。
-
-### 9月9日下午：单课总分的设想后来怎样被修正
-
-讨论先提出每课压成一分、看后五课均分，后又明确同课可能一项好、一项差，应保留类似雷达图的不同维度。逐课评价没有取消教师跨课画像：遇到不适合学生的难课、反复提示后才答对，都能让“好老师”或“高正确率”不足以解释当次学习。因而下一步仍是构建评价并核它与学习、满意度的关系，不是立即统一分数和奖惩。（[下午后段原稿](../../sources/raw/J-42da13be240c49965141af40__794e078ff91cf362.0a92559cf98e.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHznXPAXAWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIz9Nr52n8BQEx5rG)），L272–324、L384–406、L490–548。）
-
-本次补上的是单分到多维的会中修正链；地图原已保留多维判断，不能把它算作新的实测增益。原稿多人共用王东标签，不据此逐句归给Leon；口述已能知道50%／60%也不是取证覆盖验收。
-
-**同日夜间的进一步限制：** 讨论尝试把学生一段时间经历的课堂评价与升舱、续费等结果相联系，比较不同评价方案；同时承认历史数据是否能回放未知，不同结果的因素权重可能不同。刚提出统一标准又保留“也不一定”，末尾仍承认知道底线、还不知道什么是好课。这是研究方向，不是已找到最佳总分、证明教师贡献或可直接结算的依据。不能从同一批数据挑最相关的评分后，又用这批数据证明它有效；后一条是分析与地图提出的验证要求，不伪作会议原话。（[夜间原稿](../../sources/raw/J-bb67715e3c83d9566c0ac575__63a6d02246a024a4.4b3d18fc8c31.md) （[A](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZd79jyN85daZ90D) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcedB2YAo86zbX04v)），L484–562、L604。）
-
-### 早期评分讨论的反例：能测多少，不等于能决定所有人的命运
-
-4月27日在岗标准稿一边讨论初始分、完课+1、投诉−1与月降级，一边承认评价覆盖不足、投诉未集成、可能更需要多维画像，并明确不能一个月差就快速降级。后者不能被“简单可测”删掉。供给和完课并非完全由老师控制；未评价不等于低分，匹配差异也不能替已确认课堂伤害开脱。所有公式在本稿仍属未准备完成的设计，后继30天最终100毕业、200及以上金牌的认领继续保留，不恢复旧初始分或三个月周期。（[在岗标准加工稿](../../sources/raw/2026-04-27-Good-Teacher在岗标准讨论.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQP975EN81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjYg4z4A8GlDd3mE)） L28–122。）
-
-## 6. 怎么取舍
-
-目前倾向先把少数有依据、能帮助后面课堂的判断做好，再逐步增加范围。这样可能暂时不能给所有课一个整齐分数，却能减少无根据的归责，也更容易看见真正需要补的材料。
-
-已确认的课堂伤害要及时处理，不能等长期学习结果才保护客户。另一方面，减少坏课也不应让我们放弃理解好教学。可以在合适的课程和样本里同时积累正向证据，结果再决定哪些方法值得推广。
-
-课中提醒要有足够时效和可靠性，不能因追求“及时”干扰教学。8 月 27 日提出课后治理优先及归因仅作建议；若后续条件改变，再按真实效果重看安排。AI 超时、录课缺失或评价未完成时，正常课堂、结算和人工支持仍沿原有规则运行，不能把评价工具的问题转成老师的过错。[E1][E3]
-
-若坏课率或评分改善，而学生学习、客户体验、教师公平反而恶化，就应重新检查判断标准和做法。不是继续用更高分数解释失败。
-
-## 7. 当下的好奇
-
-以下问题于 2026-09-15 首次列入，还没有答案。
-
-### 一节并不热闹、孩子回答也不总正确的课，什么时候反而是一节好课？
-
-**为什么值得想：** 想看清真正的学习和表面的顺利有什么不同，避免把必要的思考、尝试与困难当成教学失败。
-
-**目前想到哪了：** 宪法已经提醒：笑容、开口时长和答对一次都不足以单独证明好课；它用“同样正确率、不同提示程度”说明判断困难，这是设计例子，不是已经发现的公司案例。[E1] 可以继续想：学生看起来回答得更差，会不会只是老师不再替他回答？值得对照提示前后的回答、任务难度、老师给予的等待与挑战，以及后续能否更独立完成。也要保留真正没教会的另一种解释，不能把低正确率都美化成独立学习。
-
-### 没有投诉、没有评价的普通课里，藏着哪些我们一直没看见的好与坏？
-
-**为什么值得想：** 想避免让最常发声的人决定全部质量认识，也可能从安静的普通课里发现值得学习的教法。
-
-**目前想到哪了：** 现有资料要求纳入未反馈样本，且 8 月 27 日数据只来自疑似问题课堂。[E1][E3] 现在可以把问题再往前问一步：哪些课根本没有被看见，哪些有材料却仍无法判断？这两种缺口需要分别补足，目前还不能据此推断遗漏有多大。值得看未反馈课堂的实际经历、为什么没有反馈，以及它们与有反馈课堂有哪些相同和不同。
-
-新材料可以推进这些问题，也可以改变问法、带来新问题。单个案例先作线索，进展留下出处和仍未回答的部分；普通好奇不自动成为待办。维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
-
-## 已有决定与还没弄清的事
-
-- **新师阶段评价继续沿原决定：** 30 天看最终得分，100 分毕业，200 分及以上金牌，660 分旧锚点舍弃。200 分不据此解释为最高分；完整公式、奖励和低分后的处置另有边界，见[2026-09-05-新师30天出营现行分数线](../decisions/2026-09-05-%E6%96%B0%E5%B8%8830%E5%A4%A9%E5%87%BA%E8%90%A5%E7%8E%B0%E8%A1%8C%E5%88%86%E6%95%B0%E7%BA%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4zyvllWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4yKpnQ8xLq0Ee4)）及[新师成材页](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）。
-- **教学判断不直接成为权益动作：** 一次低分不是违规结论，旧讨论中的淘汰比例也不是现行配额。奖励、处分、资格和结算继续回正式规则，不能用本页另建一套决定。
-- **仍需核对：** 全部应纳入课堂的范围、缺失与晚到材料、专家分歧、AI 误判、不同课程和模式的差别。下一份有用材料应把同一节课的任务、事实、材料是否完整、专家与 AI 判断、教师反馈以及后续验证连起来，并包含普通课、异常课和未反馈课。
-
-## 资料与以前的讨论
-
-- **[E1] 好课评价与后续验证：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 3—6、15、18—20 章。已有设计明确允许未知、不同结果分别判断以及教学专家校准；不证明相应能力已经建成。
-- **[E2] 换尺与抓共性负向项：** [2026-06-29-放弃BPlus核心KPI与新基本法](../decisions/2026-06-29-%E6%94%BE%E5%BC%83BPlus%E6%A0%B8%E5%BF%83KPI%E4%B8%8E%E6%96%B0%E5%9F%BA%E6%9C%AC%E6%B3%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKKxZkWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDP0XrGWzN67Mw4)），先读 9 月 5 日阅读边界；[抓共性负向项](../concepts/%E6%8A%93%E5%85%B1%E6%80%A7%E8%B4%9F%E5%90%91%E9%A1%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）保留底线方法。两页来自同日同场，只算一组业务依据。
-- **[E3] 课堂问题与归因边界：** [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）及后续说明；卡顿阈值仍临时，问题清单不代表全部课堂，程序建议不能直接变成教师责任结论。
-- **[E4] 后续指标讨论的限制：** [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E5%9D%8F%E8%AF%BE%E7%8E%87Q3Q4%E4%B8%8E%E5%9B%BA%E5%AE%9A%E8%80%81%E5%B8%88%E5%89%8D%E7%BD%AE%E6%8C%87%E6%A0%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）；会议方向待审，过渡组合未成为正式考核指标。
-- **[E5] 后继决定：** [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)）与[2026-09-05-新师30天出营现行分数线](../decisions/2026-09-05-%E6%96%B0%E5%B8%8830%E5%A4%A9%E5%87%BA%E8%90%A5%E7%8E%B0%E8%A1%8C%E5%88%86%E6%95%B0%E7%BA%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4zyvllWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4yKpnQ8xLq0Ee4)）。已确认的总纲与局部分数线按各自范围使用，不证明执行或效果已经验收。
-
-- **[E6] 全量目标与接入缺口：** [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-%E9%B9%B0%E7%9C%BC%E5%85%A8%E9%87%8F%E7%9B%91%E6%8E%A7%E4%B8%8E%E4%B8%89%E5%BF%AB%E8%A6%81%E7%B4%A0.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL)）；[原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md:168>)（来源指针缺口，需补证；本地资料，钉钉／GitHub未提供） 09:25—10:05、16:44—17:51。
-- **[E7] 数量对象的现场纠正：** 8 月 31 日[原始转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-31/media/dws-听记-外教质量提升双周会-2026-08-31.md:298>)（来源指针缺口，需补证；本地资料，钉钉／GitHub未提供） 14:09—15:25、21:44—22:14；同场整理页见 [E4]，不另算第二份证据。
-
-## 2026-09-15 原料补充：没有检测到坏课，不等于证明好课
-
-9月4日同场讨论一边希望系统字段客观无争议，一边报告复核十余课仍不准确；随后明确，逐课底线那一箱只能区分坏课与非坏课，不能据此识别好老师。使用数据前仍须核记录、识别和归因是否可靠；“没抓到异常”不直接证明学习发生。十余课只是口述，缺样本与错误分类，不能反算准确率或断言所有检测不可用。[原文L243–285](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKdayjAw8akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpkYEqW1DK0g6l)）。
-
-学生评价、收藏和求课发生的机会并不相同。原文讨论评价并非每课强推、求课不是每次发生；稀疏信号的缺失不能当作每课零价值，也不能仅为凑逐课总分强行归到同一窗口。归因规则仍需核实。[原文L215–233](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKdayjAw8akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpkYEqW1DK0g6l)）。
-
-同场因担心反馈误判，提出先给少量正向反馈加分的保守方案；它只涉及那一类反馈，不能扩大为取消纪律扣分或已发布的新规则。[原文L158–167](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKdayjAw8akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpkYEqW1DK0g6l)）。
-
-## 本轮原料怎样修正判断（2026-09-15）
-
-- [成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）：成长周期、近期推荐、即时保护分开；方向确认不等参数冻结或生产，A2动作文字张力仍待映射。
-
-以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
-
-<!-- query-related:start -->
-## 相关知识页（按需读取）
-
-保留各页原有日期、认可范围和未决条件；下表只表示有关联。
-
-- [好老师生命周期](../concepts/好老师生命周期.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）
-- [抓共性负向项](../concepts/抓共性负向项.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）
-- [老师质量提升飞轮](../concepts/老师质量提升飞轮.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）
-- [2026-09-16-好课定义为唯一硬P0与委员会先行](../decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi67MqNgpJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1D9PMkQJzlwrZgb)）
-- [2026-04-28-教师评价战役第一发子弹与AI匹配v1.3](../decisions/2026-04-28-教师评价战役第一发子弹与AI匹配v1.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKK2b7WzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrQXaPJGXn6lpz)）
-- [2026-05-13-Cocos战略押注路径B](../decisions/2026-05-13-Cocos战略押注路径B.md) （[A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHqrPgvpZWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTpqrKO6GWAgozOKL)）
-- [2026-05-26-TPT500-600升BPlus](../decisions/2026-05-26-TPT500-600升BPlus.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjBdlMJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1vd6YNXJzlwrZgb)）
-- [2026-06-04-Cocos体验课报告系统判定与解耦](../decisions/2026-06-04-Cocos体验课报告系统判定与解耦.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoAr7aA86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnZREr1VxAZB1Gv)）
-- [2026-06-26-外教质量战役主轴重构-蜂巢系统与新师营试用期](../decisions/2026-06-26-外教质量战役主轴重构-蜂巢系统与新师营试用期.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kPeevgV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3OnQgoBVKMEvZBY)）
-- [2026-06-29-放弃BPlus核心KPI与新基本法](../decisions/2026-06-29-放弃BPlus核心KPI与新基本法.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKKxZkWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDP0XrGWzN67Mw4)）
-- [2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO下半年外教战役指示-双主帅H2总纲.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)）
-- [2026-07-13-老师试用期换尺与毕业标准四维](../decisions/2026-07-13-老师试用期换尺与毕业标准四维.md) （[A](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjMR7ad85daZ90D) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6da2aQPWxkXOEP2)）
-- [2026-07-14-新师培训双轨认证与Full-Monitor上线](../decisions/2026-07-14-新师培训双轨认证与Full-Monitor上线.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoADYKx86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LoBO2Vbkz3BRL)）
-- [2026-07-17-新师30天出营积分决策](../decisions/2026-07-17-新师30天出营积分决策.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkBKjy8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6Zr7AgJ63zgkYA)）
-- [2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](../decisions/2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE)）
-- [2026-08-07-天眼鹰眼全量感知与最小闭环](../decisions/2026-08-07-天眼鹰眼全量感知与最小闭环.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoAoBe986EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgAlzkJ3pmz5aA)）
-- [2026-08-13-中菲招聘标准统一与人工质检保留](../decisions/2026-08-13-中菲招聘标准统一与人工质检保留.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbObq3WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4Hjm69z0oVZd1wyK0)）
-- [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-鹰眼全量监控与三快要素.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL)）
-- [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-课堂问题数据口径与课后治理优先.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）
-- [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）
-- [2026-09-05-新师30天出营现行分数线](../decisions/2026-09-05-新师30天出营现行分数线.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4zyvllWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4yKpnQ8xLq0Ee4)）
-- [Cocos](../entities/Cocos.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dy9BL8dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqLNp0LJGXn6lpz)）
-- [外教质量提升战役](../projects/外教质量提升战役.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）
-- [成熟老师升降级积分方案](../projects/成熟老师升降级积分方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)）
-- [2026-09-04-老师成长两箱与积分方案分叉](../queries/2026-09-04-老师成长两箱与积分方案分叉.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpGBk5q8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQzz6JlemrZQ3)）
-- [坏课KPI-坏课治理语义岛-2026-09-11](../queries/坏课KPI-坏课治理语义岛-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）
-- [坏课KPI设计稿](../queries/坏课KPI设计稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）
-- [好老师统一定义的取舍、临时使用与激励边界-待验证问题卡](../queries/好老师统一定义的取舍、临时使用与激励边界-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IervKqNOW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9RZk44JGXn6lpz)）
-- [新师训战营-TIDE语义岛-2026-09-11](../queries/新师训战营-TIDE语义岛-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZvd1e048qjMp697) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbeE5yWyMoPYe1)）
-- [2026-09-09战略会正式产出与TutorOS建设规划](../sources/2026-09-09战略会正式产出与TutorOS建设规划.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMN1np86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKNBAYWzN67Mw4)）
-- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
-- [外教战役2026H1复盘骨架-源摘要](../sources/外教战役2026H1复盘骨架-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZqXGz81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqRj4QbW3bzYmDO)）
-- [坏课KPI设计收敛轨迹](../synthesis/坏课KPI设计收敛轨迹.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MwMPKyJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3lEXR8B5r9YAn)）
-- [外教战役统一尺子转向用户初次感知](../synthesis/外教战役统一尺子转向用户初次感知.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4x7L1Jgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG5DmPGLVkyEqBQm)）
-- [外教质量管理转向实战验证](../synthesis/外教质量管理转向实战验证.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Zb9OKpWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgBp9qyJkb4Mw9r)）
-
-<!-- query-related:end -->
+[E01]: ../queries/D08-认知依据与演化.md#e01
+[E02]: ../queries/D08-认知依据与演化.md#e02
+[E03]: ../queries/D08-认知依据与演化.md#e03
+[E04]: ../queries/D08-认知依据与演化.md#e04
+[E05]: ../queries/D08-认知依据与演化.md#e05
+[E06]: ../queries/D08-认知依据与演化.md#e06
+[E07]: ../queries/D08-认知依据与演化.md#e07
+[E08]: ../queries/D08-认知依据与演化.md#e08
+[E09]: ../queries/D08-认知依据与演化.md#e09
+[E10]: ../queries/D08-认知依据与演化.md#e10
+[E11]: ../queries/D08-认知依据与演化.md#e11

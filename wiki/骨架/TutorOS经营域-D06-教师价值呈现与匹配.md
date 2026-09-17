@@ -1,199 +1,196 @@
 ---
-rebuild_review_scope: "2026-09-15新增整理未经逐条人审；原有人类认可按原日期与范围保留"
 projection: public
 type: synthesis
-title: TutorOS经营域-D06-教师价值呈现与匹配
-tags: [TutorOS, 第二层经营域, 教师价值呈现, 师生匹配, 直通车, 外教产品化]
-related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 直通车项目, 2026-08-18-精选老师推荐六项准入定稿, 2026-07-15-外教产品化-Top200光晕效应, 2026-05-26-师生匹配双供应商竞赛与统一入口]
+title: Tutor OS 经营域 D06｜教师价值呈现与匹配
+tags: [TutorOS, 第二层经营域, 教师价值呈现与匹配, 认知骨架]
+related: [TutorOS第二层经营地图, D06-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-16
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/直通车项目.md", "外教战役/Meeting/2026-08-18_师生匹配周例会纪要.md", "外教战役/Meeting/轻纪要-外教产品化-2026-07-15.md"]
-review: 已审
-review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
-architecture_version: "1.1"
+updated: 2026-09-17
 meaning_domain: D06
-knowledge_revision: "D06-2026-09-16.1"
-template_version: "1.1"
+architecture_version: "1.1"
+template_version: "2.0"
+knowledge_revision: "D06-2026-09-17.v2.1"
+based_on_revision: "D06-2026-09-16.1"
+review: 待审
+content_review_status: pending
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
+evidence_checked_on: 2026-09-17
+evidence_register: "../queries/D06-认知依据与演化.md"
+active_hypotheses: [D06-H01, D06-H02]
+open_questions: [D06-Q01, D06-Q02, D06-Q03]
+source_snapshot_note: "本轮以冻结旧域页为改写基线，关键来源按实际章节回读；逐文件指纹与范围见本轮交付记录，不以旧回执代替新验收。"
+source_pointer_scope: "sources保留旧来源导航并接本轮依据页；具体本轮实读范围以附页及读取清单为准，旧指针不表示本轮全读。"
+sources:
+  - "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"
+  - "外教战役/直通车项目.md"
+  - "外教战役/Meeting/2026-08-18_师生匹配周例会纪要.md"
+  - "外教战役/Meeting/轻纪要-外教产品化-2026-07-15.md"
+  - "wiki/queries/D06-认知依据与演化.md"
+  - "sources/raw/2026-06-23_师生匹配周例会纪要.md"
+  - "sources/raw/2026-09-04_听记-teacher-growth-system-including-TIDE__62b353ac9ab9.md"
+  - "sources/raw/J-42da13be240c49965141af40__794e078ff91cf362.0a92559cf98e.md"
+  - "wiki/decisions/2026-07-15-外教产品化-Top200光晕效应.md"
+  - "wiki/decisions/2026-08-18-精选老师推荐六项准入定稿.md"
+  - "wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md"
+  - "wiki/decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md"
+  - "wiki/projects/直通车项目.md"
+  - "wiki/queries/D05-认知依据与演化.md"
+  - "wiki/sources/TutorOS设计宪法全文.md"
+  - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
 ---
 
-# 教师价值呈现与匹配
+# D06｜教师价值呈现与匹配
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
+[经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [证据、历史与阅读边界](../queries/D06-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY4GBYyxVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQyNaX58B5r9YAn)）
 
-**我们在讨论什么：** 合适的老师，怎样让需要他的学生看见、信任、选中并真正约到？后面的课堂结果，还要帮助我们改进下一次推荐。
+> **用途：** 接上当前理解、解释新案例、寻找下一份有用证据。正式决定、已确认进展与效果假设各按原范围阅读。
 
-**目前最重要的看法：** 老师的优点要让客户看得懂，也要和学生需要、真实可约时段相符。推荐成功，要继续看上课以后有没有兑现展示时的期待。
+<a id="教师价值呈现与匹配"></a>
+<a id="2-主要矛盾本年度和当季度分别难在哪里"></a>
+<a id="本年度的矛盾2026-年建议这样理解"></a>
+<a id="当季度的矛盾2026-年第三季度待判断"></a>
+<a id="两者怎样相连"></a>
+<a id="now"></a>
+## 1. NOW｜现在怎么看
 
-**最值得接着想的一件事：** 最受欢迎、最值得推荐的老师，为什么也可能最难约到？见下文“当下的好奇”。
+**核心问题：** 怎样让学生和家长在选课时理解老师的真实价值，选到此刻合适、实际可约，并有机会持续学习的老师？
 
-最近更新：2026-09-16。两库逐句校对，并登记 2026-09-15 屏蔽规则拍板的线索链接；未新增本日试验或证明单环节因果，国内积极A/B的认可保留。
+**当前判断：** 呈现让真实长处被理解，匹配把长处接到具体学习任务，产能让选择可以兑现。这三件事要一起看。主页更好看、推荐点击增加或某个等级更高，都不能单独证明“这个孩子得到了更合适的课”。[E01][] [E03][] [E07][]
 
-## 1. 客户价值：做好以后，谁会得到什么
+**当前重点：** 保留直通车国内已确认的积极进展，同时把可见、谁在选、出席、转化、同师付费课和固定关系分开核对。最值得继续追问的是：[哪条信息真正改变了选择，并在上课后被证实有用？](#d06-q01)
 
-希望看到这样的经历：家长从老师的介绍和教学片段里，看出他怎样帮助与自己孩子情况相近的学生；选择以后，能约到所需时段，实际课堂与期待相符。老师也更容易遇到适合自己的学生，让教学长处带来稳定的授课和合理所得。这是我们要追求的经历，并非本次已验证的效果。[E1][E4]
-
-销售同事应当有真实、清楚的依据介绍老师；教师也应有机会准确呈现自己的长处，知道推荐所需条件，并能纠正过时或错误的信息。呈现能力较弱，不宜直接被当成教学能力较弱。
-
-视频更多、推荐点击更多、当次转化提高，都还需要继续看后续课堂与客户体验。若家长被吸引来，却约不到介绍中的老师，或实际教学没有兑现期待，展示做得再好也不能证明整体成功。
-
-## 2. 主要矛盾：本年度和当季度，分别难在哪里
-
-### 本年度的矛盾（2026 年，建议这样理解）
-
-**把教师已有的教学价值变成客户能理解、也能持续得到的价值。** 只提高呈现，可能放大承诺；只改善教学而不让客户看见，也可能让好老师长期没有合适的课。
-
-“质量与呈现相乘、把好老师价值前置到客户决策时刻”是仍有效的方向。[E4] 建议全年看的是：学生更容易选到合适老师，后续课能持续兑现；教师的真实长处得到合理使用。具体年度目标和重点，仍需结合业务事实确定。
-
-### 当季度的矛盾（2026 年第三季度，待判断）
-
-**建议先看清：国内已经出现的积极进展，怎样在放量后继续兑现到后续课堂。** 截至 9 月 5 日，Leon 已确认直通车在国内运行、取得积极的 A/B 测试结果并逐步放量，下一步方向是复制海外。[E2]
-
-这说明整体方案值得继续观察，还不能说明是哪一个环节带来了效果，也不能证明海外已运行。季度内值得补看的，是同一批客户从看到老师、选中、约课，到付费后实际授课的完整经历；这一建议不替公司确定本季度优先级。
-
-### 两者怎样相连
-
-看清展示、选择、实际可约和后续课堂之间的断点，才能决定全年该改什么。若效果依赖少数销售的额外投入、特殊客户或大量专门支持，扩大使用前就要把这些条件和成本一起说明。
-
-## 3. 做好这件事，靠什么
-
-让推荐中的每一步都对得上后面的实际经历。[E1][E2][E3]
-
-| 一路要问的问题 | 容易漏掉什么 |
+| 现在能确定什么 | 不能一起带出的结论 |
 |---|---|
-| 这个学生此时需要怎样的老师？ | 只看老师历史高分，没有看课程任务、学生困难和以往相处 |
-| 老师的长处怎样被理解？ | 介绍漂亮，却说不出真实教法、适合谁和有什么课堂依据 |
-| 他符合这个推荐位置的要求吗？ | 把不同推荐位置的条件混用，或用未验证的新评分替代现有规则 |
-| 现在真的能约到吗？ | 展示时可约，客户确认时已经变化；原本就没有后续合适时段 |
-| 上课以后怎样？ | 只记录被选中，没有接着看原师履约、后续教学、客户反馈和未继续约课的原因 |
-| 下一次应怎样推荐？ | 把更多展示带来的更多课量误认为老师能力提高，或让少课老师一直没有证明机会 |
+| **Leon 9月5日已确认：直通车国内运行，取得积极A/B结果，正在逐步放量；下一步复制海外。**[E02][] | 不是海外已上线，也不认证所有历史实验口径、每个市场或单个呈现动作的因果效果。 |
+| 产品化方向“质量×呈现”、价值前置到客户决策时刻继续有效；Top200／Top300旧数量已弃置为当前承诺。[E01][] | 不是旧内容任务、激励、IP池或历史期限全部完成。 |
+| 8月18日精选推荐规则与8月25日优秀曝光规则属于不同曝光池；资格与屏蔽还要查实际配置。[E05][] | 不能将两个池的阈值合并成一套总排名，也不能把历史“拟上线”当今日已运行。 |
+| 9月16日好课定义成为唯一硬P0，相关教师数据汇总、晋升与小费、个性化任务部署后置。[E08][] | 不是本页可先发布一种新的统一教师总分；也没有据此宣告全部既有推荐停止。 |
 
-AI 可以帮助理解学生需要、解释为什么推荐某位老师；资格、时间冲突和最终预约仍要由正式业务系统确认。老师不可约、资格不符或客户不接受时，返回真实情况，不能绕过这些条件。[E1]
+<a id="1-客户价值做好以后谁会得到什么"></a>
+<a id="3-做好这件事靠什么"></a>
+<a id="6-怎么取舍"></a>
+<a id="model"></a>
+## 2. MODEL｜价值怎样产生
 
-**居家授课（HBT）是存量主流，与中心授课（Center）平行。** 居家呈现要帮助客户建立远程信任：声音、教学片段、设备网络、履约记录和时段都可能有用。中心还可以说明场地、降噪、稳定排班和现场教学支持，但这些条件要有实际依据，不能只靠“在中心”就推定课更好。两边都要用 Every Lesson Counts——每一节课都要有价值——检验承诺是否兑现。
+**用一个场景进入（诊断示例）：** 家长看到老师能引导害羞孩子开口，选了体验课，孩子也愿意继续。但付费后原时段已被占用。如果只看点击和体验课转化，这次推荐可能显得成功；对家庭而言，最重要的后半段尚未接住。需要同时问“看见了什么、谁作了选择、实际得到什么”。[E02][] [E03][]
 
-这页负责被看见、选中和约到。承诺范围见[学习需要与交付承诺](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3)），总体供给见[产能与供需配置](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)），新师验证机会与[新师成材](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)）相连；持续关系和课堂质量分别由[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）、[好课判断与逐课证据](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）展开。
+### 从真实长处到被验证的适配
 
-## 4. 核心假设：我们相信什么，凭什么相信
+```text
+教师真实能力与近期表现 → 家长看得懂的表达 → 当前任务和真实可约范围内的选择 → 上课验证 → 后续关系与呈现修正
+             ↑                                                                            │
+             └──────────── 教师反馈、客户选择与课堂证据 ──────────────────────────────────┘
+```
 
-**第一条：把真实教学长处讲清楚，可能帮助客户作出更合适的选择。** 前提是内容与实际课堂相符，而且老师确实可约。产品化方向已有确认，直通车整体也有积极进展，但尚不足以单独证明展示材料的贡献。若点击与成交上升，后续失望、退费或约不上也增加，就应收紧表达、改进供给连接，而非继续强化吸引力。[E2][E4]
+| 环节 | 价值如何产生 | 条件与其他解释 |
+|---|---|---|
+| 表达长处 | 把能力、教学方式、适合的场景讲明白，减少选择成本 | 照片、视频和标签必须真实且可理解；漂亮材料可能只增加期待而未增加适配 |
+| 提供选项 | 学习任务、资格、近期状态、时间与关系偏好一起进入候选范围 | CC人工挑选、客户自主选择、系统推荐是不同机制；客源质量和支持投入也影响结果 |
+| 确认可约 | 让看中的老师在需要的时间真正接得住 | 名单、标签和曝光资格不提供额外课位；既有占用与跨市场承诺仍要约课系统确认 |
+| 验证经历 | 看是否出席、实际课堂、付费后是否继续约到，以及关系能否持续 | 复约不等于完课，更不等于学会、续费或某算法净增 |
+| 修正表达 | 错配时改素材、范围或支持，让老师补充上下文 | 一次差评或一段下滑历史不能成为永久污名；修正仍需证据 |
 
-**第二条：同时考虑学生任务、师生经历和可约时段，比只按老师静态等级排序，更可能形成适配。** 宪法提出这一方向，实际效果仍待比较。需要在相近市场、课程和学生条件下，区分推荐方式、老师原有曝光以及销售额外帮助。若所谓改善主要来自给好客户更多关注，而不是推荐本身，就要调整判断和试验；若新增复杂信息并没有帮助，就应简化。[E1][E2]
+这套机制有一个常见竞争解释：高转化可能来自强CC、高潜客户、更多备课、教师本来就很受欢迎，而不只来自呈现或匹配。9月9日原稿已讨论CC选择偏差、合肥与上海不同测试条件，以及热门老师被约满的问题。承认这些限制不否定9月5日国内积极A/B与放量的认领，而是帮助回答“究竟哪一部分可以复制”。[E02][] [E03][]
 
-两条假设都不能推出“AI 推荐一定优于现有方式”。哪些信息有用、对谁有用，要回到课堂与客户经历来看。
+### 等级、状态与可约范围，各自回答不同问题
 
-## 5. 最新认知：现在怎么看，最近哪里变了
+等级可以记录一段成长经历，却未必说明现在最适合哪种课。9月4日讨论指出：同为L6，可能从L5上升，也可能从L7下滑；全周期累计和周期清零各有盲点。最近30或100课只是当时讨论的观察窗，没有收成统一窗口，更不是应把下降路径永久扣分。[E06][]
 
-目前保留三点：
+资格也不等于推荐位准入。8月18日的“六项”实际记录为五个明确条件加独立缺席屏蔽；其中满课量是**大于10**，不能改成大于等于10。8月25日是另一个曝光池，不能拿1.5%／70%覆盖0.3%／80%。详细条件和配置疑点留在依据页。[E05][]
 
-1. **整体进展与具体原因分开。** 直通车国内积极 A/B 进展及逐步放量，是 9 月 5 日已经确认的定性状态。渠道历史提升幅度已在直通车页补入；样本量、稳定性及展示、锁定、人工匹配各自贡献，仍需对应实验资料；国内进展不等于全球适用。[E2]
-2. **推荐规则有自己的范围。** 8 月 18 日记录的精选推荐，涉及差评率、自我介绍视频、题组、满课量、高峰利用情况与缺席屏蔽。TIDE 当时尚无足够验证数据，因此先按规则推出；不能据此认定新的评分已经成熟。8 月 25 日的另一曝光位使用不同门槛，不能把它当作对 8 月 18 日规则的统一替换。具体使用仍回对应页面和实际配置核对。[E3]
-3. **呈现要前置，但旧方案不自动成为当前承诺。** Top 200、Top 300 和旧投放期限保留为历史；内容激励、明星教师池等也不能仅凭方案存在就写成已完成。[E4]
+### 两个真正的取舍
 
-2026-09-14，把老师呈现、直通车、推荐准入和匹配放回同一个经营问题，同时保留与持续关系、好课判断的边界。2026-09-15，进一步明确从选择一直看至后续课堂，并首次列出下面的好奇；这是页面认识的展开，没有新增运营效果。
+**让强项更容易被看见，与不把承诺包装过头。** 呈现可以减少理解成本，却不能代替教学质量。内容越有吸引力，越需要告诉家长适用场景与真实可约范围；若选择增加而上课后失望增加，要回查表达和兑现，不只继续优化点击。[E01][] [E07][]
 
-2026-09-16 两库逐句校对：改正“推荐待遇／暴露量”两处与原料口径的偏差，澄清六月倒挂一句的读法；在“怎么取舍”登记 2026-09-15 屏蔽规则拍板的线索链接，观察结果出来前不预判。
+**集中推荐成熟老师，与形成持续的新供给。** 热门老师通常更容易选，但可能很快满课；新老师需要适配机会，又不能让学生承受未经准备的试验。应保留基线资格、支持与真实可用约束，再观察双方结果。9月15日TP CAP有范围放开、HBT暂不放，是须继续遵守的供给决定，不由推荐逻辑自行扩大。[E03][] [E09][]
 
-### 9月9日下午：看得见老师，还不等于以后能固定
+居家或中心、来源渠道、成长等级、推荐位和可约时段是不同维度。不能把任一标签做成所有客户适用的单一质量排序。[E07][]
 
-直通车前段是体验课老师可见，后段是后续可固定。会中报告国内积极信号，但合肥不是严格A/B，CC选老师和选客户带来偏差；会中称上海按权限分组更严谨，未提供随机分配底表，仍有样本、渠道和选择偏差待核。老师秘密名单被约满，体验课又与其他学员竞争同一份产能，可能打断从首次选择到付费后固定的承诺。看到、选择、出席、转化、同师付费和固定，须连着看又分别验证。（[下午后段原稿](../../sources/raw/J-42da13be240c49965141af40__794e078ff91cf362.0a92559cf98e.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHznXPAXAWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIz9Nr52n8BQEx5rG)），L632–710、L726–756。）
+<a id="4-核心假设我们相信什么凭什么相信"></a>
+<a id="beliefs"></a>
+## 3. BELIEFS｜哪些判断仍待检验
 
-本片段支持国内及弱销售订阅方向的推进讨论，港澳台和中东等仍需按组试；全球把体验课变为标签而非专属身份，是整体教师底线提升为条件的远期方向，不是下季度统一实行。三位老师让客户自选在此明确尚未测试；定性积极进展仍沿9月5日确认，不据这些口述补造提升率。（同源 L702–724、L738–756。）
+<a id="d06-h01"></a>
+### D06-H01｜真实且易懂的教师表达，可能帮助家庭作更适合的选择
 
-### 6月匹配记录补充：纪律改善与客户评价倒挂可以同时存在
+**判断：** 家长知道老师如何帮助孩子，并能约到符合需要的课，可能更愿意出席、继续学习；支撑来自产品化方向和直通车积极进展，但单独呈现带来的净效果尚未剥离。[E01][] [E02][] [E03][]
 
-6月23日加工纪要观察的是5月入职、接触至少10名学员的新师：B+/A纪律较好，收藏、好评和赴约却低于B。推荐倾斜、新生构成和观察课量是待核解释，30/50节课口径的复核尚无结果；不能删掉倒挂，也不能直接宣告入职评级无效。新入口15天内再次预约51.4%、旧入口29.6%，相差21.8个百分点；固定约77–80%、境外约44%属于另一些切片。再次预约不是实际完成或续费，数据也未单独证明匹配的因果贡献。（[同场纪要](../../sources/raw/2026-06-23_%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%91%A8%E4%BE%8B%E4%BC%9A%E7%BA%AA%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt67nA4DRWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZnw4KlP8qjMp697)） L40–65、L71–72、L83–86。）
+- **支撑与权重：** 国内运行与积极A/B是已确认进展，不能降成传闻。对于“由哪一条信息、哪个动作造成提升”，目前仍有客源、CC、支持和供给的替代解释。
+- **会怎样改判：** 点击增加但实际可约没有增加，上课后期待落差、换师或失望上升；或控制其他条件后呈现差异不再有帮助，就应调整表达、范围或机制判断。
+- **下一份有用证据：** 对同类孩子、可比课位保留看过的内容、选择者、选择理由和后续经历；尤其追踪看起来吸引但最终不适配的案例。
 
-因此，应把推荐后的学生反馈接回判断，并保留样本条件。这不撤销9月5日已认可的国内积极进展，也不把六月倒挂自动延伸为当前仍未解决的现状。
+<a id="d06-h02"></a>
+### D06-H02｜任务、近期状态和关系条件，可能比静态总排名更能解释适配
 
-## 6. 怎么取舍
+**判断：** 老师适不适合某个孩子、某类课，需要情境信息；成长等级和一次面试评级可以贡献线索，不能独立包办匹配。[E04][] [E06][] [E07][]
 
-目前倾向让客户看见真实、适合自己、确实能约到的老师。需要吸引力，也需要清楚说出哪些时段已经可用、哪些后续安排尚未确认。“稀缺”“锁定”不能把教师质量、当次可约和长期固定混成一句承诺。
+- **支撑与权重：** 6月23日评级与不同结果的倒挂、9月4日同级不同轨迹，提示静态标签有限；这些还没有证明某种新评分或AI推荐更优。
+- **会怎样改判：** 加入复杂信息后并未改善真实课堂与持续关系，却增加不可解释的差别或教师负担，应简化；若普通规则已能很好完成任务，也不必为复杂而复杂。
+- **下一份有用证据：** 找同等级但任务适配不同、近期变化方向不同的老师，在相似机会与支持下比较；保留成功和失败样本，并给教师解释或更正事实的机会。
 
-推荐成熟老师可以降低客户选择成本，却也可能让他们更难约，并让新师缺少证明机会。另一边，给合格新师适当机会，有助于发现被遗漏的好老师，但要先满足资格、教学准备和客户选择，不能让学生承担无边界的试错。具体机会安排按现有规则处理；屏蔽规则的现行调整与一周观察安排见[2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀](../decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md) （[A](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxdrkgAjJ3kdP0wQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLqgmpNa8xLq0Ee4)），观察结果出来前不预判。
+<a id="7-当下的好奇"></a>
+<a id="家长在选老师时哪一小段信息真正改变了他的判断"></a>
+<a id="有哪些教得好的老师因为不擅长呈现自己而没有被看见"></a>
+<a id="最受欢迎最值得推荐的老师为什么也可能最难约到"></a>
+<a id="frontier"></a>
+## 4. FRONTIER｜接下来想弄清什么
 
-若推荐位中的老师已经很难约到，或者更高转化没有延续到付费课稳定和客户体验，应重看推荐与供给的组合。若不同模式得到的支持不同，先解释差别，再比较表现。
+<a id="d06-q01"></a>
+### D06-Q01｜哪条教师信息真正改变了选择？
 
-最有用的下一份材料，应在同一市场里连着看展示、推荐条件、可约状态、实际约课和后续课堂，并区分直通车与普通推荐、体验课与付费课、居家与中心授课。否则，无法知道变化来自哪里、能适用到哪里。
+**为什么好奇：** 视频被播放不等于理解了教学价值。**当前认识：** 可见、选择和出席之间有线索；CC替家长选与家长三选一并非同一模式，后者在9月9日仍未测试。**值得继续看：** 家长选择前后能说出的理由、老师实际行动与孩子反应，并找“信息很多却没帮助”的反例。[E01][] [E03][]
 
-## 7. 当下的好奇
+<a id="d06-q02"></a>
+### D06-Q02｜哪些教得好的老师，因为不会表达而没被看见？
 
-以下问题于 2026-09-15 首次列入，供我们持续思考。
+**为什么好奇：** 表现力、拍摄能力、教学能力可能不在同一个人身上。**当前认识：** 呈现是可改进的一环，但不能用更好的包装替代课堂判断。**值得继续看：** 在真实课堂已有依据但曝光不足的老师，帮助其准确表达后，是否获得合适机会、能否持续兑现；同时观察展示很强却教学不匹配者。[E01][] [E04][]
 
-### 家长在选老师时，哪一小段信息真正改变了他的判断？
+<a id="d06-q03"></a>
+### D06-Q03｜为什么最受欢迎的老师，往往最难继续约到？
 
-**为什么值得想：** 有些内容能让客户理解教学，有些只让页面好看。分清以后，可能让呈现更简洁，也减少老师和一线的无效投入。
+**为什么好奇：** 推荐越有效，越可能把少数人的时间推满。**当前认识：** 9月9日已出现“秘密名单”老师满课、体验课与付费固定争课位的问题；前半段选择成功不保证后半段连续性。**值得继续看：** 从体验课选择追到后续同师付费课和固定，分清产能饱和、预占、客户选择改变与不再适配；同时保留受影响老生的承诺。[E02][] [E03][] [E09][]
 
-**目前想到哪了：** 产品化讨论强调把价值前置，直通车整体有积极信号，但还没有分清介绍、真实教学片段、资质和销售解释各自的作用。[E2][E4] 值得留意家长选前的理由、实际选择及课后是否认为选对了，不能只用点击量回答。
+<a id="5-最新认知现在怎么看最近哪里变了"></a>
+<a id="9月9日下午看得见老师还不等于以后能固定"></a>
+<a id="6月匹配记录补充纪律改善与客户评价倒挂可以同时存在"></a>
+<a id="2026-09-15-原料补充成长等级与近期推荐依据分开"></a>
+<a id="本轮原料怎样修正判断2026-09-15"></a>
+<a id="delta"></a>
+## 5. DELTA｜认识怎样走到这里
 
-### 有哪些教得好的老师，因为不擅长呈现自己而没有被看见？
+| 日期与材料 | 认识变化 | 边界继续保留 |
+|---|---|---|
+| 2026-06-23 匹配周会 | B+/A在纪律指标较好，却在收藏、好评、赴约出现倒挂；开始追问新生结构、推荐量与评价单位。[E04][] | 解释仍待验证；新旧入口15天复约51.4%／29.6%不是算法净增、完课率或续费率。 |
+| 2026-07-15及7月21日产品化讨论 | “质量×呈现”与可约单师成为价值前置的具体方向。[E01][] | Top200／300和旧期限按后继认领历史化，不能恢复为今天承诺。 |
+| 2026-08-18及8月25日规则 | 精选位与优秀曝光位各有资格和利用率约束，体现“好”还要“能约到”。[E05][] | 不同池不是先后覆盖；实际屏蔽与后继上线按配置和运行记录核。 |
+| 2026-09-05 Leon确认 | 国内直通车已运行、积极A/B、逐步放量，下一步复制海外。[E02][] | 不据历史局部差异抹去确认，也不扩成所有环节净效应或海外上线。 |
+| 2026-09-09原稿、9月15日回读 | 把“看得见、谁选、出席、转化、同师付费课、固定”拆开；继续追问选择偏差和后半段供给。[E03][] | 客户三选一未测，全球统一标签与海外复制仍有条件，不是下一季度统一承诺。 |
+| 2026-09-16好课决定 | 新的教师汇总、晋升与小费、个性化任务部署须等共同好课标准。[E08][] | 没有授权本页另建总评分，也不抹去既有有效推荐安排。 |
 
-**为什么值得想：** 我们想发现真实教学优势，也想看见当前展示方式可能遗漏的教师。
+<a id="资料与以前的讨论"></a>
+<a id="相关知识页按需读取"></a>
+<a id="boundaries"></a>
+## 6. BOUNDARIES｜边界与下钻
 
-**目前想到哪了：** 现有方案强调视频与清楚的卖点，但本页没有足够材料认定已经发生系统性遗漏。[E4] 值得看课堂表现与展示效果不一致的老师，听学生为什么喜欢他，也听老师制作材料时遇到什么困难。没有曝光或没有评价，不能直接当成没有教学价值。
+| 接口 | 本域交接 |
+|---|---|
+| [D01 学习需要与交付承诺](TutorOS经营域-D01-学习需要与交付承诺.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3)） | 用具体需要解释推荐理由；不能把客户信任简化成一个偏好标签。 |
+| [D03 新师成材与早期经营](TutorOS经营域-D03-新师成材与早期经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） / [D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 早期培养与持续成长提供不同阶段证据，推荐曝光不自行改毕业或晋升规则。 |
+| [D04 产能与供需配置](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） / [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） | 名单和推荐资格要接受实际课位、条件及既有承诺核对；两种授课模式平行。 |
+| [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） / [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 继续验证课堂与连续关系。一次转化、复约和满意都不能替代孩子学到了什么。 |
+| [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） | 选择、供给与后续记录采用同一有效事实交接；实验口径与已确认定性进展分别保留。 |
 
-### 最受欢迎、最值得推荐的老师，为什么也可能最难约到？
+本页不新增推荐阈值、曝光配额、排名、薪酬或新市场上线决定。现行方向与历史记录保留各自范围；与既有供给、好课前置决定冲突的推论不能靠主文模型取得授权。
 
-**为什么值得想：** 如果推荐不断把客户引向没有合适时段的人，成功推荐反而可能变成失望的起点。
+[证据登记与全部旧相关页](../queries/D06-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY4GBYyxVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQyNaX58B5r9YAn)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
-**目前想到哪了：** 8 月 25 日记录曾因“预约火爆、约不上”，在相应独立曝光位剔除高利用率老师，这提供了一条线索，不是所有推荐位置的通用答案。[E3] 值得连着看被推荐时的可约时段、客户需要的时段、实际约课及未约成原因，并与供需域一起寻找更好的安排。
-
-新材料有推进时保留出处、看法的变化和未解之处；也允许材料带来没想到的问题。普通好奇先留在这里，维护方式见[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
-
-## 资料与以前的讨论
-
-- **[E1] 逐课任务与匹配边界：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 2、6、10 章；设计方向不证明所有信息和执行能力已经可用。
-- **[E2] 直通车项目：** [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)），重点见“最新状态（截至 2026-09-05）”“证据范围”及 9 月 9 日战略会接续。积极结果按确认范围引用；历史分渠道与全渠道结果各保留原范围，试点中的额外投入也要单独看。
-- **[E3] 精选推荐的规则与不同曝光位：** [2026-08-18-精选老师推荐六项准入定稿](../decisions/2026-08-18-%E7%B2%BE%E9%80%89%E8%80%81%E5%B8%88%E6%8E%A8%E8%8D%90%E5%85%AD%E9%A1%B9%E5%87%86%E5%85%A5%E5%AE%9A%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjXxmNJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4prP9j8xLq0Ee4)）及页内 8 月 25 日演化记录。属于会议记录，当前配置仍须核对，缺席屏蔽与其他准入条件不要混淆。
-- **[E4] 产品化方向及旧方案边界：** [2026-07-15-外教产品化-Top200光晕效应](../decisions/2026-07-15-%E5%A4%96%E6%95%99%E4%BA%A7%E5%93%81%E5%8C%96-Top200%E5%85%89%E6%99%95%E6%95%88%E5%BA%94.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dPaM48dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7p5lXJgk9rpMq)），先读 9 月 5 日现行阅读边界；方向已确认，历史人数与期限不作当前承诺。
-
-初版四组来源分别支撑设计、项目进展、推荐规则和产品化方向；同一项目或同一会议的不同整理稿不重复算证据。
-
-## 2026-09-15 原料补充：成长等级与近期推荐依据分开
-
-同为L6，可能从L5升来，也可能从L7降来。原始讨论担心清零抹掉变化方向，又担心永久累计偏袒资历，因此继续讨论近期曝光窗口。下一次解释推荐时，需保留近期经历、课程条件和变化方向；等级不能单独代表当前适配，过去下降也不能成为永久污点。30课或100课窗口均未在该讨论定稿，本页不新设展示规则。[原文L305–338](../../sources/raw/2026-09-04_%E5%90%AC%E8%AE%B0-teacher-growth-system-including-TIDE__62b353ac9ab9.md) （[A](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKdayjAw8akx1Z5N) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeGpkYEqW1DK0g6l)）。
-
-## 本轮原料怎样修正判断（2026-09-15）
-
-- [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）：渠道优势与团队总体差小于0.5个百分点同时保留；高潜客源、强CC和备课并存，不能单独识别净增。
-- [老师质量提升飞轮](../concepts/%E8%80%81%E5%B8%88%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E9%A3%9E%E8%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）：Center与Trial Only都包含组合条件，不能识别单环节贡献。
-
-以上补入历史证据和适用条件；既有业务认可、人类逐条审阅和当前效果分别保留。
-
-<!-- query-related:start -->
-## 相关知识页（按需读取）
-
-保留各页原有日期、认可范围和未决条件；下表只表示有关联。
-
-- [外教侧需求X-Y-Z需求地图](../concepts/外教侧需求X-Y-Z需求地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)）
-- [素材机器与切片传播法](../concepts/素材机器与切片传播法.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kqRkgJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPNrgKWzN67Mw4)）
-- [老师质量提升飞轮](../concepts/老师质量提升飞轮.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjE2XAoK8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7g53qKPWMwvDqPk)）
-- [责任域-叙事逻辑-宣传机器](../concepts/责任域-叙事逻辑-宣传机器.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbjME7WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrM53MJGXn6lpz)）
-- [2026-04-15-Q2战役总纲与三标收敛](../decisions/2026-04-15-Q2战役总纲与三标收敛.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr0XpK8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqAp2w4lJ9dEq3XD)）
-- [2026-04-28-教师评价战役第一发子弹与AI匹配v1.3](../decisions/2026-04-28-教师评价战役第一发子弹与AI匹配v1.3.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKK2b7WzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrQXaPJGXn6lpz)）
-- [2026-05-09-直通车TrialOnly-合肥MVP拍定](../decisions/2026-05-09-直通车TrialOnly-合肥MVP拍定.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjla6zJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sj5NNX7m8GlDd3mE)）
-- [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO反攻Polly指示与外教战役国内倾斜.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)）
-- [2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-师生匹配双供应商竞赛与统一入口.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)）
-- [2026-05-F5两车不合并618先行](../decisions/2026-05-F5两车不合并618先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr3w1r8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgYY7E6Jkb4Mw9r)）
-- [2026-06-03-TESOL证书合规展示拍板](../decisions/2026-06-03-TESOL证书合规展示拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaYBLzRWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQlXlMAR81waOeDk)）
-- [2026-06-10-外教质量提升双周会-半仗判断与跳级电梯](../decisions/2026-06-10-外教质量提升双周会-半仗判断与跳级电梯.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkp2Nj8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7geOqQNWMwvDqPk)）
-- [2026-07-06-好老师买不来与战役四梁定调](../decisions/2026-07-06-好老师买不来与战役四梁定调.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4z2RvDWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PceOz4xKj86zbX04v)）
-- [2026-07-15-外教产品化-Top200光晕效应](../decisions/2026-07-15-外教产品化-Top200光晕效应.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dPaM48dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7p5lXJgk9rpMq)）
-- [2026-07-15-设备检测版本升级与战役3尾部出清共识](../decisions/2026-07-15-设备检测版本升级与战役3尾部出清共识.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yvZ4oJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6exwLgJ63zgkYA)）
-- [2026-07-24-SIV单入口强制与积压分类治理](../decisions/2026-07-24-SIV单入口强制与积压分类治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkooOe8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LAe6aZWyMoPYe1)）
-- [2026-07-28-CC预约体验课预占与供给数字漏斗化](../decisions/2026-07-28-CC预约体验课预占与供给数字漏斗化.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazlQEPyJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSL5nlMkn8Ke0xjE3)）
-- [2026-08-04-SIV恢复专项与算法owner补位](../decisions/2026-08-04-SIV恢复专项与算法owner补位.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZbLYrGWyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgwErAJ3pmz5aA)）
-- [2026-08-12-SIV流程优化拍板](../decisions/2026-08-12-SIV流程优化拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se9O529yJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvdp3nRg8A7depqY)）
-- [2026-08-13-Battle1周会-SIV双指标与CE移交](../decisions/2026-08-13-Battle1周会-SIV双指标与CE移交.md) （[A](https://alidocs.dingtalk.com/i/nodes/PwkYGxZV3ZaeKo1NTp4z695zWAgozOKL) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqRlOXlW3bzYmDO)）
-- [2026-08-13-SIV录制工具专项与双入口并行](../decisions/2026-08-13-SIV录制工具专项与双入口并行.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1l97JlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6yGd6NBJyeZqMmz)）
-- [2026-08-18-精选老师推荐六项准入定稿](../decisions/2026-08-18-精选老师推荐六项准入定稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjXxmNJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4prP9j8xLq0Ee4)）
-- [2026-08-10-好外教在51Talk-价值传播首战参谋方案](../projects/2026-08-10-好外教在51Talk-价值传播首战参谋方案.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaY7NlgWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnq3kMq86EDybno)）
-- [外教质量提升战役](../projects/外教质量提升战役.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）
-- [新老师蜜月期课程优化](../projects/新老师蜜月期课程优化.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoA6RejVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrP00LJGXn6lpz)）
-- [直通车项目](../projects/直通车项目.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)）
-- [2026-07-31-CC预约体验课动态标签供给](../queries/2026-07-31-CC预约体验课动态标签供给.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2orbAVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQg6oAxJ3pmz5aA)）
-- [X战场树-营盘地图-候选v0.1](../queries/X战场树-营盘地图-候选v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）
-- [CEO反攻Polly指示执行策略-源摘要](../sources/CEO反攻Polly指示执行策略-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DjQDVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZqz0k4e85daZ90D)）
-- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
-- [外教战役2026H1复盘骨架-源摘要](../sources/外教战役2026H1复盘骨架-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZqXGz81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqRj4QbW3bzYmDO)）
-
-<!-- query-related:end -->
+[E01]: ../queries/D06-认知依据与演化.md#e01
+[E02]: ../queries/D06-认知依据与演化.md#e02
+[E03]: ../queries/D06-认知依据与演化.md#e03
+[E04]: ../queries/D06-认知依据与演化.md#e04
+[E05]: ../queries/D06-认知依据与演化.md#e05
+[E06]: ../queries/D06-认知依据与演化.md#e06
+[E07]: ../queries/D06-认知依据与演化.md#e07
+[E08]: ../queries/D06-认知依据与演化.md#e08
+[E09]: ../queries/D06-认知依据与演化.md#e09

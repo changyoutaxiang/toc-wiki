@@ -1,187 +1,159 @@
 ---
-rebuild_review_scope: "2026-09-15新增整理未经逐条人审；原有人类认可按原日期与范围保留"
 projection: public
 type: synthesis
 title: TutorOS经营域-D09-履约恢复与问题治理
 tags: [TutorOS, 第二层经营域, 履约恢复, 坏课治理, 异常恢复, 问题治理]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 坏课KPI-坏课治理语义岛-2026-09-11, 2026-08-26-坏课治理双方案灰度拍板, 2026-08-27-课堂问题数据口径与课后治理优先]
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-09-17
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/Meeting/2026-08-26_Bad-Class-Issue-Updates纪要.md", "外教战役/Meeting/2026-08-27_聊下网络设备治理纪要.md", "Leon-work:journal/2026/08/2026-08-26/media/dws-听记-Bad-Class-Issue-Updates-2026-08-26.md"]
-review: 已审
-review_scope: 第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
+review: 待审
+review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用"
 architecture_version: "1.1"
 meaning_domain: D09
-template_version: "1.1"
-knowledge_revision: "D09-2026-09-15.3"
+template_version: "2.0"
+knowledge_revision: "D09-2026-09-17.v2.1"
+
+content_review_status: pending
+prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
+based_on_revision: "D09-2026-09-15.3"
 ---
 
-# 履约恢复与问题治理
+# D09｜履约恢复与问题治理
 
-返回 [全部经营域](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)） · [这一页的共同写法](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）
+> 约好的课发生问题后，先让孩子得到可接受的帮助，再把原承诺、实际损失和后续修正说明白；一次恢复做得好，还要让下一位孩子少遇到同样的问题。
 
-**我们在讨论什么：** 发生缺席、断线或其他课堂问题后，怎样让学生得到妥善安排、把原因处理清楚，并减少同样的问题再次发生？
+[当前判断](#now) · [价值机制](#model) · [待检验判断](#beliefs) · [探索问题](#frontier) · [认识演化](#delta) · [边界与下钻](#boundaries)
 
-**目前最重要的看法：** 学生得到了补救、教师责任查清了、设备修好了、后面的课没有再出问题，是几件需要分别确认的事。补位成功仍要保留原来没有兑现的承诺。[E1]
+<a id="履约恢复与问题治理"></a>
+<a id="2-主要矛盾本年度和当季度分别难在哪里"></a>
+<a id="本年度的矛盾2026-年建议这样理解"></a>
+<a id="当季度的矛盾2026-年第三季度待判断"></a>
+<a id="这个季度怎样帮助全年往前走"></a>
+<a id="now"></a>
+## 1. NOW｜现在怎么看
 
-**最值得接着想的一件事：** 我们说“已经恢复了”，学生和家长会在什么时候也这样认为？见下文“当下的好奇”。
+**核心问题：** 一节课失约或出现问题后，怎样恢复孩子当下的学习与信任，并减少下一次损失，而不让“工单结了”代替“问题好了”？
 
-最近更新：2026-09-15。补清记录产生、恢复接课与分别结案；代课补位仍需客户接受与当课准备，既有治理有效认可保留。
+**当前判断：** **客户恢复、教师责任、技术修复和复发预防，是相连但可以在不同时间完成的四件事。** 代课上完不等于原老师兑现承诺，系统修好不等于家庭已接受恢复，老师被处罚也不等于下次不会再发生。[E01][]
 
-## 1. 客户价值：做好以后，谁会得到什么
+现行确认也不能退回成未定：TOC-21 已于 9 月 4 日确认，一次缺席就应触发动作，不必等连续多次才开始治理；这不等于自动追加处罚。TOC-70 对缺席总量下降的总体有效性已明确认可，不应以必须补做 AB 为由重开。不同渠道的贡献、持续效果和误伤范围仍可继续核查。[E03][]
 
-设想孩子已经坐到电脑前，原约老师却没有出现。家长需要尽快知道发生了什么、有哪些可接受的安排；接课老师需要知道孩子该学到哪里；原约老师也可能正在停电，需要说明情况和获得帮助。这里希望做到的是：当下有人接住，后面不再让同一个原因反复打断学习。[E1]
+**当前重点：** 守住原承诺与真实接受，避免恢复规则本身造成二次损害。9 月 15 日代课误杀事件在 9 月 16 日确认“立即优化、双方知道规则已生效”；源窗口没有修复结论，后续回执与影响面待核。常规恢复和已授权保护继续按现行规则处理，不能把好课标准的新建设闸门外推成全部停摆。[E07][] [E08][]
 
-学生与家长得到清楚、可靠的安排和应有的恢复；教师得到符合事实的解释与支持，避免公共故障变成个人过错；公司逐渐减少重复救火及其损失。客户沟通、代课接受和权益恢复由客户服务侧承接，本域负责把它们与教师、中心和平台的原因处理接起来。
+<a id="1-客户价值做好以后谁会得到什么"></a>
+<a id="3-做好这件事靠什么"></a>
+<a id="6-怎么取舍"></a>
+<a id="model"></a>
+## 2. MODEL｜价值怎样产生
 
-“通知发了”“工单关了”“客户暂时不再追问”都可能是进展，还要看学生是否接受安排、学习是否接上，以及后来的同类问题是否减少。课没有上成，也不能从统计和复盘中消失。
+### 从一位等待原老师的孩子看起
 
-## 2. 主要矛盾：本年度和当季度，分别难在哪里
+孩子等到了上课时间，原老师没有出现。平台找到另一位老师，孩子和家长知道为何变化，并愿意接受；新老师也有资格、有准备，能够接上本节目标。课恢复了，但原老师失约仍然发生。若家长拒绝临时换师，就需要继续处理其真实损失，不能把“提供过一位老师”写成已恢复。这是机制示例，非本轮效果案例。[E01][] [E06][]
 
-### 本年度的矛盾（2026 年，建议这样理解）
+### 四件事各自留下完成证据
 
-**既要迅速处理眼前的失约，又要把力气用到减少下一次失约。** 一线不停救火，可能没有时间处理共同原因；只等原因完全查明，又会让当下的学生继续等待。
+| 要完成的事 | 看什么变化才有意义 | 不能用什么替代 |
+|---|---|---|
+| 客户恢复 | 家庭知道选择，获得其接受的安排，学习与关系有下一步 | 已派老师、已发消息、已结工单 |
+| 责任判断 | 原承诺和实际过程保留，区分教师、平台、学生与共同条件 | 检测命中就自动判老师有责 |
+| 条件或技术修复 | 原问题在相关条件下不再出现，解除限制有依据 | 清除报错、系统开关变成可用 |
+| 复发预防 | 同类风险被识别，其他受影响课堂也获得保护 | 只解决投诉最响的一单，或只发一次提醒 |
 
-建议把全年要争取的变化理解为：每次问题都有人接住，其中反复出现、影响广的原因得到持续处理。到年底，值得看的变化是学生遭遇的重复中断是否减少、后续安排是否更可靠，以及这些结果能否在正常人手与投入下维持。[E1]
+记录要从所有原承诺开始，包含未开课、取消、拒绝替代和恢复失败。原老师、替代老师与原课关联起来，避免替代课被算作一次新的原承诺，也避免原失约从统计中消失。[E01][]
 
-### 当季度的矛盾（2026 年第三季度，待判断）
+### 支持要赶得上，规则也要让人知道
 
-**建议先看清：缺席和设备问题处理得更快之后，后面的课究竟改善了多少，有没有把问题或代价转给别人。** 8 月 26 日讨论了临近开课的预约、新师前几课等高风险场景；8 月 27 日又提醒，设备现象和原因判断不够可靠时，仓促通知可能干扰教学。[E2][E3]
+明确缺席后应及时触发动作；提醒的价值在于改变下一步行为，而不是发送量。不能确认能来的老师被当作可接课，或没回复被当作默认同意，都可能把风险继续传给下一位学生。[E02][] [E03][]
 
-这些材料说明了当时为什么选择先小范围试、优先课后治理。它们不能代替本季度实际处理记录，也不足以确定今天最大的障碍就是上述某一项。还需对照学生恢复、后续复发、教师异议和可预约课量，判断季度重点。
+8 月 26 日的试点区分紧急约课窗口、前十节已结束课程、之后弹窗确认等条件；“能接”与“优先推荐”也不是同一状态。9 月 15 日已有后继决定：TP CAP 新师前十节供给屏蔽先放开、观察一周，HBT 暂不放，十节还是六节仍未定。供给屏蔽、紧急约课和代课池是否同一配置，本轮没有证据确认，不能恢复旧统一禁令，也不能推为所有代课资格已放行。[E02][] [E05][] [E09][]
 
-### 这个季度怎样帮助全年往前走
+### 成立条件、其他解释与取舍
 
-先找出“动作做了但问题仍在”的位置，才能把有限精力投向真正减少复发的改变。进入第四季度时，要回看这些问题解决了多少，并结合高峰供给重新判断；不能为了提高处理速度，让可预约的老师突然大量减少。
+同一个中心网络事件可能影响多位老师、多节课。每位客户的损失都要处理，但它们不一定是多次独立的教师失职，治理应追到共同条件。问题记录又可能混入人工换师等操作，数据清理和业务恢复需要各自完成。[E04][] [E05][]
 
-## 3. 做好这件事，靠什么
+**先保护孩子，不让追责耽误恢复；同时不给恢复结果改写原事实的权力。** 快速替代要以可接受和能接住学习为条件。合格新老师参与代课是待设计的机会。9 月 9 日所报前十课排除是当时状态，后来特定供给屏蔽已有变化；具体代课资格须核对对应配置，保留资格、准备、家庭接受与确认条件，不能直接全量实施。[E01][] [E06][] [E09][]
 
-**从原来的承诺开始，一直看到后续课堂。** 每一节课都要有价值，也包括认真对待没有上成的课。[E1]
+<a id="4-核心假设我们相信什么凭什么相信"></a>
+<a id="beliefs"></a>
+## 3. BELIEFS｜哪些判断仍待检验
 
-| 一路要看什么 | 怎样才算向前走了一步 |
+<a id="d09-h01"></a>
+### D09-H01｜针对真实风险、能让老师做出下一步选择的提醒，比泛化催促更有持续价值
+
+- **为什么值得相信：** 已有治理总体有效的正式确认，确认出席和可接紧急约课的机制也直指后续风险。[E02][] [E03][]
+- **现在有什么证据：** 总体有效性已被认可；本假设讨论各渠道和具体提醒方式的边际贡献、长期持续性，不能反过来将总体结论降级。
+- **什么会改变判断：** 发送量上升但实际行为不变，误伤正常老师，或老师未能理解规则而新增失约。
+- **下一份值得看的证据：** 按触发、送达、理解、回复、实际出席分开看同一批风险事件，保留没有回复、拒绝接课和错误触发的分母。
+
+<a id="d09-h02"></a>
+### D09-H02｜识别跨课共同原因，能让一次治理减少更多后续损失
+
+- **为什么值得相信：** 网络、平台和组织条件可能同时影响多课，只逐人追责会漏掉同一根因。[E01][] [E04][]
+- **现在有什么证据：** 设计与问题治理材料支持追共同原因；尚不能由一次中心事件或同一事件中的多课，声称已重复验证预防效果。
+- **什么会改变判断：** 所谓共同原因解释不了问题分布，修复后同类损失并未减少，或为修条件导致新的不可接受损失。
+- **下一份值得看的证据：** 保留相同故障组及各课损失，再看修复前后、其他时段和相近条件下的复发，而不把同一事件多次计作独立成功。
+
+<a id="7-当下的好奇"></a>
+<a id="我们说已经恢复了学生和家长会在什么时候也这样认为"></a>
+<a id="哪些反复出现的老师问题其实是在提醒我们改工作条件"></a>
+<a id="一次问题解决得很好以后怎样让下一位学生不用再经历同样的事"></a>
+<a id="frontier"></a>
+## 4. FRONTIER｜接下来想弄清什么
+
+<a id="d09-q01"></a>
+### D09-Q01｜我们说“恢复了”，家庭在什么时候也会这样认为？
+
+平台可以完成动作，家庭仍可能失去对原选择的信任。目前知道要保留接受与拒绝，尚未形成跨场景的恢复完成判断。值得看替代前的解释、家庭选择、实际体验和下一次约课，尤其是已经派单却拒绝代课的样本。[E01][] [E06][]
+
+<a id="d09-q02"></a>
+### D09-Q02｜哪些反复出现的“老师问题”，其实在提醒我们改工作条件？
+
+若一批老师同时在相似时段出问题，个人行为只是一个解释。当前材料已提示网络归属与共同原因，值得把教师、设备、中心、平台和时段放在同一事件线上，并保留无法归属的部分，而不是为了快速结案强行选一个责任人。[E04][] [E05][]
+
+<a id="d09-q03"></a>
+### D09-Q03｜一次恢复做得很好后，怎样让下一位孩子不用再经历同样的事？
+
+好恢复可能只是某位同事临场补位，尚未变成可重复方法。值得追踪经验有没有进入准确的触发条件、执行者能否理解、错误触发怎样撤回，以及后续风险是否实际减少；“规则已写”“已通知”各自只是过程证据。[E01][] [E07][]
+
+<a id="5-最新认知现在怎么看最近哪里变了"></a>
+<a id="delta"></a>
+## 5. DELTA｜认识怎样走到这里
+
+| 时间与来源 | 认识怎样变化 | 当前保留的限度 |
+|---|---|---|
+| 8 月 26 日 [E02][] [E05][] | 从缺席后的处理，推进到两小时可约性、前十课保护及老师确认；同时讨论恢复接课与报表清洁 | 灰度范围、十课后弹窗、上线人群不能省略；中途提案不当最终规则 |
+| 8 月 27 日 [E04][] | 把问题归属、延迟与课后共同原因治理放进闭环 | 该设备治理线的阶段优先级不扩成取消所有课中应急 |
+| 9 月 4 日确认 [E03][] | 一次缺席即触发动作；缺席总量下降的总体有效性已获认可 | 动作不等于自动处罚；细分贡献和副作用仍可核查，但不重开已定总体结论 |
+| 9 月 9 日及设计接续 [E06][] [E01][] | 从“有人代上”走向“家庭接受且能接住学习”；合格新师代课被提出为可能机会 | 新师资格与供给准备仍需核；当时报出的前十课排除不当作今天统一禁令 |
+| 9 月 15 日供给决定 [E09][] | TP CAP 新师前十节屏蔽先放开、HBT 暂不放，保护客户体验优先于内部公平合理 | 观察结果和十节/六节线未定；不推断紧急约课及代课池同步全量放行 |
+| 9 月 15 日事件、9 月 16 日确认 [E07][] | 规则静默生效也会误伤关系，双方可知成为明确设计要求 | 决定不等于修复回执；源窗口没有完成结论，普通客户影响面仍待核 |
+
+<a id="已有决定与还没弄清的事"></a>
+<a id="资料与以前的讨论"></a>
+<a id="相关知识页按需读取"></a>
+<a id="boundaries"></a>
+## 6. BOUNDARIES｜边界与下钻
+
+| 相邻域 | 怎样交接 |
 |---|---|
-| 原来答应了什么，实际发生了什么 | 保留原约老师、实际接课老师、时间及不同尝试；补位不覆盖原失约 |
-| 学生当下怎样被保护 | 客户是否接受代课、改期或其他安排；拒绝代课的偏好也保留 |
-| 原因在哪里 | 分清教师、学生、平台、课程与中心公共环境；无法判断就继续核对 |
-| 采取了什么处理 | 沟通、辅导、设备修复和客户恢复各有明确承接与实际结果 |
-| 老师怎样恢复正常接课 | 中断条件是否恢复、由谁确认、原有限制是否按规则解除；开关打开不等于保证优先获课 |
-| 错误有没有改到后续结果 | 若记录或归责有误，接 D11 复核，并查相关机会和结算是否仍受错误影响 |
-| 后来有没有改善 | 分别看原承诺、学生得到的安排和同因复发；没机会复检时说明原因 |
+| [D04 产能与供需配置](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） | 可用供给必须真实可接，不能用强行恢复状态填缺口 |
+| [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） | 条件修复追到居家或中心的实际根因，不按模式先定责任 |
+| [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 家庭接受、关系信任与学习承接进入恢复判断 |
+| [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 保留原失约及真实课堂证据；坏课指标设计不自动成为正式考核 |
+| [D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 需要能力支持时交给成长链，处罚和复训完成不替代真实改善 |
 
-**先弄清记录是怎样产生的，再判断是谁的问题。** 8 月 26 日 Katherine 提醒，支持人员手动换老师，也可能进入当时的缺席报表，报表还须清理核对。人工换师、系统转单与原老师未到，不能只凭同一个标签合并。这个提醒属于当时材料，不表示今天的报表仍有同样问题。[E5]
+**本页不调整罚则、恢复权限或自动代课规则。** 坏课指标设计中的未决项继续沿问题账，不能因本轮改稿被结案。证据、正式确认、历史口径和完整旧相关页见[认知依据与演化](../queries/D09-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqLGDNP8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeEdR2kAW1DK0g6l)）。
 
-**几件事可以在不同时间完成。** 学生接受了补课，公共网络可能还在修；网络修好了，错误记录对老师的影响也可能尚未改完。课已上完、客户恢复、原因处理、教师纠错及后续学习，各自说明进展，不能用一个“已关闭”包办。按已有设计，正常课堂与结算也不等长期评价才继续。[E1]
+返回 [第二层经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。
 
-问题可能是缺席、迟到、早退、断线、听不见、看不见、教材没加载出来、频繁进出或设备异常。现象需要尽快看见，原因不能只凭一个标签认定。[E3]
+[E01]: ../queries/D09-认知依据与演化.md#e01
+[E02]: ../queries/D09-认知依据与演化.md#e02
+[E03]: ../queries/D09-认知依据与演化.md#e03
+[E04]: ../queries/D09-认知依据与演化.md#e04
+[E05]: ../queries/D09-认知依据与演化.md#e05
+[E06]: ../queries/D09-认知依据与演化.md#e06
+[E07]: ../queries/D09-认知依据与演化.md#e07
+[E08]: ../queries/D09-认知依据与演化.md#e08
 
-居家授课是当前存量主流，与中心授课平行。居家环境分散，要通过教师使用的课堂软件、手机应用和消息渠道，及时知道老师能否上课、怎样请假、需要什么远程帮助。平台分课、短时预约和设备误判造成的问题，不应全归教师。中心多节课同时异常时，要把同一公共故障放在一起查，由现场人员处理，再分别看学生恢复、教师反馈和设备修复。
-
-老师确认会来，不保证以后不会缺席；现场整改完成，不保证客户损失已停止。设备和现场长期条件接[授课条件与模式治理](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）；可接课能力和备用老师接[产能与供需配置](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)）；换师后的学习衔接接[师生关系与跨师承接](TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)）。
-
-## 4. 核心假设：我们相信什么，凭什么相信
-
-**第一条：提醒和确认只有改变后续行动，才可能减少缺席。** 这次缺席治理已由 9 月 4 日 TOC-70 按缺席绝对量下降认定有效，不强制补 A/B；本轮不重开这项已有裁决。“确认了就一定来”的旧说法仍有反例，回复率本身也不能替代后续到课。具体手段各贡献多少、能否持续、是否误伤，继续分别看。[E2] 要在相同人群和可比时段下，看老师之后是否真正到课。若回复更多、后续缺席却没有减少，就该重看提醒时机、能否请假或关闭紧急约课、信息是否同步，而不是只增加提醒。
-
-**第二条：处理共同原因，比把每次异常分别结束更能减少复发。** 设计宪法以中心集中断线为例，要求现场修复与后续课堂验证相连；这是有理由的做法，仍要靠实际结果检验。[E1] 若修复之后同类问题仍反复出现，就要重查原因、修复是否真的执行，以及原来的判断是否有误。若只是把困难课堂移出了观察范围，也不能算改善。
-
-以上假设用于改进治理，不产生新的处罚、停排或淘汰规则。涉及责任和权益的具体动作，仍按现行决定、事实和复核处理。
-
-## 5. 最新认知：现在怎么看，最近哪里变了
-
-目前保留三点：
-
-1. **恢复有多个结果，不能互相代替。** 接上了一节课，还要看客户是否接受、教学是否接续、原来的问题是否消除。
-2. **发生一次问题就要处理，怎样处理仍须看事实。** 问题账 TOC-21 的 9 月 4 日裁决明确：缺席一次即触发动作，不以连续若干节作为硬停线。它没有把所有原因都变成自动处罚。[E4]
-3. **治理效果与统计指标要分别确认。** 坏课率的设计、某一类异常的治理、试点上线和正式指标采用，各自需要相应依据。周报口述不能当作正式基线。[E2][E3]
-
-2026-09-14，这个域从“降低坏课率”展开为履约恢复与问题治理，补上客户恢复、原因处理和复发观察。2026-09-15，先按共同模板整理，再经原料独立复核，补入记录产生过程、恢复接课和分开结案的读法；TOC-21 的一次响应与 TOC-70 的有效性认定都继续沿用。本轮未新增处罚标准，也没有核出新的治理效果。
-
-## 6. 怎么取舍
-
-**目前倾向：先保护正在受影响的学生，让教师和现场人员获得及时支持；不确定的原因留待核实。** 这样会增加后续复核工作，但能兼顾及时救助和正确归责。
-
-课中干预有时能更快止损，也可能因延迟、误判打断教学。8 月 27 日的 AI 听记摘要记录了优先课后治理的选择，缺逐字稿核定，按原页限制使用；若后面的学生仍持续受同类问题影响，就应重新评估哪些场景确有必要更早触达，以及怎样避免误伤。[E3] 不能把当时的选择写成永久不做课中保护。
-
-临近开课的预约开关也有取舍：老师更能说明自己是否准备好，但大量关闭可能影响高峰供给。8 月 26 日要求先在可承受范围试，说明观察什么，出现相反事实就调整。[E2] 本页不替试点另定人数、期限或新开关规则。
-
-如果工单关闭更多却同因复发、补位抹掉原失约、设备标记与回放不符却直接处理教师，或者中心公共故障被拆成个人问题，就应回到这些位置修正做法。
-
-## 7. 当下的好奇
-
-以下问题于 2026-09-15 首次列入，尚无完整答案。新材料可以推进它们，也可以带来原先没有想到的问题。
-
-### 我们说“已经恢复了”，学生和家长会在什么时候也这样认为？
-
-**为什么值得想：** 想看清补上课时、接上学习和恢复信任之间，还有哪些差别，避免公司结束处理时客户仍觉得事情没有解决。
-
-**目前想到哪了：** 设计宪法已经要求分别记录客户接受、课堂交付和后续恢复，但本页还缺少把处理记录与家长经历放在一起的材料。[E1] 值得留意接受补课后仍有不满、愿意继续但后来没再约，以及当时拒绝代课的完整经历；不预先把这些反应都解释成服务失败。
-
-**9月9日原稿推进（9月15日重读）：** 现场区分原约老师可靠到课、补上一节课、代课本身的体验，并提醒“你虽然给我上了一节课，但我不满意，因为我要的是这老师”；降低代课后的缺课被提出为目标，同时保留不愿接受代课的客户。补位没有自动兑现原选师承诺。（[上午原稿](../../sources/raw/J-2ee64764d3fa5e68577e46bd__741085f3fc7a7cb4.0a92559cf98e.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seadwxnqJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eIN5edBOGVMGjLRb3)），L166–208。）
-
-同场提出让准备好的优秀新师接代课，但又报告现有代课池排除前10课新师、新师缺勤偏高，并追问新师是否确实优于现有代课者。由此，合格依据、当课准备、适配与客户接受是后续设计须回答的条件；不能按新师缺课直接派课，也不能把这个提案当作新池已上线。该ASR片段共用人物标签，不把每句归给同一个人；以上不改变既有TOC-70认定范围。（同源 L184、L218–246。）
-
-### 哪些反复出现的“老师问题”，其实是在提醒我们改工作条件？
-
-**为什么值得想：** 如果原因来自共同设备、预约方式或消息延迟，只对老师重复提醒，可能无法减少下一次损失。
-
-**目前想到哪了：** 8 月的材料已留下短时预约、设备误判和时段结构的线索，但还不能判断各自贡献有多大。[E2][E3] 值得看同一条件下不同老师是否都容易出问题，以及条件改变后原来那批老师是否改善。8 月 26 日还追问：限制接课以后，谁知道老师何时已经准备好回来？这提示我们同时观察解除限制的路径：当原来的原因已经消除，也要核对旧限制是否仍有依据，按现行规则处理；重新打开开关不等于已经可靠履约。[E5] 同时保留确属个人履约问题的事实。
-
-### 一次问题解决得很好以后，怎样让下一位学生不用再经历同样的事？
-
-**为什么值得想：** 想找到个案处理转成日常预防的关键一步，减少对少数熟练人员临场救助的依赖。
-
-**目前想到哪了：** 已有设计要求把重复问题交回设备、支持和规则的改进，但缺少从一个事件一路看到其他课堂受益的完整记录。[E1] 值得回看旧页建议的 10 个异常案例：原承诺、实际尝试、客户接受、恢复、原因、处理结果和后续复发，并分别看居家与中心。这里是寻找线索的入口，不新增一项必须完成的采样任务。
-
-好奇有了暂时答案时，可进入“核心假设”；有了充分依据时更新“最新认知”。问题可跨季度，普通好奇留在本页，维护沿[经营域共建模板](../%E7%BB%8F%E8%90%A5%E5%9F%9F%E5%85%B1%E5%BB%BA%E6%A8%A1%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kzrodPV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaGqG6ZWrMqPxX6)）。
-
-## 已有决定与还没弄清的事
-
-- 8 月 26 日治理决定保留临近开课 **2 小时**的预约窗口，以及新师前 **10 节已结束课程**等当时试点条件；当时安排与实际执行结果须分别核对，不能从计划日期推定今天状态。[E2]
-- 课堂问题清单不等于全量课堂；“卡顿超过 10 分钟”是当时探查用的临时标准。原因判断只能作建议，具体标准与学生实际感受继续核对。[E3]
-- 坏课指标设计稿仍不是全部正式指标已经采用的证明。来源阅读顺序见[坏课治理资料与问题](../queries/%E5%9D%8F%E8%AF%BEKPI-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E8%AF%AD%E4%B9%89%E5%B2%9B-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）；相关未决项沿原问题账保留。
-
-## 资料与以前的讨论
-
-- **[E1] 9 月战略设计：** [TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）第 3、4、5、10、17 章，原件入口在页首。已认领的设计方向不等于运行与效果已验证。
-- **[E2] 8 月 26 日治理决定及后继补充：** [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E5%8F%8C%E6%96%B9%E6%A1%88%E7%81%B0%E5%BA%A6%E6%8B%8D%E6%9D%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)），含 8 月 31 日与 9 月 2 日历史复盘；其中会议数字与周报口述按原日期和范围使用，不是今天的治理结果。
-- **[E3] 8 月 27 日问题口径与课后治理：** [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)），含后继解释与未决项。
-- **[E4] 已有缺席裁决：** [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） TOC-21，2026-09-04。9 月 15 日已在 8 月 26 日决定页开头补明；补写日期不改变裁决日期。
-
-原来的三个独立来源组继续保留：9 月设计、8 月 26 日治理讨论、8 月 27 日问题口径讨论。[坏课KPI-坏课治理语义岛-2026-09-11](../queries/%E5%9D%8F%E8%AF%BEKPI-%E5%9D%8F%E8%AF%BE%E6%B2%BB%E7%90%86%E8%AF%AD%E4%B9%89%E5%B2%9B-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）提供阅读顺序与状态核对，其整理内容不另算一份业务证据。
-
-- **[E5] 8 月 26 日原始讨论：** [听记转写](</Users/wangdong/Desktop/Leon-work/journal/2026/08/2026-08-26/media/dws-听记-Bad-Class-Issue-Updates-2026-08-26.md:167>)（来源指针缺口，需补证；本地资料，钉钉／GitHub未提供） 10:20—10:54、56:48—57:20、65:55—66:25、67:46—68:41，分别涉及人工换师入表、何时恢复接课、开关与优先推荐的区别。它与 [E2] 是同一来源组；讨论中的方案先后仍有调整，不能只摘中途发言推定实际执行。
-- **已有有效性认定：** [问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供） TOC-70，2026-09-04：据事实认定有效，不强制补 A/B；保留分母及原条约束，不能外推成零误伤。
-
-<!-- query-related:start -->
-## 相关知识页（按需读取）
-
-保留各页原有日期、认可范围和未决条件；下表只表示有关联。
-
-- [外教侧需求X-Y-Z需求地图](../concepts/外教侧需求X-Y-Z需求地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dwa638dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDDR6O8A7depqY)）
-- [抓共性负向项](../concepts/抓共性负向项.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QKn65OWMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7Yaz5Jgk9rpMq)）
-- [2026-09-16-代课规则误杀与规则变更双方可知](../decisions/2026-09-16-代课规则误杀与规则变更双方可知.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3zLQEedVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQNX6Bq8B5r9YAn)）
-- [2026-05-F5两车不合并618先行](../decisions/2026-05-F5两车不合并618先行.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuvmr3w1r8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASlgYY7E6Jkb4Mw9r)）
-- [2026-06-29-放弃BPlus核心KPI与新基本法](../decisions/2026-06-29-放弃BPlus核心KPI与新基本法.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKKxZkWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDP0XrGWzN67Mw4)）
-- [2026-07-16-Cocos-AC版本治理](../decisions/2026-07-16-Cocos-AC版本治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpb4v1dqJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvdDpLQZ8A7depqY)）
-- [2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](../decisions/2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE)）
-- [2026-08-07-天眼鹰眼全量感知与最小闭环](../decisions/2026-08-07-天眼鹰眼全量感知与最小闭环.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoAoBe986EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubQgAlzkJ3pmz5aA)）
-- [2026-08-13-鹰眼全量监控与三快要素](../decisions/2026-08-13-鹰眼全量监控与三快要素.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5y7vanJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY5LeDoQVbkz3BRL)）
-- [2026-08-14-全量触达与鹰眼原子小队成立](../decisions/2026-08-14-全量触达与鹰眼原子小队成立.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74342bJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Ieyl3DRxW1DK0g6l)）
-- [2026-08-14-数据集建设优先级重排](../decisions/2026-08-14-数据集建设优先级重排.md) （[A](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLg32E9j8xLq0Ee4) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrXoE2JGXn6lpz)）
-- [2026-08-18-精选老师推荐六项准入定稿](../decisions/2026-08-18-精选老师推荐六项准入定稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzjXxmNJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTL4prP9j8xLq0Ee4)）
-- [2026-08-26-坏课治理双方案灰度拍板](../decisions/2026-08-26-坏课治理双方案灰度拍板.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05doga98dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzkLEwX38BQEx5rG)）
-- [2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-课堂问题数据口径与课后治理优先.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）
-- [2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标](../decisions/2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4ax2Q4J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR7qE0VgN7R35y)）
-- [WhatsApp建设](../projects/WhatsApp建设.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerMzPZpW1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqApdY3RJ9dEq3XD)）
-- [外教触达原子小队](../projects/外教触达原子小队.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP745qbOJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQlXyRr581waOeDk)）
-- [新老师蜜月期课程优化](../projects/新老师蜜月期课程优化.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoA6RejVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seqrP00LJGXn6lpz)）
-- [老师APP重启](../projects/老师APP重启.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2kd6aeJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/MyQA2dXW7eRlDK7jt1v3P2EzJzlwrZgb)）
-- [坏课KPI-坏课治理语义岛-2026-09-11](../queries/坏课KPI-坏课治理语义岛-2026-09-11.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEB0wQx8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazGQZXXJlemrZQ3)）
-- [坏课KPI设计稿](../queries/坏课KPI设计稿.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）
-- [外教触达口径与验收缺口](../queries/外教触达口径与验收缺口.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kPKe9nV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKx5YgP9WrMqPxX6)）
-- [新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）
-- [TutorOS设计宪法全文](../sources/TutorOS设计宪法全文.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)）
-- [海外外教运营周报-202608-0902-源摘要](../sources/海外外教运营周报-202608-0902-源摘要.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZojlZRN86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxaYNl3lJ3kdP0wQ)）
-- [坏课KPI设计收敛轨迹](../synthesis/坏课KPI设计收敛轨迹.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MwMPKyJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svz3lEXR8B5r9YAn)）
-
-<!-- query-related:end -->
+[E09]: ../queries/D09-认知依据与演化.md#e09
