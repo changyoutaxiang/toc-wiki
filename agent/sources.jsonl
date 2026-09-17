@@ -504,12 +504,6 @@
 {"id": "sources/外教战役/菲律宾中心硬件采购项目.md", "availability": "exported", "sha256": "bee80dc363ce0d26c97ac994c9d5033a1ea01bc74657d60e4ec2333bacfe8972", "bytes": 5416, "referenced_by": ["wiki/projects/电脑租赁模式.md"]}
 {"id": "sources/外教战役/薪酬改革.md", "availability": "exported", "sha256": "fdc59c1abca0f80dbceb20797dd430a83026177c97200de9b81b1d259b25d81a", "bytes": 3990, "referenced_by": ["wiki/projects/薪酬改革.md", "wiki/骨架/TutorOS经营域-D12-教师所得与激励.md"]}
 {"id": "sources/外教战役/责任域-叙事逻辑-宣传机器.md", "availability": "exported", "sha256": "ae9d31d9589ce2d647d7fb638eec415f6632cda16ecf81c62ae1c3e007b692aa", "bytes": 2952, "referenced_by": ["wiki/concepts/责任域-叙事逻辑-宣传机器.md"]}
-{"id": "AI 变革/10-worker-bee-ai-native-rd-production-system.md", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
-{"id": "AI 变革/51Talk OS 上下文 落地建议.html", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
-{"id": "AI 变革/51Talk OS.html", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
-{"id": "AI 变革/以终为始看未来：蜂巢系统的真正价值.html", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
-{"id": "AI 变革/蜂巢系统关键问题答疑-事实版.md", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
-{"id": "AI 变革/蜂巢系统到底是什么-全员通俗版.md", "availability": "local_only", "referenced_by": ["wiki/projects/TutorOS建设.md"]}
 {"id": "Leon-work/journal/2026/09/2026-09-15/_agent/入库确认_RCL-2026-09-15-v1.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md", "wiki/projects/北美订阅制外教供给.md"]}
 {"id": "Leon-work/journal/2026/09/2026-09-15/distill/2026-09-15_01_供给规则交智能体与两原则.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md"]}
 {"id": "Leon-work/journal/2026/09/2026-09-15/distill/2026-09-15_02_8PM缺口根因与屏蔽放开第一刀.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md"]}
@@ -522,6 +516,11 @@
 {"id": "Leon-work/journal/2026/09/2026-09-16/distill/2026-09-16_11_代课规则误杀与规则双方可知.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-16-代课规则误杀与规则变更双方可知.md"]}
 {"id": "Leon-work/journal/2026/09/2026-09-16/distill/2026-09-16_12_2027预算纳入token预算.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-16-2027预算纳入token预算把Token当HC看.md"]}
 {"id": "Leon-work/journal/2026/09/2026-09-16/media/dws-听记-strategy-follow-up-2026-09-16.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md", "wiki/decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md"]}
+{"id": "Leon-work/journal/2026/09/2026-09-17/_agent/chat-handoff/fullcap-20260917-1800.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-17-Cebu中心定案年底关闭方向已定.md", "wiki/decisions/2026-09-17-TESOL发证条件决策权悬空.md", "wiki/decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md"]}
+{"id": "Leon-work/journal/2026/09/2026-09-17/_agent/入库确认_RCL-2026-09-17-v1.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-17-Cebu中心定案年底关闭方向已定.md", "wiki/decisions/2026-09-17-TESOL发证条件决策权悬空.md", "wiki/decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md"]}
+{"id": "Leon-work/journal/2026/09/2026-09-17/distill/2026-09-17_09_Cebu中心定案年底关闭.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-17-Cebu中心定案年底关闭方向已定.md"]}
+{"id": "Leon-work/journal/2026/09/2026-09-17/distill/2026-09-17_10_设备检测通过判定不可信.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md"]}
+{"id": "Leon-work/journal/2026/09/2026-09-17/distill/2026-09-17_11_TESOL发证条件决策权悬空.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-17-TESOL发证条件决策权悬空.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-15_Battle-1-Weekly-Meeting纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-15_US项目-北美订阅制外教供给纪要.md", "availability": "local_only", "referenced_by": ["wiki/projects/北美订阅制外教供给.md"]}
 {"id": "_ops/BATCH-CONTRACT.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-待审页批量认可转已审.md"]}
