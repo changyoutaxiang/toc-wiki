@@ -21,7 +21,7 @@ updated: 2026-09-17
 
 ## 按经营问题进入
 
-每个经营页末尾列出该域全部相关知识；一页可涉及多个域，按来源时点和原页状态判断。
+各域正文或配套依据页列出相关知识；D03、D05 已采用六模块 V2.1，详细证据与历史见各自附页。一页可涉及多个域，按来源时点和原页状态判断。
 
 ### D01 · 学习需要与交付承诺
 我们答应为哪个学生、任务和时段提供怎样的真人交付？
@@ -38,6 +38,8 @@ updated: 2026-09-17
 
 [TutorOS经营域-D03-新师成材与早期经营](骨架/TutorOS经营域-D03-新师成材与早期经营.md) · [A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)
 
+[证据、历史与阅读边界](queries/D03-认知依据与演化.md) · [A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzZGRkmwWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4bdqoxWrMqPxX6)
+
 ### D04 · 产能与供需配置
 需要时真正可兑现的产能有多少，缺口如何补？
 
@@ -47,6 +49,8 @@ updated: 2026-09-17
 居家与中心分别怎样提供能稳定教好的工作条件？
 
 [TutorOS经营域-D05-授课条件与模式治理](骨架/TutorOS经营域-D05-授课条件与模式治理.md) · [A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)
+
+[证据、历史与阅读边界](queries/D05-认知依据与演化.md) · [A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4bar1XWrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAZX4axyW2LD0oRE)
 
 ### D06 · 教师价值呈现与匹配
 合适教师怎样被看见、选中并真正约到？
@@ -116,6 +120,6 @@ updated: 2026-09-17
 
 原料目录：[A 库](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLKvRBNn8Ke0xjE3) · [Leon 库](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYdm3rP1Vbkz3BRL)。按引用的完整文件名查找；这些目录是218份原料，不是旧277文件重新进料。
 
-218份精选MD已按Leon本次授权提供两钉钉与私有GitHub；知识页引用旁可直接进入同库原文。原料保持原字节，历史限制、转写噪声和待审状态保留；上传不代表现行认可。补充文件与外部知识若未提供，会在引用处明确标出。
+218份精选MD已按Leon授权提供两钉钉与GitHub；GitHub 当前公开状态已于2026-09-17由Leon确认；知识页引用旁可直接进入同库原文。原料保持原字节，历史限制、转写噪声和待审状态保留；上传不代表现行认可。补充文件与外部知识若未提供，会在引用处明确标出。
 
 完整节点关系与逐页理由保留在本地映射登记；普通查询无需读取整份登记。共建与维护另见：[TutorOS知识骨架维护约定](TutorOS知识骨架维护约定.md) · [A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se99kaA2JGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6xxMQmjWxkXOEP2)
