@@ -14,7 +14,7 @@ architecture_version: "1.1"
 
 # Tutor OS 第二层经营地图
 
-只查知识请先用[只读查询入口](../TutorOS知识骨架落点索引.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)） · [A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。
+只查知识请先用[只读查询入口](../TutorOS知识骨架落点索引.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)）。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。
 
 返回[TutorOS知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。第一层回答整个 Tutor OS 怎样创造价值；这一层把它展开为 **15 个长期经营问题**。每个域都有一篇可讨论、可修正的理解正文。先从正在思考的问题进入，不需要逐页通读或逐页审批。
 
