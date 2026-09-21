@@ -19,6 +19,7 @@ updated: 2026-09-17
 - 成熟老师积分哪些已确认：[成熟老师升降级积分方案](projects/成熟老师升降级积分方案.md) · [A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)
 - 整体价值与关系：[TutorOS知识总图](骨架/TutorOS知识总图.md) · [A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)
 - Polly 竞品现在什么状态、盯什么：[TutorOS竞品情报-Polly](骨架/TutorOS竞品情报-Polly.md) · [A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuv0w6PG38A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLaZwxMp8Ke0xjE3)（2026-09-21 立项并经 Leon 人审）
+- 招聘/产能数据去哪查、按什么口径：[TutorOS数据资产-外教域](骨架/TutorOS数据资产-外教域.md)（本地资料，钉钉／GitHub未提供；页面与钉钉链接待三出口同步后补）（2026-09-21 立项待审；判断仍走各 D 域页）
 
 ## 按经营问题进入
 
