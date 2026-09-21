@@ -63,7 +63,7 @@ flowchart TB
 
 **主要关系：** 需要指导供给与适配 → 进入真实课堂 → 证据反馈到成长、支持与关系 → 后续课堂验证；合理收益支持持续供给，验证有效的方法改善下一轮经营。事实与标准、业务服务、Hive 和人类责任共同支撑这条回路。这条回路是有依据的设计关系，不是已测出的因果图。（依据：[TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)） §4–12、§16；本图关系承接已认领框架。）
 
-XYZ 用来观察战场、能力与客户价值；三大战场用来组织重点；4＋2＋3 用来理解责任与协同。它们接在骨架上，具体项目也可同时关联多个节点。详见[TutorOS骨架节点与证据导航](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%8D%81%E4%BA%94%E4%B8%AA%E5%BB%BA%E8%AE%BE%E6%A8%A1%E5%9D%97) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)）。
+XYZ 用来观察战场、能力与客户价值；三大战场用来组织重点；4＋2＋3 用来理解责任与协同。它们接在骨架上，具体项目也可同时关联多个节点。详见[TutorOS骨架节点与证据导航](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#%E5%85%B6%E4%BB%96%E6%A1%86%E6%9E%B6%E4%B8%8E%E5%8D%81%E4%BA%94%E4%B8%AA%E5%BB%BA%E8%AE%BE%E6%A8%A1%E5%9D%97) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)）。竞品情报单列专题页：[TutorOS竞品情报-Polly](TutorOS%E7%AB%9E%E5%93%81%E6%83%85%E6%8A%A5-Polly.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuv0w6PG38A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLaZwxMp8Ke0xjE3)）（只盯 Polly，跨域输入 D02/D04/D12，2026-09-21 立项并经 Leon 人审）。
 
 ## 我们以后怎样在这里共建
 

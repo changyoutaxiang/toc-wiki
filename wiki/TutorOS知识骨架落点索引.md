@@ -18,6 +18,7 @@ updated: 2026-09-17
 - 直通车的转化率能说明什么：[直通车项目](projects/直通车项目.md) · [A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)
 - 成熟老师积分哪些已确认：[成熟老师升降级积分方案](projects/成熟老师升降级积分方案.md) · [A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)
 - 整体价值与关系：[TutorOS知识总图](骨架/TutorOS知识总图.md) · [A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)
+- Polly 竞品现在什么状态、盯什么：[TutorOS竞品情报-Polly](骨架/TutorOS竞品情报-Polly.md) · [A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuv0w6PG38A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLaZwxMp8Ke0xjE3)（2026-09-21 立项并经 Leon 人审）
 
 ## 按经营问题进入
 

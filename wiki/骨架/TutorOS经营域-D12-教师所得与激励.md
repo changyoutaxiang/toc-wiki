@@ -5,8 +5,8 @@ title: TutorOS经营域-D12-教师所得与激励
 tags: [TutorOS, 第二层经营域, 教师所得与激励]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-18
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/薪酬改革.md", "外教战役/Meeting/2026-06-09_外教战役周会纪要.md"]
+updated: 2026-09-21
+sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/薪酬改革.md", "外教战役/Meeting/2026-06-09_外教战役周会纪要.md", "sources/supplement/团队知识库-SRC01/FTE-Incentive-202608现行制度补证.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
@@ -75,6 +75,8 @@ evidence_register: "../queries/D12-认知依据与演化.md"
 | 发展与带教机会 | 有选择地承担新角色，并有真实价值与回报 | 把额外责任当荣誉，报酬与时间不入账 |
 
 四条路不必用同一种奖励解决。评定教学表现、决定奖励资格、按批准规则结算，是不同环节；没有获得额外奖励不等于处罚，某节课质量不理想也不自动等于老师违规。[E01][][E04][]
+
+> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-01 团队库存有 PH 体验课教师 2026-08 期现行薪酬制度：FTEx 在 critical 时段（19:00–20:30）占课被利用 80PHP/节、非 critical 时段被利用按常规课时费，未被利用一律 50%；FTE／FT HBT 被利用 100% 常规课时费、未被利用 50%；转化阶梯激励 150–750P/Enrollee（按 EC/EE 分档查表，FT HBT 为 100P/Enrollee）；FTEX 资格须月度目标连续 3 个月达标，经认可理由释放 ≤3% 无罚、释放 >3% 且 ≤5% 连续两月降级 FTE、>5% 单月立即降级——见 [FTE-Incentive 补证件](../../sources/supplement/团队知识库-SRC01/FTE-Incentive-202608现行制度补证.md)（团队知识库 SRC-01，2026-08期现行，制度数字以当月版为准；本地资料，钉钉／GitHub未提供）。FTE Incentive 为月刊系列，本补证只吸收 2026-08 期；本页不批准任何工资、奖励或扣款变更，制度如调整以当月版与本地正式决定为准。
 
 ### 条件、其他解释与取舍
 

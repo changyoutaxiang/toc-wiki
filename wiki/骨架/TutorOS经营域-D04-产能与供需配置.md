@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D04｜产能与供需配置
 tags: [TutorOS, 第二层经营域, 产能与供需配置, 认知骨架]
 related: [TutorOS第二层经营地图, D04-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-09-21
 meaning_domain: D04
 architecture_version: "1.1"
 template_version: "2.0"
@@ -39,6 +39,7 @@ sources:
   - "wiki/queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md"
   - "wiki/sources/TutorOS设计宪法全文.md"
   - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
+  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"
 ---
 
 # D04｜产能与供需配置
@@ -98,6 +99,8 @@ sources:
 产能预测可以从预约需要反推时段、活跃天数、活跃教师与流失，再形成补充需要。4月23日材料特别区分模型缺口与业务前置招聘：招聘量可以包含提前准备，不能直接当作当月缺口。Returning（返聘）当时没有稳定放进模型，也不能因此把真实返聘算成零。[E02][]
 
 预测应保留版本、时间、前提与责任，并与实际交付回看；这是本域的建模要求，不宣称目前已有一张全公司统一且可信的表。8月21日讨论已提醒，固定师生比和招聘人数讲不清真实产能；半自动流程仍要有人承担预测、例外和解释责任。[E03][]
+
+> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-01 团队库存有 8 月 Launch 差距分析中的产能口径甄别：CE Interview Slots（当前上游产能，决定每天产生多少 CE Pass 和 Launch）与 Teacher Teaching Slots（Launch 后有效供给，决定真实可预约课量）是两类 Slots，必须分列管理，不得用单一 90% 假设倒推，也不得把 1 个未 Launch 教师 1:1 换算成固定数量的教学 Slots 缺口；新增有效教学 Slots 应按"Launch × 激活率 × 开 Slot 率 × 人均有效 Slots"估算并按市场与课型拆分——见 [AugustLaunchGap 补证件](../../sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md)（团队知识库 SRC-01，截至2026-08-11；本地资料，钉钉／GitHub未提供）。口径甄别为方法论判断；其中进度快照为截至 2026-08-11 过程记录，9 月以后继为准。本页产能判断不变。
 
 ### 三种取舍，不能用一个“利用率”解答
 
