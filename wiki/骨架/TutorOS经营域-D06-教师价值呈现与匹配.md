@@ -38,9 +38,9 @@ sources:
   - "wiki/queries/D05-认知依据与演化.md"
   - "wiki/sources/TutorOS设计宪法全文.md"
   - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
-  - "sources/supplement/团队知识库-SRC01/FT-HuntTrainMatch-规模化方案补证.md"
-  - "sources/supplement/团队知识库-SRC01/Kversion-扩大测试可行性补证.md"
-  - "sources/supplement/团队知识库-SRC01/王韬-体验课转化率分渠道-202608补证.md"
+  - "sources/supplement/团队知识库-SRC01/FT-HuntTrainMatch-规模化方案补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC01/Kversion-扩大测试可行性补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC01/王韬-体验课转化率分渠道-202608补证.md"（本地资料，钉钉／GitHub未提供）
 ---
 
 # D06｜教师价值呈现与匹配

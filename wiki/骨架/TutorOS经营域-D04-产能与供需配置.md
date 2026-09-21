@@ -39,8 +39,8 @@ sources:
   - "wiki/queries/新老师上岗后供给流水线与预测口径-待验证问题卡.md"
   - "wiki/sources/TutorOS设计宪法全文.md"
   - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
-  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"
-  - "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"
+  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"（本地资料，钉钉／GitHub未提供）
 ---
 
 # D04｜产能与供需配置

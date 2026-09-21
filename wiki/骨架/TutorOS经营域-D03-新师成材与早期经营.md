@@ -35,9 +35,9 @@ sources:
   - "wiki/骨架/TutorOS经营域-D08-好课判断与逐课证据.md"
   - "wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md"
   - "wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md"
-  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md"
+  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md"（本地资料，钉钉／GitHub未提供）
 ---
 
 # D03｜新师成材与早期经营

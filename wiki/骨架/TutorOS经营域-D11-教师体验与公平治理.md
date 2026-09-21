@@ -6,7 +6,7 @@ tags: [TutorOS, 第二层经营域, 教师体验与公平治理]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
 updated: 2026-09-21
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "Leon-work:projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md", "外教战役/Meeting/2026-08-24_TOC周会纪要.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "Leon-work:journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-好老师全生命周期客户价值治理补证.md"]
+sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "Leon-work:projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md", "外教战役/Meeting/2026-08-24_TOC周会纪要.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "Leon-work:journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-好老师全生命周期客户价值治理补证.md"]（本地资料，钉钉／GitHub未提供）
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"

@@ -15,8 +15,8 @@ updated: 2026-09-21
 sources:
   - 团队知识库SRC-03:数据集资产说明书总览(Wilson编译层)
   - 团队知识库SRC-04:外教招聘skill-00-SKILL入口(Jenny)
-  - sources/supplement/团队知识库-SRC03-Wilson编译层/数据资产口径对齐与假差异甄别补证.md
-  - sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md
+  - sources/supplement/团队知识库-SRC03-Wilson编译层/数据资产口径对齐与假差异甄别补证.md（本地资料，钉钉／GitHub未提供）
+  - sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md（本地资料，钉钉／GitHub未提供）
 review: 已审   <!-- 认领后由库主人拍板 -->
 review_scope: 2026-09-21 Leon 拍板立项（数据资产类目与薄本体-立项正本第一节）并人审通过；本页为入口与路由层，页内不新增经营判断，所引方法论补证按其原页审级使用，补证件的待审状态不因本页已审而提升
 ---
