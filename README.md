@@ -27,3 +27,7 @@ TOC独立知识库的私有只读出口。共同正本在Leon本地的独立TOC 
 外部/跨会话 Agent 先读 [AGENTS.md](AGENTS.md)：truth resolution 步骤、双层审态语义、本地依赖降档与 conflict 返回规则。
 
 机器索引：[agent/manifest.json](agent/manifest.json) · [pages.jsonl](agent/pages.jsonl) · [sources.jsonl](agent/sources.jsonl)（从正本派生，勿手改）。
+
+## 结构化读取入口
+
+[当前宪法读取清单](wiki/projects/tutor-os-knowledge.json)指向同版MD；旧wiki/TOC/projects/tutor-os-knowledge.json原样保留为历史资产，不作当前入口。历史块仍按本地权限读取。
