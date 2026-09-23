@@ -21,7 +21,7 @@ updated: 2026-09-17
 5. 不知道就回答不知道；不存在的证据不补造。
 6. 钉钉出口的页面名链接不一定可点，用紧邻的 A / Leon 节点链接进入；GitHub 出口页面名链接可直接用。
 7. GitHub 出口另提供机器索引 `agent/pages.jsonl`（每页一行的 id/type/review/answers/supersedes/source_availability/content_hash，含 `agent/manifest.json` 字段语义与 `agent/sources.jsonl` 源清单）；索引从正本派生、随发布再生成，用于低成本定位与确定性路由，冲突时仍以页面正文本为准。
-8. 问“尚未弄清什么、为什么、什么证据会改判”时，读域页 `FRONTIER` 的 Q、`BELIEFS` 的 H、最新 DELTA 与相邻域。机器索引中的 `open_questions`、`active_hypotheses` 是待探索导航，不属于 `answers`；不得将它们表述为已证实答案。`_ops` 中未获人审的骨架改稿候选不属只读出口的现行内容。
+8. 问“尚未弄清什么、为什么、什么证据会改判”时，先按域页核心经营问题和标签找可能的域，再读该域 `FRONTIER` 的 Q、`BELIEFS` 的 H、最新 DELTA 与相邻域。域级词面相似只提示应读哪页，不证明某个 Q 已被触发。机器索引中的 `open_questions`、`active_hypotheses` 是待探索导航，不属于 `answers`；不得将它们表述为已证实答案。`_ops` 中未获人审的骨架改稿候选不属只读出口的现行内容。
 
 ## 二、审态语义（双层，避免误读状态冲突）
 
@@ -43,5 +43,5 @@ updated: 2026-09-17
 
 ## 五、发布质量门禁
 
-- GitHub 出口发布前运行一致性 lint：断链、未标注本地依赖、假「未提供」标注、supersedes 双向一致、必填 frontmatter、页级审态矛盾（棘轮）。
+- GitHub 出口发布前运行一致性 lint：断链、未标注本地依赖、假「未提供」标注、supersedes 双向一致、必填 frontmatter、页级审态矛盾（棘轮）、frontmatter YAML 可解析性（E7）。
 - lint 报告存正本库 `_ops/export-lint-report.json`，出口不携带；有 FAIL 即阻止发布。

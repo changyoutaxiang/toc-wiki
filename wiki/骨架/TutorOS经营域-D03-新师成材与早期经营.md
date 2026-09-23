@@ -5,11 +5,11 @@ title: Tutor OS 经营域 D03｜新师成材与早期经营
 tags: [TutorOS, 第二层经营域, 新师, TIDE, 试用期, 认知骨架]
 related: [TutorOS第二层经营地图, 新师训战营, 2026-09-05-新师30天出营现行分数线, D03-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-21
+updated: 2026-09-23
 meaning_domain: D03
 architecture_version: "1.1"
 template_version: "2.0"
-knowledge_revision: "D03-2026-09-17.v2.1"
+knowledge_revision: "D03-2026-09-23.v2.1.1"
 based_on_revision: "D03-2026-09-16.2"
 review: 待审
 content_review_status: pending
@@ -24,7 +24,7 @@ publication_authorization: "Leon 2026-09-17：请进行替换，并且同步3个
 canonical_decision: "../decisions/2026-09-05-新师30天出营现行分数线.md"
 evidence_register: "../queries/D03-认知依据与演化.md"
 active_hypotheses: [D03-H01, D03-H02, D03-H03]
-open_questions: [D03-Q01, D03-Q02, D03-Q03]
+open_questions: [D03-Q01, D03-Q02, D03-Q03, D03-Q04]
 sources:
   - "wiki/decisions/2026-09-05-新师30天出营现行分数线.md"
   - "sources/外教战役/Meeting/2026-07-13_老师试用期讨论_听记原文.srt"
@@ -35,9 +35,9 @@ sources:
   - "wiki/骨架/TutorOS经营域-D08-好课判断与逐课证据.md"
   - "wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md"
   - "wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md"
-  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md"（本地资料，钉钉／GitHub未提供）
+  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md"
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md"
 ---
 
 # D03｜新师成材与早期经营
@@ -203,6 +203,15 @@ sources:
 **当前线索：** 日历满 30 天却课量很少，提醒我们保留机会与样本条件。[E03][] [H02](#d03-h02) 关注分数能否预测未来，这里另问早期判断是否漏看了可成长的条件；目前没有大规模误判的证据。
 
 **尚缺与改判条件：** 同时看早期不顺后改善、持续未改善和退出的经历，区分能力、机会、支持与数据问题。一位老师后来变好，不能反证当时所有判断都错；一位老师退出，也不能证明他本来一定能教好。具体纠错和处置仍回正式机制。
+
+<a id="d03-q04"></a>
+### D03-Q04｜新师怎样从有资格接课，走到课量与所得都可持续？
+
+**影响什么：** 毕业后早期机会、合理所得与稳定供给怎样接续，同时保护学生选到合适老师，而不是为了制造样本硬派课。
+
+**目前想到哪了：** 本页已提示少课可能让老师缺少证明自己的机会，也可能是准备、时段、匹配或需求不足；这些解释尚未分清。[E03][] [E08][] 这里追问的是持续获得合适课堂的经营机制，与 [Q03](#d03-q03) 所问的“是否过早误判老师”相关，但不等同。不能因为个别少课案例就断言新师普遍课少或归因为单一算法。
+
+**值得继续看什么：** 以同批入营老师为起点，连续看开放时段、有效展示、可约需求、实际预约与完课、取消或换课、逐周课量和净所得，保留少课、波动、退出及表现改善者；比较高峰与非高峰、线上与中心的条件，核对学生体验是否受损。若同样机会下仍持续少课，应回到准备、课程适配与需求解释；若课堂质量好却长期无机会，需再查展示、匹配和时段，不能直接强推课量或改毕业分数线。
 
 **下一组值得看的材料：** 一组完整入营经历，连接起点、机会、帮助、阶段评价与后续课堂，并保留少课、退出与未改善者。具体信息与阅读缺口见[纵向样本建议](../queries/D03-认知依据与演化.md#evidence-design) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzZGRkmwWDOnGvpb#evidence-design) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4bdqoxWrMqPxX6#evidence-design)）。
 

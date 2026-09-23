@@ -3,22 +3,22 @@ projection: public
 type: synthesis
 title: Tutor OS 经营域 D02｜教师获取与准入
 tags: [TutorOS, 第二层经营域, 教师获取与准入, 认知骨架]
-related: [TutorOS第二层经营地图, D02-认知依据与演化, 2026-09-18-外教质量提升双周会-行动定盘与供给侧经营系统]
+related: [TutorOS第二层经营地图, D02-认知依据与演化, 2026-09-18-外教质量提升双周会-行动定盘与供给侧经营系统, 2026-09-22-Center招聘重构从gate问起]
 created: 2026-09-14
-updated: 2026-09-21
+updated: 2026-09-23
 meaning_domain: D02
 architecture_version: "1.1"
 template_version: "2.0"
-knowledge_revision: "D02-2026-09-18.v2.1.1"
+knowledge_revision: "D02-2026-09-23.v2.1.2"
 based_on_revision: "D02-2026-09-15.2"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审。D02-Q04 仅在 _ops/frontier-loop/approvals/2026-09-23-center-gate-D02.json 记录 Leon 对此具体问法的批准后才可落位；既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D02-认知依据与演化.md"
 active_hypotheses: [D02-H01, D02-H02]
-open_questions: [D02-Q01, D02-Q02, D02-Q03]
+open_questions: [D02-Q01, D02-Q02, D02-Q03, D02-Q04]
 source_snapshot_note: "本轮以冻结旧域页为改写基线，关键来源按实际章节回读；逐文件指纹与范围见本轮交付记录，不以旧回执代替新验收。"
 source_pointer_scope: "sources保留旧来源导航并接本轮依据页；具体本轮实读范围以附页及读取清单为准，旧指针不表示本轮全读。"
 sources:
@@ -40,12 +40,13 @@ sources:
   - "wiki/sources/TutorOS设计宪法全文.md"
   - "wiki/骨架/TutorOS经营域-D03-新师成材与早期经营.md"
   - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
-  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md"（本地资料，钉钉／GitHub未提供）
-  - "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"（本地资料，钉钉／GitHub未提供）
+  - "wiki/decisions/2026-09-22-Center招聘重构从gate问起.md"
+  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"
+  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md"
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md"
+  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md"
+  - "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"
 ---
 
 # D02｜教师获取与准入
@@ -165,6 +166,15 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 ### D02-Q03｜什么教学潜力，demo容易漏看？
 
 **为什么好奇：** 真实课堂有连续关系、不同孩子与反馈调整，一次展示只覆盖一部分。**当前认识：** 招聘、试用与长期成长应接续；“会展示”和“持续教得好”不能互相替代。**值得继续看：** demo普通却持续改善，以及demo亮眼却真实课堂失配的成对案例，观察课程适配和支持是否解释差异。[E04][] [E07][]
+
+<a id="d02-q04"></a>
+### D02-Q04｜Center 的招聘准入应与线上流程在哪些条件上不同？
+
+**为什么好奇：** 9 月 22 日 Leon 在两个 CO 群里从 gate 开始征询线下招聘应如何设计，明确认为沿用线上流程不合理；当时仍是在征求建议，尚无 CO 的实质方案或新准入规则。[Center 招聘讨论](../decisions/2026-09-22-Center招聘重构从gate问起.md)
+
+**目前想到哪了：** D02 负责判定招募与准入，D05 负责中心工作条件。Center 有现场工作与支持条件，值得核对哪些属于候选人资格、哪些属于中心可提供的条件；目前不能据此指定新的门槛、责任人或上线时间。
+
+**值得继续看什么：** 先收 CO 对实际招聘 gate 的建议，再找同阶段线上与中心候选的经历，比较每道关卡想避免的失配、等待和误筛，以及入职后的授课表现。若差异只在流程表达而非准入条件，也应允许保留共同标准、只改交接方式。
 
 <a id="5-最新认知现在怎么看最近哪里变了"></a>
 <a id="历史入口评价不能替代实际好课"></a>

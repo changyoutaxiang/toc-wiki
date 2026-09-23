@@ -6,7 +6,7 @@ tags: [TutorOS, 第二层经营域, 教师成长, 教学支持, 导师, 复检]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 老师质量提升飞轮, 2026-07-23-新师训战营验收口径与T1数据底线, 2026-07-17-培训模块自建选型与前端状态驱动]
 created: 2026-09-14
 updated: 2026-09-21
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/老师质量提升飞轮.md", "外教战役/Meeting/2026-07-23_第一轮上线验收纪要.md", "外教战役/Meeting/2026-07-17-草台班子首show.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-培训成长运营框架补证.md"]（本地资料，钉钉／GitHub未提供）
+sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/老师质量提升飞轮.md", "外教战役/Meeting/2026-07-23_第一轮上线验收纪要.md", "外教战役/Meeting/2026-07-17-草台班子首show.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-培训成长运营框架补证.md"]
 review: 待审
 review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用"
 architecture_version: "1.1"

@@ -6,7 +6,7 @@ tags: [TutorOS, 第二层经营域, 事实标准与协同执行]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
 updated: 2026-09-22
-sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md", "外教战役/Meeting/轻纪要-TOC数据治理-境内外数据可见解决方案-2026-08-04.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "sources/supplement/团队知识库-SRC03-Wilson编译层/数据资产口径对齐与假差异甄别补证.md"]（本地资料，钉钉／GitHub未提供）
+sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md", "外教战役/Meeting/轻纪要-TOC数据治理-境内外数据可见解决方案-2026-08-04.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "sources/supplement/团队知识库-SRC03-Wilson编译层/数据资产口径对齐与假差异甄别补证.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
