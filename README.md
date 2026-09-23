@@ -1,6 +1,6 @@
 # TOC LLM Wiki
 
-TOC独立知识库的私有只读出口。共同正本在Leon本地的独立TOC LLMwiki目录，修改回共同正本后再同步。
+TOC独立知识库的GitHub只读出口。2026-09-23核验仓库为公开；日后可见范围以GitHub当前设置为准。共同正本在Leon本地的独立TOC LLMwiki目录，修改回共同正本后再同步。
 
 - **[只读查询入口：先选经营问题](wiki/TutorOS知识骨架落点索引.md)**
 - [知识总图](wiki/骨架/TutorOS知识总图.md)
