@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:41:10",
+  "generated_at": "2026-09-23T11:48:01",
   "generator": "_ops/build_agent_index.py（从正本 frontmatter 与落点索引派生，勿手改）",
   "protocol": "AGENTS.md",
   "pages": 225,
@@ -10,6 +10,8 @@
     "review": "页级权威审态：已审=蒸馏忠实性认可(2026-09-15批量认可语义)≠逐条人审；记录=留痕；待审=未认可",
     "status": "业务状态（如生效），有则给出",
     "answers": "本页回答的经营问题（落点索引原文）",
+    "open_questions": "域页 FRONTIER 稳定 Q 编号与标题；表示尚需弄清，不等于已有答案",
+    "active_hypotheses": "域页 BELIEFS 稳定 H 编号与标题；表示待检验，不等于正式决定",
     "supersedes/superseded_by": "新旧链，双向一致（lint 保证）；被 supersede 页只作演化解释",
     "source_availability": "exported=出口内可读；local_only=本地限定降置信度；internal_ref=库内页引用；non_file=跨脑/对话指针；unresolved=登记待核",
     "content_hash": "导出字节 sha256"
