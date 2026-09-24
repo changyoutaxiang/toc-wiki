@@ -39,3 +39,13 @@ Polly English，菲律宾在线英语教育竞争对手，是 51Talk 外教战�
 ## 相关页面
 
 - 战役：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)） · [2026-05-11-CEO反攻Polly指示与外教战役国内倾斜](../decisions/2026-05-11-CEO%E5%8F%8D%E6%94%BBPolly%E6%8C%87%E7%A4%BA%E4%B8%8E%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E5%9B%BD%E5%86%85%E5%80%BE%E6%96%9C.md) （[A](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flnKLLAaWzN67Mw4) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN3xdGWrMqPxX6)）
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D02 · 教师获取与准入](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) · [D05 · 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-54be857880f5bb77)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

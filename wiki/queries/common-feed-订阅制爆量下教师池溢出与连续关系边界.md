@@ -39,3 +39,13 @@ next_evidence: 同一市场与高峰窗口的渠道级 active→unblocked→elig
 ## 关联
 
 [TutorOS经营域-D04-产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [TutorOS经营域-D06-教师价值呈现与匹配](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) · [TutorOS经营域-D07-师生关系与跨师承接](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) · [TutorOS经营域-D13-全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md) · [2026-07-31-CC预约体验课动态标签供给](2026-07-31-CC%E9%A2%84%E7%BA%A6%E4%BD%93%E9%AA%8C%E8%AF%BE%E5%8A%A8%E6%80%81%E6%A0%87%E7%AD%BE%E4%BE%9B%E7%BB%99.md) · [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md)
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D04 · 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [D06 · 教师价值呈现与匹配](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) · [D07 · 师生关系与跨师承接](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md) · [D13 · 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-d3f43148e70927a9)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

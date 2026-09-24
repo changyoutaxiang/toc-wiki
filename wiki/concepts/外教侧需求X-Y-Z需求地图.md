@@ -147,3 +147,13 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 - 源文件：`sources/外教战役/外教侧需求_X-Y-Z需求地图_v0.2.md`、`sources/外教战役/外教侧需求_X-Y-Z需求地图_对齐版_v0.3.md`（均 discussion-draft；v0.3 为两周深搜对齐版，本页以它为准）。
 - 模型正本：[X-Y-Z三轴经营模型](X-Y-Z%E4%B8%89%E8%BD%B4%E7%BB%8F%E8%90%A5%E6%A8%A1%E5%9E%8B.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrk2nyeGVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzLR0o9BVgN7R35y)）；战场树候选：[X战场树-营盘地图-候选v0.1](../queries/X%E6%88%98%E5%9C%BA%E6%A0%91-%E8%90%A5%E7%9B%98%E5%9C%B0%E5%9B%BE-%E5%80%99%E9%80%89v0.1.md) （[A](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZoA1v5K86EDybno) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqMXez2W3bzYmDO)）。
 - 源内提到的旧体系路径（`projects/TOC/...`、`journal/...`、GBrain `concepts/...`）均不在本 wiki，编译时不迁移为 wikilink；原 82 编号字典（05D）与逐条事实账本未复制，仅保留归并结论与关键冲突。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D02 · 教师获取与准入](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) · [D06 · 教师价值呈现与匹配](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) · [D09 · 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) · [D14 · 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) · [D15 · 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-bf18d323ee77284f)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

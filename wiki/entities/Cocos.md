@@ -53,3 +53,13 @@ Cocos：外教教学产品/教材升级系统，计划三季度（Q3）上线新
 
 ## Related
 - [TOC/decisions/2026-05-14-Cocos教材瘦身与设备动态适配](../decisions/2026-05-14-Cocos%E6%95%99%E6%9D%90%E7%98%A6%E8%BA%AB%E4%B8%8E%E8%AE%BE%E5%A4%87%E5%8A%A8%E6%80%81%E9%80%82%E9%85%8D.md) （[A](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9kPdKkbV47Z3je9) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKxN4aXnWrMqPxX6)）
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D05 · 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) · [D08 · 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) · [D10 · 教师成长与教学支持](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-66463c41dd6dbc8d)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

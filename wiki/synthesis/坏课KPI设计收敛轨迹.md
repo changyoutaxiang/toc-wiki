@@ -49,3 +49,13 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 - **口径/概念页**：[2026-08-27-课堂问题数据口径与课后治理优先](../decisions/2026-08-27-%E8%AF%BE%E5%A0%82%E9%97%AE%E9%A2%98%E6%95%B0%E6%8D%AE%E5%8F%A3%E5%BE%84%E4%B8%8E%E8%AF%BE%E5%90%8E%E6%B2%BB%E7%90%86%E4%BC%98%E5%85%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa2D3BAVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr0Gqq58akx1Z5N)）（五类判定口径与课后治理优先）；[一套标准两个接口](../concepts/%E4%B8%80%E5%A5%97%E6%A0%87%E5%87%86%E4%B8%A4%E4%B8%AA%E6%8E%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm)）（内部物理尺/对外沟通口径解耦——「分子盒内事件、学生反馈作探针」与内外接口解耦同构）。
 - **项目页**：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）；[新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)）（坏课率与试用期机制同属战役重构）。
 - **问题账接续（2026-09-15）：** TOC-15 已定迟到 1 分钟起算；TOC-16 已定假早退并入，当前 Wiki 事件表已回写（TOC-92 的本地部分）。四版原设计文件仍保留历史。TOC-17 数据源、TOC-18 正式基线、TOC-67 过渡组合及稳定类具体标准仍各自保留限制；不能把历史“阈值未冻结”概括成所有事项都未决定。具体边界见[坏课KPI设计稿](../queries/%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF.md) （[A](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7QK31G2WMwvDqPk) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5Iey6ombDW1DK0g6l)）与[问题账](../%E9%97%AE%E9%A2%98%E8%B4%A6.md)（本地资料，钉钉／GitHub未提供）。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D09 · 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-e4675fc24203460f)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

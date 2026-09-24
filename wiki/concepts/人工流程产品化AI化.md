@@ -38,3 +38,13 @@ review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指�
 ## 来源
 
 - 源文件：`sources/外教战役/人工流程产品化AI化.md`（multica 项目 PM-31，status: active，confidence: medium）。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D13 · 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md) · [D15 · 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-74c9f98215921afd)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

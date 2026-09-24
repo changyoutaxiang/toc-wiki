@@ -5,10 +5,10 @@ title: Tutor OS 知识总图
 tags: [TutorOS, 知识骨架, 人机共建, HBT, Center, Every-Lesson-Counts]
 related: [TutorOS第二层经营地图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, TutorOS知识骨架落点索引, TutorOS知识骨架维护约定, TutorOS建设, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-09-24
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 已审
-review_scope: Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果
+review_scope: "Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果；2026-09-24 本次认可仅覆盖：总图共建分工两处接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论"
 architecture_version: "1.1"
 ---
 
@@ -71,9 +71,9 @@ XYZ 用来观察战场、能力与客户价值；三大战场用来组织重点�
 
 您可以直接说：“讨论 N5”“HBT 的收入逻辑需要重想”“这条关系不成立”，也可以不用编号直接说问题。Agent 负责定位、回读证据、提出具体改稿，说明理由、反例及影响到哪些下层页面。
 
-**您主要参与第一、第二层的目标、核心认识、关系和重要取舍；Agent 持续维护域正文及蒸馏后的具体页面。** 您可以在日常碰撞发生时进入对应域。常规补证、归类、链接和明确纠正的传播由 Agent 完成；重要发现带着具体改稿与影响返回这两层。页面保留自己的来源与状态，挂入总图不会自动获得人类认领。（依据：[2026-09-14-TutorOS知识骨架认领与共建分工](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）。）
+**您主要参与第一、第二层的目标、核心认识、关系和重要取舍；Agent 负责核源、提出骨架改稿，并维护下层知识与导航。** 您可以在日常碰撞发生时进入对应域。按 2026 年 9 月 23 日现行维护约定，骨架正文及相关链接的具体差异经您认可后再落稿；下层补证、归类和明确纠正的传播由 Agent 在已授权范围内完成。重要发现带着具体改稿与影响返回这两层。页面保留自己的来源与状态，挂入总图不会自动获得人类认领。（依据：[2026-09-14-TutorOS知识骨架认领与共建分工](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）。）
 
-当前版本：两层建设方向已认可；十五域是经独立比较后的 Agent 初版，新增主张按来源分别标明。真实讨论中若边界重叠、漏掉重要事实或发现反例，继续合并、拆分或修正；不把每一页变成等待您签字的任务。
+当前版本：两层建设方向已认可；十五域是经独立比较后的 Agent 初版，新增主张按来源分别标明。真实讨论中若边界重叠、漏掉重要事实或发现反例，继续提出合并、拆分或修正；仅把需要改动的骨架具体差异带给您，下层页面仍按授权维护。
 
 [节点与证据](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)） · [全部页面的落点](../TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%90%BD%E7%82%B9%E7%B4%A2%E5%BC%95.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)） · [认领与演进记录](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)） · [Agent 维护约定](../TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E7%BB%B4%E6%8A%A4%E7%BA%A6%E5%AE%9A.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0se99kaA2JGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6xxMQmjWxkXOEP2)）
 

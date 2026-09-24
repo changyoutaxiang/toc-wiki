@@ -197,3 +197,13 @@ KPI 决策脉络另见 [2026-05-20-指挥官分歧-KPI3vsKPI4](../decisions/2026
 ## 2026-09-15 版本内未决补充
 
 v0.4同时写“Q3已结束、9月Q4”与“9月Q3尾”，季度归属存在冲突，不据此改变业务周期。三类范围、分母、更新节奏及0.2目标示例仍有待决部分；当前可侦测的P0范围不代表范围外没有客户损失。以上不撤销本页已列具体人类裁决，也不把它们扩为整套KPI已生效。（[v0.4稿](../../sources/raw/2026-08-26_%E5%9D%8F%E8%AF%BEKPI%E8%AE%BE%E8%AE%A1%E7%A8%BF%E4%BB%B6_v0.4_%E5%8F%8C%E8%AF%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjYgxo6g8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAybgAA2W2LD0oRE)） L63、L75、L87–119、L187、L242–279。）
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D08 · 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) · [D09 · 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) · [D11 · 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-5e92ea330768d3dd)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

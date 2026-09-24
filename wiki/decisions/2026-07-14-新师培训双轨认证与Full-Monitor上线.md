@@ -78,3 +78,13 @@ superseded_by: []
 - 2026-07-14：本页拍板（双轨认证 / 分项制考评 / Full Monitor 8-1 上线 / AI Bot 首课；AC 降噪与强制升级列为待决策项）。
 - 2026-07-17：分项制考评设计被双轨制积分（基础 40 + 课程分无封顶、100 分毕业）调整（[2026-07-17-新师30天出营积分决策](2026-07-17-%E6%96%B0%E5%B8%8830%E5%A4%A9%E5%87%BA%E8%90%A5%E7%A7%AF%E5%88%86%E5%86%B3%E7%AD%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svNkBKjy8B5r9YAn) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP6Zr7AgJ63zgkYA)））——本页其余条款保持生效。
 - 2026-07-24：双周会「底线问题 = 准入/熔断条件，不能靠加分补回」（[2026-07-24-外教质量提升双周会-蜂巢首闭环与Jack六项要求](2026-07-24-%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E5%8F%8C%E5%91%A8%E4%BC%9A-%E8%9C%82%E5%B7%A2%E9%A6%96%E9%97%AD%E7%8E%AF%E4%B8%8EJack%E5%85%AD%E9%A1%B9%E8%A6%81%E6%B1%82.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ5Ggk7VZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsA5opzn5W2LD0oRE)） §二）承接本页一票否决语义；AC 降噪信息差登记问题账 TOC-42（工程待办）。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D03 · 新师成材与早期经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) · [D05 · 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) · [D08 · 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-d63ec11710f97e9b)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

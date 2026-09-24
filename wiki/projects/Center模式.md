@@ -269,3 +269,13 @@ Center 模式不是外教战役里的补充渠道，而是供给侧最有战略�
 D04/D05/D11/D13要求同时看需求、供给模式、教师选择与全成本。历史1–2中心及“守下限已验证”不能为全网效果背书，租赁绑定和低成本均需条件。40%是课量份额与治理投入不匹配的讨论，不是治理缺口率；存量HBT主流、HBT与Center平行的后继认可继续有效。9月12日关闭Cebu的动作信号须核具体设施、承接与回执，不能由旧Lab建议覆盖，也不能扩大为全面退出Offline或已关闭。
 
 来源：[SRC-f00c3757f0eb · 51–95、107–113](../../sources/raw/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuPmNklm5J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/dxXB52LJqnjXBmGdiZnwL7468qjMp697)）；[SRC-98e770732afc · 3–9](../../sources/raw/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHarY5DANJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDE30mPgW3bzYmDO)）；[SRC-0a91d798adb0 · 46–138、380–409、695–730](../../sources/raw/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%9B%A2%E9%98%9F%E5%9C%A8%20TutorOS%20%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%BB%E6%94%BB%E4%BB%B7%E5%80%BC%E7%82%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQP97Oqb81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZ75a34p86EDybno)）。本次为原料复核后的知识修订，未扩大既有人类认可或执行授权。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D04 · 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [D05 · 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) · [D11 · 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) · [D13 · 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-d184ac064313cc68)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

@@ -49,3 +49,13 @@ superseded_by: []
 - 2026-05-08：Leon 与黄荣讨论——直通车转向在库出清、三段式框架（本页起点）。
 - 2026-05-09：Trial Only 方案拍定——合肥 MVP、FDR 标签、8% 转化目标（本页核心）。
 - 待验证（截至 2026-08-31）：Trial Only 合肥 MVP 的 M0 转化是否达到 8% 并拉平 Polly；FDR 机制是否扩区/升级——无源内闭环证据（直通车项目页承接后续）。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D04 · 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) · [D06 · 教师价值呈现与匹配](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) · [D07 · 师生关系与跨师承接](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D07-%E5%B8%88%E7%94%9F%E5%85%B3%E7%B3%BB%E4%B8%8E%E8%B7%A8%E5%B8%88%E6%89%BF%E6%8E%A5.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-65e413375e84cc06)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

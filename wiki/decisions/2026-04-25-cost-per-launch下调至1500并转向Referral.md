@@ -66,3 +66,13 @@ superseded_by: []
 - 2026-04-25：公司指令把外教招聘 cost per launch 从 2000 比索下调到 1500 比索；Leon 与 Jen 形成执行判断（更坚决收缩 MKT 与 KOL、集中 Referral）。
 - 2026-04-26：Leon 确认周一（4/27）与 Jen 会议，正式定稿五月各渠道 launch 目标与预算——本决策的关键执行里程碑。
 - 后续：该决策被编入 [Q2关键决策与判断](Q2%E5%85%B3%E9%94%AE%E5%86%B3%E7%AD%96%E4%B8%8E%E5%88%A4%E6%96%AD.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzoARdxvVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6dKeGRvWxkXOEP2)）（2026-05-15 最后信号时点），Q2 渠道判断优先级切换为「先看能否穿透 1500 比索 launch 成本，再讨论质量获客、品牌背书或 awareness 外延」。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D02 · 教师获取与准入](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) · [D13 · 全成本与可持续经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D13-%E5%85%A8%E6%88%90%E6%9C%AC%E4%B8%8E%E5%8F%AF%E6%8C%81%E7%BB%AD%E7%BB%8F%E8%90%A5.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-8722fab3b51f4fa7)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

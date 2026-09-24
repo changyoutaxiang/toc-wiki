@@ -63,3 +63,13 @@ ingress_revisions: ["J-f596ee15874226f331fbe04b@ff8e784342411433.8c00178b6aaa"]
 - 蜂巢系统本体归 AIOS建设域：[蜂巢](/Users/wangdong/Desktop/%E9%9D%9E%20TOC%20%E4%B8%89%E5%9F%9F%E5%BA%93/wiki/AIOS%E5%BB%BA%E8%AE%BE/entities/%E8%9C%82%E5%B7%A2.md)（本地资料，钉钉／GitHub未提供）（AIOS建设，已存在）——本假设是其「教师上课体验与交付效率」方向的待验证项。
 - 跨域：[原子小队](/Users/wangdong/Desktop/%E9%9D%9E%20TOC%20%E4%B8%89%E5%9F%9F%E5%BA%93/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/concepts/%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F.md)（本地资料，钉钉／GitHub未提供）（AI变革部，待建）· [AI变革部/decisions/2026-06-07-四化建设决策史](/Users/wangdong/Desktop/%E9%9D%9E%20TOC%20%E4%B8%89%E5%9F%9F%E5%BA%93/wiki/AI%E5%8F%98%E9%9D%A9%E9%83%A8/decisions/2026-06-07-%E5%9B%9B%E5%8C%96%E5%BB%BA%E8%AE%BE%E5%86%B3%E7%AD%96%E5%8F%B2.md)（本地资料，钉钉／GitHub未提供）（AI变革部，待建）。
 - TOC 侧战场：[外教质量提升战役](../projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）；H2 总纲硬任务 #4「AI 驱动老师的识别·训练·经营」（[2026-07-13-CEO下半年外教战役指示-双主帅H2总纲](../decisions/2026-07-13-CEO%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E6%8C%87%E7%A4%BA-%E5%8F%8C%E4%B8%BB%E5%B8%85H2%E6%80%BB%E7%BA%B2.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3L1DlPQVKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZnpyqOv86EDybno)））为本假设的公司级背书语境。
+
+<!-- toc-map:backlinks:start -->
+
+## 所属经营域与导航
+
+相关经营问题：[D10 · 教师成长与教学支持](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D10-%E6%95%99%E5%B8%88%E6%88%90%E9%95%BF%E4%B8%8E%E6%95%99%E5%AD%A6%E6%94%AF%E6%8C%81.md) · [D11 · 教师体验与公平治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D11-%E6%95%99%E5%B8%88%E4%BD%93%E9%AA%8C%E4%B8%8E%E5%85%AC%E5%B9%B3%E6%B2%BB%E7%90%86.md) · [D14 · 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) · [D15 · 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md)
+
+[在本地目录反查本页](../TutorOS%E6%9C%AC%E5%9C%B0%E7%9F%A5%E8%AF%86%E5%AF%BC%E8%88%AA.md#page-46bb71f96e67f1a4)（本地资料，钉钉／GitHub未提供）。归属仅用于导航，不改变本页审态与适用边界。
+
+<!-- toc-map:backlinks:end -->

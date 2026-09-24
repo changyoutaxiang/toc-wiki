@@ -5,10 +5,10 @@ title: Tutor OS 第二层经营地图
 tags: [TutorOS, 意义层, 经营域, 人机共建, HBT, Center]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS知识骨架维护约定, TutorOS知识骨架落点索引, 2026-09-14-TutorOS知识骨架认领与共建分工]
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-09-24
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 已审
-review_scope: 两层意义骨架的建设方向已经Leon认可；本次域划分及新增综合未逐条认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
+review_scope: "两层意义骨架的建设方向已经Leon认可；本次域划分及新增综合未逐条认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决；2026-09-24 本次认可仅覆盖：二层地图三处维护权限表述接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论"
 architecture_version: "1.1"
 ---
 
@@ -16,7 +16,7 @@ architecture_version: "1.1"
 
 只查知识请先用[只读查询入口](../TutorOS知识骨架落点索引.md) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtKaaAe33WrMqPxX6) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooYMGw86EDybno)）。查询无需执行蒸馏、维护或写入；正文中共建说明只适用于另行授权的维护任务。
 
-返回[TutorOS知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。第一层回答整个 Tutor OS 怎样创造价值；这一层把它展开为 **15 个长期经营问题**。每个域都有一篇可讨论、可修正的理解正文。先从正在思考的问题进入，不需要逐页通读或逐页审批。
+返回[TutorOS知识总图](TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。第一层回答整个 Tutor OS 怎样创造价值；这一层把它展开为 **15 个长期经营问题**。每个域都有一篇可讨论、可修正的理解正文。先从正在思考的问题进入，不需要逐页通读；需要修改骨架时，再按现行维护约定确认具体差异。
 
 **共同前提：** Home-based 与 Center-based 平行；HBT 是当前存量主流，Center 已有供给且要重点建设。Every Lesson Counts 贯穿两者，既看真实课堂，也积累关系、教师能力、供给和方法。它不取消未交付承诺，不把学习与所有权益压成一个课后总分。（来源：[2026-09-14-TutorOS知识骨架认领与共建分工](../decisions/2026-09-14-TutorOS%E7%9F%A5%E8%AF%86%E9%AA%A8%E6%9E%B6%E8%AE%A4%E9%A2%86%E4%B8%8E%E5%85%B1%E5%BB%BA%E5%88%86%E5%B7%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQQEvZjVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEEO3pZ8GlDd3mE)）；[TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)） §1—6。）
 
@@ -82,7 +82,7 @@ architecture_version: "1.1"
 | 维度 | 回答的问题 | 维护方式 |
 |---|---|---|
 | 第一层骨架 | 整体在经营什么，价值怎样流动？ | Leon 与 Agent 共建核心认识 |
-| 第二层经营域 | 某个长期问题怎样成立，代价、边界与反例是什么？ | Agent 维护；Leon 在实际思考发生时碰撞和升级 |
+| 第二层经营域 | 某个长期问题怎样成立，代价、边界与反例是什么？ | Agent 核源并提出具体改稿；Leon 确认该差异后落稿 |
 | concept／entity／project 等页面角色 | 这是概念、对象、项目、决定、来源还是未决问题？ | 保留原目录和唯一正文；同一页可支持多个域 |
 | 原始证据与业务正本 | 当时说了什么、谁决定、当前实际怎样？ | 保留来源、日期、版本及有效范围 |
 
@@ -98,7 +98,7 @@ architecture_version: "1.1"
 
 2026-09-14：三个模型同读 Wiki 得出 7／8／13 域；同一模型改读 GBrain 得出另一种 13 域。综合后保留较细的关键分界，并增加新师过渡与教师独立权益的明确位置。特别是 GBrain 召回后回读 FT-DEC-014，补回“老师体验有独立责任”的已有战略认识，并修正两篇旧页面的阅读边界。完整比较见[构建取舍](</Users/wangdong/Desktop/非 TOC 三域库/_reports/2026-09-14-TOC知识总图建设/第二层建设-v1.1/comparison/比较与取舍.md>)（本地资料，钉钉／GitHub未提供）；研究者一致不增加业务证据票数。
 
-您可以说“讨论新师成材”“D07 这条理解不对”“Center 收益这一段还没想清楚”。Agent 先带回当前理解、来源及反例，再提出具体改稿和受影响页。只会改变目标、核心关系、重要边界或取舍的问题，需要在这两层形成新的共识。
+您可以说“讨论新师成材”“D07 这条理解不对”“Center 收益这一段还没想清楚”。Agent 先带回当前理解、来源及反例，再提出具体改稿和受影响页。改变目标、核心关系、重要边界或取舍的问题，需要在这两层形成新的共识；其余骨架正文和链接修改也按现行维护约定先确认具体差异。
 
 初版重点观察：D03 与 D10 是否边界清楚；D12 与 D13 是否各有独立判断价值；未归域问题是否暴露遗漏。下一轮根据真实讨论和漏证据记录改图，当前没有把 15 域定成不可更改的分类制度，也没有声称已经验证十倍质量提升。
 
