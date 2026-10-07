@@ -5,15 +5,15 @@ title: Tutor OS 经营域 D03｜新师成材与早期经营
 tags: [TutorOS, 第二层经营域, 新师, TIDE, 试用期, 认知骨架]
 related: [TutorOS第二层经营地图, 新师训战营, 2026-09-05-新师30天出营现行分数线, D03-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-23
+updated: "2026-10-07"
 meaning_domain: D03
 architecture_version: "1.1"
 template_version: "2.0"
-knowledge_revision: "D03-2026-09-23.v2.1.1"
+knowledge_revision: "D03-2026-09-23.v2.1.1.health-20261007"
 based_on_revision: "D03-2026-09-16.2"
 review: 待审
 content_review_status: pending
-review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级。"
+review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
 prior_review_scope: "旧版记录：2026-09-15批量认可蒸馏忠实性，未逐条人工复核；未决事项与待验证主张不因此裁决。"
 evidence_checked_on: 2026-09-17
 source_branch: main
@@ -25,19 +25,7 @@ canonical_decision: "../decisions/2026-09-05-新师30天出营现行分数线.md
 evidence_register: "../queries/D03-认知依据与演化.md"
 active_hypotheses: [D03-H01, D03-H02, D03-H03]
 open_questions: [D03-Q01, D03-Q02, D03-Q03, D03-Q04]
-sources:
-  - "wiki/decisions/2026-09-05-新师30天出营现行分数线.md"
-  - "sources/外教战役/Meeting/2026-07-13_老师试用期讨论_听记原文.srt"
-  - "sources/raw/2026-09-04_听记-teacher-growth-system-including-TIDE__62b353ac9ab9.md"
-  - "sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md"
-  - "wiki/projects/新师训战营.md"
-  - "wiki/queries/2026-07-16-新师训营培训对象重定义-好看好吃有营养.md"
-  - "wiki/骨架/TutorOS经营域-D08-好课判断与逐课证据.md"
-  - "wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md"
-  - "wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md"
-  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md"
+sources: ["wiki/decisions/2026-09-05-新师30天出营现行分数线.md", "sources/外教战役/Meeting/2026-07-13_老师试用期讨论_听记原文.srt", "sources/raw/2026-09-04_听记-teacher-growth-system-including-TIDE__62b353ac9ab9.md", "sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md", "wiki/projects/新师训战营.md", "wiki/queries/2026-07-16-新师训营培训对象重定义-好看好吃有营养.md", "wiki/骨架/TutorOS经营域-D08-好课判断与逐课证据.md", "wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md", "wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md", "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md", "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md", "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md", "wiki/decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md", "wiki/decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md"]
 ---
 
 # D03｜新师成材与早期经营
@@ -89,11 +77,11 @@ sources:
 
 **沿用的设计原则：用真实课堂建立判断。** CE demo（入门试讲）承担筛查；真实授课、学生学习与后续表现分别提供证据。[E06][] [E09][]
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** Demo 入门筛查端的现行细则（12 个量化维度 48 分制、Accent／Pronunciation／Grammar 任一项 1 分触发 Auto Fail、平均分区间 >3.76 为 A／>3.50 为 B+／>2.76 为 B／<2.76 为 C、语言指定短板进 Bridge Training）见 [X1 补证件](../../sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md)（团队知识库 SRC-01，截至2026-08-25；本地资料，钉钉／GitHub未提供）。它只补 demo 筛查端：30 天最终得分、100 分毕业与 200 分及以上金牌仍以 [2026-09-05 决策](../decisions/2026-09-05-新师30天出营现行分数线.md)为准，TIDE 状态内容未吸收。
+> **补证下钻（2026-09-21 登记）：** Demo 入门筛查与 30 天出营评分是不同环节；100 分毕业／200+ 金牌仍按 9 月 5 日正式决定。 完整依据：[X1 补证件](../../sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md)（历史或方法补证；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-03 Tammy 知识编译层《TESOL 分池目标与跟催机制》判断"全部 Active 教师本周 100% 完成 TESOL"在持续有新教师上线时不是稳定 KPI（分母每天变化，存量清零后整体比例仍可下降），建议按生命周期分四池管理：A 稳定 Active（清零成熟存量）、B 新 Launch（按 Launch 周 Cohort 看 T+7／T+14 触达与认证速度，区分"新增太快分母变大"与"跟催效率下降"）、C Inactive（看历史积压与回流，不直接压入 Active KPI）、D 全量（只做趋势监控）；原页自行声明其具体阈值仅为试运行候选，确认触达定义、数据延迟和历史基线前不当作正式绩效标准——见 [Tammy-TESOL分池目标与跟催机制补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md)（团队知识库 SRC-03 · Tammy 知识编译层，2026-09-09 v1，原页待审；本地资料，钉钉／GitHub未提供）。
+> **补证下钻（2026-09-21 登记）：** TESOL 跟催按生命周期与 Launch cohort 看，区分新增分母与跟催失效；具体阈值仍为试运行候选。 完整依据：[Tammy-TESOL分池目标与跟催机制补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-TESOL分池目标与跟催机制补证.md)（原页待审；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** 同层《SI 全链路治理框架》把 SI 治理对象定义为"教师—视频版本—提交渠道—审核结论—使用范围—有效时间"的组合记录，并划分三条链路职责：PRS（招聘至开课前采集与准入审核）／MyPage（开课后更新重提）／TMS（历史补录），主张"补录成功"与"质量合格"必须是两个状态、TMS 不应天然拥有更高优先级、"无可用 SI 不开课"仅在明确适用中心、生效日期、审核 SLA 和异常兜底后才能成为硬门槛——见 [Tammy-SI全链路治理框架补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md)（团队知识库 SRC-03 · Tammy 知识编译层，2026-09-09 v1，原页待审；本地资料，钉钉／GitHub未提供）。
+> **补证下钻（2026-09-21 登记）：** SI 补录成功不等于视频合格；渠道、审核结论、使用范围和有效时间需分别记录，硬门槛仍需明确生效范围。 完整依据：[Tammy-SI全链路治理框架补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-SI全链路治理框架补证.md)（原页待审；本地资料，钉钉／GitHub未提供）。
 
 ### 一条主链，五种不能相互替代的证据
 
@@ -119,7 +107,7 @@ sources:
 
 **正常支持与个人能力。** 老师在可持续的工具、带教和环境支持下教好，本身有价值；不必撤掉所有帮助才承认结果。但不能把导师接手的效果全算成老师能力，也不能把某个中心里的表现直接外推到其他环境。[E10][] [E11][]
 
-> **诊断提示 · 本次综合推理：** 可能存在“少课 → 少证据 → 难被推荐 → 继续少课”的自我强化；也可能是准备不足、时段错配或需求不足。应同时检验这些解释，不能先认定循环已发生，更不能据此自行强推流量或放宽学生保护。[E03][] [E08][]
+> **诊断提示 · 本次综合推理：** 可能存在“少课 → 少证据 → 难被推荐 → 继续少课”的自我强化；也可能是准备不足、时段错配或需求不足。9 月 24 日交接记录已把课量分配不公平列为评分失效根因；这是该场的有源诊断，规模与因果仍须数据核验，见下方 DELTA。应同时检验这些解释，不能先认定循环已发生，更不能据此自行强推流量或放宽学生保护。[E03][] [E08][]
 
 <a id="beliefs"></a>
 <a id="3-beliefs哪些判断还要经受检验"></a>
@@ -227,6 +215,7 @@ sources:
 | **2026-09-05 · 正式裁决** | 舍弃 660 旧锚点；确认 30 天最终得分与 100／200+ 分数线。[E01][] | 没有一并批准全部公式、激励和系统运行状态。 |
 | **2026-09-14 · 来源纠错** | 将被误读成评分权重的数字还原为讨论中的档位人数分布举例。[E14][] | 纠正的是来源语义，不是批准新的评分权重。 |
 | **2026-09-16 · 旧页记录的补充** | 强调一次 demo 不能判定真实好课；把 AI 学生首课演练保留为计划。[E06][] | 本次没有重读该轮原始对话，也没有新增演练效果证据。 |
+| **2026-09-22／09-24 · 范围收窄与交接** | TIDE 当前工作收窄为国内×线上、直指直通车；9 月 24 日记录 Tina→王韬交接与范围内自决。会议把课量分配不公平列为评分失效根因，并记录因缺质量数据实际主要看出席率。[9 月 22 日范围记录](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md)、[9 月 24 日交接记录](../decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md) | 确认限原稿范围；口头授权未落书面规则，原稿考核细节仍需复核；不自动修改 100／200+ 分数线，不认定培养效果或课量公平已经恢复。 |
 
 完整演化与这轮编辑记录分别保留在证据附页和交接说明中。
 

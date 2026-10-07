@@ -4,15 +4,15 @@ title: Center招聘重构从gate问起
 tags: [TutorOS, Center, CO协作, 招聘重构, 原子小队]
 related: [TutorOS经营域-D02-教师获取与准入, TutorOS经营域-D05-授课条件与模式治理, 2026-09-16-线上线下分开建与中心实验室关闭转CO分级]
 created: 2026-09-22
-updated: 2026-09-23
+updated: "2026-10-07"
 sources: ["Leon-work/journal/2026/09/2026-09-22/media/钉钉聊天/fullcap-20260922-1800/messages_new_readable.md", "Leon-work/journal/2026/09/2026-09-22/_agent/入库确认_RCL-2026-09-22-v1.md"]
 review: 部分认可
 review_scope: "Leon 2026-09-22 日结点选入库（RCL-2026-09-22-v1，MEM-13）限原确认稿；其中‘三个群统一提出 gate’与18:00前原群聊不符，本页2026-09-23核源更正为两群可见，修订措辞尚未另经 Leon 人审；下游推论不在原认可范围内。"
 date: 2026-09-22
-decided_by: Leon（新建三个 CO 协作群并统一发话术）
+decided_by: Leon（新建三个 CO 协作群并统一作 playground 介绍；截至18:00招聘 gate 提问仅两群可核）
 status: 提问启动（非已决方案）
-projection: leon-only
-source_permission: 内部材料，含未发布的组织协作方式与 CO 合作口径，不对外
+projection: public
+source_permission: Leon 2026-09-26 明确授权本页可投影至既有两个钉钉知识库和公开 GitHub；原始来源文件不随本页自动发布
 supersedes: []
 superseded_by: []
 ---

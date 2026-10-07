@@ -5,15 +5,15 @@ title: Tutor OS 经营域 D02｜教师获取与准入
 tags: [TutorOS, 第二层经营域, 教师获取与准入, 认知骨架]
 related: [TutorOS第二层经营地图, D02-认知依据与演化, 2026-09-18-外教质量提升双周会-行动定盘与供给侧经营系统, 2026-09-22-Center招聘重构从gate问起]
 created: 2026-09-14
-updated: 2026-09-23
+updated: "2026-10-07"
 meaning_domain: D02
 architecture_version: "1.1"
 template_version: "2.0"
-knowledge_revision: "D02-2026-09-23.v2.1.2"
+knowledge_revision: "D02-2026-09-23.v2.1.2.health-20261007"
 based_on_revision: "D02-2026-09-15.2"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审。D02-Q04 仅在 _ops/frontier-loop/approvals/2026-09-23-center-gate-D02.json 记录 Leon 对此具体问法的批准后才可落位；既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审。D02-Q04 仅在 _ops/frontier-loop/approvals/2026-09-23-center-gate-D02.json 记录 Leon 对此具体问法的批准后才可落位；既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D02-认知依据与演化.md"
@@ -21,32 +21,7 @@ active_hypotheses: [D02-H01, D02-H02]
 open_questions: [D02-Q01, D02-Q02, D02-Q03, D02-Q04]
 source_snapshot_note: "本轮以冻结旧域页为改写基线，关键来源按实际章节回读；逐文件指纹与范围见本轮交付记录，不以旧回执代替新验收。"
 source_pointer_scope: "sources保留旧来源导航并接本轮依据页；具体本轮实读范围以附页及读取清单为准，旧指针不表示本轮全读。"
-sources:
-  - "外教战役/招聘战役.md"
-  - "外教战役/Referral重启.md"
-  - "外教战役/Meeting/20260626 外教质量提升双周会会议纪要.md"
-  - "common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json"
-  - "wiki/queries/D02-认知依据与演化.md"
-  - "sources/raw/2026-04-22-Sub-Battle1-Weekly.md"
-  - "sources/raw/J-61aab3d204d9f1cc5a4b131b__c2b7319e86cb4172.2345b65eae5d__dws-听记-菲律宾出差agenda讨论-2026-08-21.md"
-  - "wiki/decisions/2026-04-25-cost-per-launch下调至1500并转向Referral.md"
-  - "wiki/decisions/2026-06-26-外教质量战役主轴重构-蜂巢系统与新师营试用期.md"
-  - "wiki/decisions/2026-06-29-放弃BPlus核心KPI与新基本法.md"
-  - "wiki/decisions/2026-08-13-中菲招聘标准统一与人工质检保留.md"
-  - "wiki/projects/Referral重启.md"
-  - "wiki/projects/招聘战役.md"
-  - "wiki/queries/D03-认知依据与演化.md"
-  - "wiki/queries/D05-认知依据与演化.md"
-  - "wiki/sources/TutorOS设计宪法全文.md"
-  - "wiki/骨架/TutorOS经营域-D03-新师成材与早期经营.md"
-  - "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md"
-  - "wiki/decisions/2026-09-22-Center招聘重构从gate问起.md"
-  - "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md"
-  - "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md"
-  - "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md"
-  - "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"
+sources: ["外教战役/招聘战役.md", "外教战役/Referral重启.md", "外教战役/Meeting/20260626 外教质量提升双周会会议纪要.md", "common-feed/J-e595745aee1d632a2143e153__b6d159e866f59cd9.30582acd6940.json", "wiki/queries/D02-认知依据与演化.md", "sources/raw/2026-04-22-Sub-Battle1-Weekly.md", "sources/raw/J-61aab3d204d9f1cc5a4b131b__c2b7319e86cb4172.2345b65eae5d__dws-听记-菲律宾出差agenda讨论-2026-08-21.md", "wiki/decisions/2026-04-25-cost-per-launch下调至1500并转向Referral.md", "wiki/decisions/2026-06-26-外教质量战役主轴重构-蜂巢系统与新师营试用期.md", "wiki/decisions/2026-06-29-放弃BPlus核心KPI与新基本法.md", "wiki/decisions/2026-08-13-中菲招聘标准统一与人工质检保留.md", "wiki/projects/Referral重启.md", "wiki/projects/招聘战役.md", "wiki/queries/D03-认知依据与演化.md", "wiki/queries/D05-认知依据与演化.md", "wiki/sources/TutorOS设计宪法全文.md", "wiki/骨架/TutorOS经营域-D03-新师成材与早期经营.md", "wiki/骨架/TutorOS经营域-D05-授课条件与模式治理.md", "wiki/decisions/2026-09-22-Center招聘重构从gate问起.md", "sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md", "sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md", "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md", "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md", "sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md", "sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md"]
 ---
 
 # D02｜教师获取与准入
@@ -93,17 +68,17 @@ sources:
 
 **获取端**要知道谁带来申请、承诺了什么、候选人为什么来或为什么走。**准入端**要判断身份、基本能力、设备与准备是否足以承担特定任务。**交接端**要让D03接到真实能力与支持需求，而不是一句“已合格”。后续留存、授课质量、合理所得和全成本，才能告诉我们是否形成了可持续供给。[E01][] [E04][]
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-01 团队库载有 Demo 现行准入细则——12 个量化维度 48 分制、Accent／Pronunciation／Grammar 任一项 1 分触发 Auto Fail、平均分区间 >3.76 为 A／>3.50 为 B+／>2.76 为 B／<2.76 为 C（B 进常规上岗路径、C 淘汰）、语言指定短板进 Bridge Training——见 [X1 补证件](../../sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md)（团队知识库 SRC-01，截至2026-08-25；本地资料，钉钉／GitHub未提供）。TIDE 状态内容未吸收；30 天出营现行判断仍以 D03 所引 2026-09-05 决策为准。
+> **补证下钻（2026-09-21 登记）：** Demo 筛查细则另见补证；它不替代 D03 的 30 天最终得分规则。 完整依据：[X1 补证件](../../sources/supplement/团队知识库-SRC01/X1-Customer-ready-Demo现行细则补证.md)（历史或方法补证；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-01 团队库存有 8 月 Launch 差距分析的三条口径甄别（方法论判断，长期有效）：历史"95%基线"是 Onboarding pass rate 而非 CE Pass rate，不能当 CE 通过率用；CE Interview Slots 与 Teacher Teaching Slots 必须分列管理，不得用单一 90% 假设倒推；转化率须按同龄 cohort（D+1/D+3/D+7）看，不能用未成熟快照对比历史终值。附实测基线（8 月 1—9 日完整日）：国内 CE 出席率 74.74%、Pass 率 63.81%，海外 59.27%、58.70%——见 [AugustLaunchGap 补证件](../../sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md)（团队知识库 SRC-01，截至2026-08-11；本地资料，钉钉／GitHub未提供）。进度快照（目标 2,000／完成 373＝18.7%／推算缺口 715、SIV 未提交占 49.7%）为截至 2026-08-11 过程记录，9 月以后继为准，不改变本页任何获取端判断。
+> **补证下钻（2026-09-21 登记）：** 95% 历史基线属于 Onboarding，不是 CE；面试与授课容量分列，转化按同龄 cohort 对照。8 月过程数不作当前基线。 完整依据：[AugustLaunchGap 补证件](../../sources/supplement/团队知识库-SRC01/AugustLaunchGap-口径甄别补证.md)（历史或方法补证；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-03 Tammy 知识编译层《招聘与准入总览》提出：招聘自动化的目标不是让每个页面"无人操作"，而是让每一名候选人在正确的资格、容量和阶段状态下进入正确动作，同时保留解释、人工接管和追责能力；其当前判断认为现有文档已覆盖 Leads、Pre-screen、PSO、NTT、CE Demo 和 AI 客服多个节点，但"节点功能完整"不等于"流程闭环"，薄弱处集中在统一状态、容量真相、规则优先级、旧数据兼容、人工兜底和反馈回流——见 [Tammy-招聘与准入总览补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md)（团队知识库 SRC-03 · Tammy 知识编译层，2026-09-09 v1，原页待审；本地资料，钉钉／GitHub未提供）。
+> **补证下钻（2026-09-21 登记）：** 招聘节点齐全仍不等于全流程闭环；状态、容量、规则优先级、旧数据兼容和人工兜底是设计检查线索。 完整依据：[Tammy-招聘与准入总览补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘与准入总览补证.md)（原页待审；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** 同层《招聘自动化控制面》主张一层统一控制面，六层结构为身份事实／资格／容量／阶段编排／服务兜底／证据学习；建议状态流要求任何节点都有四类通用出口（成功进入下一步、材料不完整可重试、规则异常转人工、候选人主动退出）；关键设计判断为：先资格后容量再谈比例、目标比例不是逐条轮换、页面文案由状态生成、自动化必须留人工入口——见 [Tammy-招聘自动化控制面补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md)（团队知识库 SRC-03 · Tammy 知识编译层，2026-09-09 v1，原页待审；本地资料，钉钉／GitHub未提供）。
+> **补证下钻（2026-09-21 登记）：** 统一控制面是设计提案：先资格再容量，保留重试、转人工与主动退出，不把目标比例当逐条轮换。 完整依据：[Tammy-招聘自动化控制面补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-招聘自动化控制面补证.md)（原页待审；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** 同层《Leads 分流与容量对齐机制》把分流定义为硬门槛（不满足则不能进池）、容量约束（决定当前池是否仍可分配）、软性偏好（仅在可行集合内排序）三类条件的受约束决策，硬门槛不能被容量压力覆盖；概率分流按剩余容量计算（P_i = remaining_i / Σ remaining_j，某池 remaining=0 即不再分入）；公平须分准入／机会／结果三层看，不能只用最终签约数倒推分配正确——见 [Tammy-Leads分流与容量对齐补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md)（团队知识库 SRC-03 · Tammy 知识编译层，2026-09-09 v1，原页待审；本地资料，钉钉／GitHub未提供）。另：Tammy 原页问题账含 8 条待裁决（容量权威来源、SI 冲突权威、TESOL 阈值生效等），登记于补证件附节，是否认领待 Leon 拍板。
+> **补证下钻（2026-09-21 登记）：** Leads 分流须分硬门槛、容量与软偏好，公平须分别看准入、机会和结果；八项待裁决不自动生效。 完整依据：[Tammy-Leads分流与容量对齐补证](../../sources/supplement/团队知识库-SRC03-Tammy编译层/Tammy-Leads分流与容量对齐补证.md)（原页待审；本地资料，钉钉／GitHub未提供）。
 
-> **补证引用（2026-09-21 登记，不改上方判断）：** SRC-04 Jenny 数据资产库《外教招聘skill（00-SKILL 入口）》载有招聘漏斗取数的时间锚点纪律：同一个问题换时间锚点结果完全不同——申请量按 `reapply_time`（不能用 `register_time`：它跨申请轮次不变，2026 年上线者 36.4% 为二次及以上申请）、节点通过量按 `{node}_pass_time`、Launch 量按 `status_on_date`（≡ `launch_status='2'`，最新分区双向零例外实测 122,902 条）——见 [时间锚点与队列口径补证](../../sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md)（团队知识库 SRC-04 · Jenny 数据集资产库，截至 2026-09-21，资产状态=建设中；本地资料，钉钉／GitHub未提供）。取数纪律类方法论，长期有效；不改本页任何获取端判断。
+> **补证下钻（2026-09-21 登记）：** 招聘漏斗须固定时间锚点：申请按 reapply_time、节点通过按 {node}_pass_time、Launch 按 status_on_date；资产仍建设中。 完整依据：[时间锚点与队列口径补证](../../sources/supplement/团队知识库-SRC04-Jenny数据/招聘漏斗时间锚点与队列口径补证.md)（历史或方法补证；本地资料，钉钉／GitHub未提供）。
 
 交接断点也有背景材料提醒：外教侧需求X-Y-Z需求地图（讨论稿性质、非拍板件，其深搜结论截至2026年8月19日）把“候选到Launch的供给转化交易可靠性”列为当时主矛盾，记录过系统页面显示成功而候选流程实际未完成的断链，提醒页面成功不等于候选完成；本域只把它当背景线索，不据此新增门槛或流程要求。[E09][]
 
@@ -190,7 +165,7 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 | 2026-09-15 原料复核 | 成本决定与Referral页承载9月15日预算算术、归属冲突和承接缺口的回读；稳定launch与成本成为不能互相遮盖的双约束。[E03][] [E06][] | 数字冲突自动得到新正式预算，或一次复核改变原批准范围。 |
 | 9 月 18 日 [E09][] | 撞审修订：交接端补外教侧需求X-Y-Z需求地图背景挂接（讨论稿性质、非拍板件；页面成功不等于候选完成） | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 9 月 18 日 [E10][] | 双周会正式版纪要把转介绍列为 teacher acquisition 最高优先级之一（Ika 牵头、原子小队、研究 Polly POC），投放退出后的补位从方向落为具名行动 | 纪要未经逐条人审；停投后量级补位无产出证据；KOC 机制仍未搞明白，行动表非终版授权 |
-| 9 月 22 日 [Center招聘重构从gate问起](../decisions/2026-09-22-Center招聘重构从gate问起.md) | 三 CO 协作群统一从「gate」问起：Center 招聘重构先问清线下招聘该长什么样，不再从线上流程推演；定位为 playground 原子小队新工作方式 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；提问非已决方案，CO 侧尚无实质回复 |
+| 9 月 22 日 [Center招聘重构从gate问起](../decisions/2026-09-22-Center招聘重构从gate问起.md) | 三个 CO 协作群均有 playground 介绍；截至 9 月 22 日 18:00，招聘 gate 提问仅在 Netspeak 与 Backyard 两群可核到，Ecore 窗口内只见协作介绍。Center 招聘重构先问清线下招聘该长什么样，不从线上流程推演；提问仍非已决方案 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；提问非已决方案，CO 侧尚无实质回复 |
 
 <a id="已有决定与还没弄清的事"></a>
 <a id="资料与以前的讨论"></a>

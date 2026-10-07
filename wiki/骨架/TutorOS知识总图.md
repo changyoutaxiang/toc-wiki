@@ -5,10 +5,10 @@ title: Tutor OS 知识总图
 tags: [TutorOS, 知识骨架, 人机共建, HBT, Center, Every-Lesson-Counts]
 related: [TutorOS第二层经营地图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, TutorOS知识骨架落点索引, TutorOS知识骨架维护约定, TutorOS建设, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-24
-sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
+updated: "2026-10-07"
+sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "wiki/decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md"]
 review: 已审
-review_scope: "Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果；2026-09-24 本次认可仅覆盖：总图共建分工两处接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论"
+review_scope: "Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果；2026-09-24 本次认可仅覆盖：总图共建分工两处接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
 architecture_version: "1.1"
 ---
 
@@ -46,6 +46,8 @@ flowchart TB
 | M1 Home-based | 经营分散环境中的居家教师，持续改善主流供给 | [居家模式的完整经营链](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m1) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)） |
 | M2 Center-based | 经营中心教师供给，补强组织、训练与现场能力 | [中心模式的完整经营链](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#m2) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)） |
 | F1 Every Lesson Counts | 每课兑现价值、留下证据，并成为后续课改善的起点 | [逐课原则与跨课积累](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#f1) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)） |
+
+**季度重点接续（2026-09-24）：** Center 被列为 Q4 重点，同时暴露治理缺口并提出线上／线下分开运营倾向；这是当时的资源排序判断，不改变 HBT 与 Center 的平行架构，也不代表中心效果、预算或组织安排已验收。参见 [D05 后继证据](TutorOS经营域-D05-授课条件与模式治理.md#now) 与 [Center Q4 记录](../decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md)。
 
 ## 七个共同经营问题
 

@@ -18,15 +18,15 @@ related:
 - 2026-05-29-设备标准锚定Cocos黄金
 - D05-认知依据与演化
 created: '2026-09-14'
-updated: '2026-09-17'
+updated: "2026-10-07"
 meaning_domain: D05
 architecture_version: '1.1'
 template_version: "2.0"
-knowledge_revision: "D05-2026-09-17.v2.1"
+knowledge_revision: "D05-2026-09-17.v2.1.health-20261007"
 based_on_revision: D05-2026-09-15.2
 review: 待审
 content_review_status: pending
-review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级。"
+review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
 prior_review_scope: 旧版记录：2026-09-15 批量认可蒸馏忠实性，未逐条人工复核；未决事项与效果假设不因此裁决。
 evidence_checked_on: '2026-09-17'
 source_branch: main
@@ -46,28 +46,7 @@ open_questions:
 - D05-Q01
 - D05-Q02
 - D05-Q03
-sources:
-- wiki/decisions/2026-09-14-TutorOS知识骨架认领与共建分工.md
-- wiki/decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md
-- wiki/decisions/2026-05-29-设备标准锚定Cocos黄金.md
-- wiki/decisions/2026-06-09-国内通过率塌层处置与设备3500延后.md
-- sources/raw/2026-06-05_设备准入标准拍定会议纪要.md
-- wiki/decisions/2026-07-15-设备检测版本升级与战役3尾部出清共识.md
-- sources/raw/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md
-- sources/raw/J-2ee64764d3fa5e68577e46bd__741085f3fc7a7cb4.0a92559cf98e.md
-- sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md
-- sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_正文快照.md
-- wiki/sources/Mel-TPCAP经营数据与口径-2026年8月.md
-- wiki/projects/Center模式.md
-- wiki/sources/TutorOS设计宪法全文.md
-- wiki/骨架/TutorOS经营域-D09-履约恢复与问题治理.md
-- wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md
-- wiki/骨架/TutorOS经营域-D11-教师体验与公平治理.md
-- wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md
-- wiki/projects/电脑租赁模式.md
-- wiki/concepts/一套标准两个接口.md
-- wiki/queries/2026-08-21-2027外教侧持续交付系统-战略假说.md
-- wiki/decisions/2026-08-25-Center模式试验授权原则.md
+sources: ["wiki/decisions/2026-09-14-TutorOS知识骨架认领与共建分工.md", "wiki/decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md", "wiki/decisions/2026-05-29-设备标准锚定Cocos黄金.md", "wiki/decisions/2026-06-09-国内通过率塌层处置与设备3500延后.md", "sources/raw/2026-06-05_设备准入标准拍定会议纪要.md", "wiki/decisions/2026-07-15-设备检测版本升级与战役3尾部出清共识.md", "sources/raw/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md", "sources/raw/J-2ee64764d3fa5e68577e46bd__741085f3fc7a7cb4.0a92559cf98e.md", "sources/raw/J-e20148b20cd02b7836c868ab__30d9973fafbe5447.0a92559cf98e.md", "sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_正文快照.md", "wiki/sources/Mel-TPCAP经营数据与口径-2026年8月.md", "wiki/projects/Center模式.md", "wiki/sources/TutorOS设计宪法全文.md", "wiki/骨架/TutorOS经营域-D09-履约恢复与问题治理.md", "wiki/骨架/TutorOS经营域-D10-教师成长与教学支持.md", "wiki/骨架/TutorOS经营域-D11-教师体验与公平治理.md", "wiki/骨架/TutorOS经营域-D13-全成本与可持续经营.md", "wiki/projects/电脑租赁模式.md", "wiki/concepts/一套标准两个接口.md", "wiki/queries/2026-08-21-2027外教侧持续交付系统-战略假说.md", "wiki/decisions/2026-08-25-Center模式试验授权原则.md", "wiki/decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md", "wiki/decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md"]
 ---
 
 # D05｜授课条件与模式治理
@@ -97,6 +76,10 @@ sources:
 | <a id="d05-d03"></a>**中心分级 · D05-D03** | 先分级，再讨论**新学员**前几节课优先分配。[E03][] | 评分口径、运行与调流量授权仍分别核对。 |
 | <a id="d05-d04"></a>**设备标准 · D05-D04** | 3500 唯一标准、7 月 1 日全量上线已获确认。[E04][] | 检测功能和具体课堂负载另验。 |
 | <a id="d05-u01"></a>**效果 · D05-U01** | 有走访、历史报表与机制线索。[E08][] [E11][] | 尚不足以证明某模式普遍更好或分级已有效。 |
+
+**后继证据：** 9 月 17 日确认稿记录，白名单 Device Check 有 3370／2589 分机器被判通过、通过信号不可复算，灰度因人工兜底窗口而推迟；这说明“3500 标准已定”与“系统通过可信”必须分开。当前修复与灰度运行仍须回执。[设备检测判定记录](../decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md)
+
+9 月 24 日确认稿把 Center 列为 Q4 重点并提出治理缺口及线上／线下分开倾向；这是有时点的排序判断，不改变两模式的平行架构，也不批准新预算、组织或流量。[Q4 排序记录](../decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md)
 
 未取得执行回执表示本轮不能确认完成，不反推未执行。租约、资产与组织安排见[项目和决策入口](#boundaries)。
 

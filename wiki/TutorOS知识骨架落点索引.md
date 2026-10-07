@@ -3,7 +3,7 @@ projection: public
 type: overview
 title: Tutor OS 知识骨架落点索引
 review: 记录
-updated: 2026-09-24
+updated: 2026-10-07
 ---
 
 # TOC 只读查询入口
@@ -20,7 +20,7 @@ updated: 2026-09-24
 - 直通车的转化率能说明什么：[直通车项目](projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) · [A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)
 - 成熟老师积分哪些已确认：[成熟老师升降级积分方案](projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) · [A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)
 - 整体价值与关系：[TutorOS知识总图](%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) · [A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)
-- Polly 竞品现在什么状态、盯什么：[TutorOS竞品情报-Polly](%E9%AA%A8%E6%9E%B6/TutorOS%E7%AB%9E%E5%93%81%E6%83%85%E6%8A%A5-Polly.md) · [A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuv0w6PG38A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLaZwxMp8Ke0xjE3)（2026-09-21 立项并经 Leon 人审）
+- Polly 留存情报到哪一期、今天该怎样核证：[TutorOS竞品情报-Polly](%E9%AA%A8%E6%9E%B6/TutorOS%E7%AB%9E%E5%93%81%E6%83%85%E6%8A%A5-Polly.md) · [A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9Yuv0w6PG38A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLaZwxMp8Ke0xjE3)（本页最后留存2026-08-29监测；今日变化须回源，2026-10-07维护不冒充新监测）
 - 招聘/产能数据去哪查、按什么口径：[TutorOS数据资产-外教域](%E9%AA%A8%E6%9E%B6/TutorOS%E6%95%B0%E6%8D%AE%E8%B5%84%E4%BA%A7-%E5%A4%96%E6%95%99%E5%9F%9F.md) · [A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzr67jNBWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eIN2KlQxbVMGjLRb3)（2026-09-21 立项并经 Leon 人审；判断仍走各 D 域页）
 
 ## 按经营问题进入
