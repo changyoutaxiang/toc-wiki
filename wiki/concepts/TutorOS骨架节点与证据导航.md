@@ -101,7 +101,7 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 
 ## N2
 
-**近期接续：** 新师形成供给须并读[9/22 TIDE 收窄](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md)与[9/24 新师训练营交接](../projects/新师训战营.md)的日期、范围和责任交接；计划发布、交接和实际运行分别验收。
+**近期接续：** 新师形成供给须并读[9/22 TIDE 收窄](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md)与[9/24 新师训练营交接](../decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md)的日期、范围和责任交接；计划发布、交接和实际运行分别验收。
 
 第二层：[D02 教师获取与准入](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)） · [D03 新师成材与早期经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） · [D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） · [D05 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）
 

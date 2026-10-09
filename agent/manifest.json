@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:13:19",
+  "generated_at": "2026-10-09T15:19:07",
   "generator": "_ops/build_agent_index.py（从正本 frontmatter 与落点索引派生，勿手改）",
   "protocol": "AGENTS.md",
   "pages": 233,
@@ -29,7 +29,20 @@
     ],
     "fail": [],
     "warn": [],
-    "downstream_review_candidates": [],
+    "downstream_review_candidates": [
+      {
+        "source": "concepts/TutorOS骨架节点与证据导航.md",
+        "referencing_pages": [
+          "TutorOS本地知识导航.md",
+          "index.md",
+          "overview.md",
+          "projects/Center模式.md",
+          "projects/TutorOS建设.md",
+          "骨架/TutorOS知识总图.md"
+        ],
+        "state": "semantic_review_prompt"
+      }
+    ],
     "semantic_limit": "E11仅来源指纹变化提示；引文语义一致、审批真实性与业务结果仍人工核对。无frontmatter且不在当前出口清单的历史index/log保留。"
   },
   "projection_exceptions": [
