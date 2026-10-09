@@ -5,10 +5,10 @@ title: Tutor OS 骨架节点与证据导航
 tags: [TutorOS, 知识骨架, 证据导航, HBT, Center]
 related: [TutorOS知识总图, TutorOS第二层经营地图, TutorOS设计宪法全文, 2026-09-14-TutorOS知识骨架认领与共建分工, 2026-09-09战略会正式产出与TutorOS建设规划, TutorOS知识骨架落点索引, 好老师生命周期, Center模式, 新师训战营, Referral重启, 薪酬改革, 直通车项目]
 created: 2026-09-14
-updated: 2026-09-15
+updated: 2026-10-09
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md"]
 review: 已审
-review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
+review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决；2026-10-09 Leon 授权核查推荐修复，仅覆盖有源约束导航与切分维度的读取边界，不扩大既有认可、不新增业务规则或效果结论
 architecture_version: "1.1"
 ---
 
@@ -17,6 +17,29 @@ architecture_version: "1.1"
 云端返回总图：[【A】Tutor OS](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE?utm_scene=team_space) · [Teacher battle · Leon wiki](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno?utm_scene=team_space)
 
 返回[TutorOS知识总图](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%9F%A5%E8%AF%86%E6%80%BB%E5%9B%BE.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。本页由 Agent 维护，展开已认领骨架并连接证据；新增解释与页面归类属于导航工作，不逐页请求 Leon 签字，也不把导航推论升级为正式业务结论。引用页的历史、设计、已审与候审状态分别保留。
+
+## 近期约束与口径读法（2026-10-09）
+
+本页解释节点与来源路线，不是业务实时运行清单；更新时间表示导航接续，具体主张仍回来源日期、范围和审态。下表接续既有决定，保留原骨架 1.1 的平行模式和长期经营问题，不重排战略重点。
+
+| 阅读时先核的约束 | 可以确定的范围与限制 | 现行依据 |
+|---|---|---|
+| 好课定义 P0 | 9/16 指定好课定义为相关建设的唯一硬 P0；点名的教师数据汇总、晋升与小费、个性化任务部署后置。既有教学支持、课堂恢复和基本待遇不因此全部停摆。 | [D08 当前判断](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) · [A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1) |
+| 分开建设与中心评分 | 线上／线下分开建设；先建中心评分，再谈新生前几节课优先分配。地理对应语句有源转写歧义，组织迁移与评分运行另验。 | [9/16 决定与歧义边界](../decisions/2026-09-16-%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%E5%88%86%E5%BC%80%E5%BB%BA%E4%B8%8E%E4%B8%AD%E5%BF%83%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%85%B3%E9%97%AD%E8%BD%ACCO%E5%88%86%E7%BA%A7.md) · [A](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq9r4AEXWxEKBD6p) · [Leon](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqmObQo8A7depqY) |
+| 新师 TIDE | 现行 100 分毕业、200 分及以上金牌；9/22 收窄与 9/24 交接沿各自来源及范围读。计划发布、责任交接和试点实际运行分别核验。 | [D03 当前判断与 DELTA](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) · [A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4) |
+| 中心、设备与退出 | 3500 标准已确认不等系统检测可信；Sabu 与 Cebu 分开记账；Center Q4 排序不批准预算、组织或流量。 | [D05 模式与后继证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) · [A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm) |
+| 运行、效果与审态 | 域页待审不否定其中有源正式决定；库内未取得运行回执不反推业务未发生。不同时间、分组与分母的数字先核口径，过程改善不自动等于客户结果改善。 | [读取协议](../Agent%E8%AF%BB%E5%8F%96%E5%8D%8F%E8%AE%AE.md) · [A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3zjMEK7VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDNE2LqkW3bzYmDO)；[D06 匹配与体验前流程](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D06-%E6%95%99%E5%B8%88%E4%BB%B7%E5%80%BC%E5%91%88%E7%8E%B0%E4%B8%8E%E5%8C%B9%E9%85%8D.md) · [A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3) |
+
+### 切分维度分别解释
+
+| 词组 | 它区分的对象 | 使用边界 |
+|---|---|---|
+| HBT／Center | 教师在居家或中心环境中的供给经营模式 | 两模式平行；教师工作场所不决定学生市场，也不表示课堂必须线下面授。 |
+| 国内／海外 | 学生市场及相关业务／统计范围 | 报表与供给规则须核具体市场，不从场所标签推市场归属。 |
+| 线上／线下 | 当前会议中的经营建设、组织切分讨论口径 | 原转写混用了地理词，严格定义与数据字段待澄清；不能直接当作国内／海外或 HBT／Center 的通用等式。 |
+| CBT／TBT／HBT | 来源中的教师分类及术语治理提议 | CBT/TBT 合称是待审提议；正式采用前核原定义、合同与费用、系统字段、统计分母及批准范围。 |
+
+术语治理提议见 [Center 模式：术语治理候选](../projects/Center%E6%A8%A1%E5%BC%8F.md) · [A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)；切分轴后继方向见 [9/22 切分轴记录](../decisions/2026-09-22-%E5%88%87%E5%88%86%E8%BD%B4%E4%BB%8E%E5%9B%BD%E5%86%85%E5%A4%96%E6%94%B9%E4%B8%BA%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B.md) · [Leon](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiEnxA0M4J9ekBD76)。后继趋势不自动替代已确认原则；来源有歧义时明确保留，不能仅按更新时间裁决。
 
 ## S0
 
