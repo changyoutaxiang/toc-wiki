@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T15:09:17",
+  "generated_at": "2026-10-09T15:13:19",
   "generator": "_ops/build_agent_index.py（从正本 frontmatter 与落点索引派生，勿手改）",
   "protocol": "AGENTS.md",
   "pages": 233,
@@ -29,6 +29,7 @@
     ],
     "fail": [],
     "warn": [],
+    "downstream_review_candidates": [],
     "semantic_limit": "E11仅来源指纹变化提示；引文语义一致、审批真实性与业务结果仍人工核对。无frontmatter且不在当前出口清单的历史index/log保留。"
   },
   "projection_exceptions": [
