@@ -5,10 +5,11 @@ title: TOC 域总览
 tags: [overview, toc]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, TutorOS知识骨架落点索引, 2026-09-14-TutorOS知识骨架认领与共建分工, 外教转介绍数据口径冲突与待核清单, Referral重启, 2026-08-14-高质量获客与转介绍-战略提醒, 外教触达原子小队, 外教触达口径与验收缺口, 外教质量提升战役, 2026-07-13-CEO下半年外教战役指示-双主帅H2总纲, Q2关键决策与判断, 好老师生命周期, 好老师统一定义的取舍、临时使用与激励边界-待验证问题卡, 老师质量提升飞轮, X-Y-Z三轴经营模型, 会议纪要索引, 坏课KPI设计稿, 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标, 2026-09-07-TOC个人Wiki镜像共享与坑位检查, TutorOS首期运行契约与2＋2验收缺口]
 created: 2026-08-30
-updated: 2026-10-09
+updated: "2026-10-09"
 sources: ["外教战役/战役总览.md", "外教战役/00_工作台.md", "外教战役/Meeting/J-a78b9945c0a79e86f3c04d74__dbf6a6fb2bea.md", "外教战役/J-14eb9db3c308978b72bbb260__b79b5176a3643822.26b513755ca8__2026-09-03_宿务Center走访洞察-原始记录与融合判定.md", "外教战役/J-871b96312924fea0a2a8fe17__bdd0787cff2a657d.d09e899205d1__菲律宾团队在 TutorOS 时代的主攻价值点.md", "外教战役/Meeting/J-1b0f0aaf0cce24916e65424e__62b353ac9ab9a5e6.885b710c2b05__dws-听记-teacher-growth-system-including-TIDE-2026-09-04.md", "common-feed/J-ffe0292293c20cd84369f608__58475e9928597051.c5141293f4a4.json", "common-feed/J-0679a9279798682abc0ef8fe__ae91639134284436.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__ae6ca000b8f00dd6.498e8ea95ae6.md", "common-feed/J-0679a9279798682abc0ef8fe__91d99bd723d10193.498e8ea95ae6.md", "common-feed/J-5efc8ede790e9c335c844728__6e0f5f998db14dc4.f9c98d4ea453.jpg", "common-feed/J-a9acefbd7062263a3e56abe0__b9d9af954f32ba4e.f9c98d4ea453.jpg", "common-feed/J-2935db54b1f71762ba634d10__bec339c717d4c075.0353d5ee6e3e.json", "common-feed/J-4a77fca38e7e1f3ca7454d6f__187df81045c0ed59.c99de60e7e2e.json", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html"]
 review: 记录
 review_scope: 2026-10-09 Leon 授权核查推荐修复，仅覆盖入口约束提示与 FT-DEC-013 已补证状态接续；历史记录保留原时点与审态，不确认运行或效果
+maintenance_scope: "2026-10-09 第二轮：仅纠正读法、范围与导航；不升级原审态，不确认业务运行或效果"
 ---
 # ── 联邦房卡：描述的是「云端房间」的覆盖范围，不是本地全库 ──
 
@@ -114,6 +115,8 @@ ingress_revisions: ["J-14eb9db3c308978b72bbb260@b79b5176a3643822.26b513755ca8", 
 - [外教质量提升战役](projects/%E5%A4%96%E6%95%99%E8%B4%A8%E9%87%8F%E6%8F%90%E5%8D%87%E6%88%98%E5%BD%B9.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZRYEO81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7wXRbJgk9rpMq)）（截至 2026-07-13，2026-08-18 降级）· [外教战役2026H1复盘骨架-源摘要](sources/%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B92026H1%E5%A4%8D%E7%9B%98%E9%AA%A8%E6%9E%B6-%E6%BA%90%E6%91%98%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQKZqXGz81waOeDk) · [Leon](https://alidocs.dingtalk.com/i/nodes/P0MALyR8kl4DxXd2TDqRj4QbW3bzYmDO)）
 
 ## 外部正本待同步
+
+**旧入口的公开阅读路线：** 从 `sources/raw/2026-08-11-外教战役客户价值全景与原子小队任务级授权.md` 或历史 `sources/外教战役/` 同名指针进入时，改读 [D14 E02 授权边界摘要](queries/D14-认知依据与演化.md#e02) · [A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6G3693yWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLnBgvzm8xLq0Ee4)。原料指针保留原字节；完整原卡仍按本地资料范围，不随导航接续放行。
 
 - **资产卡发号制（决策类正本）**：外教战役源体系的目录政策（README 所述 2026-06-11 冻结令）规定：**新增决策/风险/系统类正本**走「系统资产卡台账」（FT-DEC / FT-RISK / FT-STD / FT-SOP 发号制）。会议纪要、设计稿、方案类素材不受此限，7、8 月素材已正常入库。
 - **FT-DEC-013 外教战役客户价值全景**：旧源入口 `2026-08-11-外教战役客户价值全景与原子小队任务级授权.md` 仍为 moved-pointer；本地已补入完整资产卡，并在 [D14 依据 E02](queries/D14-%E8%AE%A4%E7%9F%A5%E4%BE%9D%E6%8D%AE%E4%B8%8E%E6%BC%94%E5%8C%96.md#e02) · [A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6G3693yWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLnBgvzm8xLq0Ee4) 全文引用。完整原卡在 [FT-DEC-013 本地补证](../sources/supplement/FT-DEC-013_外教战役客户价值全景与原子小队任务级授权.md)（本地资料，钉钉／GitHub未提供）。公开出口可读 E02 的授权边界摘要；六条价值线不等六支已立项小队，任务级权力不转移职能权责。不能再由旧入口空壳推断本地缺少决定依据。

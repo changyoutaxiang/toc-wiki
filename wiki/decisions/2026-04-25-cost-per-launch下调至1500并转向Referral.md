@@ -13,6 +13,9 @@ decided_by: 公司（Leon 与 Jen 执行对齐）
 status: 生效
 supersedes: [2026-04-15-Q2战役总纲与三标收敛]
 superseded_by: []
+projection: "public"
+projection_updated: "2026-10-09"
+source_permission: "既有投影范围登记：本页在现行出口清单、两钉钉节点登记及2026-10-09首轮三端验收范围内；Leon本轮同意推荐，补齐登记；不新增公开范围，原始来源与本地依赖不随页面自动发布"
 ---
 
 # 2026-04-25 cost per launch 下调至 1500 并转向 Referral

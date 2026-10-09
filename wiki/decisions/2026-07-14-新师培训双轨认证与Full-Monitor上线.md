@@ -12,6 +12,9 @@ decided_by: 会议（王东主持；袁慧茹 Katherine、窦欣彤、翟雨佳 
 status: 生效
 supersedes: []
 superseded_by: []
+projection: "public"
+projection_updated: "2026-10-09"
+source_permission: "既有投影范围登记：本页在现行出口清单、两钉钉节点登记及2026-10-09首轮三端验收范围内；Leon本轮同意推荐，补齐登记；不新增公开范围，原始来源与本地依赖不随页面自动发布"
 ---
 
 # 新师培训双轨认证与 Full Monitor 考评上线（book time 新版细节）

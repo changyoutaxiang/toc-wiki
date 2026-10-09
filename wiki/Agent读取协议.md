@@ -3,7 +3,7 @@ projection: public
 type: overview
 title: Agent 读取协议
 review: 记录
-updated: 2026-09-24
+updated: 2026-10-09
 ---
 
 # TOC LLM Wiki · Agent 读取协议
@@ -47,3 +47,6 @@ updated: 2026-09-24
 
 - GitHub 出口发布前运行一致性 lint：断链、未标注本地依赖、假「未提供」标注、supersedes 双向一致、必填 frontmatter、页级审态矛盾（棘轮）、frontmatter YAML 可解析性（E7）。
 - lint 报告存正本库 `_ops/export-lint-report.json`，出口不携带；有 FAIL 即阻止发布。
+- 当前出口页必须显式登记 `projection: public`（E9）；旧地理等号只允许在 9/16 正本的歧义说明节保留历史（E10）。已人工核对的下游引文登记来源指纹，来源变化即提示重新核对（E11）；指纹未变不证明所有语义都正确。
+- `updated` 沿正本原有日期理解，本轮正文改写登记当天；`projection_updated` 单独记录发布范围字段与投影元数据维护日期（E12）。授权日仍在 `source_permission` 中，不用出口提交日倒推历史正文修改日。
+- 机器索引 `self_check_rules` 同步报告上述确定性检查。双任命新增本地内容继续暂缓，旧出口缺字段作为明确例外登记；例外不是新公开授权。骨架候选、审态升级、业务回执与语义一致性仍分别按来源和人审核验。

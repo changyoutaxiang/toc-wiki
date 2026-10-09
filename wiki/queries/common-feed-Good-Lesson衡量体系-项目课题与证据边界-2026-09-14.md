@@ -15,6 +15,7 @@ projection: public
 status: unresolved
 next_evidence: 范围内可读的战略会 Good Lesson 原文；有课次ID、任务版本和前后课链路的普通课、异常课和无反馈课样本；教育专家标注协议及一致性、AI与人工误判样本、学生及家长反馈与后续学习验证；使用真实课堂数据或试验的明确授权。
 source_permission: Leon 2026-09-26 明确授权本页可投影至既有两个钉钉知识库和公开 GitHub；原始来源文件不随本页自动发布
+projection_updated: "2026-10-09"
 ---
 # Good Lesson 衡量体系：项目课题与证据边界（2026-09-14）
 

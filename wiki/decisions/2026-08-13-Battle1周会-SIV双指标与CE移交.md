@@ -13,6 +13,9 @@ decided_by: 会议（王东、Jovic 主讲）
 status: 生效
 supersedes: []
 superseded_by: []
+projection: "public"
+projection_updated: "2026-10-09"
+source_permission: "既有投影范围登记：本页在现行出口清单、两钉钉节点登记及2026-10-09首轮三端验收范围内；Leon本轮同意推荐，补齐登记；不新增公开范围，原始来源与本地依赖不随页面自动发布"
 ---
 
 # Battle1 周会拍板：SIV 双前置指标与 CE 团队移交

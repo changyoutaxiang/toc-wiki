@@ -5,11 +5,12 @@ title: Tutor OS 骨架节点与证据导航
 tags: [TutorOS, 知识骨架, 证据导航, HBT, Center]
 related: [TutorOS知识总图, TutorOS第二层经营地图, TutorOS设计宪法全文, 2026-09-14-TutorOS知识骨架认领与共建分工, 2026-09-09战略会正式产出与TutorOS建设规划, TutorOS知识骨架落点索引, 好老师生命周期, Center模式, 新师训战营, Referral重启, 薪酬改革, 直通车项目]
 created: 2026-09-14
-updated: 2026-10-09
+updated: "2026-10-09"
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md"]
 review: 已审
 review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决；2026-10-09 Leon 授权核查推荐修复，仅覆盖有源约束导航与切分维度的读取边界，不扩大既有认可、不新增业务规则或效果结论
 architecture_version: "1.1"
+maintenance_scope: "2026-10-09 第二轮：仅纠正读法、范围与导航；不升级原审态，不确认业务运行或效果"
 ---
 
 # Tutor OS 骨架节点与证据导航
@@ -53,6 +54,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 
 ## M1
 
+**近期接续：** 线上／线下的团队建设口径不能等同于居家／中心模式或国内／海外市场；沿[9/16 决定与歧义边界](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md#证据歧义与适用边界2026-10-09-修复)分别解释，不据此认定组织迁移已发生。
+
 **Home-based Teacher：经营当前主流的居家教师供给。** 准入与招募 → 训练和成长 → 可用时段与师生适配 → 真实交付与远程支持 → 收入、留存与后续成长，是一条完整经营链。
 
 平台直接联系、设备网络保障、AI 与远程训练、适当的导师支持都应接到真实课堂。导师与伙伴网络是可探索的组织支持方式，不能在导航时将具体职位、收入或机制写成现行规则。
@@ -63,6 +66,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 - 反例检查：给居家教师增加培训或沟通次数，若没有改善后续课堂、实际收入或支持体验，不能证明主流供给已被改善。
 
 ## M2
+
+**近期接续：** [9/16 决定](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md)要求先建中心评分再谈新生前几节课优先分配；[9/17 Cebu 后继](../decisions/2026-09-17-Cebu中心定案年底关闭方向已定.md)与 Sabu 分开记账；[9/24 Center Q4 记录](../decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md)只是排序判断与组织倾向，未批准预算或证明效果。
 
 **Center-based Teacher：与 HBT 同层的中心供给模式。** 它已有供给基础，当前需要加强 owner、教学负责人、训练、文化、现场管理、设备环境及可复制经营。
 
@@ -84,6 +89,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 
 ## N1
 
+**近期接续：** [9/16 好课定义 P0 决定](../decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md)限定相关建设顺序；不是所有既有教学支持、恢复与基本待遇都停摆。承诺仍须与实际逐课证据对应。
+
 第二层：[D01 学习需要与交付承诺](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D01-%E5%AD%A6%E4%B9%A0%E9%9C%80%E8%A6%81%E4%B8%8E%E4%BA%A4%E4%BB%98%E6%89%BF%E8%AF%BA.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvmqkQYR8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxl0ryJlemrZQ3)）
 
 **学习需要与承诺。** 从学生任务、课程、市场与时段的需要出发，组织能兑现的教师供给，区分需求、预约与真实承诺。
@@ -93,6 +100,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 - 容易误读：需求预测、预约数量不能替代合格教师在具体时段的实际可用性。
 
 ## N2
+
+**近期接续：** 新师形成供给须并读[9/22 TIDE 收窄](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md)与[9/24 新师训练营交接](../projects/新师训战营.md)的日期、范围和责任交接；计划发布、交接和实际运行分别验收。
 
 第二层：[D02 教师获取与准入](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D02-%E6%95%99%E5%B8%88%E8%8E%B7%E5%8F%96%E4%B8%8E%E5%87%86%E5%85%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)） · [D03 新师成材与早期经营](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） · [D04 产能与供需配置](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D04-%E4%BA%A7%E8%83%BD%E4%B8%8E%E4%BE%9B%E9%9C%80%E9%85%8D%E7%BD%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） · [D05 授课条件与模式治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D05-%E6%8E%88%E8%AF%BE%E6%9D%A1%E4%BB%B6%E4%B8%8E%E6%A8%A1%E5%BC%8F%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）
 
@@ -113,6 +122,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 - 容易误读：固定同一老师不保证教学连续性；换师也应有跨课承接。推荐信号不自动成为资格、排序或薪酬规则。
 
 ## N4
+
+**近期接续：** [9/16 好课定义 P0](../decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md)与[9/18 双周会 ELC 配置](../decisions/2026-09-18-外教质量提升双周会-行动定盘与供给侧经营系统.md)分别读批准范围；10/10 第一版任务登记不等于已交付，行动表非终版授权。
 
 第二层：[D08 好课判断与逐课证据](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D08-%E5%A5%BD%E8%AF%BE%E5%88%A4%E6%96%AD%E4%B8%8E%E9%80%90%E8%AF%BE%E8%AF%81%E6%8D%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） · [D09 履约恢复与问题治理](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D09-%E5%B1%A5%E7%BA%A6%E6%81%A2%E5%A4%8D%E4%B8%8E%E9%97%AE%E9%A2%98%E6%B2%BB%E7%90%86.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)）
 
@@ -144,6 +155,8 @@ Learning 提供学习需要与跨课掌握；Tutor 组织真人供给和教师�
 
 ## N7
 
+**近期接续：** [9/18 新标准必须有经营指标反证](../decisions/2026-09-18-新标准必须有经营指标反证.md)要求方法接受经营结果检验；计划发布、工具可用和真正改善后续课堂分别核验。
+
 第二层：[D14 事实标准与协同执行](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D14-%E4%BA%8B%E5%AE%9E%E6%A0%87%E5%87%86%E4%B8%8E%E5%8D%8F%E5%90%8C%E6%89%A7%E8%A1%8C.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） · [D15 方法沉淀与系统进化](../%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D15-%E6%96%B9%E6%B3%95%E6%B2%89%E6%B7%80%E4%B8%8E%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvZppRAWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZB4AnW2LD0oRE)）
 
 **有效方法与系统能力。** 从真实案例提出方法假设，验证适用条件，观察实际采用与效果，再复用、修订或退役。
@@ -174,18 +187,18 @@ XYZ、三大战场和 4＋2＋3 是观察与协同视角，分别从[X-Y-Z三轴
 | 居家老师转介绍 | M1；N2、N6 | [Referral重启](../projects/Referral%E9%87%8D%E5%90%AF.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpl47Xl8Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr9eLbz8akx1Z5N)）；渠道可能覆盖两种模式，具体范围逐案确认 |
 | Center规模化 | M2；N2、N4、N5、N6 | [Center模式](../projects/Center%E6%A8%A1%E5%BC%8F.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcq4a6vaqJ9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9LakZYKWyMoPYe1)） |
 | TIDE | N2、N4、N5 | [新师训战营](../projects/%E6%96%B0%E5%B8%88%E8%AE%AD%E6%88%98%E8%90%A5.md) （[A](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR6edmn8BQEx5rG) · [Leon](https://alidocs.dingtalk.com/i/nodes/QPGYqjpJYr7qjAzGiKr6O7lq8akx1Z5N)） |
-| 成长衔接 | N2、N3、N5、N6 | [好老师生命周期](%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；正式产出 §4，宪法 §8、§10 |
+| 成长衔接 | N2、N3、N5、N6 | [好老师生命周期](%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；正式产出 §4，宪法 §8、§10；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
 | 鹰眼（全知） | N4、N7 | [外教触达原子小队](../projects/%E5%A4%96%E6%95%99%E8%A7%A6%E8%BE%BE%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP745qbOJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQlXyRr581waOeDk)）；正式产出 §4 |
 | 沟通阵地（全达） | N4、N5、N7 | [外教触达原子小队](../projects/%E5%A4%96%E6%95%99%E8%A7%A6%E8%BE%BE%E5%8E%9F%E5%AD%90%E5%B0%8F%E9%98%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP745qbOJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/ZQYprEoWongN5ZGdiQlXyRr581waOeDk)）；正式产出 §4，宪法 §4、§15 |
 | 薪资与升降级 | N5、N6 | [薪酬改革](../projects/%E8%96%AA%E9%85%AC%E6%94%B9%E9%9D%A9.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP74lgBmJ63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/gpG2NdyVX3n6ME2dS7ge4dmNWMwvDqPk)）、[成熟老师升降级积分方案](../projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) （[A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)） |
-| 培训与持续成长 | N5、N7 | [好老师生命周期](%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；正式产出 §4，宪法 §8、§16 |
+| 培训与持续成长 | N5、N7 | [好老师生命周期](%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；正式产出 §4，宪法 §8、§16；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
 | 老师全员画像 | N2、N3、N5 | [好老师生命周期](%E5%A5%BD%E8%80%81%E5%B8%88%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IYa12ndzVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrnP2K4AVxAZB1Gv)）；正式产出 §4 |
-| 师生匹配 | N1、N3、N4 | 正式产出 §4，宪法 §10；历史路径见[2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)） |
-| 老师包装外化 | N3 | 正式产出 §4，宪法 §7；历史路径见[2026-07-15-外教产品化-Top200光晕效应](../decisions/2026-07-15-%E5%A4%96%E6%95%99%E4%BA%A7%E5%93%81%E5%8C%96-Top200%E5%85%89%E6%99%95%E6%95%88%E5%BA%94.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dPaM48dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7p5lXJgk9rpMq)） |
+| 师生匹配 | N1、N3、N4 | 正式产出 §4，宪法 §10；历史路径见[2026-05-26-师生匹配双供应商竞赛与统一入口](../decisions/2026-05-26-%E5%B8%88%E7%94%9F%E5%8C%B9%E9%85%8D%E5%8F%8C%E4%BE%9B%E5%BA%94%E5%95%86%E7%AB%9E%E8%B5%9B%E4%B8%8E%E7%BB%9F%E4%B8%80%E5%85%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazl1kOaJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6flDPzdP7WzN67Mw4)）；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
+| 老师包装外化 | N3 | 正式产出 §4，宪法 §7；历史路径见[2026-07-15-外教产品化-Top200光晕效应](../decisions/2026-07-15-%E5%A4%96%E6%95%99%E4%BA%A7%E5%93%81%E5%8C%96-Top200%E5%85%89%E6%99%95%E6%95%88%E5%BA%94.md) （[A](https://alidocs.dingtalk.com/i/nodes/X6GRezwJlAvgOpGkS05dPaM48dqbropQ) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpX7p5lXJgk9rpMq)）；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
 | 直通车 | N1、N3、N4 | [直通车项目](../projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) （[A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)） |
-| 数据治理与本体 | S0、N7；支撑各节点 | 正式产出 §4–5，宪法 §3、§12、§14 |
-| 标准建设 | F1、N4、N5、N7 | 正式产出 §4，宪法 §5、§15；历史方法见[一套标准两个接口](%E4%B8%80%E5%A5%97%E6%A0%87%E5%87%86%E4%B8%A4%E4%B8%AA%E6%8E%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm)） |
-| 全局供需计算 | N1、N2、N3 | 正式产出 §4，宪法 §9；相关开口见[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)） |
+| 数据治理与本体 | S0、N7；支撑各节点 | 正式产出 §4–5，宪法 §3、§12、§14；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
+| 标准建设 | F1、N4、N5、N7 | 正式产出 §4，宪法 §5、§15；历史方法见[一套标准两个接口](%E4%B8%80%E5%A5%97%E6%A0%87%E5%87%86%E4%B8%A4%E4%B8%AA%E6%8E%A5%E5%8F%A3.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5yzPgaJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiG50mmjyVkyEqBQm)）；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
+| 全局供需计算 | N1、N2、N3 | 正式产出 §4，宪法 §9；相关开口见[新老师上岗后供给流水线与预测口径-待验证问题卡](../queries/%E6%96%B0%E8%80%81%E5%B8%88%E4%B8%8A%E5%B2%97%E5%90%8E%E4%BE%9B%E7%BB%99%E6%B5%81%E6%B0%B4%E7%BA%BF%E4%B8%8E%E9%A2%84%E6%B5%8B%E5%8F%A3%E5%BE%84-%E5%BE%85%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98%E5%8D%A1.md) （[A](https://alidocs.dingtalk.com/i/nodes/14dA3GK8gjBKbMrDiE5Mew1eJ9ekBD76) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjeeQQd85daZ90D)）；**无独立承载页**，由本行相关页／正式产出原文承载，不据此认定未建设或未运行 |
 
 每个通用模块都应检查 HBT 与 Center 的适用范围。标题未注明模式的旧页只表示尚未限定，不自动成为已验证的跨模式规则。
 

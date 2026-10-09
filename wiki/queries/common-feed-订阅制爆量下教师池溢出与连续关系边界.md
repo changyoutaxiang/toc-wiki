@@ -16,6 +16,7 @@ status: unresolved
 next_evidence: 同一市场与高峰窗口的渠道级 active→unblocked→eligible→shown→bookable→committed→delivered
   漏斗；土耳其专属标签在体验课/新生付费课/老生付费课的生产配置和修复前后读回；按平日/周末/时段区分的溢出阈值方案及回算；订阅续费前后的预占、宽限、释放和客户告知规则；溢出课的渠道标签与财务归属正式口径及对账回执。
 source_permission: Leon 2026-09-26 明确授权本页可投影至既有两个钉钉知识库和公开 GitHub；原始来源文件不随本页自动发布
+projection_updated: "2026-10-09"
 ---
 # 订阅制爆量下教师池溢出与连续关系边界
 

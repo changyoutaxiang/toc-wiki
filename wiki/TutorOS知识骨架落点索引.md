@@ -3,7 +3,8 @@ projection: public
 type: overview
 title: Tutor OS 知识骨架落点索引
 review: 记录
-updated: 2026-10-07
+updated: 2026-10-09
+metadata_updated: 2026-10-09
 ---
 
 # TOC 只读查询入口

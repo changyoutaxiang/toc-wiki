@@ -8,6 +8,9 @@ updated: 2026-09-15
 sources: ["supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/01-51Talk-基本法-15周年发布版.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/02-从十五年复盘到第四个五年-主要矛盾与战略铁三角-V1.0-Full-Text.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/03-第四个五年战略方向-AI-first-Hybrid-Personalized-Learning-领导者-V1.0-Full-Text.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/04-51Talk-OS-公司级操作系统定义-V1.0-Full-Text.md", "supplement/51Talk-Company-Governance-Context-Pack-v1.0/fulltext/05-蜂巢系统-目标定位与核心架构原则-V1.0-Full-Text.md"]
 review: 记录
 review_scope: 五篇为 CEO（Jack/黄佳佳）2026-09-15 确认的权威全文；本页为导航与摘要，不替代原文，摘要冲突时以原文为准
+projection: "public"
+projection_updated: "2026-10-09"
+source_permission: "既有投影范围登记：本页在现行出口清单、两钉钉节点登记及2026-10-09首轮三端验收范围内；Leon本轮同意推荐，补齐登记；不新增公开范围，原始来源与本地依赖不随页面自动发布"
 ---
 
 # 公司治理 Context Pack v1.0（源摘要）

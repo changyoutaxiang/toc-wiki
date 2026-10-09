@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T12:14:29",
+  "generated_at": "2026-10-09T15:09:17",
   "generator": "_ops/build_agent_index.py（从正本 frontmatter 与落点索引派生，勿手改）",
   "protocol": "AGENTS.md",
   "pages": 233,
@@ -14,7 +14,28 @@
     "active_hypotheses": "域页 BELIEFS 稳定 H 编号与标题；表示待检验，不等于正式决定",
     "supersedes/superseded_by": "新旧链，双向一致（lint 保证）；被 supersede 页只作演化解释",
     "source_availability": "exported=出口内可读；local_only=本地限定降置信度；internal_ref=库内页引用；non_file=跨脑/对话指针；unresolved=登记待核",
-    "content_hash": "导出字节 sha256"
+    "content_hash": "导出字节 sha256",
+    "updated": "正本页原有更新时间；本轮正文编辑登记当日，不以投影提交时间倒推历史正文修改日",
+    "projection_updated": "发布范围字段或既有出口投影元数据的维护日期；不等于原授权日或正文修改日",
+    "metadata_updated": "派生导航或一般元数据的维护日期，不代表业务状态变更"
   },
-  "self_check": "PASS"
+  "self_check": "PASS",
+  "self_check_rules": {
+    "rules": [
+      "E9-explicit-projection",
+      "E10-geography-scope",
+      "E11-tracked-reference-drift",
+      "E12-content-vs-projection-date"
+    ],
+    "fail": [],
+    "warn": [],
+    "semantic_limit": "E11仅来源指纹变化提示；引文语义一致、审批真实性与业务结果仍人工核对。无frontmatter且不在当前出口清单的历史index/log保留。"
+  },
+  "projection_exceptions": [
+    {
+      "page": "wiki/concepts/双任命长期判断-AI变革部与TOC.md",
+      "state": "held_existing_export",
+      "reason": "旧出口projection缺省，保留既有字节；新增本地内容继续暂缓，不视为新公开授权"
+    }
+  ]
 }
