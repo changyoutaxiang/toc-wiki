@@ -5,10 +5,10 @@ title: TutorOS经营域-D07-师生关系与跨师承接
 tags: [TutorOS, 第二层经营域, 师生关系, 固定老师, 跨师承接, 匹配]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-08-31-外教质量提升双周会-坏课率Q3Q4与固定老师前置指标, 2026-05-26-师生匹配双供应商竞赛与统一入口, 直通车项目]
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-10-11
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/Meeting/20260831 外教质量提升双周会会议纪要.md", "外教战役/Meeting/2026-05-26-师生匹配产研周会.md", "外教战役/直通车项目.md"]
 review: 待审
-review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用"
+review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E10。不改 H/Q，固定率仍不是考核线，不批准固定老师承诺或代课规则调整，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D07
 knowledge_revision: "D07-2026-09-18.v2.1.1"
@@ -129,6 +129,7 @@ based_on_revision: "D07-2026-09-15.2"
 | 9 月 8 日补充、9 月设计 [E05][] [E01][] | 从固定单一老师进一步看学习、教学与关系三层连续性；业务已有多老师/固定安排的事实，设计给出跨师承接方向 | Leon 的业务补充与架构师建议分开；“可能是最大 game changer”是价值判断，非效果证明 |
 | 9 月 15 日事件、9 月 16 日确认 [E06][] | 保护课堂的代课规则也会破坏已选关系，双方知道规则已生效成为明确设计要求 | 立即优化已定；源窗口没有修复结论，普通客户影响范围仍需核查 |
 | 9 月 18 日 [E07][] [E08][] [E09][] | 撞审修订：补公司级具名责任人开放边界、8 月 31 日续费率听记口径与幸存者偏差自警、65% 基线与“90%”来历及系统工程假设框架 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 [E10][] | 跨师承接被放进同一家庭状态与承诺的连续交付：发送不等于接住，接收方确认、下一动作与完成回执要连续；换老师或换服务人员时，家庭不应再从头讲一遍；体验阶段建立的信任要在后续可兑现的关系中接住。原文研讨建议提出不作系统无法承接的固定老师承诺，与本域“合适、可约、能兑现”条件同向 | 方向认领不等于原文研讨建议（含交接字段清单与各节点检查项）成为政策，也不证明本域固定关系或跨师承接的效果已经成立、执行已发生；固定率仍不是考核线，公司层面具名责任人的开放边界不变 |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -142,6 +143,7 @@ based_on_revision: "D07-2026-09-15.2"
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 提供课堂中真正学到什么的证据；复约和收藏不替代逐课学习判断 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 处理失约和换师恢复，保留原承诺与真实接受情况 |
 | Learning 与客户服务侧 | 学习状态沿公司分工保留统一正本；客户解释、接受与恢复不能由 Tutor 单方面宣告完成 |
+| 公司经营范式（宪法级，[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）） | 本域负责教师侧的关系与学习承接，把课堂证据放进同一份家庭上下文；换服务人员时的接续归客户服务侧。范式没有自动批准固定老师承诺、固定率考核或代课规则调整；“以客户价值为中心”不能用来把孩子锁在不合适的关系里，也不能把换师后上完课写成原承诺已兑现 [E10][] |
 
 **本页不设固定率新考核、不修改代课规则，也不把设计建议变成运行事实。** 正式决定、原始材料、历史纠错和完整相关页见[认知依据与演化](../queries/D07-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjaKvGBp8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq9Xevd7WxEKBD6p)）。
 
@@ -156,3 +158,4 @@ based_on_revision: "D07-2026-09-15.2"
 [E07]: ../queries/D07-认知依据与演化.md#e07
 [E08]: ../queries/D07-认知依据与演化.md#e08
 [E09]: ../queries/D07-认知依据与演化.md#e09
+[E10]: ../queries/D07-认知依据与演化.md#e10

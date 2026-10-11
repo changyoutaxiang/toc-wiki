@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D02｜教师获取与准入
 tags: [TutorOS, 第二层经营域, 教师获取与准入, 认知骨架]
 related: [TutorOS第二层经营地图, D02-认知依据与演化, 2026-09-18-外教质量提升双周会-行动定盘与供给侧经营系统, 2026-09-22-Center招聘重构从gate问起]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 meaning_domain: D02
 architecture_version: "1.1"
 template_version: "2.0"
@@ -13,7 +13,7 @@ knowledge_revision: "D02-2026-09-23.v2.1.2.health-20261007"
 based_on_revision: "D02-2026-09-15.2"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审。D02-Q04 仅在 _ops/frontier-loop/approvals/2026-09-23-center-gate-D02.json 记录 Leon 对此具体问法的批准后才可落位；既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审。D02-Q04 仅在 _ops/frontier-loop/approvals/2026-09-23-center-gate-D02.json 记录 Leon 对此具体问法的批准后才可落位；既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E11。不改 H/Q，不新增招聘门槛或自动化授权，不提升整页审态。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D02-认知依据与演化.md"
@@ -166,6 +166,7 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 | 9 月 18 日 [E09][] | 撞审修订：交接端补外教侧需求X-Y-Z需求地图背景挂接（讨论稿性质、非拍板件；页面成功不等于候选完成） | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 9 月 18 日 [E10][] | 双周会正式版纪要把转介绍列为 teacher acquisition 最高优先级之一（Ika 牵头、原子小队、研究 Polly POC），投放退出后的补位从方向落为具名行动 | 纪要未经逐条人审；停投后量级补位无产出证据；KOC 机制仍未搞明白，行动表非终版授权 |
 | 9 月 22 日 [Center招聘重构从gate问起](../decisions/2026-09-22-Center招聘重构从gate问起.md) | 三个 CO 协作群均有 playground 介绍；截至 9 月 22 日 18:00，招聘 gate 提问仅在 Netspeak 与 Backyard 两群可核到，Ecore 窗口内只见协作介绍。Center 招聘重构先问清线下招聘该长什么样，不从线上流程推演；提问仍非已决方案 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；提问非已决方案，CO 侧尚无实质回复 |
+| 2026-10-10 公司经营范式宪法级认领 | 公司经营范式与本域“上岗不等于稳定授课”的判断一致，并补上客户侧终点：准入评级与培训的价值，最终要看目标家庭能否得到合适老师、课能否稳定发生。页面成功、功能上线或成立小队，都不等于获取与准入已能被普通团队持续运行；自动化可以默认承担流程复杂度，尚不可靠的环节保留人工兜底和改进计划，经真实验证再扩大。[E11][] | 方向认领不等于原文研讨建议成为政策，也不证明本域渠道、准入或交接效果已经发生；不新增招聘门槛、渠道预算、提成或撤除人工质检的授权，不以客户价值为由压低候选人公平与教师权益。 |
 
 <a id="已有决定与还没弄清的事"></a>
 <a id="资料与以前的讨论"></a>
@@ -182,6 +183,8 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 
 本页不新增渠道预算、招聘门槛、提成规则或移交授权。Referral的数字冲突、负责人承接和候选机制继续在项目与问题卡中保留。历史返聘、设备、SIV等决定全部保留入口，按各自时点和适用范围查询，不由本页合并成一套新准入制度。
 
+**公司经营范式的边界：** 按[宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供），准入方法最终要接受客户侧结果检验；这不等于用一时的客户偏好替代统一标准与校准，也不等于为补人数降低基础门槛。候选人得到清楚、公平的判断，与教师合理所得、申诉和转组的权利一样，是独立底线。[E11][]
+
 [证据登记与全部旧相关页](../queries/D02-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi67z056OJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4yGnbgWrMqPxX6)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 [E01]: ../queries/D02-认知依据与演化.md#e01
@@ -194,3 +197,4 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 [E08]: ../queries/D02-认知依据与演化.md#e08
 [E09]: ../queries/D02-认知依据与演化.md#e09
 [E10]: ../queries/D02-认知依据与演化.md#e10
+[E11]: ../queries/D02-认知依据与演化.md#e11

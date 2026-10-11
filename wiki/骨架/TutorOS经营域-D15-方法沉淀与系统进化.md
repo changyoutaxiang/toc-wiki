@@ -5,12 +5,12 @@ title: TutorOS经营域-D15-方法沉淀与系统进化
 tags: [TutorOS, 第二层经营域, 方法沉淀与系统进化]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/Meeting/2026-05-15-用四化方式打赢外教质量战役.md", "外教战役/Meeting/20260724 外教质量提升双周会会议纪要.md", "wiki/decisions/2026-09-24-FT培训平台获客户认可与合体推广待拍板.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
-review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E12。不证明现有方法已可复制，不写成知识库制度，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D15
 primary_node: N7
@@ -159,6 +159,7 @@ AI 化也有已记录的制衡线索：9 月 2 日周会口述，PSO 环节快�
 | 2026-09-16，AI 集训第一课（Leon 主讲，当日入库） | 知识库建库工艺定为骨架先行：一层总地图、二层门面牌，人类设计骨架、AI 出草案 | 骨架 V1、复用未验证；工艺确认不等于其他部门已采用。[E09][] |
 | 9 月 18 日 [E09][] [E10][] [E11][] | 撞审修订：补接 9-16 骨架先行与知识治理决定、挂接公司级四化与 Memory 约束、按口述标注补 PSO 切 AI 反例，并为 H01 预记降级触发线与反向信号 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 2026-09-24 [培训平台反馈](../decisions/2026-09-24-FT培训平台获客户认可与合体推广待拍板.md) | 增补客户主观认可及合体／推广的复用线索 | 不是教学效果证明；磨课未覆盖，国内外合体与付费课推广未拍板；不绕过好课 P0 与部署闸门 |
+| 2026-10-10 公司经营范式宪法级认领 [E12][] | 方法要被下一支普通团队在真实工作里接住，才算可复制；存档、调用、上线和案例本身都不算 | 方向认领不证明任何现有方法已经可复制，也不把研讨建议写成知识库制度 |
 
 本次整理把这些边界放在同一页，未增加新的学习效果、样本完成或发布权限。
 
@@ -174,6 +175,7 @@ AI 化也有已记录的制衡线索：9 月 2 日周会口述，PSO 环节快�
 | 日常执行 | 采用需要可用入口、责任和权限；这些不证明方法有效 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
 | 试验代价与权益 | 计入维护、复核、时间与风险，不把老师当无成本试验对象 | [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)）、[D11 教师体验与公平治理](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)） |
 | 正式晋升与部署 | 证据候选、方法入选和运行授权各自成立 | 数据、制度、发布和现行好课P0决定分别核对 |
+| 公司经营范式 | 本域回答方法如何被验证、复用和停用。范式要求用下一支团队的真实使用来检验，不用系统里“已经有了”代替。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） | 具体方法是否生效，仍回各域证据 |
 
 9 月 16 日好课标准先行，依赖它的晋升、小费和个性化任务部署后置；本页的方法学习不扩大这些权限。[E08][] 本域位置为 N7，联结 S0 与 F1。详细边界与完整旧目录见[认知依据与演化](../queries/D15-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4yGYGOWrMqPxX6#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjaKvYEP8GlDd3mE#evidence-index)）。
 
@@ -188,3 +190,4 @@ AI 化也有已记录的制衡线索：9 月 2 日周会口述，PSO 环节快�
 [E09]: ../queries/D15-认知依据与演化.md#e09
 [E10]: ../queries/D15-认知依据与演化.md#e10
 [E11]: ../queries/D15-认知依据与演化.md#e11
+[E12]: ../queries/D15-认知依据与演化.md#e12

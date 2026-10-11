@@ -5,10 +5,10 @@ title: Tutor OS 知识总图
 tags: [TutorOS, 知识骨架, 人机共建, HBT, Center, Every-Lesson-Counts]
 related: [TutorOS第二层经营地图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, TutorOS知识骨架落点索引, TutorOS知识骨架维护约定, TutorOS建设, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 sources: ["conversation:codex/01a09f0c-e576-78c1-bf6f-8aa60c3c5036", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "wiki/decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md"]
 review: 已审
-review_scope: "Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果；2026-09-24 本次认可仅覆盖：总图共建分工两处接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "Leon 已认领的第一层框架与两层参与建设方向；不传递到第二层新增综合、具体制度或效果；2026-09-24 本次认可仅覆盖：总图共建分工两处接续 9 月 23 日维护合同；不扩大整页认可、业务授权或效果结论；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果；2026-10-11 本次认可仅覆盖：总图增补公司经营范式的宪法级约束及教师目标不被三类结果替代；不扩大整页认可、不改两种模式平行、不批准组织或激励。2026-10-11 Leon 认可第 21 项：总图补近期约束表。不改两模式平行，不把方向或计划写成执行或效果，不扩大整页认可。"
 architecture_version: "1.1"
 ---
 
@@ -23,6 +23,8 @@ architecture_version: "1.1"
 把全球教师的潜力，持续转化为适合学生、能够兑现的好课；让学生获得学习价值，让教师获得成长与合理收益，让交付长期持续，并把验证有效的做法积累成组织能力。
 
 一节课是交付单元；教师能力、可用产能和师生关系需要跨课经营。Tutor OS 位于 51Talk OS 之内，与 Learning、Service、Growth 协同。（依据：[TutorOS设计宪法全文](../sources/TutorOS%E8%AE%BE%E8%AE%A1%E5%AE%AA%E6%B3%95%E5%85%A8%E6%96%87.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9Z7l0m1WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/1zknDm0WRapqKPMxIzR71nqQ8BQEx5rG)） §1–4。）公司治理层现行正本为[《51Talk 公司治理 Context Pack v1.0》（2026-09-15，CEO 确认五篇全文）](../sources/2026-09-15公司治理Context-Pack-v1.0-%E6%BA%90%E6%91%98%E8%A6%81.md) （[A](https://alidocs.dingtalk.com/i/nodes/7QG4Yx2JpLMrqaGdcqYkGXR2J9dEq3XD) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAyZ0pZYW2LD0oRE)），其中 GOV-03 §六给出 Tutor OS"全球真人供给与交付的重要支撑"定位原文；按 GOV-03/GOV-05，Learning 与 Tutor 方向已确认，Service、Growth 两域仍为构想。
+
+**公司经营范式是本骨架的宪法级约束（2026-10-10 Leon 认领）。** 公司以客户价值为中心、AI 驱动、系统化交付为战略方向，靠工作流重塑与组织方式重塑共同落地，分工原则是人掌舵、Agent 执行、系统学习。放到 Tutor OS：先问服务哪个家庭、处在哪个学习阶段、要完成什么，再决定教师供给、匹配、准备、课堂支持、履约恢复与跨课接续怎样进入一段完整交付；一件事做完，要同时看客户结果、经营结果和能否被下一支团队接住。教师的成长、合理所得与公平对待仍是本骨架的独立目标，不被这三类结果替代。这项认领承接上面的公司治理包，不新增任命、预算、价格或考核门槛，不自动批准教师评分、激励或权益变化，也不改变 HBT 与 Center 平行的架构；十五域的具体衔接见[第二层经营地图](TutorOS%E7%AC%AC%E4%BA%8C%E5%B1%82%E7%BB%8F%E8%90%A5%E5%9C%B0%E5%9B%BE.md#公司经营范式与十五域的衔接)。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk%E7%BB%8F%E8%90%A5%E8%8C%83%E5%BC%8F%E5%AE%AA%E6%B3%95%E7%BA%A7%E8%AE%A4%E9%A2%86.md)（本地资料，钉钉／GitHub未提供）。）
 
 ## 总体骨架
 
@@ -48,6 +50,17 @@ flowchart TB
 | F1 Every Lesson Counts | 每课兑现价值、留下证据，并成为后续课改善的起点 | [逐课原则与跨课积累](../concepts/TutorOS%E9%AA%A8%E6%9E%B6%E8%8A%82%E7%82%B9%E4%B8%8E%E8%AF%81%E6%8D%AE%E5%AF%BC%E8%88%AA.md#f1) （[A](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpbb7n1EJgk9rpMq) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRAE1bW2LD0oRE)） |
 
 **季度重点接续（2026-09-24）：** Center 被列为 Q4 重点，同时暴露治理缺口并提出线上／线下分开运营倾向；这是当时的资源排序判断，不改变 HBT 与 Center 的平行架构，也不代表中心效果、预算或组织安排已验收。参见 [D05 后继证据](TutorOS经营域-D05-授课条件与模式治理.md#now) 与 [Center Q4 记录](../decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md)。
+
+**近期约束接续（2026-10-09）：** 长期架构保持两模式平行；当前建设顺序、组织方向与季度排序分别沿下表来源读取，不把近期会议取代长期经营问题。
+
+| 约束 | 状态与范围 | 本轮读法 | 来源 |
+|---|---|---|---|
+| 好课定义 P0 | 生效：限原决定点名建设及顺序 | 相关建设以好课定义为硬 P0；点名后置不扩成全部支持停摆 | [2026-09-16-好课定义为唯一硬P0与委员会先行](../decisions/2026-09-16-好课定义为唯一硬P0与委员会先行.md) |
+| 中心评分与分开建设 | 生效：建设原则与评分先行；配套组织仍有未定项 | 先中心评分再谈新生前几节优先分配；地理括号不作稳定定义，运行另验 | [2026-09-16-线上线下分开建与中心实验室关闭转CO分级](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md) |
+| 组织切分后继 | 方向级共识 | 9/22提出线上／线下组织切分，仍须与Cindy对齐；不视作组织迁移完成 | [2026-09-22-切分轴从国内外改为线上线下](../decisions/2026-09-22-切分轴从国内外改为线上线下.md) |
+| TIDE收窄与交接 | 按各自来源的确认范围；运行另验 | 9/22收窄与9/24交接分别核日期和范围，计划、交接不替代试点运行 | [9/22收窄](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md) · [9/24交接](../decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md) |
+| 中心设备与退出 | 设备标准已确认；检测可信度与退出执行另验 | 3500标准不等检测可信；Sabu与Cebu分开，Cebu方向附条件 | [设备检测边界](../decisions/2026-09-17-设备检测通过判定不可信灰度推迟.md) · [Sabu](../decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md) · [Cebu](../decisions/2026-09-17-Cebu中心定案年底关闭方向已定.md) |
+| Center季度重点 | 排序判断与组织倾向 | Q4重点不改变模式平行架构，不批准预算、组织或流量，不确认收益 | [2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开](../decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md) |
 
 ## 七个共同经营问题
 

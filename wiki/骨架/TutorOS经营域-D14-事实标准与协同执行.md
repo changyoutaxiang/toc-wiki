@@ -5,12 +5,12 @@ title: TutorOS经营域-D14-事实标准与协同执行
 tags: [TutorOS, 第二层经营域, 事实标准与协同执行]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-10-11
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/TOC成立后_教师运营系统地图与责任清单_草稿_v0.3.md", "外教战役/Meeting/轻纪要-TOC数据治理-境内外数据可见解决方案-2026-08-04.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "sources/supplement/团队知识库-SRC03-Wilson编译层/数据资产口径对齐与假差异甄别补证.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
-review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决"
+review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E13。按第 1 种处理：记下客户任务组织行动的方向，本页不重画部门、不设立小队、不任命，不提升整页审态。2026-10-11 Leon 认可第 19 项：9 月 16 日一行改为 Jennifer 提出把 TS 拆分口径从国内／海外改为线上／线下。不新增组织定义，小队未定项保留，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D14
 primary_node: N7
@@ -158,9 +158,10 @@ evidence_register: "../queries/D14-认知依据与演化.md"
 | 2026-09-09，任务与触达讨论 | 从“发任务”补到老师实际执行，再看下一次同类课堂；区分当时 AC 单向弹窗与拟推进的双向支持 | 版本覆盖、入口、使用和后续改善分别待核；随口打卡换钱、关App下线不是新制度。[E09][] |
 | 2026-09-10 的有界 Wiki 问答 | 已有一次真实访问与问答，不能再说从未运行 | 不能推成稳定同步、权限版本安全或全员采用。[E08][] |
 | 事件09-15、确认09-16，代课误杀 | 规则发布检查须覆盖受影响的老师与家长，程序执行正确不能替代业务判断正确 | 未见优化结论与全面恢复；局部案例也不提供新通用处置权。[E07][] |
-| 2026-09-16，线上线下分开建与中心实验室关闭 | TS 拆分口径从「国内/海外」改为「线上/线下」，T21、D04 归入中心 CBT 运营，为中心另设 1–2 支原子小队 | 小队组成、授权与验收线未定；口径改名不等于重组完成。[E11][] |
+| 2026-09-16，线上线下分开建与中心实验室关闭 | Jennifer 提出把 TS 拆分口径从「国内/海外」改为「线上/线下」，T21、D04 归入中心 CBT 运营，为中心另设 1–2 支原子小队 | 小队组成、授权与验收线未定；口径改名不等于重组完成。[E11][] |
 | 9 月 18 日 [E10][] [E11][] [E12][] | 撞审修订：接驳公司级运行机制（客户任务、确定性边界与人工确认清单）、补收 9-16 小队与口径决定、落下同指标多口径实例 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 9 月 22 日 [Q4进业务现场](../decisions/2026-09-22-Q4进业务现场与两个工作流端到端重做.md) · [切分轴](../decisions/2026-09-22-切分轴从国内外改为线上线下.md) · [决策日志机制](../decisions/2026-09-22-决策日志机制候选.md) | 组织与治理切分轴方向级改为线上/线下（CBT 单列超级原子小队）；Q4 战场改「进业务现场+端到端重做两个工作流」；决策机制转向 AI 日志+三门槛+三天公示 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；均为方向/机制候选：切分轴落地待 Cindy 对齐，两个工作流范围未定，决策日志未落地 |
+| 2026-10-10 公司经营范式宪法级认领 [E13][] | 执行可以由系统和 Agent 承载，人保留判断、授权和最终责任；办成若依赖隐性补位必须显露，例外要有升级路径。客户任务组织行动是方向，不在本域重画部门 | 研讨中的小队、人选、投入和契约字段不是制度；方向认领不证明协同已经发生 |
 
 4＋2＋3 的既有一级架构接受、人员与权限未决，以及原页其他局部认领，保存在[证据附页](../queries/D14-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6G3693yWxkXOEP2) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLnBgvzm8xLq0Ee4)）；本次模板改写不当作新的业务进展。
 
@@ -176,6 +177,7 @@ evidence_register: "../queries/D14-认知依据与演化.md"
 | 老师是否被公平对待 | 规则可知、依据可解释、纠错传递 | [D11 教师体验与公平治理](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)） |
 | 课堂是否改善 | 送达、老师执行与下一次结果分开 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） |
 | 方法是否值得复用 | 本次可执行不等于方法长期有效 | [D15 方法沉淀与系统进化](TutorOS经营域-D15-方法沉淀与系统进化.md) （[A](https://alidocs.dingtalk.com/i/nodes/LeBq413JAw5lZXPnHzvZppRAWDOnGvpb) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZB4AnW2LD0oRE)） |
+| 公司经营范式 | 本域负责把事实、规则、权限和回执接上。范式的组织建议留在建议层；本页不据此定义岗位、小队或任命。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） | 组织是否改，另由 Leon 决定；未决定前沿现有责任正本 |
 
 本域位置为 N7，联结 S0 与 N4。运行缺口沿[首期运行契约与2＋2验收缺口](../queries/TutorOS首期运行契约与2＋2验收缺口.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6MlDgybJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/Amq4vjg890blMv6ksxrgNk20J3kdP0wQ)）及原问题账核，不在此把缺口销案。完整旧目录见[附页](../queries/D14-认知依据与演化.md#inherited-directory) （[A](https://alidocs.dingtalk.com/i/nodes/1R7q3QmWeerQRDdvt6G3693yWxkXOEP2#inherited-directory) · [Leon](https://alidocs.dingtalk.com/i/nodes/l6Pm2Db8D4BlnzPOTLnBgvzm8xLq0Ee4#inherited-directory)）。
 
@@ -191,3 +193,4 @@ evidence_register: "../queries/D14-认知依据与演化.md"
 [E10]: ../queries/D14-认知依据与演化.md#e10
 [E11]: ../queries/D14-认知依据与演化.md#e11
 [E12]: ../queries/D14-认知依据与演化.md#e12
+[E13]: ../queries/D14-认知依据与演化.md#e13

@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D03｜新师成材与早期经营
 tags: [TutorOS, 第二层经营域, 新师, TIDE, 试用期, 认知骨架]
 related: [TutorOS第二层经营地图, 新师训战营, 2026-09-05-新师30天出营现行分数线, D03-认知依据与演化]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 meaning_domain: D03
 architecture_version: "1.1"
 template_version: "2.0"
@@ -13,7 +13,7 @@ knowledge_revision: "D03-2026-09-23.v2.1.1.health-20261007"
 based_on_revision: "D03-2026-09-16.2"
 review: 待审
 content_review_status: pending
-review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E15。不改 H/Q，不改分数线、30 天规则、分课、处置与报酬，不由认领裁定新师是否进入早期课堂，不提升整页审态。"
 prior_review_scope: "旧版记录：2026-09-15批量认可蒸馏忠实性，未逐条人工复核；未决事项与待验证主张不因此裁决。"
 evidence_checked_on: 2026-09-17
 source_branch: main
@@ -216,6 +216,7 @@ sources: ["wiki/decisions/2026-09-05-新师30天出营现行分数线.md", "sour
 | **2026-09-14 · 来源纠错** | 将被误读成评分权重的数字还原为讨论中的档位人数分布举例。[E14][] | 纠正的是来源语义，不是批准新的评分权重。 |
 | **2026-09-16 · 旧页记录的补充** | 强调一次 demo 不能判定真实好课；把 AI 学生首课演练保留为计划。[E06][] | 本次没有重读该轮原始对话，也没有新增演练效果证据。 |
 | **2026-09-22／09-24 · 范围收窄与交接** | TIDE 当前工作收窄为国内×线上、直指直通车；9 月 24 日记录 Tina→王韬交接与范围内自决。会议把课量分配不公平列为评分失效根因，并记录因缺质量数据实际主要看出席率。[9 月 22 日范围记录](../decisions/2026-09-22-TIDE收窄线上国内直指直通车与双交棒.md)、[9 月 24 日交接记录](../decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md) | 确认限原稿范围；口头授权未落书面规则，原稿考核细节仍需复核；不自动修改 100／200+ 分数线，不认定培养效果或课量公平已经恢复。 |
+| **2026-10-10 公司经营范式宪法级认领** | 公司经营范式要求内部培训、评级与局部质量改善继续验证是否形成家庭可感知的整体结果，与本页“培训和毕业只是环节、长期成材由后续课堂证明”一致；同时要求把导师接手、额外救援等隐性人工补位和对少数强者的依赖显露出来，AI 演练等能力在真实验证前保留清楚的人工兜底。[E15][] | 方向认领不等于原文研讨建议成为政策，也不证明本域培养效果或执行已经发生；100／200+ 分数线、30 天规则、分课、处置与报酬不因此改变。 |
 
 完整演化与这轮编辑记录分别保留在证据附页和交接说明中。
 
@@ -233,6 +234,7 @@ sources: ["wiki/decisions/2026-09-05-新师30天出营现行分数线.md", "sour
 | 为什么没有合适的课 | [D04 产能](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)）、[D06 匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） | D03 连接机会与早期成长；供需和分配机制回对应域。 |
 | 一课是否有价值、帮助怎样促成长 | [D08 好课判断](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[D10 成长支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 本页负责新师阶段的应用与过渡，不重复维护通用成长机制。 |
 | 评价争议、所得与培养成本 | [D11 公平](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)）、[D12 所得](TutorOS经营域-D12-教师所得与激励.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQOdyRVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0m0OOVgN7R35y)）、[D13 全成本](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） | 成长、教师权益与经济可持续分别判断。 |
+| 公司经营范式怎样约束新师培养 | [宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供） | 培养与出营的价值继续回到家庭可感知的后续课堂检验，正常支持与隐性补位分别显露。保护家庭早期课堂与给新师真实机会之间的取舍，沿本页 MODEL 与正式分课规则处理，不由认领直接裁定；不自动批准评分、激励或权益变化。[E15][] |
 
 **使用边界：** 诊断和新证据可改变工作判断；延期、提前毕业、淘汰、分课和报酬仍依正式规则。来源冲突、原件未取得、课堂不可判分别保留，不用同源摘要互相证明。
 
@@ -253,3 +255,4 @@ sources: ["wiki/decisions/2026-09-05-新师30天出营现行分数线.md", "sour
 [E12]: ../queries/D03-认知依据与演化.md#e12
 [E13]: ../queries/D03-认知依据与演化.md#e13
 [E14]: ../queries/D03-认知依据与演化.md#e14
+[E15]: ../queries/D03-认知依据与演化.md#e15

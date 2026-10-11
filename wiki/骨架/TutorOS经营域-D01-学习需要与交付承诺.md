@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D01｜学习需要与交付承诺
 tags: [TutorOS, 第二层经营域, 学习需要与交付承诺, 认知骨架]
 related: [TutorOS第二层经营地图, D01-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-10-11
 meaning_domain: D01
 architecture_version: "1.1"
 template_version: "2.0"
@@ -13,7 +13,7 @@ knowledge_revision: "D01-2026-09-18.v2.1.1"
 based_on_revision: "D01-2026-09-15.1"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E09。不改 MODEL 取舍，不改 H/Q，不提升整页审态，不批准固定老师承诺、评分、激励或权益。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D01-认知依据与演化.md"
@@ -159,6 +159,7 @@ sources:
 | 2026-09-15 事件／9月16日确认 | 代课误杀显露出“系统知道、双方不知道”的承诺破坏，形成双方可知、先修不可见的明确原则。[E04][] | 当时窗口没有修复结论；不反推今天一定仍未修复。 |
 | 2026-09-16 正式决定 | 好课标准成为相关新建设的共同前置；客户声音进入标准收集，个性化任务部署后置。[E05][] | 不能把本域需求描述直接当作已完成的好课定义。 |
 | 9 月 18 日 [E07][] [E08][] | 撞审修订：H02补公司级结果口径约束（续费／转介绍不等同教育效果，不作资源决策量化依据）；居家／中心平行处按9月16日决定升格为不混用、归属看交付形态 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 | 公司经营范式要求从家庭要完成的任务出发设计整段交付，与本页“说得出还要接得住”一致，并补上两点：承诺跨越体验、购买和付费后的早期学习时，家庭目标、已核实的学习起点、教师与时间安排、前端承诺和未解决问题要一起交接，发送不等于接住；学习效果、满意度、续费与现金贡献各有证据，不能互相替代。学习、Tutor、服务与增长各侧接口要在同一段家庭任务里协同，而不是分段接力。[E09][] | 方向认领不等于原文研讨建议（任务拆解、交接字段、组织契约与验收操作）成为政策，也不证明本域承诺接续或效果已经发生；不新增承诺条款、招生话术、固定老师承诺或评价规则。 |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -171,6 +172,7 @@ sources:
 | [D04 产能与供需配置](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)） / [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） | 将拟承诺的时间、任务与资格交给真实供给和条件核对；居家、中心平行判断，且9月16日进一步明确：两条线不得套用同一套工具、培训与规则，判断归属看交付形态而不看地理。[E08][] |
 | [D06 教师价值呈现与匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） / [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 把需要转成可理解的选项；继续追问选择后能否持续学习。 |
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） / [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 学习质量与失约恢复分别判断，不用恢复成功覆盖学习未知或原承诺未兑现。 |
+| 公司经营范式（[宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）） | 按家庭要完成的任务判断整段承诺：前端形成的教师与时间预期，要与真实可兑现的供给一致，并在付费后被确认接收、核对兑现。“以客户价值为中心”不抵消教师权益，也不自动批准固定老师承诺、教师评分或激励。[E09][] |
 
 正式决定以各决策页为准；组织、数字与实际经营状态回公司系统和业务正本。本页不新增承诺条款、招生话术、个性化任务或评价规则。
 
@@ -184,3 +186,4 @@ sources:
 [E06]: ../queries/D01-认知依据与演化.md#e06
 [E07]: ../queries/D01-认知依据与演化.md#e07
 [E08]: ../queries/D01-认知依据与演化.md#e08
+[E09]: ../queries/D01-认知依据与演化.md#e09

@@ -5,12 +5,12 @@ title: TutorOS经营域-D12-教师所得与激励
 tags: [TutorOS, 第二层经营域, 教师所得与激励]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-21
+updated: 2026-10-11
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/薪酬改革.md", "外教战役/Meeting/2026-06-09_外教战役周会纪要.md", "sources/supplement/团队知识库-SRC01/FTE-Incentive-202608现行制度补证.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
-review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决"
+review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E11。客户结果怎样进入所得未裁决，不选边，不新授涨薪、奖励或部署权限，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D12
 primary_node: N6
@@ -152,6 +152,7 @@ evidence_register: "../queries/D12-认知依据与演化.md"
 | 2026-09-03，成熟老师方案 | 成长等级、短期推荐引导、即时治理分线，薪酬联动本期不做、独立立项 | 矩阵方向确认不替代分值冻结、真实回测或生产上线。[E04][] |
 | 2026-09-16，好课唯一硬 P0 | 先定义好课、委员会先行；教师数据汇总、晋升、小费和个性化任务部署按依赖后置 | 基本待遇与准确结算责任继续；委员会先行不等于标准已定，更不授予新奖励部署权。[E05][][E06][] |
 | 9 月 18 日 [E07][] [E08][] [E09][] | 撞审修订：补新师积分口径两次替代、Q03 毕业轨迹转写线索，挂接基本法上位条款（E04 另补模型回测口径标注） | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 | 公司级范式以客户价值为中心且不削弱经营纪律；它的因果链止于公司经营结果，新增价值到达老师仍需本页所说的分配、正式报酬与完整工作成本；客户结果怎样进入老师所得、与可控行为激励之间怎样取舍，列为未裁决 | 方向认领不等于研讨建议成为政策，也不证明本域效果或执行已发生；范式不批准教师评分、激励或权益，不暂停基本待遇与准确结算，不新授涨薪、奖励或部署权限。[E11][] |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -165,6 +166,7 @@ evidence_register: "../queries/D12-认知依据与演化.md"
 | 财务可持续 | 教师所得不可只看公司支付，平台也须核完整代价 | [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） |
 | 教学评价 | 什么样的课创造价值，不能由奖励指标反向定义 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） |
 | 正式执行 | 费率、预算、权限、规则版本与实际到账回公司正本 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
+| 公司经营范式 | 客户价值为中心不自动转成所得公式或奖励挂钩；不批准教师评分、激励、权益，不抹掉基本待遇与准确结算责任 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）第七、八节；本页 [E11][] |
 
 本页位置为 N6，联结 N2 与 N5。完整来源、历史政策与原有相关页见[认知依据与演化](../queries/D12-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHaxkDmbpJlemrZQ3#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeEdr3d5W1DK0g6l#evidence-index)）。本页不批准任何工资、奖励、扣款或流量变更。
 
@@ -177,3 +179,4 @@ evidence_register: "../queries/D12-认知依据与演化.md"
 [E07]: ../queries/D12-认知依据与演化.md#e07
 [E08]: ../queries/D12-认知依据与演化.md#e08
 [E09]: ../queries/D12-认知依据与演化.md#e09
+[E11]: ../queries/D12-认知依据与演化.md#e11

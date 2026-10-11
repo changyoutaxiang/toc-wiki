@@ -5,10 +5,10 @@ title: TutorOS经营域-D09-履约恢复与问题治理
 tags: [TutorOS, 第二层经营域, 履约恢复, 坏课治理, 异常恢复, 问题治理]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 坏课KPI-坏课治理语义岛-2026-09-11, 2026-08-26-坏课治理双方案灰度拍板, 2026-08-27-课堂问题数据口径与课后治理优先]
 created: 2026-09-14
-updated: 2026-09-24
+updated: 2026-10-11
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/Meeting/2026-08-26_Bad-Class-Issue-Updates纪要.md", "外教战役/Meeting/2026-08-27_聊下网络设备治理纪要.md", "Leon-work:journal/2026/08/2026-08-26/media/dws-听记-Bad-Class-Issue-Updates-2026-08-26.md"]
 review: 待审
-review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用；2026-09-24 本次认可仅覆盖：代课规则后继上线通报的 NOW、MODEL 与 DELTA 接续，保留效果未验及适用范围边界；不扩大整页认可、业务授权或效果结论"
+review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用；2026-09-24 本次认可仅覆盖：代课规则后继上线通报的 NOW、MODEL 与 DELTA 接续，保留效果未验及适用范围边界；不扩大整页认可、业务授权或效果结论。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E15。不改已确认的缺席治理结论，不发布新罚则，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D09
 template_version: "2.0"
@@ -136,6 +136,7 @@ based_on_revision: "D09-2026-09-15.3"
 | 9 月 15 日事件、9 月 16 日确认 [E07][] | 规则静默生效也会误伤关系，双方可知成为明确设计要求 | 决定不等于修复回执；该事件窗口没有完成结论，后继动作见 9 月 17 日；普通客户影响面仍待核 |
 | 9 月 17 日确认稿 [E07][] | 已有 AC 在线条件与 TBT／CBT 老师、新老师前十节限制放宽的上线通报 | 上线动作不等于误杀减少或客户恢复；overflow、误杀率及观察窗口未验，老师池不足另案 |
 | 9 月 18 日 [E10][] [E11][] [E12][] [E13][] | 撞审修订：补治理上线反弹与区域参与线、四象限护栏试用、0.41% 反例与记账幻觉警示、归因不利证据 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 [E15][] | 恢复要分别留下响应、解决和是否复发；发出通知或关掉记录，不等于家庭已经接住，也不等于原承诺已经兑现 | 方向认领不改已确认的缺席治理结论，不发布新罚则，也不证明恢复路径已经在运行 |
 
 <a id="已有决定与还没弄清的事"></a>
 <a id="资料与以前的讨论"></a>
@@ -150,6 +151,7 @@ based_on_revision: "D09-2026-09-15.3"
 | [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 家庭接受、关系信任与学习承接进入恢复判断 |
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 保留原失约及真实课堂证据；坏课指标设计不自动成为正式考核 |
 | [D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 需要能力支持时交给成长链，处罚和复训完成不替代真实改善 |
+| 公司经营范式 | 本域继续把客户恢复、教师责任、技术修复和复发预防分开。范式只补充：交接必须有人确认接收，关闭记录不能代替客户结果。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
 
 **本页不调整罚则、恢复权限或自动代课规则。** 坏课指标设计中的未决项继续沿问题账，不能因本轮改稿被结案。证据、正式确认、历史口径和完整旧相关页见[认知依据与演化](../queries/D09-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqLGDNP8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeEdR2kAW1DK0g6l)）。
 
@@ -169,3 +171,4 @@ based_on_revision: "D09-2026-09-15.3"
 [E11]: ../queries/D09-认知依据与演化.md#e11
 [E12]: ../queries/D09-认知依据与演化.md#e12
 [E13]: ../queries/D09-认知依据与演化.md#e13
+[E15]: ../queries/D09-认知依据与演化.md#e15

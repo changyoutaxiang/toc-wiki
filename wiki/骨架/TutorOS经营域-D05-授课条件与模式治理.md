@@ -18,7 +18,7 @@ related:
 - 2026-05-29-设备标准锚定Cocos黄金
 - D05-认知依据与演化
 created: '2026-09-14'
-updated: "2026-10-07"
+updated: "2026-10-11"
 meaning_domain: D05
 architecture_version: '1.1'
 template_version: "2.0"
@@ -26,7 +26,7 @@ knowledge_revision: "D05-2026-09-17.v2.1.health-20261007"
 based_on_revision: D05-2026-09-15.2
 review: 待审
 content_review_status: pending
-review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E22。不改 H/Q，不合并居家与中心，不发布设备或场地制度，不提升整页审态。"
 prior_review_scope: 旧版记录：2026-09-15 批量认可蒸馏忠实性，未逐条人工复核；未决事项与效果假设不因此裁决。
 evidence_checked_on: '2026-09-17'
 source_branch: main
@@ -238,6 +238,7 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 | **2026-09-14 · 模式校正** | 明确居家存量主流，两种模式平行。[E02][] | 加强中心建设不抬高其架构层级，居家支持持续纳入判断。 |
 | **2026-09-16 · 分开建设与试验取舍** | 确认分模式建设、特定 Sabu 实验室关闭，以及中心分级前置；关闭理由包含管理能力难以承担继续招培管的投入。[E03][] | 比较试验必须计入管理能力；关闭一个节点不等于退出中心模式。分级先于讨论新学员前几节课优先分配，执行与效果仍另核。 |
 | 9 月 22 日 [缺席规则放宽评估](../queries/2026-09-22-缺席规则放宽评估-分人群与相关性边界.md) | 缺席规则两次放宽后分人群结论不一致：HBT/新师改善、TBT 疑似误杀；规则定位为「阀门」（产能紧则松）；时间吻合只能算相关，无法回溯在线状态 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；会上无规则拍板；AC 覆盖率两口径冲突见问题账 TOC-99 |
+| 2026-10-10 公司经营范式宪法级认领 [E22][] | 设备、准备和故障恢复仍然是“这一课能否发生”的条件；宪法级认领没有改变居家与中心平行，也没有把客户结果写成可以抵消工作条件 | 方向认领不等于检测、场地或支持制度已经改变，也不证明任一模式的效果 |
 
 8 月战略假说与试验边界、9 月走访线索保留在[演化背景](../queries/D05-认知依据与演化.md#history-background) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4bar1XWrMqPxX6#history-background) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAZX4axyW2LD0oRE#history-background)）。本轮编辑动作单列维护记录。
 
@@ -254,6 +255,7 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 | 到岗为何没形成合适课程、能否调流量 | [D04 产能](TutorOS经营域-D04-产能与供需配置.md) （[A](https://alidocs.dingtalk.com/i/nodes/9bN7RYPWdM5q79o4HjQ3Ae0KVZd1wyK0) · [Leon](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQAl7MVxAZB1Gv)）、[D06 匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） | 本域解释环境与支持，不产生额外流量权。 |
 | 好课与成长、恢复与责任 | [D08 好课](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[D10 成长](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)）、[D09 恢复](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 本域保留条件和共同事件的影响；学习证据、成长与完整恢复各有主线。 |
 | 教师权益、所得与模式投入 | [D11 公平](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)）、[D12 所得](TutorOS经营域-D12-教师所得与激励.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQOdyRVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0m0OOVgN7R35y)）、[D13 全成本](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） | 公平与隐私是底线；所得、预算与投入回各自机制。 |
+| 公司经营范式是否改两种模式 | [宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供） | 不改。本域继续按交付形态分别看条件；范式只要求条件服务于课堂能否稳定发生。 |
 
 **容易混淆的三处：** 中心教师仍可能在线给学生授课，线上／线下不由地理定义；TBT／CBT／HBT、席位填充率／预约利用率、YTD／8 月窗口须先核定义再比较；“参考 TIDE”不等于搬用教师 100／200 分，分级完成也不自动获得流量。[E03][] [E11][]
 
@@ -283,3 +285,4 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 [E19]: ../queries/D05-认知依据与演化.md#e19
 [E20]: ../queries/D05-认知依据与演化.md#e20
 [E21]: ../queries/D05-认知依据与演化.md#e21
+[E22]: ../queries/D05-认知依据与演化.md#e22

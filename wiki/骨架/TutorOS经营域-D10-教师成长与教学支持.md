@@ -5,10 +5,10 @@ title: TutorOS经营域-D10-教师成长与教学支持
 tags: [TutorOS, 第二层经营域, 教师成长, 教学支持, 导师, 复检]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 老师质量提升飞轮, 2026-07-23-新师训战营验收口径与T1数据底线, 2026-07-17-培训模块自建选型与前端状态驱动]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "外教战役/老师质量提升飞轮.md", "外教战役/Meeting/2026-07-23_第一轮上线验收纪要.md", "外教战役/Meeting/2026-07-17-草台班子首show.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-培训成长运营框架补证.md", "wiki/decisions/2026-09-24-FT培训平台获客户认可与合体推广待拍板.md"]
 review: 待审
-review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "旧认可范围按 prior_review_scope 保留；本轮新增综合未经逐条人审，正式决定沿原来源范围使用；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E14。不新增问题，客户是否感知沿 D08-Q03 观察，不评价现有培训效果，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D10
 knowledge_revision: "D10-2026-09-18.v2.1.1.health-20261007"
@@ -141,6 +141,7 @@ D03 负责新师从进入到早期站稳的过渡，本域负责跨阶段的持�
 | 9 月设计与 9 月 16 日决定 [E01][] [E10][] | 设计将逐课证据连接支持和方法复用；现行决定把好课标准放在相关新建设之前 | 旧路线不是部署许可；个性化任务部署须守闸门，正常既有帮助不被一并取消 |
 | 9 月 18 日 [E11][] [E12][] [E13][] | 撞审修订：补对支持设计本身的自检记录与约束、收藏信号的截面缺陷、教材升级可能成批抬分的外生变量线索 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 2026-09-24 [培训平台反馈](../decisions/2026-09-24-FT培训平台获客户认可与合体推广待拍板.md) | 增补客户主观认可及合体／推广的复用线索 | 不是教学效果证明；磨课未覆盖，国内外合体与付费课推广未拍板；不绕过好课 P0 与部署闸门 |
+| 2026-10-10 公司经营范式宪法级认领 [E14][] | 培训、评级和教学支持除了看后续课堂，还要看家庭能否约到合适老师、下一课能否稳定发生；内部变好本身不是客户结果 | 方向认领不评价现有培训效果，不绕过好课定义的前置，也不把研讨建议写成培养制度 |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -154,6 +155,7 @@ D03 负责新师从进入到早期站稳的过渡，本域负责跨阶段的持�
 | [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 支持老师理解并接住孩子，学习状态不在本域另起正本 |
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 困难与改进证据来自真实课堂，任务完成率不能替代好课与学习结果 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 恢复和责任可以转入支持，但复训结束不等于风险已解除 |
+| 公司经营范式 / [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) | 本域回答“什么帮助使老师在后续课堂变好”。客户是否感知到整体变好，沿 D08 的现场检验问题观察，不在本域另开一题。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
 
 **本页不发布培训考核、晋升或惩罚新规则，不宣布任务系统已经部署有效。** 成熟老师方案中的未决与动作冲突继续保留。细读来源、历史阶段差别和完整旧相关页见[认知依据与演化](../queries/D10-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqLmZLd8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PceQ7Qj9L86zbX04v)）。
 
@@ -172,3 +174,4 @@ D03 负责新师从进入到早期站稳的过渡，本域负责跨阶段的持�
 [E11]: ../queries/D10-认知依据与演化.md#e11
 [E12]: ../queries/D10-认知依据与演化.md#e12
 [E13]: ../queries/D10-认知依据与演化.md#e13
+[E14]: ../queries/D10-认知依据与演化.md#e14

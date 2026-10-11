@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D04｜产能与供需配置
 tags: [TutorOS, 第二层经营域, 产能与供需配置, 认知骨架]
 related: [TutorOS第二层经营地图, D04-认知依据与演化]
 created: 2026-09-14
-updated: 2026-09-21
+updated: 2026-10-11
 meaning_domain: D04
 architecture_version: "1.1"
 template_version: "2.0"
@@ -13,7 +13,7 @@ knowledge_revision: "D04-2026-09-18.v2.1.1"
 based_on_revision: "D04-2026-09-16.1"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E11。不改 H/Q，不发布分配规则，不改先评分再谈优先分配的顺序，不提升整页审态。2026-10-11 Leon 认可第 18 项：中心配置顺序一行改为本轮未取得分配执行回执，不能据此判定动作尚未发生；评分运行、分配执行与效果分别核验。不确认分配已经执行，不提升整页审态。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D04-认知依据与演化.md"
@@ -69,7 +69,7 @@ sources:
 | **D04-D02｜两条护栏** | **已排课不回收；国内外同等紧张，靠新招聘配额拉平。**不能为一端腾供给而收走另一端既有承诺。[E01][] | 当前各端实际紧张程度、配额与兑现结果另核。 |
 | **D04-D03｜第一刀** | 放开TP CAP新师前10节屏蔽，观察一周；**HBT暂不放**；屏蔽先复核、有罪才关。[E01][] | 10节还是6节的后续阈值由智能体计算、尚未定；放开动作与一周结果本轮没有回执。 |
 | **D04-D04｜规则可知** | 9月16日确认规则生效需让受影响双方知晓，先修不可见。[E06][] | 代课误杀的当时窗口无修复结论，不能写成已修好。 |
-| **D04-D05｜中心配置顺序** | 9月16日决定：先建中心评分系统（分级方式参考teacher的TIDE），再谈把新生前几节课优先分配给中心——顺序不能反；没有评分就分配，等于把新生的第一印象交给未验证的中心。[E08][] | 评分系统的责任人与口径未定；分配动作尚未发生，不构成执行回执。 |
+| **D04-D05｜中心配置顺序** | 9月16日决定：先建中心评分系统（分级方式参考teacher的TIDE），再谈把新生前几节课优先分配给中心——顺序不能反；没有评分就分配，等于把新生的第一印象交给未验证的中心。[E08][] | 评分系统的责任人与口径未定；本轮未取得分配执行回执，不能据此判定动作尚未发生；评分运行、分配执行与效果分别核验。 |
 
 这些供给决定不能被新的经营假设降格，也不意味着取消教师公平、合理所得和申诉边界。居家与中心仍平行经营，特定TP CAP动作不外推为全部模式统一放开。
 
@@ -170,6 +170,7 @@ sources:
 | 9月15日事件／2026-09-16确认 | 代课误杀使规则是否可见成为必须先处理的设计问题。[E06][] | 当时无修复结论，普通师生受影响面未知。 |
 | 9 月 18 日 [E08][] [E09][] [E10][] | 撞审修订：NOW补9月16日“先建中心评分系统，再谈新生前几节课优先分配给中心”的顺序；H02点名国内拒代课市场边界，并登记共享观察窗判读标准已页外预冻结 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
 | 9 月 22 日 [招聘失衡归因](../queries/2026-09-22-缺席规则放宽评估-分人群与相关性边界.md) 与 [直通车项目页增量段](../projects/直通车项目.md) | 9 月招聘失衡归因目标中途翻盘（原 1,200/800 上周改 1,000/1,000，换侧约五天，改不改都到不了、按原目标约 80%）；直通车放量转化损失有基线（高峰差 1%、非高峰差 2%，未复算） | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；达成率多口径未归一，复盘无 owner；直通车数字未独立复算且项目课/系统分配未区分 |
+| 2026-10-10 公司经营范式宪法级认领 [E11][] | 呈现给家庭的教师与时段，以当时可兑现的产能为限；连续性与优先分配都不能超出这一时段真实可约的范围 | 方向认领不等于研讨建议成为供给制度，也不证明缺口、分配或效果已经发生 |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -182,6 +183,7 @@ sources:
 | [D02 教师获取与准入](TutorOS经营域-D02-教师获取与准入.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)） / [D03 新师成材与早期经营](TutorOS经营域-D03-新师成材与早期经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） | 人员输入与培养成熟度分别核，不把launch计成即刻可用，也不重新设毕业线。 |
 | [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） / [D06 教师价值呈现与匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） | 条件可用与适合展示、选择分别确认；展示名单不等于真实课位。 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） / [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） | 原承诺与恢复分开，备用、排班与教师机会成本要进入完整账。 |
+| 公司经营范式 | 本域只交出“这一时段能否真实承接”。固定老师、主备和优先分配的承诺宽度，不能超过可兑现供给；范式不改本域既有的评分先行顺序。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
 
 **现行供给边界继续保留：** 优先客户体验，再追求内部公平合理；已排课不回收；国内外同等紧张通过新招聘配额拉平；TP CAP放开不包含HBT，后续10／6节仍未定。这里描述获批方向，本轮没有系统运行和效果回执。[E01][]
 
@@ -199,3 +201,4 @@ sources:
 [E08]: ../queries/D04-认知依据与演化.md#e08
 [E09]: ../queries/D04-认知依据与演化.md#e09
 [E10]: ../queries/D04-认知依据与演化.md#e10
+[E11]: ../queries/D04-认知依据与演化.md#e11

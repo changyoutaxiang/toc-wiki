@@ -5,12 +5,12 @@ title: TutorOS经营域-D11-教师体验与公平治理
 tags: [TutorOS, 第二层经营域, 教师体验与公平治理]
 related: [TutorOS第二层经营地图, TutorOS知识总图, TutorOS设计宪法全文]
 created: 2026-09-14
-updated: 2026-09-24
+updated: 2026-10-11
 sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "Leon-work:projects/TOC/运营支撑/系统资产卡/FT-DEC-014_老师三重身份与老师体验双层责任.md", "外教战役/Meeting/2026-08-24_TOC周会纪要.md", "外教战役/Meeting/2026-08-25_WeeklyMeeting纪要.md", "Leon-work:journal/2026/08/2026-08-13/media/dws-听记-全量外教分-2026-08-13.md", "sources/supplement/团队知识库-SRC03-慧茹wiki/慧茹-好老师全生命周期客户价值治理补证.md"]
 review: 待审
 content_review_status: pending
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
-review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决；2026-09-24 本次认可仅覆盖：代课事件后继上线通报的 NOW 与 DELTA 接续，保留公平恢复未验；不扩大整页认可、业务授权或效果结论"
+review_scope: "保留旧认可的原日期与范围；本轮六模块综合及新接续未逐条经Leon人审；已确认决定不因重写降格，未决问题和效果不因此裁决；2026-09-24 本次认可仅覆盖：代课事件后继上线通报的 NOW 与 DELTA 接续，保留公平恢复未验；不扩大整页认可、业务授权或效果结论。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，新增 D11-Q04，及依据 E10。三重验收与教师独立责任的衔接未裁决，不选边，不提升整页审态。"
 architecture_version: "1.1"
 meaning_domain: D11
 primary_node: N5
@@ -147,6 +147,13 @@ evidence_register: "../queries/D11-认知依据与演化.md"
 
 **目前认识：** 一致的是保护学生和公平处理的原则；证据不同，归因和恢复可以不同。下一份有价值的证据，是同类争议如何判定、老师能否理解差别、误判后后果是否修复，而不是再加一个统一总分。[E02][][E05][]
 
+<a id="d11-q04"></a>
+### D11-Q04｜为孩子适配而换老师，怎样不变成老师侧的隐性扣分？
+
+**为什么好奇：** 以客户任务为中心的工作流，会在课后反馈和阶段复看时，为了孩子更适合而调整老师。这类调整不是错误，也不一定是谁的过错，却可能实际减少原老师的后续机会。
+
+**目前认识：** 本页其他讨论多从误判出发，适配调整是另一种情形。值得看一次因适配而换老师之后，原老师能否知道原因、这次调整有没有进入资格或机会的计算、若进入依据是否可解释与可申诉。公司经营范式不自动批准教师评分或权益安排，这个问题不能用“客户价值优先”直接回答。[E10][]
+
 <a id="5-最新认知现在怎么看最近哪里变了"></a>
 <a id="反例总量接近不足以证明零误伤"></a>
 <a id="本轮原料怎样修正判断2026-09-15"></a>
@@ -161,6 +168,7 @@ evidence_register: "../queries/D11-认知依据与演化.md"
 | 事件 2026-09-15，确认 09-16 | 真实误杀把“双方可知”推进到规则设计与发布检查：老师和家长都要知道会改变这节课的条件 | 该事件窗口未见修复结论；后继见 9 月 17 日，普通老师影响范围和完整恢复仍待核。[E04][] |
 | 2026-09-17，规则放宽确认稿 | 已有 AC 在线条件与 TBT／CBT 老师、新师前十节限制放宽的上线通报 | 未见误杀率、overflow 对照及完整恢复证据；规则双方可知原则继续适用。[E04][] |
 | 9 月 18 日 [E07][] [E08][] [E09][] | 撞审修订：挂接公司级公平立场、补沉默者规模与反弹实例、把参与权上移到规则定义层并记 8-29 程序性决定、列三件可核查缺口实例 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 | 公司级范式以学习的孩子与家庭的价值为中心；本页对照出同向原则——完成看问题解决与下一步接住、结果缺口不统一归咎一方、人工接管带前因后果；范式写明不自动批准教师评分、激励与权益，也不抹掉教师权益 | 方向认领不等于研讨建议成为政策，也不证明本域效果或执行已发生；三重验收与教师独立责任怎样衔接尚未裁决，独立责任按原范围保留。[E10][] |
 
 详细算式、规则时钟与原页完整目录见[认知依据与演化](../queries/D11-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLX9qXz18Ke0xjE3) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpv0bn0bJgk9rpMq)）。
 
@@ -176,6 +184,7 @@ evidence_register: "../queries/D11-认知依据与演化.md"
 | 环境与模式 | 防止把公共条件问题直接归为个人过错 | [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）核条件 |
 | 课堂证据 | 要求依据可解释，不自行创造教学评分或处罚公式 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） |
 | 规则与处理 | 明确应有的经历；实际版本、权限和处理记录回公司系统 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
+| 公司经营范式 | 客户价值为中心是经营判断约束；它不自动批准教师评分、激励、权益或生产动作，不抹掉教师权益；三重验收与本页独立责任的衔接未裁决 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）第七、八节；本页 [E10][] |
 
 本页是经营综合，不能作为工资、处罚或访问权限的执行凭据。原有决定、人审范围、未知与相关页保存在[证据附页](../queries/D11-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLX9qXz18Ke0xjE3#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpv0bn0bJgk9rpMq#evidence-index)）；主图位置为 N5，联结 N6 与 N4。
 
@@ -188,3 +197,4 @@ evidence_register: "../queries/D11-认知依据与演化.md"
 [E07]: ../queries/D11-认知依据与演化.md#e07
 [E08]: ../queries/D11-认知依据与演化.md#e08
 [E09]: ../queries/D11-认知依据与演化.md#e09
+[E10]: ../queries/D11-认知依据与演化.md#e10

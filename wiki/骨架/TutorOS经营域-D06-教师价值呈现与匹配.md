@@ -5,7 +5,7 @@ title: Tutor OS 经营域 D06｜教师价值呈现与匹配
 tags: [TutorOS, 第二层经营域, 教师价值呈现与匹配, 认知骨架]
 related: [TutorOS第二层经营地图, D06-认知依据与演化]
 created: 2026-09-14
-updated: "2026-10-07"
+updated: "2026-10-11"
 meaning_domain: D06
 architecture_version: "1.1"
 template_version: "2.0"
@@ -13,7 +13,7 @@ knowledge_revision: "D06-2026-09-18.v2.1.1.health-20261007"
 based_on_revision: "D06-2026-09-16.1"
 review: 待审
 content_review_status: pending
-review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。"
+review_scope: "六模块模板已获认可；本页新增综合与具体措辞未逐条人审，既有正式决定和历史认可沿原日期与范围有效，未决事项及效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E12。不改 H/Q，H01 仍为待检验判断，不批准排名、曝光配额或固定老师承诺，不提升整页审态。"
 prior_review_scope: "第二层由Agent综合建设，具体主张按所引来源状态使用；未逐条经Leon认领；2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决"
 evidence_checked_on: 2026-09-17
 evidence_register: "../queries/D06-认知依据与演化.md"
@@ -161,6 +161,7 @@ sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb
 | 2026-09-09原稿、9月15日回读 | 把“看得见、谁选、出席、转化、同师付费课、固定”拆开；继续追问选择偏差和后半段供给。[E03][] | 客户三选一未测，全球统一标签与海外复制仍有条件，不是下一季度统一承诺。 |
 | 2026-09-16好课决定 | 新的教师汇总、晋升与小费、个性化任务部署须等共同好课标准。[E08][] | 没有授权本页另建总评分，也不抹去既有有效推荐安排。 |
 | 9 月 18 日 [E10][] [E11][] | 撞审修订：H01补9月9日原稿量化观察及其“不得升级为严格因果”边界；补接8月18日纪要的统一引擎方向（与不同池边界并列不悖）和教师侧VOC提议 | 修订条目经 Leon 逐项拍板（本地过审进度账）；页面整体综合审态不变 |
+| 2026-10-10 公司经营范式宪法级认领 [E12][] | 呈现与匹配被放进“家庭在透明信息下判断适配、作出选择”的客户任务中：教师长处要能被理解、在需要时约到，课前建立的师资预期要与后续可兑现供给一致；曝光、点击或内部等级提高不能单独算作价值兑现，教师差异应能用明确规则与客户事实向家庭解释。 | 方向认领不等于原文的研讨建议（含任务拆解、标准交付与验收口径写法）成为政策，也不证明本域任何呈现或匹配动作的效果已经成立或执行已发生；H01 仍是待检验判断，E02 已确认进展按原范围保留。 |
 
 <a id="资料与以前的讨论"></a>
 <a id="相关知识页按需读取"></a>
@@ -177,6 +178,8 @@ sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb
 
 本页不新增推荐阈值、曝光配额、排名、薪酬或新市场上线决定。现行方向与历史记录保留各自范围；与既有供给、好课前置决定冲突的推论不能靠主文模型取得授权。
 
+公司经营范式（[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供））是本域判断的宪法级约束：先问哪个家庭、在什么学习阶段要完成什么选择，再看呈现、匹配与可约怎样共同交付。它没有自动批准教师评分、排名、曝光配额、激励、权益或固定老师承诺；“以客户价值为中心”不能用来跳过既有供给决定与好课前置决定，也不能用来取消教师解释或更正事实的机会。[E12][]
+
 [证据登记与全部旧相关页](../queries/D06-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY4GBYyxVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQyNaX58B5r9YAn)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 
 [E01]: ../queries/D06-认知依据与演化.md#e01
@@ -190,3 +193,4 @@ sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb
 [E09]: ../queries/D06-认知依据与演化.md#e09
 [E10]: ../queries/D06-认知依据与演化.md#e10
 [E11]: ../queries/D06-认知依据与演化.md#e11
+[E12]: ../queries/D06-认知依据与演化.md#e12
