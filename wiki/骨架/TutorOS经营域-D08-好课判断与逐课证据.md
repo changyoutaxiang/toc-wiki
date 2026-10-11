@@ -155,7 +155,7 @@ based_on_revision: "D08-2026-09-15.3"
 
 **本页不发布统一评分公式，不授权扣罚或晋升，也不宣称任何评价模型已经有效。** 成熟老师方案仍有待决口径和动作冲突；即时保护、近期暴露与长期升降级须分别理解。[E11][]
 
-公司经营范式（[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供））要求本域的课堂判断最终接受客户结果、经营结果与可复制能力的共同检验，但它没有自动批准教师评分、激励、权益或生产动作，课堂 AI 分析仍供教研复核。“以客户价值为中心”不能用来把一次转化或续费直接写成好课结论，也不能用来跳过教师解释和纠错。[E16][]
+公司经营范式（[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)）要求本域的课堂判断最终接受客户结果、经营结果与可复制能力的共同检验，但它没有自动批准教师评分、激励、权益或生产动作，课堂 AI 分析仍供教研复核。“以客户价值为中心”不能用来把一次转化或续费直接写成好课结论，也不能用来跳过教师解释和纠错。[E16][]
 
 完整来源、历史纠正、未决项和旧相关页见[认知依据与演化](../queries/D08-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/b9Y4gmKWrPNpBnG0seMP47eNJGXn6lpz) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLX9qMnm8Ke0xjE3)）。返回 [第二层经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）。
 

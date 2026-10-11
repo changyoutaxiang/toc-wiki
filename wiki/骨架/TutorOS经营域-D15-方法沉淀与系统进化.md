@@ -175,7 +175,7 @@ AI 化也有已记录的制衡线索：9 月 2 日周会口述，PSO 环节快�
 | 日常执行 | 采用需要可用入口、责任和权限；这些不证明方法有效 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
 | 试验代价与权益 | 计入维护、复核、时间与风险，不把老师当无成本试验对象 | [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)）、[D11 教师体验与公平治理](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)） |
 | 正式晋升与部署 | 证据候选、方法入选和运行授权各自成立 | 数据、制度、发布和现行好课P0决定分别核对 |
-| 公司经营范式 | 本域回答方法如何被验证、复用和停用。范式要求用下一支团队的真实使用来检验，不用系统里“已经有了”代替。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） | 具体方法是否生效，仍回各域证据 |
+| 公司经营范式 | 本域回答方法如何被验证、复用和停用。范式要求用下一支团队的真实使用来检验，不用系统里“已经有了”代替。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)。） | 具体方法是否生效，仍回各域证据 |
 
 9 月 16 日好课标准先行，依赖它的晋升、小费和个性化任务部署后置；本页的方法学习不扩大这些权限。[E08][] 本域位置为 N7，联结 S0 与 F1。详细边界与完整旧目录见[认知依据与演化](../queries/D15-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4yGYGOWrMqPxX6#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjaKvYEP8GlDd3mE#evidence-index)）。
 

@@ -166,7 +166,7 @@ evidence_register: "../queries/D12-认知依据与演化.md"
 | 财务可持续 | 教师所得不可只看公司支付，平台也须核完整代价 | [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） |
 | 教学评价 | 什么样的课创造价值，不能由奖励指标反向定义 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） |
 | 正式执行 | 费率、预算、权限、规则版本与实际到账回公司正本 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
-| 公司经营范式 | 客户价值为中心不自动转成所得公式或奖励挂钩；不批准教师评分、激励、权益，不抹掉基本待遇与准确结算责任 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）第七、八节；本页 [E11][] |
+| 公司经营范式 | 客户价值为中心不自动转成所得公式或奖励挂钩；不批准教师评分、激励、权益，不抹掉基本待遇与准确结算责任 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)第七、八节；本页 [E11][] |
 
 本页位置为 N6，联结 N2 与 N5。完整来源、历史政策与原有相关页见[认知依据与演化](../queries/D12-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHaxkDmbpJlemrZQ3#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeEdr3d5W1DK0g6l#evidence-index)）。本页不批准任何工资、奖励、扣款或流量变更。
 

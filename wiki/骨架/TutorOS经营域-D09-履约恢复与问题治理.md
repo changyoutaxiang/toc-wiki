@@ -151,7 +151,7 @@ based_on_revision: "D09-2026-09-15.3"
 | [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 家庭接受、关系信任与学习承接进入恢复判断 |
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 保留原失约及真实课堂证据；坏课指标设计不自动成为正式考核 |
 | [D10 教师成长与教学支持](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)） | 需要能力支持时交给成长链，处罚和复训完成不替代真实改善 |
-| 公司经营范式 | 本域继续把客户恢复、教师责任、技术修复和复发预防分开。范式只补充：交接必须有人确认接收，关闭记录不能代替客户结果。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
+| 公司经营范式 | 本域继续把客户恢复、教师责任、技术修复和复发预防分开。范式只补充：交接必须有人确认接收，关闭记录不能代替客户结果。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)。） |
 
 **本页不调整罚则、恢复权限或自动代课规则。** 坏课指标设计中的未决项继续沿问题账，不能因本轮改稿被结案。证据、正式确认、历史口径和完整旧相关页见[认知依据与演化](../queries/D09-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqLGDNP8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IeEdR2kAW1DK0g6l)）。
 

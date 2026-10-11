@@ -178,7 +178,7 @@ sources: ["common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb
 
 本页不新增推荐阈值、曝光配额、排名、薪酬或新市场上线决定。现行方向与历史记录保留各自范围；与既有供给、好课前置决定冲突的推论不能靠主文模型取得授权。
 
-公司经营范式（[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供））是本域判断的宪法级约束：先问哪个家庭、在什么学习阶段要完成什么选择，再看呈现、匹配与可约怎样共同交付。它没有自动批准教师评分、排名、曝光配额、激励、权益或固定老师承诺；“以客户价值为中心”不能用来跳过既有供给决定与好课前置决定，也不能用来取消教师解释或更正事实的机会。[E12][]
+公司经营范式（[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)）是本域判断的宪法级约束：先问哪个家庭、在什么学习阶段要完成什么选择，再看呈现、匹配与可约怎样共同交付。它没有自动批准教师评分、排名、曝光配额、激励、权益或固定老师承诺；“以客户价值为中心”不能用来跳过既有供给决定与好课前置决定，也不能用来取消教师解释或更正事实的机会。[E12][]
 
 [证据登记与全部旧相关页](../queries/D06-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/wva2dxOW4Yml41o0IY4GBYyxVbkz3BRL) · [Leon](https://alidocs.dingtalk.com/i/nodes/1DKw2zgV2Proed71svQyNaX58B5r9YAn)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 

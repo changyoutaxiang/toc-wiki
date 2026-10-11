@@ -184,7 +184,7 @@ evidence_register: "../queries/D11-认知依据与演化.md"
 | 环境与模式 | 防止把公共条件问题直接归为个人过错 | [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)）核条件 |
 | 课堂证据 | 要求依据可解释，不自行创造教学评分或处罚公式 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） |
 | 规则与处理 | 明确应有的经历；实际版本、权限和处理记录回公司系统 | [D14 事实标准与协同执行](TutorOS经营域-D14-事实标准与协同执行.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQD2bzVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKYwZ3WyMoPYe1)） |
-| 公司经营范式 | 客户价值为中心是经营判断约束；它不自动批准教师评分、激励、权益或生产动作，不抹掉教师权益；三重验收与本页独立责任的衔接未裁决 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）第七、八节；本页 [E10][] |
+| 公司经营范式 | 客户价值为中心是经营判断约束；它不自动批准教师评分、激励、权益或生产动作，不抹掉教师权益；三重验收与本页独立责任的衔接未裁决 | [公司经营范式宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)第七、八节；本页 [E10][] |
 
 本页是经营综合，不能作为工资、处罚或访问权限的执行凭据。原有决定、人审范围、未知与相关页保存在[证据附页](../queries/D11-认知依据与演化.md#evidence-index) （[A](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLX9qXz18Ke0xjE3#evidence-index) · [Leon](https://alidocs.dingtalk.com/i/nodes/Exel2BLV5znlv6Y3fpv0bn0bJgk9rpMq#evidence-index)）；主图位置为 N5，联结 N6 与 N4。
 

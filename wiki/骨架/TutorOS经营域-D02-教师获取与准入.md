@@ -183,7 +183,7 @@ Referral（现有关系中的推荐）可能把隐性经验提前带给候选人
 
 本页不新增渠道预算、招聘门槛、提成规则或移交授权。Referral的数字冲突、负责人承接和候选机制继续在项目与问题卡中保留。历史返聘、设备、SIV等决定全部保留入口，按各自时点和适用范围查询，不由本页合并成一套新准入制度。
 
-**公司经营范式的边界：** 按[宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供），准入方法最终要接受客户侧结果检验；这不等于用一时的客户偏好替代统一标准与校准，也不等于为补人数降低基础门槛。候选人得到清楚、公平的判断，与教师合理所得、申诉和转组的权利一样，是独立底线。[E11][]
+**公司经营范式的边界：** 按[宪法级认领](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)，准入方法最终要接受客户侧结果检验；这不等于用一时的客户偏好替代统一标准与校准，也不等于为补人数降低基础门槛。候选人得到清楚、公平的判断，与教师合理所得、申诉和转组的权利一样，是独立底线。[E11][]
 
 [证据登记与全部旧相关页](../queries/D02-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi67z056OJyeZqMmz) · [Leon](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4yGnbgWrMqPxX6)） · [经营地图](TutorOS第二层经营地图.md) （[A](https://alidocs.dingtalk.com/i/nodes/np9zOoBVBYq1apP5IerEveo3W1DK0g6l) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejQRwD686zbX04v)） · [知识总图](TutorOS知识总图.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARRx9OnW2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/GZLxjv9VGqKl0mPvHZooPyla86EDybno)）
 

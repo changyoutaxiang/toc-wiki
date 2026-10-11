@@ -183,7 +183,7 @@ sources:
 | [D02 教师获取与准入](TutorOS经营域-D02-教师获取与准入.md) （[A](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKbGp6WyMoPYe1) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjG1dEq85daZ90D)） / [D03 新师成材与早期经营](TutorOS经营域-D03-新师成材与早期经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)） | 人员输入与培养成熟度分别核，不把launch计成即刻可用，也不重新设毕业线。 |
 | [D05 授课条件与模式治理](TutorOS经营域-D05-授课条件与模式治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NkDwLng8ZLRqrGZjc3LzdNg4VKMEvZBY) · [Leon](https://alidocs.dingtalk.com/i/nodes/3NwLYZXWyna7ByKdiGXYpK3jVkyEqBQm)） / [D06 教师价值呈现与匹配](TutorOS经营域-D06-教师价值呈现与匹配.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0bPbxVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/R4GpnMqJzGmRBx4dSLpX7QEw8Ke0xjE3)） | 条件可用与适合展示、选择分别确认；展示名单不等于真实课位。 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） / [D13 全成本与可持续经营](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） | 原承诺与恢复分开，备用、排班与教师机会成本要进入完整账。 |
-| 公司经营范式 | 本域只交出“这一时段能否真实承接”。固定老师、主备和优先分配的承诺宽度，不能超过可兑现供给；范式不改本域既有的评分先行顺序。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
+| 公司经营范式 | 本域只交出“这一时段能否真实承接”。固定老师、主备和优先分配的承诺宽度，不能超过可兑现供给；范式不改本域既有的评分先行顺序。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)。） |
 
 **现行供给边界继续保留：** 优先客户体验，再追求内部公平合理；已排课不回收；国内外同等紧张通过新招聘配额拉平；TP CAP放开不包含HBT，后续10／6节仍未定。这里描述获批方向，本轮没有系统运行和效果回执。[E01][]
 

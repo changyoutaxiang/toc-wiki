@@ -155,7 +155,7 @@ D03 负责新师从进入到早期站稳的过渡，本域负责跨阶段的持�
 | [D07 师生关系与跨师承接](TutorOS经营域-D07-师生关系与跨师承接.md) （[A](https://alidocs.dingtalk.com/i/nodes/yQod3RxJKGDly0PASl2y1ZBvJkb4Mw9r) · [Leon](https://alidocs.dingtalk.com/i/nodes/7dx2rn0JbYPEm43eINLq194ZVMGjLRb3)） | 支持老师理解并接住孩子，学习状态不在本域另起正本 |
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 困难与改进证据来自真实课堂，任务完成率不能替代好课与学习结果 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 恢复和责任可以转入支持，但复训结束不等于风险已解除 |
-| 公司经营范式 / [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) | 本域回答“什么帮助使老师在后续课堂变好”。客户是否感知到整体变好，沿 D08 的现场检验问题观察，不在本域另开一题。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）。） |
+| 公司经营范式 / [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) | 本域回答“什么帮助使老师在后续课堂变好”。客户是否感知到整体变好，沿 D08 的现场检验问题观察，不在本域另开一题。（依据：[宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)。） |
 
 **本页不发布培训考核、晋升或惩罚新规则，不宣布任务系统已经部署有效。** 成熟老师方案中的未决与动作冲突继续保留。细读来源、历史阶段差别和完整旧相关页见[认知依据与演化](../queries/D10-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/y20BglGWO2NBwy9YuvqLmZLd8A7depqY) · [Leon](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PceQ7Qj9L86zbX04v)）。
 

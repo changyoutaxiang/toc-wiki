@@ -143,7 +143,7 @@ based_on_revision: "D07-2026-09-15.2"
 | [D08 好课判断与逐课证据](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)） | 提供课堂中真正学到什么的证据；复约和收藏不替代逐课学习判断 |
 | [D09 履约恢复与问题治理](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 处理失约和换师恢复，保留原承诺与真实接受情况 |
 | Learning 与客户服务侧 | 学习状态沿公司分工保留统一正本；客户解释、接受与恢复不能由 Tutor 单方面宣告完成 |
-| 公司经营范式（宪法级，[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)（本地资料，钉钉／GitHub未提供）） | 本域负责教师侧的关系与学习承接，把课堂证据放进同一份家庭上下文；换服务人员时的接续归客户服务侧。范式没有自动批准固定老师承诺、固定率考核或代课规则调整；“以客户价值为中心”不能用来把孩子锁在不合适的关系里，也不能把换师后上完课写成原承诺已兑现 [E10][] |
+| 公司经营范式（宪法级，[认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md)） | 本域负责教师侧的关系与学习承接，把课堂证据放进同一份家庭上下文；换服务人员时的接续归客户服务侧。范式没有自动批准固定老师承诺、固定率考核或代课规则调整；“以客户价值为中心”不能用来把孩子锁在不合适的关系里，也不能把换师后上完课写成原承诺已兑现 [E10][] |
 
 **本页不设固定率新考核、不修改代课规则，也不把设计建议变成运行事实。** 正式决定、原始材料、历史纠错和完整相关页见[认知依据与演化](../queries/D07-认知依据与演化.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjaKvGBp8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/mweZ92PV6M7l9QrqHq9Xevd7WxEKBD6p)）。
 
