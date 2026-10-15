@@ -3,8 +3,8 @@ projection: public
 type: overview
 title: Tutor OS 知识骨架落点索引
 review: 记录
-updated: 2026-10-12
-metadata_updated: 2026-10-12
+updated: 2026-10-15
+metadata_updated: 2026-10-15
 ---
 
 # TOC 只读查询入口
@@ -17,6 +17,7 @@ metadata_updated: 2026-10-12
 
 ## 常见问题
 
+- 外教战役整体／公司对外教战役最新的要求是什么：[2026-10-12-直通车定为外教战役价值交付物与两小队组织形态](decisions/2026-10-12-%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%AE%9A%E4%B8%BA%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%89%A9%E4%B8%8E%E4%B8%A4%E5%B0%8F%E9%98%9F%E7%BB%84%E7%BB%87%E5%BD%A2%E6%80%81.md)（跨域入口；先读本页定位与边界，再按下方接续规则核教师供给、合肥与中东阶段决定。日期较新不自动替代旧规则）
 - 新师课少、30天评价：[TutorOS经营域-D03-新师成材与早期经营](%E9%AA%A8%E6%9E%B6/TutorOS%E7%BB%8F%E8%90%A5%E5%9F%9F-D03-%E6%96%B0%E5%B8%88%E6%88%90%E6%9D%90%E4%B8%8E%E6%97%A9%E6%9C%9F%E7%BB%8F%E8%90%A5.md) · [A](https://alidocs.dingtalk.com/i/nodes/ndMj49yWjXK9ykGpubzXm30bJ3pmz5aA) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9E0l3WzN67Mw4)
 - 直通车的转化率能说明什么：[直通车项目](projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) · [A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9)
 - 成熟老师积分哪些已确认：[成熟老师升降级积分方案](projects/%E6%88%90%E7%86%9F%E8%80%81%E5%B8%88%E5%8D%87%E9%99%8D%E7%BA%A7%E7%A7%AF%E5%88%86%E6%96%B9%E6%A1%88.md) · [A](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7429d7J63zgkYA) · [Leon](https://alidocs.dingtalk.com/i/nodes/QBnd5ExVEvEl7ZPKi6y4e5w3JyeZqMmz)
@@ -27,6 +28,8 @@ metadata_updated: 2026-10-12
 ## 按经营问题进入
 
 十五个经营域采用同一六模块模板。先读主页面的当前判断，完整证据、历史和相关知识目录在各域依据附页；一页可涉及多个域，按来源时点和原页状态判断。
+
+**外教战役整体的接续读法（本轮核读截至 2026-10-13 的材料）：** 先读 [2026-10-10-51Talk经营范式宪法级认领](decisions/2026-10-10-51Talk%E7%BB%8F%E8%90%A5%E8%8C%83%E5%BC%8F%E5%AE%AA%E6%B3%95%E7%BA%A7%E8%AE%A4%E9%A2%86.md) 的方向约束，再读 [2026-10-12-直通车定为外教战役价值交付物与两小队组织形态](decisions/2026-10-12-%E7%9B%B4%E9%80%9A%E8%BD%A6%E5%AE%9A%E4%B8%BA%E5%A4%96%E6%95%99%E6%88%98%E5%BD%B9%E4%BB%B7%E5%80%BC%E4%BA%A4%E4%BB%98%E7%89%A9%E4%B8%8E%E4%B8%A4%E5%B0%8F%E9%98%9F%E7%BB%84%E7%BB%87%E5%BD%A2%E6%80%81.md) 的价值交付物与两小队。继续核 [2026-10-13-直通车教师端工业化造血新流程](decisions/2026-10-13-%E7%9B%B4%E9%80%9A%E8%BD%A6%E6%95%99%E5%B8%88%E7%AB%AF%E5%B7%A5%E4%B8%9A%E5%8C%96%E9%80%A0%E8%A1%80%E6%96%B0%E6%B5%81%E7%A8%8B.md)、[2026-10-13-合肥直通车教材收敛与每日首检](decisions/2026-10-13-%E5%90%88%E8%82%A5%E7%9B%B4%E9%80%9A%E8%BD%A6%E6%95%99%E6%9D%90%E6%94%B6%E6%95%9B%E4%B8%8E%E6%AF%8F%E6%97%A5%E9%A6%96%E6%A3%80.md)、[2026-10-13-中东直通车测试组师资定向培训买断时段](decisions/2026-10-13-%E4%B8%AD%E4%B8%9C%E7%9B%B4%E9%80%9A%E8%BD%A6%E6%B5%8B%E8%AF%95%E7%BB%84%E5%B8%88%E8%B5%84%E5%AE%9A%E5%90%91%E5%9F%B9%E8%AE%AD%E4%B9%B0%E6%96%AD%E6%97%B6%E6%AE%B5.md)，并在 [直通车项目](projects/%E7%9B%B4%E9%80%9A%E8%BD%A6%E9%A1%B9%E7%9B%AE.md) · [A](https://alidocs.dingtalk.com/i/nodes/G53mjyd80p2oeG7PcejMdKeo86zbX04v) · [Leon](https://alidocs.dingtalk.com/i/nodes/nYMoO1rWxaZnB3GdI9qL1KrqV47Z3je9) 查演化。模式与课前条件回 D05，决定、责任和回执回 D14；教师培养回 D03、供需回 D04，不能把全部战役压进单一域。每次回答“最新”都须检索同题后继 decisions/projects，核决定日期、来源、适用对象、审态与替代关系；文件 updated 只作发现线索，不能作唯一排除条件。07-13 H2 总纲保留战略背景，不独自回答当前要求；未检到更新只说明当前可访问范围未检到。
 
 若问题在问“为什么还不清楚、下一步该看什么、什么证据会改变判断”，进入相关域的 `FRONTIER｜接下来想弄清什么`（Q 编号）与 `BELIEFS｜哪些判断仍待检验`（H 编号），再看最新 DELTA 和相邻域。Q/H 是检验线索，不代表已有答案或正式规则。
 

@@ -132,6 +132,7 @@
 {"id": "sources/raw/2026-09-05_外教转介绍知识库入库建议_数字复核版.md", "availability": "exported", "sha256": "83f731c3262d4581d1f6fd5814d0f7464275ba1a4874f54478a73accf1ebda2b", "bytes": 12338, "referenced_by": []}
 {"id": "sources/raw/2026-09-10-TutorOS宪法认领与精选素材归库授权.md", "availability": "exported", "sha256": "571d12de785f4681f24ad0bbf6618fb90273802b71a7a19f79a37f9b33109914", "bytes": 1133, "referenced_by": []}
 {"id": "sources/raw/2026-09-12_Mel-TPCAP-Updates-2026_正文快照.md", "availability": "exported", "sha256": "6d780178c1b425b22f6d2dc60bc96d5dbc3befaa0a8856972d36245ead85a044", "bytes": 90858, "referenced_by": []}
+{"id": "sources/raw/2026-10-10-51Talk-Q3-会议材料.md", "availability": "exported", "sha256": "49b081f43deb3d5078120ce2b95555c027ffafc712e4a7e1ab31cb81fa5ac0da", "bytes": 76220, "referenced_by": []}
 {"id": "sources/raw/20260626 外教质量提升双周会会议纪要.md", "availability": "exported", "sha256": "39f241c7b7792d70e8c0e9e7dc2b2d39d08fd49807ac36ce4e7fc9fd0fd10ca8", "bytes": 31786, "referenced_by": []}
 {"id": "sources/raw/20260724 外教质量提升双周会会议纪要.md", "availability": "exported", "sha256": "6773b169405c79ff026ece4e7c5b18a8316b9c6eacc1f264506740bce32bbe97", "bytes": 36733, "referenced_by": []}
 {"id": "sources/raw/20260807 外教质量提升双周会会议纪要.md", "availability": "exported", "sha256": "1c3507bc82045e1c64aaf5599d2a18703eb015f66d16fb9a31f61cd4a6c1f004", "bytes": 28501, "referenced_by": []}
@@ -536,6 +537,7 @@
 {"id": "Leon-work/journal/2026/09/2026-09-24/media/钉钉聊天/fullcap-20260924-2000/messages_new_readable.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-24-FT培训平台获客户认可与合体推广待拍板.md"]}
 {"id": "Leon-work/journal/2026/10/2026-10-12/_agent/入库确认_RCL-2026-10-12-v1.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-12-直通车定为外教战役价值交付物与两小队组织形态.md"]}
 {"id": "Leon-work/journal/2026/10/2026-10-12/media/钉钉聊天/fullcap-20261012-1800/messages_new_readable.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-12-直通车定为外教战役价值交付物与两小队组织形态.md"]}
+{"id": "Leon-work/journal/2026/10/2026-10-13/_agent/入库确认_RCL-2026-10-13-v1.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-13-中东直通车测试组师资定向培训买断时段.md", "wiki/decisions/2026-10-13-合肥直通车教材收敛与每日首检.md", "wiki/decisions/2026-10-13-直通车教师端工业化造血新流程.md"]}
 {"id": "Leon-work/projects/AI变革部/_raw/meetings-raw/2026-09-23_海外中台运营黑客大赛评审会纪要.md", "availability": "local_only", "referenced_by": ["wiki/queries/2026-09-23-评审会两判据-客户而非业务与真反馈前提.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-15_Battle-1-Weekly-Meeting纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-供给规则交统筹智能体与8PM屏蔽放开第一刀.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-15_US项目-北美订阅制外教供给纪要.md", "availability": "local_only", "referenced_by": ["wiki/projects/北美订阅制外教供给.md"]}
@@ -545,6 +547,8 @@
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-24_TIDE新老师训练营交接与直通车打通纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-24-TIDE交接王涛授权自决与课量分配不公根因.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-09-24_给龙哥接风-外教战役Q4结构与组织对齐纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-24-Center判为Q4碾压级重点与老师运营线上线下分开.md"]}
 {"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-10-12_Jennifer-Video-Meeting-1012-直通车统一答案与两小队纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-12-直通车定为外教战役价值交付物与两小队组织形态.md"]}
+{"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-10-13_CBT师资选型讨论纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-13-中东直通车测试组师资定向培训买断时段.md"]}
+{"id": "Leon-work/projects/TOC/_raw/meetings-raw/2026-10-13_国内战役外教战役一盘棋支持纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-10-13-合肥直通车教材收敛与每日首检.md", "wiki/decisions/2026-10-13-直通车教师端工业化造血新流程.md"]}
 {"id": "Leon-work/projects/TOC/运营支撑/数据治理/外教数据治理/_raw/meetings-raw/2026-09-23_数据治理双周会纪要.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-23-数据治理重心转向给Agent用与指标字典.md", "wiki/decisions/2026-09-23-本体生成工艺未验证与首个场景投诉到动作.md"]}
 {"id": "_ops/BATCH-CONTRACT.md", "availability": "local_only", "referenced_by": ["wiki/decisions/2026-09-15-待审页批量认可转已审.md"]}
 {"id": "_ops/jev-upgrade/G-团队库喂养/SRC03-同事蒸馏wiki/正文/慧茹 wiki_50-客户价值与留存_好老师全生命周期与客户价值治理_脱敏版_P0MALyR8.md", "availability": "local_only", "referenced_by": ["wiki/concepts/教师生命周期状态机.md"]}

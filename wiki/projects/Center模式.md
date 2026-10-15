@@ -7,19 +7,25 @@ title: Center 模式
 tags: [battle, center, supply, 电脑租赁, 培训]
 related: [TutorOS知识总图, TutorOS骨架节点与证据导航, 2026-09-14-TutorOS知识骨架认领与共建分工, 直通车项目, 北美订阅制外教供给, 2026-09-16-线上线下分开建与中心实验室关闭转CO分级, 电脑租赁模式, 外教质量提升战役, Q2关键决策与判断]
 created: 2026-08-30
-updated: "2026-10-09"
+updated: 2026-10-15
 sources: ["外教战役/Center模式.md", "外教战役/2026-09-03_宿务Center走访洞察-原始记录与融合判定__b79b5176a364.md", "common-feed/J-56dfc977535806ca79c8c789__d2bb8cb30063fdb4.8aa67d9eb3b6.md", "common-feed/J-ec8e516b745b355494be9b0b__37a045e8a9f5aec8.e0be7b3e7cdb.html", "common-feed/J-a7845710f12b1e4407adcd3e__587c30cbf58b0f84.bfb5b3e5e4e3.md", "common-feed/J-8c4df9e93c88c6a4ae947a3c__ad300247b67128bb.4b3d18fc8c31.md", "common-feed/J-edd3ea34d7d27bd66c8d09ac__d6f8203b2a8ccbbf.7954bb570606.json", "common-feed/J-eb6fe22a66f93a6e917e844e__bc5e8f54ed066e8a.fe8e3fa7ca1a.json", "common-feed/J-e41950a06ae371b85c5adb03__b5c1c4e31a7484b9.43a2a1f738c1.json", "common-feed/J-735fad10d2f2ad9f83e27271__355663e6fffc3bad.aa3fe0b49a7e", "common-feed/J-21d9bb317a9010618bb1160f__36eb0efdbd25baeb.4c18cf080c4a.md", "common-feed/J-c367716bb978ddf2846fd86e__e7e62345afd4ef7d.900396edc370.json", "common-feed/J-0a34eb15cf600409b69b1d5f__86b1b3db9f17187a.ec04c86adec0.json"]
 review: 已审
 review_scope: 2026-09-15 Leon批量认可转已审：R1批量蒸馏页按其指示默认已审，认可蒸馏忠实性，未逐条人工复核；页面所载未决问题与待验证事项不因此裁决
 facility: llmwiki
 ingress_revisions: ["J-56dfc977535806ca79c8c789@d2bb8cb30063fdb4.8aa67d9eb3b6", "J-ec8e516b745b355494be9b0b@37a045e8a9f5aec8.e0be7b3e7cdb", "J-a7845710f12b1e4407adcd3e@587c30cbf58b0f84.bfb5b3e5e4e3", "J-8c4df9e93c88c6a4ae947a3c@ad300247b67128bb.4b3d18fc8c31", "J-edd3ea34d7d27bd66c8d09ac@d6f8203b2a8ccbbf.7954bb570606", "J-eb6fe22a66f93a6e917e844e@bc5e8f54ed066e8a.fe8e3fa7ca1a", "J-e41950a06ae371b85c5adb03@b5c1c4e31a7484b9.43a2a1f738c1", "J-735fad10d2f2ad9f83e27271@355663e6fffc3bad.aa3fe0b49a7e", "J-21d9bb317a9010618bb1160f@36eb0efdbd25baeb.4c18cf080c4a", "J-c367716bb978ddf2846fd86e@e7e62345afd4ef7d.900396edc370", "J-0a34eb15cf600409b69b1d5f@86b1b3db9f17187a.ec04c86adec0"]
-maintenance_scope: "2026-10-09 第二轮：仅纠正读法、范围与导航；不升级原审态，不确认业务运行或效果"
+maintenance_scope: "2026-10-09范围保留；2026-10-14仅接入本地对齐记录入口，新增段为记录；不扩大旧人审、不把草案或Agent建议认定为慧茹拍板/业务生效"
 reference_checks: [{"source": "decisions/2026-09-16-线上线下分开建与中心实验室关闭转CO分级.md", "source_sha256": "a4f050bdf63306fbe0ee90d3aa12e51d1f2ada79c36da53269f68bb52675c47d", "scope": "9/16地理括号歧义与Jennifer提出TS切分，第二轮人工逐文核对"}]
 ---
 > 历史授权记录（2026-09-14）：此前版本获 Leon 授权整页外发，段级外发标记随该版本调整；各段 review 与溯源状态保留。Leon 本轮进一步明确授权知识骨架及相关入口双库同步，当前稿纳入 `projection: public`。此次发布保留全部待审、processing_review 与溯源标记；实际同步结果另按本版逐页回读记录。
 
 
 # Center 模式
+
+## 2026-10-14 本地对齐增量：草案、Agent共识、待确认事项分读
+
+> 新增段状态：**记录**。Leon授权本次知识入库，不表示慧茹本人拍板，也不升级本页既有人审范围。对话结束不等于正式分工、运行或效果成立。
+
+本次与“Center建设顾问”的对齐记录，已区分规划草案信息、两个智能体的共同建议及仍缺的正式记录。读取时请进入[本地对齐记录](../sources/2026-10-14-Center建设对齐-v2.1草案与智能体共识.md)（本地资料，钉钉／GitHub未提供）；其中保留版本/效力边界、分歧修订轨迹和最终签认。下文带日期的历史判断继续按原日期/范围使用，不能由新记录覆盖；本次未形成慧茹本人决策或业务批准。
 
 ## 2026-09-17 Cebu 中心定案年底关闭（方向已定，挂相关人意见）
 

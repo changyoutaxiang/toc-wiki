@@ -18,15 +18,15 @@ related:
 - 2026-05-29-设备标准锚定Cocos黄金
 - D05-认知依据与演化
 created: '2026-09-14'
-updated: "2026-10-11"
+updated: 2026-10-15
 meaning_domain: D05
 architecture_version: '1.1'
 template_version: "2.0"
 knowledge_revision: "D05-2026-09-17.v2.1.health-20261007"
 based_on_revision: D05-2026-09-15.2
-review: 待审
-content_review_status: pending
-review_scope: "Leon 已认可六模块模板与微调方向；具体编辑仍保留待审，既有正式决定沿原范围有效，效果假设未升级；2026-10-07 Leon 在全骨架体检报告后授权“修复，go”，本次限体检所列差异修复与证据接续；不提升整页人审、不改业务规则、不确认效果。2026-10-11 Leon 认可仅覆盖：DELTA 与 BOUNDARIES 各增一条公司经营范式衔接，及依据 E22。不改 H/Q，不合并居家与中心，不发布设备或场地制度，不提升整页审态。"
+review: 已审
+content_review_status: 已审
+review_scope: "2026-10-14 Leon 批准 L-198 全部四项候选并覆盖“保持待审”建议，整页晋升已审；不扩大业务运行/效果结论；中东产能冲突数字仍不转抄。"
 prior_review_scope: 旧版记录：2026-09-15 批量认可蒸馏忠实性，未逐条人工复核；未决事项与效果假设不因此裁决。
 evidence_checked_on: '2026-09-17'
 source_branch: main
@@ -67,7 +67,7 @@ sources: ["wiki/decisions/2026-09-14-TutorOS知识骨架认领与共建分工.md
 
 **当前判断：** 居家与中心平行经营，按交付形态分别建设工具、培训和日常规则。用具体课堂和后续结果判断条件是否起效，保留共同的资格、事实记录与权益底线。[E02][] [E03][] [E13][]
 
-**当前重点：** 居家侧看入口达标后还缺什么支持；中心侧先建立分级的可信依据，再讨论新学员前几节课优先分配。两边共同追问：[哪些帮助必须在现场，哪些远程也能做好？](#d05-q01)
+**当前重点：** 在两模式平行基础上，把直通车场景的课前条件和供给方式接上：10 月 12 日 two factories 是供给侧方向，不能写成国内等于居家、海外等于中心；10 月 13 日中东测试先用线上有经验老师定向培训，Center 新老师变量后置，不能因长期 Center 方向给本轮测试强塞中心供给。[E23][] [E25][] 直通车每日首检方向已定，先新老师强制、存量过渡，实际强制点和运行回执仍待核。[E24][] 中心分级和居家支持的既有要求继续按原范围核对。两边共同追问：[哪些帮助必须在现场，哪些远程也能做好？](#d05-q01)
 
 | 对象 | 现在能确定什么 | 关键未知或限制 |
 |---|---|---|
@@ -239,6 +239,9 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 | **2026-09-16 · 分开建设与试验取舍** | 确认分模式建设、特定 Sabu 实验室关闭，以及中心分级前置；关闭理由包含管理能力难以承担继续招培管的投入。[E03][] | 比较试验必须计入管理能力；关闭一个节点不等于退出中心模式。分级先于讨论新学员前几节课优先分配，执行与效果仍另核。 |
 | 9 月 22 日 [缺席规则放宽评估](../queries/2026-09-22-缺席规则放宽评估-分人群与相关性边界.md) | 缺席规则两次放宽后分人群结论不一致：HBT/新师改善、TBT 疑似误杀；规则定位为「阀门」（产能紧则松）；时间吻合只能算相关，无法回溯在线状态 | leon-only 日蒸馏增量（RCL-2026-09-22-v1），未逐条人审；会上无规则拍板；AC 覆盖率两口径冲突见问题账 TOC-99 |
 | 2026-10-10 公司经营范式宪法级认领 [E22][] | 设备、准备和故障恢复仍然是“这一课能否发生”的条件；宪法级认领没有改变居家与中心平行，也没有把客户结果写成可以抵消工作条件 | 方向认领不等于检测、场地或支持制度已经改变，也不证明任一模式的效果 |
+| 2026-10-12 two factories 方向 [E23][] | 排课与供给侧分线上／线下两个工厂的方向由 Jennifer 定调；服务区域倾向不成为模式定义 | two factories 未形成落地组织变更决议；one teacher 仍为需复核的方向、无确定时间表；两模式平行不变 |
+| 2026-10-13 合肥教材与直通车每日首检 [E24][] | 合肥 L0–L2 收敛到 Cocos 体验课教材、上海维持现状；直通车老师每日首课前检测方向确定，先新师强制、存量过渡 | 教材范围与首检对象分别读取；强制点、过渡策略、宣讲及实际启用待回执，不自动追加评分、豁免或处罚规则 |
+| 2026-10-13 中东测试阶段收窄 [E25][] | 先用线上有经验老师定向培训，买断时段而非包人；Center 新老师变量后置以先验证流程 | 是本次测试的选择，未撤销长期 Center 方向；下一阶段触发条件及最终师资数未定，效果另验 |
 
 8 月战略假说与试验边界、9 月走访线索保留在[演化背景](../queries/D05-认知依据与演化.md#history-background) （[A](https://alidocs.dingtalk.com/i/nodes/pYLaezmVNejqr3vQtK4bar1XWrMqPxX6#history-background) · [Leon](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsAZX4axyW2LD0oRE#history-background)）。本轮编辑动作单列维护记录。
 
@@ -256,6 +259,8 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 | 好课与成长、恢复与责任 | [D08 好课](TutorOS经营域-D08-好课判断与逐课证据.md) （[A](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0kw0oVgN7R35y) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKPaKkWyMoPYe1)）、[D10 成长](TutorOS经营域-D10-教师成长与教学支持.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEarq7k8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/OG9lyrgJPzkq5xD6fln9R0ZyWzN67Mw4)）、[D09 恢复](TutorOS经营域-D09-履约恢复与问题治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/vNG4YZ7JnPDjwzGdsARZKle7W2LD0oRE) · [Leon](https://alidocs.dingtalk.com/i/nodes/4lgGw3P8vR2aBrGZSZjGMydZ85daZ90D)） | 本域保留条件和共同事件的影响；学习证据、成长与完整恢复各有主线。 |
 | 教师权益、所得与模式投入 | [D11 公平](TutorOS经营域-D11-教师体验与公平治理.md) （[A](https://alidocs.dingtalk.com/i/nodes/NDoBb60VLQglxbKeHazxGalOJlemrZQ3) · [Leon](https://alidocs.dingtalk.com/i/nodes/DnRL6jAJMGMqOY4eS9ZKzgMeWyMoPYe1)）、[D12 所得](TutorOS经营域-D12-教师所得与激励.md) （[A](https://alidocs.dingtalk.com/i/nodes/0eMKjyp813zoLe7nSrkQOdyRVxAZB1Gv) · [Leon](https://alidocs.dingtalk.com/i/nodes/pGBa2Lm8aGOqaKwrSzo0m0OOVgN7R35y)）、[D13 全成本](TutorOS经营域-D13-全成本与可持续经营.md) （[A](https://alidocs.dingtalk.com/i/nodes/1OQX0akWmxrMP2G1sjEa694z8GlDd3mE) · [Leon](https://alidocs.dingtalk.com/i/nodes/9E05BDRVQ2XlqOgYuP7qBAq5J63zgkYA)） | 公平与隐私是底线；所得、预算与投入回各自机制。 |
 | 公司经营范式是否改两种模式 | [宪法级认领与使用约束](../decisions/2026-10-10-51Talk经营范式宪法级认领.md) | 不改。本域继续按交付形态分别看条件；范式只要求条件服务于课堂能否稳定发生。 |
+
+**直通车阶段接口：** 整体价值定位与两小队责任回 [D14](TutorOS经营域-D14-事实标准与协同执行.md) 和 10 月 12 日决定；教师端工业化培训路径回 [2026-10-13-直通车教师端工业化造血新流程](../decisions/2026-10-13-直通车教师端工业化造血新流程.md) 及 D03，不把培训机制等同于居家／中心模式，也不把按页验收当成真实课堂效果。[E23][] [E25][]
 
 **容易混淆的三处：** 中心教师仍可能在线给学生授课，线上／线下不由地理定义；TBT／CBT／HBT、席位填充率／预约利用率、YTD／8 月窗口须先核定义再比较；“参考 TIDE”不等于搬用教师 100／200 分，分级完成也不自动获得流量。[E03][] [E11][]
 
@@ -286,3 +291,7 @@ CO（中心经营者）负责经营和场地管理，不自动具备教学支持
 [E20]: ../queries/D05-认知依据与演化.md#e20
 [E21]: ../queries/D05-认知依据与演化.md#e21
 [E22]: ../queries/D05-认知依据与演化.md#e22
+
+[E23]: ../queries/D05-认知依据与演化.md#e23
+[E24]: ../queries/D05-认知依据与演化.md#e24
+[E25]: ../queries/D05-认知依据与演化.md#e25
